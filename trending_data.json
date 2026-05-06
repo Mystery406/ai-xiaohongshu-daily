@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-06",
-  "slot": "晚报",
+  "date": "2026-05-07",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "Hmbown/DeepSeek-TUI",
@@ -8,7 +8,7 @@
       "description": "Coding agent for DeepSeek models that runs in your terminal",
       "language": "Rust",
       "stars_today": "6,184 stars today",
-      "stars_total": "12,660"
+      "stars_total": "13,667"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -16,7 +16,7 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
       "stars_today": "629 stars today",
-      "stars_total": "29,629"
+      "stars_total": "30,388"
     },
     {
       "name": "PriorLabs/TabPFN",
@@ -24,7 +24,7 @@
       "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
       "language": "Python",
       "stars_today": "218 stars today",
-      "stars_total": "6,508"
+      "stars_total": "6,563"
     },
     {
       "name": "docusealco/docuseal",
@@ -32,7 +32,7 @@
       "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
       "language": "Ruby",
       "stars_today": "772 stars today",
-      "stars_total": "14,585"
+      "stars_total": "14,852"
     },
     {
       "name": "LearningCircuit/local-deep-research",
@@ -40,7 +40,7 @@
       "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
       "language": "Python",
       "stars_today": "532 stars today",
-      "stars_total": "5,491"
+      "stars_total": "5,623"
     },
     {
       "name": "LadybirdBrowser/ladybird",
@@ -48,7 +48,7 @@
       "description": "Truly independent web browser",
       "language": "C++",
       "stars_today": "87 stars today",
-      "stars_total": "62,873"
+      "stars_total": "62,970"
     },
     {
       "name": "InsForge/InsForge",
@@ -56,7 +56,7 @@
       "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
       "language": "TypeScript",
       "stars_today": "213 stars today",
-      "stars_total": "8,296"
+      "stars_total": "8,419"
     },
     {
       "name": "virattt/dexter",
@@ -64,7 +64,7 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "stars_today": "666 stars today",
-      "stars_total": "24,207"
+      "stars_total": "24,335"
     },
     {
       "name": "anthropics/financial-services",
@@ -72,7 +72,7 @@
       "description": "",
       "language": "Python",
       "stars_today": "540 stars today",
-      "stars_total": "8,730"
+      "stars_total": "9,087"
     },
     {
       "name": "ruvnet/ruflo",
@@ -80,7 +80,7 @@
       "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
       "language": "TypeScript",
       "stars_today": "2,190 stars today",
-      "stars_total": "44,865"
+      "stars_total": "45,222"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "Coding agent for DeepSeek models that runs in your terminal",
       "language": "Rust",
       "stars_today": "6,184 stars today",
-      "stars_total": "12,660"
+      "stars_total": "13,667"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -98,7 +98,7 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
       "stars_today": "629 stars today",
-      "stars_total": "29,629"
+      "stars_total": "30,388"
     },
     {
       "name": "LearningCircuit/local-deep-research",
@@ -106,7 +106,7 @@
       "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
       "language": "Python",
       "stars_today": "532 stars today",
-      "stars_total": "5,491"
+      "stars_total": "5,623"
     },
     {
       "name": "InsForge/InsForge",
@@ -114,7 +114,7 @@
       "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
       "language": "TypeScript",
       "stars_today": "213 stars today",
-      "stars_total": "8,296"
+      "stars_total": "8,419"
     },
     {
       "name": "virattt/dexter",
@@ -122,7 +122,7 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "stars_today": "666 stars today",
-      "stars_total": "24,207"
+      "stars_total": "24,335"
     },
     {
       "name": "anthropics/financial-services",
@@ -130,7 +130,7 @@
       "description": "",
       "language": "Python",
       "stars_today": "540 stars today",
-      "stars_total": "8,730"
+      "stars_total": "9,087"
     },
     {
       "name": "ruvnet/ruflo",
@@ -138,92 +138,92 @@
       "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
       "language": "TypeScript",
       "stars_today": "2,190 stars today",
-      "stars_total": "44,865"
+      "stars_total": "45,222"
     }
   ],
   "posts": [
     {
       "topic": "DeepSeek-TUI",
       "repo": "Hmbown/DeepSeek-TUI",
-      "cover_line1": "DeepSeek 编程代理终端",
-      "cover_line2": "Rust 写成，开箱即用",
-      "body": "你不用再切窗口、粘贴代码、反复调 API——这个项目把 DeepSeek 模型直接变成你终端里的编程搭档。它不是 Web 界面，不依赖浏览器，也不走云端 API，所有推理在本地跑，输入 `dseek` 就能开始写函数、查 bug、生成测试。背后是 Rust 实现的轻量 runtime，启动快、内存稳，连 M2 Mac 和 3090 笔记本都能扛住。它默认对接 DeepSeek-Coder-33B-Q4_K_M（也支持其他 GGUF 模型），自动处理上下文截断、多轮对话状态、代码块提取和执行反馈。用户报告说，写一个爬虫脚本从敲命令到运行成功，平均只用 90 秒。它不改你的工作流：你还在用 vim？它就嵌在 tmux 里；你习惯 zsh？它就是个普通命令。没有配置文件要写，没有 YAML 要学，也没有「智能体生命周期」概念要理解。它只做三件事：听你用中文或英文说需求，生成可运行代码，告诉你哪里可能出错。今天涨了 6184 星，说明很多人试了第一分钟就决定留着。它不承诺取代工程师，但确实让「试试看」的成本降到了按下回车那一瞬。你最近一次想快速验证一个想法，却卡在环境搭建上，是什么时候？",
+      "cover_line1": "终端里的 DeepSeek 编程助手",
+      "cover_line2": "Rust 写成，今天涨 6184 星",
+      "body": "你不用打开网页或装新 App，就能让 DeepSeek 模型在终端里帮你写代码、改 Bug、读项目。它直接跑在你的命令行里，按 Tab 补全、用方向键翻历史、Ctrl+C 中断——和你日常用的 shell 完全一样。背后是 Rust 写的轻量框架，不依赖 Python 环境，启动快，内存占用低。作者只封装了 DeepSeek 的 API 调用逻辑，没加任何中间层或抽象，所以出问题你能一眼看到请求发了什么、返回了什么。今天一天涨了 6184 星，说明很多人试了发现：真能立刻上手，不是 demo。它不训练模型，也不做 RAG，就专注一件事——把大模型变成你 terminal 里的一个可靠 co-pilot。你写 git commit -m 时它能帮你润色；你 cat server.py 出错时它能直接指出哪行少了个 await；你敲 python main.py --help 后它还能自动补全参数说明。没有登录页，没有账号体系，配置就一行 export DEEPSEEK_API_KEY=...。如果你常 ssh 连服务器、或者喜欢纯键盘工作流，这个工具不是「又一个 AI 工具」，而是你现有工作流里突然多了一个不打断节奏的搭档。你最近一次在终端里卡住是什么时候？",
       "tags": [
         "terminal",
         "coding-agent",
         "rust",
         "deepseek",
-        "local-llm",
         "cli",
         "dev-tool",
-        "opensource",
+        "open-source",
+        "local-first",
         "productivity",
-        "coder"
+        "ai-assistant"
       ]
     },
     {
       "topic": "local-deep-research",
       "repo": "LearningCircuit/local-deep-research",
-      "cover_line1": "本地深度研究工具",
-      "cover_line2": "SimpleQA 95% 准确率",
-      "body": "它能一边读 arXiv 论文、一边查 PubMed 数据、一边翻你硬盘里 PDF 报告，最后给你一个带引用的中文总结——整个过程不传数据、不连远程服务、全在你自己的 3090 上跑。核心指标很实在：在 SimpleQA 这个标准测试集上，用 Qwen3.6-27B 模型跑出 95% 准确率，比很多云端服务还高一点。它支持 llama.cpp、Ollama、Google AI Studio 甚至本地部署的 vLLM，但默认推荐的是量化后能在单卡跑通的模型。搜索模块不是简单调 Google API，而是内置 10+ 引擎：arXiv、PubMed、NASA ADS、你的 Obsidian 笔记、加密的 Notion 导出包，甚至 OneDrive 同步文件夹。所有文档解析用纯 Python 完成，PDF 文字提取不丢公式，LaTeX 表格转成 Markdown 对齐。你不需要训练，不用微调，配好模型路径、填两行 config.toml，就能让它帮你查「Transformer 在医疗影像分割里最新瓶颈是什么」。它不假装懂一切，遇到模糊问题会主动问你限定范围，比如「要临床试验结果，还是算法改进？」。开源不到三个月，已有 270+ 用户提交 issue 提具体场景，比如「怎么让模型优先读我导出的 FDA 批准文档」。你上一次为了查资料，在三个标签页之间来回切，花了多久？",
+      "cover_line1": "本地运行的深度研究工具",
+      "cover_line2": "SimpleQA 上跑出 95% 准确率",
+      "body": "它让你在自己电脑上完成论文级的研究：输入一个问题，它自动查 arXiv、PubMed、你的本地 PDF 文件夹，甚至你加密的 Notion 导出数据，然后综合所有信息给出答案。关键不是「能查」，而是「查得准」——在 SimpleQA 这个标准测试集上，用 Qwen3.6-27B 模型配 RTX 3090，准确率稳定在 95% 左右。这说明它不只是拼接检索结果，而是真能把不同来源的信息对齐、去重、推理。支持 llama.cpp、Ollama、Google AI Studio 等全部主流本地或云后端，换模型只要改一行 config。所有数据全程不离你硬盘，连搜索关键词都只在本地处理。你不需要调参，不用搭向量库，更不用开 GPU 云服务——下载即用，首次运行会自动下载最小必要模型和索引工具。它不假装自己是通用聊天机器人，就干一件具体的事：把你扔进去的模糊问题，变成带引用、可验证、有上下文的研究简报。你上次为搞懂一个技术概念，手动翻了几个小时文档和论文吗？",
       "tags": [
         "research",
-        "rag",
         "local-llm",
-        "qwen",
+        "rag",
         "python",
         "arxiv",
         "pubmed",
         "privacy",
-        "academic",
-        "offline"
+        "offline",
+        "qwen",
+        "academic"
       ]
     },
     {
       "topic": "agent-skills",
       "repo": "addyosmani/agent-skills",
-      "cover_line1": "AI 编程代理工程技能库",
-      "cover_line2": "Addy Osmani 主导开发",
-      "body": "这不是又一个 demo agent，而是一套真实被大厂团队天天用的工程能力模块。作者是 Google Chrome DevTools 负责人 Addy Osmani，他把过去两年在内部落地 coding agent 时踩过的坑全打包进来了：自动识别 shell 权限不足、安全地执行 curl 命令、按需拉取 Docker 镜像、跳过已存在的文件、把错误日志映射回原始代码行、甚至检测 git branch 冲突并建议 rebase。所有技能都以 Shell 脚本实现，不依赖 Python 包管理，复制粘贴就能塞进你现有 agent 的 tools 目录。每个脚本附带真实失败案例和修复逻辑，比如 `git-clone-safe.sh` 会先检查 URL 是否含私有域名，再判断 `.netrc` 是否存在，最后才执行 clone。它不教你怎么设计 agent 架构，只解决「写完 prompt 后，下一步 agent 其实该干什么」这个问题。目前包含 47 个技能，最常用的是 `shell-exec`, `file-read`, `http-get-json`, `grep-in-files`，全部通过 GitHub Actions 在 Ubuntu 22.04 + Node 20 环境下每小时自动验证。文档里没一句废话，只有命令、输入示例、输出样例、适用模型限制。29629 颗星不是因为酷，是因为有人靠它把 agent 从 PoC 推进了生产环境。你现在的 coding agent，卡在哪个具体操作上最多？",
+      "cover_line1": "AI 编程代理的工程技能包",
+      "cover_line2": "Addy Osmani 整理，3 万星",
+      "body": "这不是一个能跑起来的工具，而是一份被实战验证过的「AI 编程代理该会什么」清单，由 Google 工程师 Addy Osmani 主导整理。它列出了 37 项具体能力，比如「能从错误日志里定位真实 root cause，而不是只复述报错信息」「能判断什么时候该写单元测试，什么时候该跳过」「能安全地执行 shell 命令并捕获 stderr」。每项都附带真实代码片段、失败案例、修复对比，甚至还有 CI 测试用例。这些不是理论设计，而是从 GitHub Copilot、CodeWhisperer、Cursor 等实际产品中反推出来的工程边界。比如有一条叫「Don’t assume git status is clean」，后面跟着三行 Bash 脚本，教代理如何先 git diff --quiet 判断是否要 stash。整个仓库用 Shell 脚本组织，因为作者认为：真正落地的能力，必须能用最基础的工具链验证。它不教你怎么训模型，但告诉你训练之后，模型在真实代码库里活下来需要哪些肌肉记忆。你团队现在评估一个 coding agent 时，靠的是 Demo 视频，还是这份 checklist？",
       "tags": [
-        "shell",
         "engineering",
         "coding-agent",
-        "production",
+        "shell",
+        "best-practice",
         "google",
-        "devops",
-        "tooling",
+        "ci",
+        "testing",
+        "production",
         "oss",
-        "reliability",
-        "pragmatic"
+        "devops"
       ]
     },
     {
       "topic": "ruflo",
       "repo": "ruvnet/ruflo",
-      "cover_line1": "Claude 多智能体编排平台",
-      "cover_line2": "原生支持 Claude Code",
-      "body": "它不让你从零搭 agent swarm，而是提供一套可插拔的运行时：你写好单个 agent 的逻辑（比如「查股价」「读财报」「比同行」），ruflo 负责调度顺序、传递中间结果、自动重试失败节点、合并多个 agent 输出成统一 JSON。关键点在于「原生支持 Claude Code」——不是简单调 API，而是把 Claude 的代码解释器能力当作一等公民接入 workflow，比如一个 agent 生成 SQL，下一个 agent 不用手动拼接，直接喂给 Claude Code 执行并返回 DataFrame。平台用 TypeScript 写，但暴露的是纯 HTTP 接口和 OpenAPI spec，Python 或 Rust 服务也能当 worker 接入。它内置 RAG 模块，但不是通用向量库，而是专为金融文档优化的 chunk 策略：表格按行切、MD 表头带层级、PDF 图表单独 OCR。今天涨了 2190 星，主要来自 fintech 团队，他们用它把原来需要三人天的手动尽调流程，压缩成 22 分钟自动 pipeline。它不卖 vision 或语音，也不提 AGI，只解决一件事：当你要让 5 个 agent 协同干一件复杂事时，别再手写状态机。你上次写 workflow 状态管理，是不是又用了 if/else 嵌套七层？",
+      "cover_line1": "Claude 专用的智能体编排平台",
+      "cover_line2": "支持多智能体协同与自学习",
+      "body": "它专为 Claude 设计，不是泛泛支持「所有大模型」。核心功能是让多个 Claude 实例像人一样分工协作：一个查资料，一个写报告，一个校验逻辑，一个生成图表，最后自动合并输出。所有通信走内部消息总线，不是靠 prompt chain 拼接。它内置了「自学习 swarm intelligence」机制——每次任务完成后，系统会自动提取成功路径（比如「当遇到财报分析任务时，先调 Yahoo Finance API，再喂给 claude-3.5-sonnet，最后用 pandas 画趋势图」），存成可复用的 workflow 模板。支持 RAG，但 RAG 数据源不是静态向量库，而是能动态订阅 RSS、监听数据库变更、抓取网页更新。部署结构清晰：Postgres 存状态，Redis 做任务队列，前端用 Vite，后端是 TypeScript + Express。今天涨了 2190 星，说明很多团队正在从「单个 AI 助手」转向「AI 小组作战」。你当前最重要的自动化任务，是不是还卡在「只能一个人干，没法拆」？",
       "tags": [
         "claude",
-        "orchestration",
-        "multi-agent",
+        "agent-orchestration",
         "typescript",
-        "financial",
+        "swarm",
         "rag",
+        "postgres",
         "workflow",
-        "fintech",
-        "production",
-        "api"
+        "enterprise",
+        "multi-agent",
+        "ai-gateway"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-05-06/trending/summary.png",
-    "assets/2026-05-06/trending/post1.png",
-    "assets/2026-05-06/trending/post2.png",
-    "assets/2026-05-06/trending/post3.png",
-    "assets/2026-05-06/trending/post4.png"
+    "assets/2026-05-07/trending/summary.png",
+    "assets/2026-05-07/trending/post1.png",
+    "assets/2026-05-07/trending/post2.png",
+    "assets/2026-05-07/trending/post3.png",
+    "assets/2026-05-07/trending/post4.png"
   ]
 }
