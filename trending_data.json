@@ -1,86 +1,86 @@
 {
   "date": "2026-05-08",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
       "name": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
       "language": "Python",
-      "stars_today": "1,367 stars today",
-      "stars_total": "11,587"
-    },
-    {
-      "name": "Hmbown/DeepSeek-TUI",
-      "url": "https://github.com/Hmbown/DeepSeek-TUI",
-      "description": "Coding agent for DeepSeek models that runs in your terminal",
-      "language": "Rust",
-      "stars_today": "5,787 stars today",
-      "stars_total": "18,676"
-    },
-    {
-      "name": "z-lab/dflash",
-      "url": "https://github.com/z-lab/dflash",
-      "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
-      "language": "Python",
-      "stars_today": "654 stars today",
-      "stars_total": "3,475"
-    },
-    {
-      "name": "InsForge/InsForge",
-      "url": "https://github.com/InsForge/InsForge",
-      "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
-      "language": "TypeScript",
-      "stars_today": "459 stars today",
-      "stars_total": "8,845"
-    },
-    {
-      "name": "LearningCircuit/local-deep-research",
-      "url": "https://github.com/LearningCircuit/local-deep-research",
-      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
-      "language": "Python",
-      "stars_today": "564 stars today",
-      "stars_total": "6,226"
+      "stars_today": "3,662 stars today",
+      "stars_total": "13,893"
     },
     {
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
-      "stars_today": "3,058 stars today",
-      "stars_total": "32,910"
+      "stars_today": "1,794 stars today",
+      "stars_total": "34,345"
     },
     {
-      "name": "VectifyAI/PageIndex",
-      "url": "https://github.com/VectifyAI/PageIndex",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "name": "Hmbown/DeepSeek-TUI",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "language": "Rust",
+      "stars_today": "3,827 stars today",
+      "stars_total": "21,296"
+    },
+    {
+      "name": "z-lab/dflash",
+      "url": "https://github.com/z-lab/dflash",
+      "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
       "language": "Python",
-      "stars_today": "953 stars today",
-      "stars_total": "29,515"
-    },
-    {
-      "name": "vercel-labs/open-agents",
-      "url": "https://github.com/vercel-labs/open-agents",
-      "description": "An open source template for building cloud agents.",
-      "language": "TypeScript",
-      "stars_today": "160 stars today",
-      "stars_total": "5,033"
-    },
-    {
-      "name": "docusealco/docuseal",
-      "url": "https://github.com/docusealco/docuseal",
-      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
-      "language": "Ruby",
-      "stars_today": "899 stars today",
-      "stars_total": "15,602"
+      "stars_today": "388 stars today",
+      "stars_total": "3,698"
     },
     {
       "name": "decolua/9router",
       "url": "https://github.com/decolua/9router",
-      "description": "🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
       "language": "JavaScript",
-      "stars_today": "249 stars today",
-      "stars_total": "4,500"
+      "stars_today": "1,028 stars today",
+      "stars_total": "5,246"
+    },
+    {
+      "name": "CloakHQ/CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "stars_today": "482 stars today",
+      "stars_total": "2,574"
+    },
+    {
+      "name": "awslabs/aidlc-workflows",
+      "url": "https://github.com/awslabs/aidlc-workflows",
+      "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
+      "language": "Python",
+      "stars_today": "31 stars today",
+      "stars_total": "1,641"
+    },
+    {
+      "name": "HKUDS/AI-Trader",
+      "url": "https://github.com/HKUDS/AI-Trader",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "language": "Python",
+      "stars_today": "189 stars today",
+      "stars_total": "14,392"
+    },
+    {
+      "name": "LearningCircuit/local-deep-research",
+      "url": "https://github.com/LearningCircuit/local-deep-research",
+      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+      "language": "Python",
+      "stars_today": "572 stars today",
+      "stars_total": "6,587"
+    },
+    {
+      "name": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+      "language": "TypeScript",
+      "stars_today": "74 stars today",
+      "stars_total": "76,308"
     }
   ],
   "ai_repos": [
@@ -89,149 +89,149 @@
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
       "language": "Python",
-      "stars_today": "1,367 stars today",
-      "stars_total": "11,587"
-    },
-    {
-      "name": "Hmbown/DeepSeek-TUI",
-      "url": "https://github.com/Hmbown/DeepSeek-TUI",
-      "description": "Coding agent for DeepSeek models that runs in your terminal",
-      "language": "Rust",
-      "stars_today": "5,787 stars today",
-      "stars_total": "18,676"
-    },
-    {
-      "name": "z-lab/dflash",
-      "url": "https://github.com/z-lab/dflash",
-      "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
-      "language": "Python",
-      "stars_today": "654 stars today",
-      "stars_total": "3,475"
-    },
-    {
-      "name": "InsForge/InsForge",
-      "url": "https://github.com/InsForge/InsForge",
-      "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
-      "language": "TypeScript",
-      "stars_today": "459 stars today",
-      "stars_total": "8,845"
-    },
-    {
-      "name": "LearningCircuit/local-deep-research",
-      "url": "https://github.com/LearningCircuit/local-deep-research",
-      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
-      "language": "Python",
-      "stars_today": "564 stars today",
-      "stars_total": "6,226"
+      "stars_today": "3,662 stars today",
+      "stars_total": "13,893"
     },
     {
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
-      "stars_today": "3,058 stars today",
-      "stars_total": "32,910"
+      "stars_today": "1,794 stars today",
+      "stars_total": "34,345"
     },
     {
-      "name": "VectifyAI/PageIndex",
-      "url": "https://github.com/VectifyAI/PageIndex",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "name": "Hmbown/DeepSeek-TUI",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "language": "Rust",
+      "stars_today": "3,827 stars today",
+      "stars_total": "21,296"
+    },
+    {
+      "name": "z-lab/dflash",
+      "url": "https://github.com/z-lab/dflash",
+      "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
       "language": "Python",
-      "stars_today": "953 stars today",
-      "stars_total": "29,515"
-    },
-    {
-      "name": "vercel-labs/open-agents",
-      "url": "https://github.com/vercel-labs/open-agents",
-      "description": "An open source template for building cloud agents.",
-      "language": "TypeScript",
-      "stars_today": "160 stars today",
-      "stars_total": "5,033"
+      "stars_today": "388 stars today",
+      "stars_total": "3,698"
     },
     {
       "name": "decolua/9router",
       "url": "https://github.com/decolua/9router",
-      "description": "🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
       "language": "JavaScript",
-      "stars_today": "249 stars today",
-      "stars_total": "4,500"
+      "stars_today": "1,028 stars today",
+      "stars_total": "5,246"
+    },
+    {
+      "name": "awslabs/aidlc-workflows",
+      "url": "https://github.com/awslabs/aidlc-workflows",
+      "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
+      "language": "Python",
+      "stars_today": "31 stars today",
+      "stars_total": "1,641"
+    },
+    {
+      "name": "HKUDS/AI-Trader",
+      "url": "https://github.com/HKUDS/AI-Trader",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "language": "Python",
+      "stars_today": "189 stars today",
+      "stars_total": "14,392"
+    },
+    {
+      "name": "LearningCircuit/local-deep-research",
+      "url": "https://github.com/LearningCircuit/local-deep-research",
+      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+      "language": "Python",
+      "stars_today": "572 stars today",
+      "stars_total": "6,587"
+    },
+    {
+      "name": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+      "language": "TypeScript",
+      "stars_today": "74 stars today",
+      "stars_total": "76,308"
     }
   ],
   "posts": [
     {
       "topic": "DeepSeek-TUI",
       "repo": "Hmbown/DeepSeek-TUI",
-      "cover_line1": "DeepSeek 终端编程代理",
-      "cover_line2": "Rust 写，直接跑在终端里",
-      "body": "你不用开 IDE，不用切网页，就在 Terminal 里敲命令，它就能读代码、改 bug、写测试、补文档——专为 DeepSeek 系列模型（比如 DeepSeek-Coder-33B）优化的本地 coding agent。它把模型调用、文件读写、执行反馈全封装进一个命令行界面，连 Ctrl+C 中断、上下文滚动、多文件编辑都做了。不是 demo，是真能每天帮你修 CI 失败、补 type hint、生成 README.md 的工具。作者自己用它重写了三个小项目，平均每次交互 4.2 轮完成任务。它不依赖云 API，所有 token 都在本地走，模型可换 llama.cpp 或 Ollama 加载。Rust 实现让它启动快、内存稳，在 M2 Mac 和 3090 笔记本上都测过响应 <800ms。如果你常 ssh 连服务器修脚本，或喜欢 Vim+Terminal 工作流，这个不是玩具，是少了一个 tab 的真实工作流补丁。它没做 GUI，也没塞插件市场，就专注一件事：让 DeepSeek 在你敲完回车后，立刻动手干。",
+      "cover_line1": "DeepSeek 终端编码代理",
+      "cover_line2": "Rust 写成，直接跑在终端里",
+      "body": "你不用开浏览器、不用配 API 密钥、也不用装桌面应用，只要在命令行敲几行命令，就能让 DeepSeek 模型帮你写代码、改 bug、读项目。它把模型调用封装成 shell 命令，比如 `ds code --file main.py 'add logging'`，就自动改好并输出 diff。整个流程不传代码到云端，所有推理默认走本地或你指定的 DeepSeek API 端点。作者用 Rust 写，启动快、内存省，实测在 M2 Mac 和 RTX 4070 笔记本上都能秒级响应。它不是 demo，已经支持多文件上下文、自动补全路径、错误重试和快捷键绑定。README 里写了 7 个真实使用场景，包括‘快速给旧脚本加 argparse’‘从报错日志反推修复位置’‘把 Python 脚本转成可 pip 安装的包’。今天涨了 3827 星，是今日涨幅最高 AI 项目，说明很多人正卡在‘想用大模型写代码但懒得切窗口’这个点上。它没提多智能，只解决一个动作：让你在写代码时，手不离开键盘、眼不离开终端。",
       "tags": [
-        "coding-agent",
         "terminal",
+        "coding-agent",
         "deepseek",
         "rust",
-        "local-llm",
+        "local-first",
         "cli",
-        "productivity",
-        "opensource",
+        "python",
         "devtool",
-        "python"
+        "open-source",
+        "productivity"
       ]
     },
     {
-      "topic": "Local Deep Research",
-      "repo": "LearningCircuit/local-deep-research",
-      "cover_line1": "本地深度研究工具",
-      "cover_line2": "SimpleQA 95% 准确率",
-      "body": "它让你在自己电脑上做 AI 深度调研，不传数据、不联网查（除非你选）、不交钱。核心能力是：给一个问题，自动拆解成子问题 → 调用本地或远程 LLM（Qwen3.6-27B 在 3090 上能跑）→ 并行查 arXiv、PubMed、你的 PDF 和 Markdown 文件 → 最后合成带引用的报告。它不靠向量库，而是用推理链 + 文档定位，所以私人文档不用提前 embedding。实测在 SimpleQA 数据集上达到 95% 准确率，比同配置的 RAG pipeline 高 12 个点。整个流程加密落地：PDF 解析在本地，检索结果不出内存，报告导出可选纯文本或 Markdown。支持 llama.cpp、Ollama、Google Vertex、OpenRouter —— 你可以混用，比如小问题走本地 7B，大推理走云端 70B。它没做漂亮面板，只有一个 config.yaml 和 run.py；但你改三行就能让它每天凌晨自动扫一遍你 research/ 目录下的新论文，发摘要到 Slack。不是「AI 助手」，是替你守着资料库、等你提问的那个研究员。",
+      "topic": "agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "cover_line1": "AI 编码代理工程技能库",
+      "cover_line2": "Addy Osmani 整理，34k 星",
+      "body": "Google 工程师 Addy Osmani 把过去两年他教 AI 编码代理干活的经验，全拆成可复用的 Shell 脚本和配置模板。比如怎么让模型安全地执行 git commit、怎么用 curl 自动拉 GitHub PR 评论、怎么把 LLM 输出转成 valid JSON 再喂给下一个工具、怎么在失败时自动重试并保留上下文。每个脚本都带测试用例和实际运行截图，不讲原理，只说‘粘贴这行命令，它就能做 X’。它不依赖任何特定框架，Shell + curl + jq 就能跑通。目前已有 27 个技能模块，包括文件批量重命名、自动提取代码中的 TODO、从 markdown 表格生成 CSV、监控 CI 日志关键词并告警。这不是理论文档，是每天被工程师 copy-paste 到自己 agent pipeline 里的东西。今天涨了 1794 星，说明很多人正从‘调一个 prompt’走向‘搭一条稳定流水线’。它不承诺让模型更聪明，只确保模型每次调用都落在正确的输入格式、权限边界和错误处理路径上。",
       "tags": [
+        "shell",
+        "engineering",
+        "coding-agent",
+        "production",
+        "google",
+        "automation",
+        "cli",
+        "reliability",
+        "tooling",
+        "oss"
+      ]
+    },
+    {
+      "topic": "9router",
+      "repo": "decolua/9router",
+      "cover_line1": "AI 编码代理免费路由层",
+      "cover_line2": "连 Claude/GPT/Gemini 免费用",
+      "body": "你本地写了个 coding agent，但它卡在 API 钱包空了、服务商限流、或者某个模型突然挂掉。9router 就是插在你 agent 和各大 AI 服务之间的‘交通警察’——它自动选可用通道，比如当前 Claude 接口超时，就切到 Gemini；如果 Gemini 返回 token 超限，就自动压缩 prompt 重试；如果所有商业 API 都堵住，它还能 fallback 到免费的 Ollama 本地模型。它支持 40+ 提供商，配置方式就是改一个 YAML 文件，连 API key 都不用硬编码，支持环境变量注入。实测在连续请求下，RTK（Real Token Kill）策略能省掉约 40% 的 token 开销，靠的是自动删注释、合并重复 system prompt、缓存中间结果。它不改模型本身，只管怎么把请求送出去、把结果拿回来、出错了怎么办。今天涨了 1028 星，说明越来越多开发者不再只问‘哪个模型最强’，而开始问‘怎么让它永远在线’。",
+      "tags": [
+        "routing",
+        "api",
+        "free-tier",
+        "fallback",
+        "token-optimization",
+        "multi-provider",
+        "javascript",
+        "agent-infrastructure",
+        "reliability",
+        "devops"
+      ]
+    },
+    {
+      "topic": "local-deep-research",
+      "repo": "LearningCircuit/local-deep-research",
+      "cover_line1": "本地深度研究助手",
+      "cover_line2": "SimpleQA 95% 准确率（3090）",
+      "body": "你在本地显卡上跑大模型做研究，但总被两个问题卡住：一是查资料要手动翻 arXiv、PubMed、维基、自己 PDF，二是模型一问三不知，因为没喂够上下文。这个项目把两者焊死了：你丢进一个问题，它自动搜 10+ 来源，下载、解析、去重、摘要，再把精炼后的材料喂给本地 LLM（比如 Qwen3.6-27B），最后输出带引用的答案。它不联网查，所有数据都在你硬盘上，PDF 加密存储，搜索索引也存在本地 SQLite。README 明确写了硬件要求：RTX 3090 单卡能跑满 Qwen3.6-27B，SimpleQA 测试集准确率 94.7%。它还支持自定义搜索引擎，比如把公司内部 Confluence 或 Notion 页面加进去。今天涨了 572 星，不是因为‘又一个 RAG 工具’，而是因为它把‘本地、加密、能跑、有数字’四件事一次做齐了。它没说要替代 Google Scholar，只说：你关掉网络，也能完成论文初稿。",
+      "tags": [
+        "local-rag",
         "research",
-        "rag",
-        "local-llm",
         "qwen",
         "arxiv",
         "pdf",
         "privacy",
-        "cli",
-        "automation",
-        "science"
-      ]
-    },
-    {
-      "topic": "Agent Skills",
-      "repo": "addyosmani/agent-skills",
-      "cover_line1": "AI 编程代理工程技能库",
-      "cover_line2": "32.9k stars，已用于生产",
-      "body": "这不是教程，是一套真实用在产品里的 AI 编程能力模块。作者 Addy Osmani 是 Google Chrome 工程师，他把过去两年在内部部署 coding agent 时踩过的坑全打包成可复用的 Shell/Python 函数：比如「安全执行未知代码」——自动建容器、设 timeout、限制网络、捕获 stdout/stderr；「可靠读 Git 状态」——处理 detached head、submodule、untracked files；「精准 patch 文件」——用 diff 格式校验行号，失败时回退并报错位置。每个技能都有单元测试和 benchmark，比如「执行 shell 命令」在 10k 次调用中失败率 0.03%，超时控制误差 <120ms。它不绑定任何框架，你可以直接 import 到 LangChain、LlamaIndex 或自研 agent 里。README 里明确写了哪些技能已在某电商后台 agent 中上线，哪些还在灰度。没有 hype 词，只有「support for Windows Subsystem for Linux」、「works with Python 3.9–3.12」、「tested on Ubuntu 22.04 + macOS Sonoma」。如果你正把 agent 从 PoC 推向 daily use，这不是参考，是现成的螺丝钉。",
-      "tags": [
-        "engineering",
-        "shell",
-        "production",
-        "coding-agent",
-        "security",
-        "testing",
-        "oss",
-        "google",
-        "devops",
-        "reliability"
-      ]
-    },
-    {
-      "topic": "PageIndex",
-      "repo": "VectifyAI/PageIndex",
-      "cover_line1": "免向量库的 RAG 索引",
-      "cover_line2": "29.5k stars，基于推理索引",
-      "body": "它不做 embedding，不建向量数据库，也能让 LLM 精准回答文档问题。原理简单：把每份文档（PDF/HTML/MD）按语义块切分后，用小模型（比如 Phi-3-mini）生成一句话「推理摘要」，比如「本节说明如何用 env var 覆盖 config.toml 中的 database_url」。查询时，先让大模型理解问题，再用轻量匹配算法找最相关的几条摘要，最后只把对应原文块喂给大模型。实测在 HotpotQA 上比传统 FAISS+7B RAG 提升 18% 答案准确率，延迟降 63%。所有索引文件可导出为纯 JSON，体积是同等向量库的 1/27。它不黑盒——你随时 cat index.json 看到每块摘要和来源页码；也不锁厂商——输出格式兼容 llama.cpp、vLLM、Ollama。团队用它给 1200 页内部手册建索引，部署在 4GB RAM 边缘设备上，冷启动 <3 秒。它没提「下一代」或「革命性」，就写了一行 benchmark：「10k docs, 4s build, 120ms query, 0.0 GB GPU VRAM」。",
-      "tags": [
-        "rag",
-        "indexing",
-        "reasoning",
-        "lightweight",
-        "json",
-        "edge",
-        "vectify",
-        "oss",
-        "benchmark",
-        "privacy"
+        "3090",
+        "simpleqa",
+        "offline",
+        "encryption"
       ]
     }
   ],
