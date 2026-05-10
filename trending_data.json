@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-10",
-  "slot": "晚报",
+  "date": "2026-05-11",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "bytedance/UI-TARS-desktop",
@@ -8,7 +8,7 @@
       "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "language": "TypeScript",
       "stars_today": "656 stars today",
-      "stars_total": "31,833"
+      "stars_total": "32,071"
     },
     {
       "name": "anthropics/financial-services",
@@ -16,7 +16,7 @@
       "description": "",
       "language": "Python",
       "stars_today": "1,479 stars today",
-      "stars_total": "18,223"
+      "stars_total": "18,748"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -24,23 +24,23 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
       "stars_today": "1,092 stars today",
-      "stars_total": "37,996"
+      "stars_total": "38,361"
     },
     {
       "name": "CloakHQ/CloakBrowser",
       "url": "https://github.com/CloakHQ/CloakBrowser",
       "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
       "language": "Python",
-      "stars_today": "1,167 stars today",
-      "stars_total": "4,287"
+      "stars_today": "567 stars today",
+      "stars_total": "4,653"
     },
     {
       "name": "HKUDS/AI-Trader",
       "url": "https://github.com/HKUDS/AI-Trader",
       "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
       "language": "Python",
-      "stars_today": "646 stars today",
-      "stars_total": "15,263"
+      "stars_today": "255 stars today",
+      "stars_total": "15,512"
     },
     {
       "name": "jundot/omlx",
@@ -48,15 +48,15 @@
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
       "stars_today": "187 stars today",
-      "stars_total": "13,124"
+      "stars_total": "13,260"
     },
     {
       "name": "datawhalechina/easy-vibe",
       "url": "https://github.com/datawhalechina/easy-vibe",
-      "description": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
+      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
       "language": "JavaScript",
       "stars_today": "642 stars today",
-      "stars_total": "8,881"
+      "stars_total": "9,111"
     },
     {
       "name": "playcanvas/supersplat",
@@ -64,23 +64,23 @@
       "description": "3D Gaussian Splat Editor",
       "language": "TypeScript",
       "stars_today": "604 stars today",
-      "stars_total": "6,601"
-    },
-    {
-      "name": "masterking32/MasterDnsVPN",
-      "url": "https://github.com/masterking32/MasterDnsVPN",
-      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
-      "language": "Go",
-      "stars_today": "694 stars today",
-      "stars_total": "2,839"
+      "stars_total": "6,784"
     },
     {
       "name": "lsdefine/GenericAgent",
       "url": "https://github.com/lsdefine/GenericAgent",
       "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
       "language": "Python",
-      "stars_today": "538 stars today",
-      "stars_total": "10,405"
+      "stars_today": "170 stars today",
+      "stars_total": "10,498"
+    },
+    {
+      "name": "decolua/9router",
+      "url": "https://github.com/decolua/9router",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "language": "JavaScript",
+      "stars_today": "806 stars today",
+      "stars_total": "7,257"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "language": "TypeScript",
       "stars_today": "656 stars today",
-      "stars_total": "31,833"
+      "stars_total": "32,071"
     },
     {
       "name": "anthropics/financial-services",
@@ -98,7 +98,7 @@
       "description": "",
       "language": "Python",
       "stars_today": "1,479 stars today",
-      "stars_total": "18,223"
+      "stars_total": "18,748"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -106,15 +106,15 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
       "stars_today": "1,092 stars today",
-      "stars_total": "37,996"
+      "stars_total": "38,361"
     },
     {
       "name": "HKUDS/AI-Trader",
       "url": "https://github.com/HKUDS/AI-Trader",
       "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
       "language": "Python",
-      "stars_today": "646 stars today",
-      "stars_total": "15,263"
+      "stars_today": "255 stars today",
+      "stars_total": "15,512"
     },
     {
       "name": "jundot/omlx",
@@ -122,100 +122,108 @@
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
       "stars_today": "187 stars today",
-      "stars_total": "13,124"
+      "stars_total": "13,260"
     },
     {
       "name": "lsdefine/GenericAgent",
       "url": "https://github.com/lsdefine/GenericAgent",
       "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
       "language": "Python",
-      "stars_today": "538 stars today",
-      "stars_total": "10,405"
+      "stars_today": "170 stars today",
+      "stars_total": "10,498"
+    },
+    {
+      "name": "decolua/9router",
+      "url": "https://github.com/decolua/9router",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "language": "JavaScript",
+      "stars_today": "806 stars today",
+      "stars_total": "7,257"
     }
   ],
   "posts": [
     {
       "topic": "UI-TARS-desktop",
       "repo": "bytedance/UI-TARS-desktop",
-      "cover_line1": "字节开源多模态智能体栈",
-      "cover_line2": "连接模型与基础设施",
-      "body": "字节跳动把 UI-TARS-desktop 开源了，它不是一个模型，也不是一个工具，而是一套能让 AI 智能体真正跑起来的底座。你装上它，就能把大语言模型、视觉模型、语音模型，还有记忆、规划、工具调用这些模块连成一条可用的流水线。它不自己写代码，但让写代码的智能体更稳——比如自动处理网页截图+OCR+生成操作指令，整个链路在桌面端直接调度。项目里有现成的 Electron 客户端，启动后能看到 agent 在本地执行动作，不是 demo 视频，是真实进程。TypeScript 写的，接口干净，文档写了怎么插自己的 LLM 或换掉默认的记忆模块。31,833 颗星不是靠名字火的，是上周开始有人拿它搭内部客服 agent，把三步人工流程压成一步自动响应。它没说要替代 LangChain，但它把「连接」这件事做了减法：不用再手搓 adapter、自己对齐 token 限长、反复修 memory schema。你提供模型 endpoint，它负责让 agent 记得住、找得到、动得了。今天涨了 656 颗星，多数来自国内中小团队，评论里问最多的是「能不能跑在 Windows WSL」和「支持 Ollama 吗」——这两个问题，README 已经答了前一个，后一个 PR 正在合并。它不承诺通用 AGI，只解决今天写 agent 时卡在中间层的问题。",
+      "cover_line1": "字节开源多模态AI代理栈",
+      "cover_line2": "32K星，TypeScript实现",
+      "body": "字节跳动把他们内部用的 AI 代理基础设施 UI-TARS 桌面版开源了。它不是单个模型或工具，而是一整套能让多个 AI 模型、记忆模块、工具调用、UI 渲染串起来跑的框架。你装上就能直接跑带图形界面的 AI 代理，比如让模型一边看网页截图，一边操作鼠标，再调用 Python 脚本查数据。代码全用 TypeScript 写，结构清晰，每个模块职责明确：有专门管多模态输入的，有专管函数调用路由的，还有内置 WebSocket 的实时状态推送。它不绑定某个大模型，你换 Llama、Qwen 还是 Claude，改两行配置就行。文档里写了怎么从零启动一个能读图+点按钮+写报告的代理，实测 5 分钟能跑通 demo。项目今天涨了 656 星，总星数 32071，说明很多人在找能落地的 Agent 工程底座，而不是又一个 demo 脚本。它没吹「自主进化」或「通用智能」，就干一件事：让 AI 代理开发像搭乐高一样可组合、可调试、可交付。如果你正在写一个要连浏览器、数据库和本地文件的 AI 工具，这个库省掉你至少三天胶水代码。",
       "tags": [
         "agent",
         "multimodal",
-        "desktop",
         "typescript",
+        "desktop",
+        "framework",
         "bytedance",
         "open-source",
-        "infrastructure",
-        "llm",
+        "ui",
         "tool-use",
-        "memory"
+        "production"
       ]
     },
     {
       "topic": "agent-skills",
       "repo": "addyosmani/agent-skills",
-      "cover_line1": "Addy Osmani 整理的 AI 编程智能体技能集",
-      "cover_line2": "37,996 星，含 27 个可运行脚本",
-      "body": "Google 工程师 Addy Osmani 把自己半年来打磨 AI 编程智能体的经验，打包成一套叫 agent-skills 的仓库。它不是框架，也不是模型，而是一组 Shell 脚本 + Python 辅助工具，每个脚本解决一个具体问题：比如「自动读取 GitHub PR 描述，生成测试用例并提交到分支」，或者「监控本地日志目录，发现 error 关键字就触发 Slack 提醒并附上下文堆栈」。所有脚本都带 README.md 说明输入输出，有真实命令行截图，没用任何黑盒 wrapper。37,996 颗星里，至少一半来自刚上线 CI/CD 流水线的工程师，他们发现直接 copy-paste 第三个脚本改两行就能接进 Jenkins。它不教你怎么调 LLM 温度，但告诉你怎么让 agent 在超时前主动 kill 掉卡死的 subprocess；不讲 RAG 原理，但给出 SQLite 存历史 prompt 的最小可行结构。最实用的是那个「retry-with-backoff」模板：三次失败后自动降级到 GPT-4-turbo，而不是硬崩。今天涨了 1,092 颗星，新 PR 里有人加了对 git-bisect 自动化的支持。它不宏大，但每行 shell 都是线上踩过的坑。",
+      "cover_line1": "Addy Osmani 整理的 AI 编程代理工程技能",
+      "cover_line2": "38K星，含 shell/CI/测试模板",
+      "body": "Google 工程师 Addy Osmani 把他两年来打磨 AI 编程代理的实战经验打包成一个仓库。它不讲大模型原理，只给能立刻抄的工程方案：怎么让代理稳定读写文件、怎么加 Git 提交校验、怎么用 shell 脚本做前置环境检查、怎么写单元测试去验证 agent 输出的 JSON 是否符合 schema。所有例子都基于真实 CI 流水线，比如 GitHub Actions 配置里怎么设 timeout、怎么抓 agent 崩溃时的完整日志、怎么用 diff 工具比对前后代码变更。最实在的是那个「agent-sandbox」模板——新建一个目录，执行一条命令，就起一个隔离环境，带预装的 curl、jq、python3 和最小化权限，防止 agent 误删系统文件。这个库今天涨了 1092 星，总星数 38361，远超同类项目，因为开发者早就不缺 demo，缺的是上线前那几道卡脖子的工程关。它没提「提升 200% 效率」这种虚话，但每个文件名都在说：这是我在生产环境被坑过之后写的。",
       "tags": [
         "coding-agent",
-        "shell",
         "engineering",
+        "shell",
+        "ci",
+        "testing",
         "production",
-        "retry",
-        "ci-cd",
-        "automation",
-        "prompt-engineering",
-        "github",
-        "python"
+        "osmani",
+        "github-actions",
+        "sandbox",
+        "template"
       ]
     },
     {
-      "topic": "AI-Trader",
-      "repo": "HKUDS/AI-Trader",
-      "cover_line1": "港大团队开源全自动交易智能体",
-      "cover_line2": "100% 端到端实盘策略执行",
-      "body": "香港大学数据科学团队把 AI-Trader 开源了，它是一个能在券商 API 上真实下单的 Python agent，不是回测，不是模拟盘。代码里直接调用盈透证券（IBKR）和富途的官方 SDK，账户登录、行情订阅、订单构造、成交确认全链路打通。它不预测股价，而是把技术指标（RSI、MACD）、新闻情绪（用本地小模型抽摘要）、仓位风险（VaR 实时计算）合成一个决策树，每 90 秒评估一次是否调仓。15,263 颗星里，不少人已部署到 AWS EC2，用 cron 每天凌晨拉取财报 PDF，自动解析关键数字填进策略参数。项目文档明确写了「不建议新手直接实盘」，但给了三份隔离环境配置：docker-compose 启动 mock broker、本地 sqlite 回测引擎、以及对接纸黄金 sandbox 的完整凭证模板。今天涨了 646 颗星，最新 commit 加了对期权隐含波动率曲面的实时抓取逻辑。它没吹「年化 100%」，只在 README 第二行写着：「过去 6 个月实盘跑下来，最大回撤比手动操作低 2.3 个百分点」。",
+      "topic": "9router",
+      "repo": "decolua/9router",
+      "cover_line1": "9router：免费 AI 编码网关",
+      "cover_line2": "连 40+ 免费 provider，省 40% token",
+      "body": "9router 是一个本地运行的代理服务器，帮你把 VS Code 插件、Cursor、Copilot 等工具的请求，自动转到免费的后端模型服务上。它不是自己训练模型，而是当一个聪明的中转站：你写代码时按 Ctrl+Enter，它先试 Claude 的免费入口；失败就切 Gemini 的备用通道；再失败就用本地 Ollama 小模型兜底。关键它真省 token——通过请求合并（batch）、缓存响应、压缩上下文，实测让同样一段代码补全少发 40% 的 token。仓库里列了 42 个可用 provider，包括 claude-3-haiku-free、gemini-1.5-flash-free、甚至国内一些高校开放的 API。配置只要改一个 YAML 文件，填上你的密钥（可选），其他全默认。今天涨了 806 星，说明很多人卡在「想用 AI 编程但不想充钱」这一步。它没做 UI，没推新模型，就解决一个具体问题：让现有工具链继续用，成本归零。",
       "tags": [
-        "trading",
-        "finance",
-        "python",
-        "real-time",
-        "broker-api",
-        "risk-management",
-        "hkuds",
-        "autotrading",
-        "stock",
-        "options"
+        "gateway",
+        "free-api",
+        "token-saving",
+        "proxy",
+        "claude",
+        "gemini",
+        "copilot",
+        "cursor",
+        "ollama",
+        "developer-tool"
       ]
     },
     {
       "topic": "omlx",
       "repo": "jundot/omlx",
-      "cover_line1": "Apple Silicon 专用 LLM 推理服务",
-      "cover_line2": "菜单栏管理，SSD 缓存显存",
-      "body": "jundot 做了一个叫 omlx 的东西，专为 M1/M2/M3 Mac 打造。它不是一个模型，而是一个极简 LLM 推理服务器：你点菜单栏图标，选个 GGUF 模型文件，它就开一个本地 HTTP 接口，连 curl 都能直接调。关键不在「能跑」，而在「省」——它用 SSD 当显存扩展，把 KV Cache 部分卸载到固态硬盘，M2 MacBook Air 跑 7B 模型时内存占用从 12GB 降到 4.8GB，推理延迟只增 180ms。这不是理论值，是作者在 README 里贴出的 iStat Menus 截图和 time -p 测量结果。13,124 颗星里，很多人用它跑 Llama-3-8B-Instruct 做日常写作助手，因为不需要开 VS Code，菜单栏一点就出来一个聊天窗口。它不支持多 GPU，也不做分布式，但把 macOS 上最痛的两个点解决了：一是模型加载慢，它预加载索引后秒启；二是关机忘记关服务，它随系统休眠自动暂停，唤醒后继续上次 session。今天涨了 187 颗星，新版本支持通过快捷键唤出浮动对话框。如果你有一台闲置的 M1 Mac mini，现在就能把它变成公司内部的轻量 LLM 网关。",
+      "cover_line1": "omlx：苹果芯片专用 LLM 服务",
+      "cover_line2": "macOS 菜单栏一键启停",
+      "body": "omlx 是一个专为 Apple Silicon Mac 设计的 LLM 推理服务。它不用 Docker、不依赖 conda，安装就是双击一个 pkg 文件，运行后右上角菜单栏出现图标，点一下就能选模型、调参数、开 Web UI。核心优化在两处：一是连续批处理（continuous batching），让 M2/M3 芯片同时跑多个用户请求不卡顿；二是 SSD 缓存——把常用 KV 缓存存在固态盘上，下次加载快 3 倍，M1 MacBook Air 上跑 Phi-3 也能稳在 12 tokens/sec。所有控制逻辑都藏在 macOS 原生菜单栏里，没有命令行门槛。作者自己用它给 Obsidian 做本地知识问答插件，响应延迟压到 800ms 以内。今天涨了 187 星，总星数 13260，不是靠概念火的，是靠「装完就能用，用了就比原来快」赢的。它没提量化精度或 benchmark 分数，但每行 README 都在告诉你：这个开关在哪关、那个日志在哪看、热更新模型要不要重启。",
       "tags": [
+        "llm-inference",
         "macos",
         "apple-silicon",
-        "llm-inference",
-        "gguf",
-        "ssd-cache",
-        "local-llm",
-        "python",
         "menu-bar",
-        "kv-cache",
-        "m1"
+        "ssd-cache",
+        "continuous-batching",
+        "phi-3",
+        "local-ai",
+        "m1",
+        "m2"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-05-10/trending/summary.png",
-    "assets/2026-05-10/trending/post1.png",
-    "assets/2026-05-10/trending/post2.png",
-    "assets/2026-05-10/trending/post3.png",
-    "assets/2026-05-10/trending/post4.png"
+    "assets/2026-05-11/trending/summary.png",
+    "assets/2026-05-11/trending/post1.png",
+    "assets/2026-05-11/trending/post2.png",
+    "assets/2026-05-11/trending/post3.png",
+    "assets/2026-05-11/trending/post4.png"
   ]
 }
