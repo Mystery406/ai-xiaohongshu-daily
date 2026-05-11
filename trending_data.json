@@ -1,86 +1,86 @@
 {
   "date": "2026-05-11",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
       "name": "bytedance/UI-TARS-desktop",
       "url": "https://github.com/bytedance/UI-TARS-desktop",
       "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "language": "TypeScript",
-      "stars_today": "656 stars today",
-      "stars_total": "32,071"
-    },
-    {
-      "name": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": "",
-      "language": "Python",
-      "stars_today": "1,479 stars today",
-      "stars_total": "18,748"
-    },
-    {
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "Shell",
-      "stars_today": "1,092 stars today",
-      "stars_total": "38,361"
+      "stars_today": "956 stars today",
+      "stars_total": "32,827"
     },
     {
       "name": "CloakHQ/CloakBrowser",
       "url": "https://github.com/CloakHQ/CloakBrowser",
       "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
       "language": "Python",
-      "stars_today": "567 stars today",
-      "stars_total": "4,653"
+      "stars_today": "1,325 stars today",
+      "stars_total": "5,745"
     },
     {
-      "name": "HKUDS/AI-Trader",
-      "url": "https://github.com/HKUDS/AI-Trader",
-      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
-      "language": "Python",
-      "stars_today": "255 stars today",
-      "stars_total": "15,512"
-    },
-    {
-      "name": "jundot/omlx",
-      "url": "https://github.com/jundot/omlx",
-      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-      "language": "Python",
-      "stars_today": "187 stars today",
-      "stars_total": "13,260"
-    },
-    {
-      "name": "datawhalechina/easy-vibe",
-      "url": "https://github.com/datawhalechina/easy-vibe",
-      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
-      "language": "JavaScript",
-      "stars_today": "642 stars today",
-      "stars_total": "9,111"
+      "name": "yikart/AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "stars_today": "397 stars today",
+      "stars_total": "10,485"
     },
     {
       "name": "playcanvas/supersplat",
       "url": "https://github.com/playcanvas/supersplat",
       "description": "3D Gaussian Splat Editor",
       "language": "TypeScript",
-      "stars_today": "604 stars today",
-      "stars_total": "6,784"
+      "stars_today": "533 stars today",
+      "stars_total": "7,165"
     },
     {
-      "name": "lsdefine/GenericAgent",
-      "url": "https://github.com/lsdefine/GenericAgent",
-      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-      "language": "Python",
-      "stars_today": "170 stars today",
-      "stars_total": "10,498"
+      "name": "datawhalechina/easy-vibe",
+      "url": "https://github.com/datawhalechina/easy-vibe",
+      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+      "language": "JavaScript",
+      "stars_today": "808 stars today",
+      "stars_total": "9,730"
     },
     {
       "name": "decolua/9router",
       "url": "https://github.com/decolua/9router",
       "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
       "language": "JavaScript",
-      "stars_today": "806 stars today",
-      "stars_total": "7,257"
+      "stars_today": "942 stars today",
+      "stars_total": "8,029"
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars_today": "501 stars today",
+      "stars_total": "1,137"
+    },
+    {
+      "name": "millionco/react-doctor",
+      "url": "https://github.com/millionco/react-doctor",
+      "description": "Your agent writes bad React. This catches it",
+      "language": "TypeScript",
+      "stars_today": "312 stars today",
+      "stars_total": "7,797"
+    },
+    {
+      "name": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "language": "Jupyter Notebook",
+      "stars_today": "373 stars today",
+      "stars_total": "37,223"
+    },
+    {
+      "name": "AUTOMATIC1111/stable-diffusion-webui",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "description": "Stable Diffusion web UI",
+      "language": "Python",
+      "stars_today": "29 stars today",
+      "stars_total": "162,857"
     }
   ],
   "ai_repos": [
@@ -89,56 +89,56 @@
       "url": "https://github.com/bytedance/UI-TARS-desktop",
       "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "language": "TypeScript",
-      "stars_today": "656 stars today",
-      "stars_total": "32,071"
+      "stars_today": "956 stars today",
+      "stars_total": "32,827"
     },
     {
-      "name": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": "",
-      "language": "Python",
-      "stars_today": "1,479 stars today",
-      "stars_total": "18,748"
-    },
-    {
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "Shell",
-      "stars_today": "1,092 stars today",
-      "stars_total": "38,361"
-    },
-    {
-      "name": "HKUDS/AI-Trader",
-      "url": "https://github.com/HKUDS/AI-Trader",
-      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
-      "language": "Python",
-      "stars_today": "255 stars today",
-      "stars_total": "15,512"
-    },
-    {
-      "name": "jundot/omlx",
-      "url": "https://github.com/jundot/omlx",
-      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-      "language": "Python",
-      "stars_today": "187 stars today",
-      "stars_total": "13,260"
-    },
-    {
-      "name": "lsdefine/GenericAgent",
-      "url": "https://github.com/lsdefine/GenericAgent",
-      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-      "language": "Python",
-      "stars_today": "170 stars today",
-      "stars_total": "10,498"
+      "name": "yikart/AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "stars_today": "397 stars today",
+      "stars_total": "10,485"
     },
     {
       "name": "decolua/9router",
       "url": "https://github.com/decolua/9router",
       "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
       "language": "JavaScript",
-      "stars_today": "806 stars today",
-      "stars_total": "7,257"
+      "stars_today": "942 stars today",
+      "stars_total": "8,029"
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars_today": "501 stars today",
+      "stars_total": "1,137"
+    },
+    {
+      "name": "millionco/react-doctor",
+      "url": "https://github.com/millionco/react-doctor",
+      "description": "Your agent writes bad React. This catches it",
+      "language": "TypeScript",
+      "stars_today": "312 stars today",
+      "stars_total": "7,797"
+    },
+    {
+      "name": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "language": "Jupyter Notebook",
+      "stars_today": "373 stars today",
+      "stars_total": "37,223"
+    },
+    {
+      "name": "AUTOMATIC1111/stable-diffusion-webui",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "description": "Stable Diffusion web UI",
+      "language": "Python",
+      "stars_today": "29 stars today",
+      "stars_total": "162,857"
     }
   ],
   "posts": [
@@ -146,76 +146,76 @@
       "topic": "UI-TARS-desktop",
       "repo": "bytedance/UI-TARS-desktop",
       "cover_line1": "字节开源多模态AI代理栈",
-      "cover_line2": "32K星，TypeScript实现",
-      "body": "字节跳动把他们内部用的 AI 代理基础设施 UI-TARS 桌面版开源了。它不是单个模型或工具，而是一整套能让多个 AI 模型、记忆模块、工具调用、UI 渲染串起来跑的框架。你装上就能直接跑带图形界面的 AI 代理，比如让模型一边看网页截图，一边操作鼠标，再调用 Python 脚本查数据。代码全用 TypeScript 写，结构清晰，每个模块职责明确：有专门管多模态输入的，有专管函数调用路由的，还有内置 WebSocket 的实时状态推送。它不绑定某个大模型，你换 Llama、Qwen 还是 Claude，改两行配置就行。文档里写了怎么从零启动一个能读图+点按钮+写报告的代理，实测 5 分钟能跑通 demo。项目今天涨了 656 星，总星数 32071，说明很多人在找能落地的 Agent 工程底座，而不是又一个 demo 脚本。它没吹「自主进化」或「通用智能」，就干一件事：让 AI 代理开发像搭乐高一样可组合、可调试、可交付。如果你正在写一个要连浏览器、数据库和本地文件的 AI 工具，这个库省掉你至少三天胶水代码。",
+      "cover_line2": "32,827 stars，TypeScript实现",
+      "body": "字节跳动把他们内部用的多模态AI代理基础设施，整个开源了。不是概念图，不是demo，是能跑起来的桌面端Agent Stack：它把大模型（比如Qwen、GLM、Phi-3）、工具调用、记忆管理、UI交互全串在一起，用TypeScript写的，直接打包成Mac/Win/Linux桌面App。你装完就能开一个本地窗口，拖图片进去问问题，让它查天气、读PDF、写周报——背后自动选模型、拆任务、调API、汇总结果。它不绑定某一家云服务，支持自己插本地模型或远程推理服务；也不强求你写Prompt，而是靠结构化Agent协议通信。目前文档齐全，有CLI和GUI双入口，还带调试面板看每步推理链。这不是玩具项目，README里写了字节内部已用它跑通多个真实业务场景，比如客服知识库自动问答和设计稿语义标注。它没用任何黑盒封装，所有模块都可替换，连UI组件都是标准React+Tauri。如果你正卡在‘模型有了，但不知道怎么搭成能干活的Agent’这一步，这个项目就是现成的骨架。它不教你怎么训练模型，但告诉你怎么让模型真正接进你的工作流。Star数三天涨近万，说明很多人不是围观，是真在 clone 后改 config 开干。你上次把一个LLM API接入自己的系统，花了几天？",
       "tags": [
         "agent",
         "multimodal",
         "typescript",
         "desktop",
-        "framework",
         "bytedance",
-        "open-source",
-        "ui",
-        "tool-use",
-        "production"
-      ]
-    },
-    {
-      "topic": "agent-skills",
-      "repo": "addyosmani/agent-skills",
-      "cover_line1": "Addy Osmani 整理的 AI 编程代理工程技能",
-      "cover_line2": "38K星，含 shell/CI/测试模板",
-      "body": "Google 工程师 Addy Osmani 把他两年来打磨 AI 编程代理的实战经验打包成一个仓库。它不讲大模型原理，只给能立刻抄的工程方案：怎么让代理稳定读写文件、怎么加 Git 提交校验、怎么用 shell 脚本做前置环境检查、怎么写单元测试去验证 agent 输出的 JSON 是否符合 schema。所有例子都基于真实 CI 流水线，比如 GitHub Actions 配置里怎么设 timeout、怎么抓 agent 崩溃时的完整日志、怎么用 diff 工具比对前后代码变更。最实在的是那个「agent-sandbox」模板——新建一个目录，执行一条命令，就起一个隔离环境，带预装的 curl、jq、python3 和最小化权限，防止 agent 误删系统文件。这个库今天涨了 1092 星，总星数 38361，远超同类项目，因为开发者早就不缺 demo，缺的是上线前那几道卡脖子的工程关。它没提「提升 200% 效率」这种虚话，但每个文件名都在说：这是我在生产环境被坑过之后写的。",
-      "tags": [
-        "coding-agent",
-        "engineering",
-        "shell",
-        "ci",
-        "testing",
-        "production",
-        "osmani",
-        "github-actions",
-        "sandbox",
-        "template"
+        "open source",
+        "tui",
+        "tool use",
+        "local ai",
+        "react"
       ]
     },
     {
       "topic": "9router",
       "repo": "decolua/9router",
-      "cover_line1": "9router：免费 AI 编码网关",
-      "cover_line2": "连 40+ 免费 provider，省 40% token",
-      "body": "9router 是一个本地运行的代理服务器，帮你把 VS Code 插件、Cursor、Copilot 等工具的请求，自动转到免费的后端模型服务上。它不是自己训练模型，而是当一个聪明的中转站：你写代码时按 Ctrl+Enter，它先试 Claude 的免费入口；失败就切 Gemini 的备用通道；再失败就用本地 Ollama 小模型兜底。关键它真省 token——通过请求合并（batch）、缓存响应、压缩上下文，实测让同样一段代码补全少发 40% 的 token。仓库里列了 42 个可用 provider，包括 claude-3-haiku-free、gemini-1.5-flash-free、甚至国内一些高校开放的 API。配置只要改一个 YAML 文件，填上你的密钥（可选），其他全默认。今天涨了 806 星，说明很多人卡在「想用 AI 编程但不想充钱」这一步。它没做 UI，没推新模型，就解决一个具体问题：让现有工具链继续用，成本归零。",
+      "cover_line1": "免费AI编码路由中间件",
+      "cover_line2": "连40+提供商，省40% token",
+      "body": "9router 是个 JavaScript 写的小程序，装在你本地或服务器上，作用就一个：当你发一个编程请求时，它不直接找某个大模型，而是先看哪家现在便宜、快、没限流，再把请求转过去。它能连 Claude Code、GPT、Gemini、甚至国内的千问和讯飞星火，一共支持40多个后端。重点不是‘能连’，而是它真能省钱省时间——作者实测，在同样代码补全任务下，平均少用40% token，因为会自动避开高延迟节点、缓存重复请求、压缩冗余上下文。它还带 fallback 机制：如果首选模型超时或拒答，0.5秒内切到备选，不卡住你编辑器。你不用改 VS Code 插件，只要把原来指向 Copilot 的地址，改成指向本机的 9router 端口就行。配置文件就三行：哪些模型可用、权重怎么配、token 预算设多少。GitHub 上有人用它把 Cursor 的免费额度撑过了整个月，也有人把它塞进 CI 流水线，自动选最稳的模型跑代码审查。它没碰模型本身，只做‘聪明转发’，所以极轻、极快、极透明。你今天写代码时，有没有一次请求等了8秒才回？",
       "tags": [
-        "gateway",
-        "free-api",
-        "token-saving",
+        "routing",
+        "coding",
+        "free api",
+        "token saving",
+        "javascript",
         "proxy",
         "claude",
+        "gpt",
         "gemini",
-        "copilot",
-        "cursor",
-        "ollama",
-        "developer-tool"
+        "devtool"
       ]
     },
     {
-      "topic": "omlx",
-      "repo": "jundot/omlx",
-      "cover_line1": "omlx：苹果芯片专用 LLM 服务",
-      "cover_line2": "macOS 菜单栏一键启停",
-      "body": "omlx 是一个专为 Apple Silicon Mac 设计的 LLM 推理服务。它不用 Docker、不依赖 conda，安装就是双击一个 pkg 文件，运行后右上角菜单栏出现图标，点一下就能选模型、调参数、开 Web UI。核心优化在两处：一是连续批处理（continuous batching），让 M2/M3 芯片同时跑多个用户请求不卡顿；二是 SSD 缓存——把常用 KV 缓存存在固态盘上，下次加载快 3 倍，M1 MacBook Air 上跑 Phi-3 也能稳在 12 tokens/sec。所有控制逻辑都藏在 macOS 原生菜单栏里，没有命令行门槛。作者自己用它给 Obsidian 做本地知识问答插件，响应延迟压到 800ms 以内。今天涨了 187 星，总星数 13260，不是靠概念火的，是靠「装完就能用，用了就比原来快」赢的。它没提量化精度或 benchmark 分数，但每行 README 都在告诉你：这个开关在哪关、那个日志在哪看、热更新模型要不要重启。",
+      "topic": "React Doctor",
+      "repo": "millionco/react-doctor",
+      "cover_line1": "专治坏React代码的AI医生",
+      "cover_line2": "自动抓出低效渲染和错误hook",
+      "body": "React Doctor 不帮你写新组件，它专门盯着你已经写的 React 代码，揪出那些‘看着能跑，其实埋雷’的问题。比如你在 useEffect 里写了 setCount(count + 1)，但它发现 count 没进依赖数组，立刻标红警告；又比如你用 useMemo 包了一段根本不耗时的计算，它提示‘这个缓存没意义，删掉省内存’。它不是靠 ESLint 规则硬匹配，而是用 TypeScript AST + 小型微调模型，理解你组件的数据流和生命周期意图。它集成进 VS Code，保存时自动扫描当前文件，问题直接标在行尾，点开看解释+修复建议，甚至一键重写。作者团队说，他们在百万行 React 项目里跑了三个月，抓出 63% 的性能降级源头是无效 re-render，其中 87% 的 case 都是 hook 依赖漏写或错写。这个项目没吹‘AI生成UI’，只做一件确定的事：让 React 更守规矩。它不开新功能，但让你少修半夜 bug。你上一次因为 useEffect 依赖写错，花两小时才定位到，是什么时候？",
       "tags": [
-        "llm-inference",
-        "macos",
-        "apple-silicon",
-        "menu-bar",
-        "ssd-cache",
-        "continuous-batching",
-        "phi-3",
-        "local-ai",
-        "m1",
-        "m2"
+        "react",
+        "typescript",
+        "linter",
+        "performance",
+        "vscode",
+        "ast",
+        "hook",
+        "render",
+        "debug",
+        "ai assistant"
+      ]
+    },
+    {
+      "topic": "Dive into LLMs",
+      "repo": "Lordog/dive-into-llms",
+      "cover_line1": "动手学大模型中文实践课",
+      "cover_line2": "37,223 stars，Jupyter可运行",
+      "body": "这是一门从零手敲代码的大模型实践课，不是PPT，不是录播视频，是 32 个 Jupyter Notebook 文件，每个都带可执行代码、注释和思考题。你打开第一个 notebook，就跟着下载 llama.cpp，量化一个 3B 模型，跑通本地推理；第三个 notebook 教你怎么用 LoRA 微调 Qwen 在医疗问答上提升准确率；第十个直接带你搭 RAG 流程，用 Chroma 存向量，用 Ollama 跑 embedding，最后连上 Streamlit 做界面。所有代码都在 notebook 里，不用配环境，复制粘贴就能 run。作者是中文社区活跃开发者，每节课末尾都留一个‘你来改’小任务，比如‘把检索逻辑换成 BM25，对比效果’。课程更新很勤，最近加了 vLLM 推理优化和 DPO 对齐实操。Star 数破 3.7 万，说明不是收藏吃灰，是真有人一行行跑下来。它不讲数学推导，不画架构图，只问‘你现在想让模型干什么？好，我们写三行代码试试’。你最近一次跑通一个完整 LLM 应用链路，中间卡在了哪一步？",
+      "tags": [
+        "llm",
+        "jupyter",
+        "tutorial",
+        "chinese",
+        "hands-on",
+        "notebook",
+        "rag",
+        "finetune",
+        "local llm",
+        "llama.cpp"
       ]
     }
   ],
