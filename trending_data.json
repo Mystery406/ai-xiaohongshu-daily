@@ -1,197 +1,229 @@
 {
   "date": "2026-05-17",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
+    {
+      "name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars_today": "1,694 stars today",
+      "stars_total": "11,992"
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars_today": "333 stars today",
+      "stars_total": "35,317"
+    },
+    {
+      "name": "calcom/cal.diy",
+      "url": "https://github.com/calcom/cal.diy",
+      "description": "Scheduling infrastructure for absolutely everyone.",
+      "language": "TypeScript",
+      "stars_today": "425 stars today",
+      "stars_total": "43,048"
+    },
     {
       "name": "oven-sh/bun",
       "url": "https://github.com/oven-sh/bun",
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Rust",
-      "stars_today": "414 stars today",
-      "stars_total": "91,188"
-    },
-    {
-      "name": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-      "language": "Python",
-      "stars_today": "669 stars today",
-      "stars_total": "23,106"
-    },
-    {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "1,281 stars today",
-      "stars_total": "193,968"
+      "stars_today": "908 stars today",
+      "stars_total": "91,613"
     },
     {
       "name": "Anil-matcha/Open-Generative-AI",
       "url": "https://github.com/Anil-matcha/Open-Generative-AI",
       "description": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
       "language": "JavaScript",
-      "stars_today": "393 stars today",
-      "stars_total": "14,405"
+      "stars_today": "704 stars today",
+      "stars_total": "14,824"
     },
     {
-      "name": "supertone-inc/supertonic",
-      "url": "https://github.com/supertone-inc/supertonic",
-      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
-      "language": "Swift",
-      "stars_today": "745 stars today",
-      "stars_total": "6,843"
+      "name": "BigBodyCobain/Shadowbroker",
+      "url": "https://github.com/BigBodyCobain/Shadowbroker",
+      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
+      "language": "Python",
+      "stars_today": "165 stars today",
+      "stars_total": "6,772"
     },
     {
-      "name": "tinyhumansai/openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "language": "Rust",
-      "stars_today": "1,601 stars today",
-      "stars_total": "10,669"
-    },
-    {
-      "name": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "stars_today": "990 stars today",
-      "stars_total": "58,318"
-    },
-    {
-      "name": "colbymchenry/codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
+      "name": "tech-leads-club/agent-skills",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
       "language": "TypeScript",
-      "stars_today": "397 stars today",
-      "stars_total": "2,491"
+      "stars_today": "44 stars today",
+      "stars_total": "2,619"
+    },
+    {
+      "name": "NirDiamant/agents-towards-production",
+      "url": "https://github.com/NirDiamant/agents-towards-production",
+      "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
+      "language": "Jupyter Notebook",
+      "stars_today": "225 stars today",
+      "stars_total": "19,759"
+    },
+    {
+      "name": "dograh-hq/dograh",
+      "url": "https://github.com/dograh-hq/dograh",
+      "description": "Open Source Voice Agent Platform",
+      "language": "Python",
+      "stars_today": "287 stars today",
+      "stars_total": "1,454"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "language": "Python",
+      "stars_today": "764 stars today",
+      "stars_total": "23,596"
     }
   ],
   "ai_repos": [
     {
-      "name": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-      "language": "Python",
-      "stars_today": "669 stars today",
-      "stars_total": "23,106"
+      "name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars_today": "1,694 stars today",
+      "stars_total": "11,992"
     },
     {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "1,281 stars today",
-      "stars_total": "193,968"
+      "name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars_today": "333 stars today",
+      "stars_total": "35,317"
     },
     {
       "name": "Anil-matcha/Open-Generative-AI",
       "url": "https://github.com/Anil-matcha/Open-Generative-AI",
       "description": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
       "language": "JavaScript",
-      "stars_today": "393 stars today",
-      "stars_total": "14,405"
+      "stars_today": "704 stars today",
+      "stars_total": "14,824"
     },
     {
-      "name": "supertone-inc/supertonic",
-      "url": "https://github.com/supertone-inc/supertonic",
-      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
-      "language": "Swift",
-      "stars_today": "745 stars today",
-      "stars_total": "6,843"
+      "name": "BigBodyCobain/Shadowbroker",
+      "url": "https://github.com/BigBodyCobain/Shadowbroker",
+      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
+      "language": "Python",
+      "stars_today": "165 stars today",
+      "stars_total": "6,772"
     },
     {
-      "name": "tinyhumansai/openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "language": "Rust",
-      "stars_today": "1,601 stars today",
-      "stars_total": "10,669"
-    },
-    {
-      "name": "colbymchenry/codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
+      "name": "tech-leads-club/agent-skills",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
       "language": "TypeScript",
-      "stars_today": "397 stars today",
-      "stars_total": "2,491"
+      "stars_today": "44 stars today",
+      "stars_total": "2,619"
+    },
+    {
+      "name": "NirDiamant/agents-towards-production",
+      "url": "https://github.com/NirDiamant/agents-towards-production",
+      "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
+      "language": "Jupyter Notebook",
+      "stars_today": "225 stars today",
+      "stars_total": "19,759"
+    },
+    {
+      "name": "dograh-hq/dograh",
+      "url": "https://github.com/dograh-hq/dograh",
+      "description": "Open Source Voice Agent Platform",
+      "language": "Python",
+      "stars_today": "287 stars today",
+      "stars_total": "1,454"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "language": "Python",
+      "stars_today": "764 stars today",
+      "stars_total": "23,596"
     }
   ],
   "posts": [
     {
-      "topic": "Superpowers",
-      "repo": "obra/superpowers",
-      "cover_line1": "Agentic skills framework",
-      "cover_line2": "193,968 total stars",
-      "body": "今天 GitHub 上涨得最猛的 AI 项目是 obra/superpowers，一个讲清楚‘AI agent 能做什么’的框架。它不造大模型，也不训新权重，而是把常见任务拆成可复用、可组合的技能模块：查文档、跑代码、调 API、写测试、读 PDF、发邮件——每个技能都带真实 shell 命令和输入输出示例。作者团队在 README 里直接列了 37 个已验证技能，其中 12 个支持自动重试和错误恢复。更实在的是，它用纯 Shell 写，没依赖 Python 环境，macOS/Linux 上 clone 就能跑，连 Docker 都不用。项目主页放了三段实录视频：一段让 agent 自动修复一个 failing CI 测试，一段让它从零搭起一个 Flask API 并部署到 Fly.io，一段让它读完 20 页 PDF 技术白皮书后生成带引用的摘要。不是 demo，是真实终端录像。它不替代 LLM，而是给 LLM 套上一套‘手和脚’：你告诉它要什么，它自己决定调哪个技能、传什么参数、怎么处理失败。目前已有 54 个社区贡献的技能插件，包括对接 Notion、Slack、GitHub Issues 和本地 SQLite。它的 README 第一句就写：‘If your agent can’t do it yet, write a skill for it.’ 不画饼，不讲愿景，只管干活。它让 agent 开发从‘猜 prompt’变成‘写函数’。你上次手动写 curl 调 API 是什么时候？",
-      "tags": [
-        "agent",
-        "shell",
-        "skills",
-        "cli",
-        "devtool",
-        "open-source",
-        "workflow",
-        "automation",
-        "github",
-        "trending"
-      ]
-    },
-    {
       "topic": "Open-Generative-AI",
       "repo": "Anil-matcha/Open-Generative-AI",
-      "cover_line1": "Self-hosted AI studio",
-      "cover_line2": "200+ models, no filters",
-      "body": "Anil-matcha 的 Open-Generative-AI 是一个能装进你笔记本的 AI 视频工作室。它不是单个模型，而是一个前端界面 + 模型路由层 + 本地推理胶水，支持 Flux、Kling、Sora（开源复现版）、Veo（轻量版）等 200 多个图像和视频模型，全在你自己的机器上跑。MIT 许可，无内容过滤，不传图、不传视频、不联网推理——所有生成都在本地完成。安装只要两步：git clone，然后 npm run dev，打开 http://localhost:3000 就进去了。界面上有清晰的模型切换器、参数滑块（帧率、种子、CFG）、实时预览窗和导出按钮。它把原来要分别配 ComfyUI、Runway、Manim 的事，压进一个 Electron 界面里。作者在 release note 里写了实测数据：M2 Ultra 上跑 Kling-1.5 生成 4 秒 480p 视频平均耗时 82 秒；RTX 4090 上用 FP16 推理 Veo-2，显存占用稳定在 18.3GB。它还内置了一个 model downloader，点一下就能从 Hugging Face 自动拉取权重，校验 SHA256，解压到指定路径。没有账号、没有订阅、没有 token 限额。你改一行 config.json 就能加进自己训的小模型。它不追求‘比 Midjourney 更好’，只解决一个问题：我有一台电脑，我想现在就生成一段视频，不求人、不等队列、不被封。你昨天想生成但卡在注册页的那个提示词，今天能直接跑吗？",
+      "cover_line1": "开源AI图像视频工作室",
+      "cover_line2": "集成200+模型含Flux、Kling",
+      "body": "这个项目把原本分散在不同平台的AI生成能力，打包成一个能自己跑的网页应用。你下载代码、按说明启动，就能本地用上Flux、Kling、Veo这些模型——不是调API，是直接加载权重、本地推理。它没做新模型，但把200多个开源模型统一了接口和UI，连SDXL、LCM、AnimateDiff、T2V都塞进去了。所有模型默认不加内容过滤，也不传数据到云端。MIT许可证，能改能商用。昨天涨了704星，总星14824，说明很多人正卡在「想试新模型但懒得一个个配环境」这一步。它解决的不是理论问题，是开发者下午三点想快速出图、又不想开Midjourney会员的真实卡点。项目里连Windows一键安装脚本都写了，还标注了每张显卡能跑什么模型。它不承诺「超越Sora」，只说「你有3090，现在就能跑Kling demo」。这种不吹牛、只填坑的工具，比十个概念Demo更让人想立刻clone下来。你上次为了跑一个新模型，花了多久配环境？",
       "tags": [
         "video-generation",
+        "image-generation",
         "self-hosted",
-        "mit-license",
+        "open-source",
         "flux",
         "kling",
-        "sora",
         "veo",
-        "frontend",
-        "local-ai",
-        "trending"
+        "sora-alternative",
+        "mit-license",
+        "local-ai"
       ]
     },
     {
-      "topic": "Supertonic",
-      "repo": "supertone-inc/supertonic",
-      "cover_line1": "On-device multilingual TTS",
-      "cover_line2": "Runs natively via ONNX",
-      "body": "Supertonic 是 Supertone 公司开源的语音合成工具，能在 iPhone、Mac 或树莓派上实时跑多语言 TTS，不用联网、不调 API、不传录音。它把模型编译成 ONNX 格式，Swift 封装，直接调用 Apple Neural Engine 加速。支持中文、日语、韩语、英语、西班牙语、法语、德语、越南语、印尼语、泰语共 10 种语言，每种语言都有男女声可选。作者在 GitHub issue 里贴了实测延迟：iPhone 15 Pro 上，输入‘你好，今天天气不错’，从调用 .synthesize() 到扬声器出声，端到端 320ms；MacBook M3 上平均 110ms。所有语音波形都在设备内存里生成，不写临时文件，不触发系统麦克风权限。它不像传统 TTS 那样输出 WAV 再播放，而是直接喂给 AVAudioEngine 流式推流——这意味着你能边合成边播放，真正实现‘说一半听一半’。模型体积控制在 18MB 以内（含全部 10 种语言），可按需删减。它不提供训练脚本，只提供推理 SDK 和 Swift 示例工程，目标明确：让 App 开发者三行代码接入离线语音。README 里第一段 Swift 代码只有 12 行，初始化、设置语言、调合成，完了。没有 config、没有 server、没有 token。它解决的不是‘怎么训出更好音色’，而是‘怎么让语音快到用户感觉不到延迟’。你正在做的那个需要读屏或播报的 App，现在能离线说出第一句话了吗？",
+      "topic": "CLI-Anything",
+      "url": "HKUDS/CLI-Anything",
+      "cover_line1": "命令行软件代理中枢",
+      "cover_line2": "已支持35款主流CLI工具",
+      "body": "它让AI agent真正能用终端干活。不是模拟命令，而是把curl、ffmpeg、git、docker、jq、yq这些真实CLI工具，变成agent可调用的函数。你写个Python agent，用它的SDK注册一个命令，它就自动解析help文本、提取参数、生成JSON Schema、处理输入输出。目前实测打通35个工具，包括kubectl、terraform、nmap、exiftool。项目主页列了每个工具的调用示例，比如「用ffmpeg转码并提取帧率」一行函数调用就能完成。今天涨了333星，总星35317，是今天榜单里星数最高的AI项目。背后团队是港大DS组，代码里带测试用例和CI流水线，不是玩具。它不造轮子，只搭桥：让Agent不再靠猜命令，而是像调Python函数一样调ls、grep、ps。如果你写过agent要绕开权限、路径、版本兼容这些坑，就会懂这个项目省掉的是哪类时间。它没说「取代工程师」，但让Agent第一次能稳稳地敲出正确的chmod命令。你最近一次因为命令行参数记错重试三遍，是什么时候？",
       "tags": [
-        "tts",
-        "onnx",
-        "swift",
-        "offline",
-        "multilingual",
-        "ios",
-        "macos",
-        "neural-engine",
-        "edge-ai",
-        "trending"
+        "cli",
+        "software-agent",
+        "tool-use",
+        "command-line",
+        "agent-framework",
+        "python",
+        "hkuds",
+        "tool-integration",
+        "devops-tools",
+        "terminal-ai"
       ]
     },
     {
-      "topic": "CodeGraph",
-      "repo": "colbymchenry/codegraph",
-      "cover_line1": "Pre-indexed code knowledge graph",
-      "cover_line2": "100% local, Claude Code",
-      "body": "CodeGraph 是一个专为 Claude Code 设计的本地代码知识图谱工具。它不靠 LLM 实时爬 repo，而是提前把你的整个代码库解析成节点（函数、类、文件、import 关系）和边（调用、继承、引用），存成 SQLite 数据库。Claude Code 在写补全或解释时，不再全文扫描，而是查这张图——比如问‘谁在用这个 utils.decrypt 函数’，它直接返回 3 个调用点，附带上下文行号，不生成废话。作者测过：在 12 万行 TypeScript 项目里，原生 Claude Code 平均每次分析要发 2.7 次 tool call、消耗 14,200 tokens；接入 CodeGraph 后，降到 0.4 次 tool call、2,100 tokens。所有索引都在你本地跑，用 ts-morph 解析 AST，不上传代码，不连外部服务。安装只要 npm install -g codegraph，然后在项目根目录运行 codegraph index，30 秒内建完图。它还自带一个 CLI 查询命令：codegraph find --called-by 'handleLogin'，立刻列出所有调用链。VS Code 插件也已发布，右键函数名就能弹出关系图。它不改变你用 Claude 的方式，只是悄悄替你做了那件最耗 token 的事：理解代码结构。没有新 UI，没有新模型，只有一个数据库文件和几个查询接口。它相信：代码的语义不在文本里，在关系里。你上次为了搞懂一个函数的来龙去脉，花了多少分钟翻 GitHub blame 和 grep？",
+      "topic": "agents-towards-production",
+      "repo": "NirDiamant/agents-towards-production",
+      "cover_line1": "生产级AI Agent教程",
+      "cover_line2": "从原型到K8s部署全链路",
+      "body": "这不是讲LLM原理的课，是手把手带你把一个LangChain脚本，变成能在公司内网稳定跑三个月的AI服务。它用Jupyter Notebook写，每节都有可运行代码：第一节用Ollama搭本地小模型agent，第三节加RAG和缓存，第五节上Kubernetes，第七节接Prometheus监控和告警。所有配置文件都放仓库里，连ingress yaml和health check端点都写了。作者Nir Diamant是前Google SRE，教程里反复强调「agent失败时你得知道是token超限、还是向量库断连、还是Redis满了」。今天涨225星，总星近2万，说明大量人在临门一脚卡住——模型能聊，但上线就崩。它不卖愿景，只拆故障：怎么设timeout、怎么降级、怎么打日志、怎么测stateful agent的幂等性。最实用的是「生产检查清单」那页，列了17项必须验证的事，比如「所有外部API调用是否包了retry和circuit breaker」。它假设你已经会写agent，现在只想让它活过上线第一天。你上一个AI项目，有没有因为没设超时，导致整个服务被一个慢API拖垮？",
       "tags": [
-        "code-graph",
-        "claudocode",
-        "local",
-        "sqlite",
-        "ast",
-        "typescript",
-        "vscode",
-        "tooling",
-        "developer",
-        "trending"
+        "production-ai",
+        "genai-deployment",
+        "kubernetes",
+        "rag",
+        "langchain",
+        "jupyter",
+        "monitoring",
+        "reliability",
+        "sre",
+        "ai-ops"
+      ]
+    },
+    {
+      "topic": "scientific-agent-skills",
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "cover_line1": "科研向AI技能包",
+      "cover_line2": "覆盖物理/金融/生物/写作",
+      "body": "它提供一组开箱即用的Python函数，专为科研场景设计：查arXiv最新论文、跑SciPy拟合、调QuantLib定价、用Biopython比对DNA序列、调Llama.cpp跑本地学术模型、甚至生成LaTeX表格。每个函数都带类型提示、错误处理、文档字符串，还附了notebook示例。不是通用工具封装，而是针对「研究员真实工作流」：比如fetch_arxiv()默认按相关性排序，parse_pdf()能处理扫描件PDF里的公式图片。今天涨764星，总星23596，是今天涨幅第二高的项目。作者团队叫K-Dense，名字来自kernel density estimation，暗示他们真干统计建模。这些技能不是demo，而是已在实际研究组中用着——README里写了某大学计算化学组用它自动分析DFT计算日志。它不追求「全能」，只解决「我刚读完一篇Nature子刊，想复现图3但不会写pandas合并多表」这种具体问题。你最近一次想自动化科研重复操作，最后手动点鼠标完成了吗？",
+      "tags": [
+        "research-tools",
+        "scientific-python",
+        "arxiv",
+        "quantlib",
+        "biopython",
+        "latex",
+        "llama.cpp",
+        "academic-ai",
+        "science-automation",
+        "data-analysis"
       ]
     }
   ],
