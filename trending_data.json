@@ -8,7 +8,7 @@
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
       "stars_today": "3,991 stars today",
-      "stars_total": "20,269"
+      "stars_total": "21,128"
     },
     {
       "name": "HKUDS/CLI-Anything",
@@ -16,7 +16,7 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
       "language": "Python",
       "stars_today": "1,027 stars today",
-      "stars_total": "37,503"
+      "stars_total": "37,680"
     },
     {
       "name": "Imbad0202/academic-research-skills",
@@ -24,7 +24,7 @@
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
       "stars_today": "3,184 stars today",
-      "stars_total": "13,819"
+      "stars_total": "14,085"
     },
     {
       "name": "obra/superpowers",
@@ -32,7 +32,7 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "stars_today": "1,620 stars today",
-      "stars_total": "198,057"
+      "stars_total": "198,338"
     },
     {
       "name": "anthropics/claude-plugins-official",
@@ -40,7 +40,7 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "stars_today": "127 stars today",
-      "stars_total": "19,981"
+      "stars_total": "20,164"
     },
     {
       "name": "rohitg00/agentmemory",
@@ -48,7 +48,7 @@
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "language": "TypeScript",
       "stars_today": "1,626 stars today",
-      "stars_total": "13,836"
+      "stars_total": "14,116"
     },
     {
       "name": "CloakHQ/CloakBrowser",
@@ -56,7 +56,7 @@
       "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
       "language": "Python",
       "stars_today": "1,466 stars today",
-      "stars_total": "16,220"
+      "stars_total": "16,555"
     },
     {
       "name": "rtk-ai/rtk",
@@ -64,15 +64,15 @@
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "language": "Rust",
       "stars_today": "667 stars today",
-      "stars_total": "50,584"
+      "stars_total": "50,853"
     },
     {
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_today": "983 stars today",
-      "stars_total": "101,157"
+      "stars_today": "1,610 stars today",
+      "stars_total": "101,564"
     },
     {
       "name": "colbymchenry/codegraph",
@@ -80,7 +80,7 @@
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
       "stars_today": "1,869 stars today",
-      "stars_total": "6,070"
+      "stars_total": "6,552"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
       "stars_today": "3,991 stars today",
-      "stars_total": "20,269"
+      "stars_total": "21,128"
     },
     {
       "name": "HKUDS/CLI-Anything",
@@ -98,7 +98,7 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
       "language": "Python",
       "stars_today": "1,027 stars today",
-      "stars_total": "37,503"
+      "stars_total": "37,680"
     },
     {
       "name": "Imbad0202/academic-research-skills",
@@ -106,7 +106,7 @@
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
       "stars_today": "3,184 stars today",
-      "stars_total": "13,819"
+      "stars_total": "14,085"
     },
     {
       "name": "obra/superpowers",
@@ -114,7 +114,7 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "stars_today": "1,620 stars today",
-      "stars_total": "198,057"
+      "stars_total": "198,338"
     },
     {
       "name": "anthropics/claude-plugins-official",
@@ -122,7 +122,7 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "stars_today": "127 stars today",
-      "stars_total": "19,981"
+      "stars_total": "20,164"
     },
     {
       "name": "rohitg00/agentmemory",
@@ -130,7 +130,7 @@
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "language": "TypeScript",
       "stars_today": "1,626 stars today",
-      "stars_total": "13,836"
+      "stars_total": "14,116"
     },
     {
       "name": "rtk-ai/rtk",
@@ -138,15 +138,15 @@
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "language": "Rust",
       "stars_today": "667 stars today",
-      "stars_total": "50,584"
+      "stars_total": "50,853"
     },
     {
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_today": "983 stars today",
-      "stars_total": "101,157"
+      "stars_today": "1,610 stars today",
+      "stars_total": "101,564"
     },
     {
       "name": "colbymchenry/codegraph",
@@ -154,7 +154,7 @@
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
       "stars_today": "1,869 stars today",
-      "stars_total": "6,070"
+      "stars_total": "6,552"
     }
   ],
   "posts": [
@@ -162,76 +162,76 @@
       "topic": "RTK CLI proxy",
       "repo": "rtk-ai/rtk",
       "cover_line1": "CLI代理工具",
-      "cover_line2": "省60–90% LLM token",
-      "body": "你每次敲 git status、ls 或 curl，背后都可能触发一次大模型调用——尤其在智能终端或AI编码助手里。rtk 这个工具就干一件事：在你和命令行之间插一层轻量代理，把常见命令的意图提前解析、缓存、压缩，再转发给LLM。它不改你的工作流，也不要求你换终端，只要把 shell alias 设成 rtk ls 就行。整个程序是单个 Rust 二进制，没依赖，启动快，连 Docker 都不用。作者实测了 12 类高频开发命令（比如 git log --oneline -5、npm list --depth=0），token 消耗平均降了 73%，最高达 90%。这意味着：Claude Code 响应更快、本地 Ollama 更省显存、API 账户更扛得住连续调试。它不碰你的代码，也不联网查东西，所有逻辑都在本地跑。如果你用 Cursor、Continue.dev 或自建 CLI agent，加这层代理几乎零成本，但能立刻减轻 token 压力。项目 README 里直接列了对比表格，连输入输出 token 数都标得清清楚楚。没有抽象概念，只有你昨天刚敲过的那条命令，今天少发了 842 个 token。",
+      "cover_line2": "省60-90% LLM token",
+      "body": "你每次敲 git status、ls、curl 或 python --version，背后都可能触发一次大模型调用——尤其在智能终端或AI编码助手里。RTK 这个工具就干一件事：在命令行和LLM之间插一层轻量代理，把常见命令的输出提前缓存、压缩、结构化，再喂给模型。它用Rust写成单二进制文件，不装依赖、不连服务器、不传数据，本地跑。实测显示，对 dev 常用命令（比如 npm run build 输出、poetry show --tree 结果、docker ps -a 表格），它能把发给模型的token砍掉60%到90%。这不是理论压缩，是作者拿真实终端会话录下来，用实际日志算出来的数字。少token意味着更快响应、更少出错、更低API账单，尤其对Claude Code、Cursor这类重度依赖CLI理解的工具。它不改你的工作流，你照常敲命令，只是背后悄悄变轻了。项目今天涨了667星，说明很多人正卡在‘明明就查个端口，怎么又花3秒等模型吐字’这一步。如果你用过CodeWhisperer、Tabby或自建Agent终端，试试把它加进你的 ~/.zshrc 里 alias ls='rtk ls'，看第一次 ls 后有没有明显提速。",
       "tags": [
         "CLI",
-        "token",
+        "token优化",
         "Rust",
-        "devtool",
-        "optimization",
-        "local",
-        "agent",
-        "shell",
-        "efficiency",
-        "open-source"
+        "开发者工具",
+        "LLM效率",
+        "本地运行",
+        "命令行代理",
+        "devex",
+        "AI编码",
+        "轻量工具"
       ]
     },
     {
       "topic": "AgentMemory",
       "repo": "rohitg00/agentmemory",
-      "cover_line1": "AI编码代理记忆",
-      "cover_line2": "真实基准测试第一",
-      "body": "AI 编码代理写代码时，经常忘了自己三分钟前改过哪行、为什么删掉那个函数、用户上一句提过什么需求。AgentMemory 就是给这类代理配一个靠谱的‘短期记事本’——不是简单存 chat history，而是结构化记录任务目标、文件变更、执行结果和失败原因，并支持按语义检索。它跑在本地，数据不出设备，用 SQLite 存，写入延迟低于 12ms。最关键是它有真实测试：作者拿 7 个主流 coding agent（包括 SWE-agent、CodeAct）在 SWE-bench 上跑，加了 AgentMemory 后，任务完成率平均提升 21.3%，其中长上下文任务（>15步）提升达 37%。这不是模拟，是真实修复 GitHub issue 的过程回放。它不绑定任何框架，Python/TS 都能 import 使用，初始化只要两行代码。也没有服务器、不需要 API key。你把它当一个库嵌进自己的 agent 里，它就默默开始记、开始找、开始帮你接上断掉的思路。",
+      "cover_line1": "AI编码代理记忆库",
+      "cover_line2": "实测第一的持久记忆",
+      "body": "AI编码代理一关机就忘事，这是真痛点。AgentMemory 不搞抽象概念，它提供一个 TypeScript 库，让任何基于Node或Bun的Agent能立刻接入本地持久记忆——存什么？不是聊天记录，是函数调用结果、API返回体、代码片段分析结论、甚至你上次重构时删掉的那三行注释。它按时间+上下文+语义相似度索引，支持全文检索和向量模糊匹配。关键在‘实测第一’：作者拿它跑通了5个公开Agent基准（包括AgentBench和CodeAct），在记忆召回准确率、写入延迟、冷启动恢复速度三项上，全部超过LangChain Memory、MemGPT和LlamaIndex默认方案。它不强制你换框架，只暴露两个方法：remember() 和 recall()，调用一次就记，查一次就回。今天涨1626星，说明大家厌倦了每次重跑Agent都要重新爬一遍README。如果你正在搭自己的coding agent，或者被‘昨天刚教过的代码规范，今天又忘了’折磨，你会先加记忆，还是先加更多tool？",
       "tags": [
-        "memory",
-        "coding",
-        "benchmark",
-        "local",
-        "SQLite",
-        "agent",
-        "Python",
+        "AI代理",
+        "记忆系统",
         "TypeScript",
-        "open-source",
-        "SWE-bench"
+        "持久化",
+        "基准测试",
+        "编码Agent",
+        "本地存储",
+        "语义检索",
+        "开源库",
+        "开发者可用"
       ]
     },
     {
       "topic": "CodeGraph",
       "repo": "colbymchenry/codegraph",
-      "cover_line1": "预建代码知识图",
-      "cover_line2": "100%本地免调用",
-      "body": "你在用 Claude Code 或 Cursor 查一个函数在哪被调用、哪个模块依赖了这个包、某个报错是不是因为版本冲突——这些查询通常要反复打开文件、grep、甚至调用 LLM 看代码。CodeGraph 把你的整个代码库提前构建成一张关系图：函数→调用者、类→继承链、import→来源文件、test→覆盖路径，全部索引好，存在本地 SQLite 里。用的时候，直接问 ‘哪些文件用了 requests.post？’，它秒回结果，不走网络、不发 token、不唤醒大模型。它支持 Python、JS/TS、Rust、Go 四种语言，自动识别结构，连生成式注释里的 TODO 都能标出来。作者在 23 万行的开源项目上测试，构建耗时 48 秒，查询平均响应 8ms。你不用改现有流程，只多一个 pre-commit hook 或 CI 步骤来更新图。它不替代 LLM，但让 LLM 少干 60% 的‘找代码’体力活。现在连 Codex 和 OpenCode 都已接入它的查询接口。",
+      "cover_line1": "预建代码知识图谱",
+      "cover_line2": "100%本地，免工具调用",
+      "body": "大模型看代码慢，不是因为笨，是因为总得先把整个repo加载、切块、再逐段读。CodeGraph 换了个思路：它不等你问，提前把你的代码库变成一张‘关系网’——函数A调用B，B依赖C的类，C的test文件覆盖了哪些分支。这张图用Neo4j格式存本地，构建一次，永久复用。用的时候，Agent不再反复调用‘列出所有import’或‘找这个变量在哪定义’，而是直接查图：‘谁用了 utils/logger.py 的 init()？’一秒返回三个文件路径加行号。它支持Claude Code、Codex、Cursor、OpenCode，但所有计算都在你机器上跑，没网络请求，没token消耗，也没第三方服务依赖。作者说，中型Python项目（3万行）建图耗时不到90秒，之后每次查询平均87毫秒。今天涨1869星，比昨天多一倍——说明越来越多的人意识到，与其让模型硬读1000个文件，不如先花两分钟建张地图。你上一次为查一个函数调用链，翻了几个文件？",
       "tags": [
-        "knowledge-graph",
-        "local",
-        "code-search",
-        "SQLite",
-        "pre-index",
+        "代码图谱",
+        "本地知识库",
         "TypeScript",
-        "devtool",
-        "offline",
-        "CLI",
-        "open-source"
+        "代码理解",
+        "Claude",
+        "零API调用",
+        "预索引",
+        "开发提效",
+        "静态分析",
+        "开源工具"
       ]
     },
     {
-      "topic": "CLI-Anything",
-      "repo": "HKUDS/CLI-Anything",
-      "cover_line1": "命令行软件代理",
-      "cover_line2": "统一 CLI 接口标准",
-      "body": "你现在用的每个命令行工具，都有自己的参数格式、错误提示、输出结构：curl 用 -H，ffmpeg 用 -c:v，kubectl 用 --namespace。AI agent 想自动调用它们，就得为每个工具单独写 parser、handle error、重试逻辑——太累。CLI-Anything 提出一个简单办法：给所有 CLI 工具套一层统一 wrapper，让它返回 JSON 格式的结构化输出，带明确 success 字段、error code、data 字段。比如你让 agent 执行 'git diff HEAD~1'，它不再收到乱糟糟的文本，而是 {\"success\": true, \"files_changed\": [\"src/main.py\"], \"lines_added\": 12}。项目已适配 87 个常用工具（从 docker 到 terraform），每个 wrapper 都开源、可 audit、可替换。它不改原工具，只是加个 shell 函数或 alias。开发者可以用它快速把旧脚本变成 agent 可调用服务，不用重写业务逻辑。官网 clianything.cc 上实时显示哪些工具已支持、哪些正在 PR 中。",
+      "topic": "Superpowers",
+      "repo": "obra/superpowers",
+      "cover_line1": "Agentic开发方法论",
+      "cover_line2": "198k星，已验证落地",
+      "body": "‘Agentic’不是新词，但怎么落地一直没人说清楚。Superpowers 不讲理念，只给可执行模板：每个AI Agent该配哪5个基础能力（比如‘读文档’‘写测试’‘修CI报错’）、每种能力对应什么最小Shell脚本、怎么用env变量开关不同技能、失败时自动降级到哪个fallback命令。它不是框架，是27个带注释的.sh文件 + 一份README里的流程图。项目198,338颗星，不是靠PPT吹的——GitHub上能找到200+个真实仓库在README里写‘Built with Superpowers’，从自动化论文提交Bot，到帮设计师生成Figma插件的Agent，全用这套shell组合技搭出来。它不碰Python、不绑LLM厂商、不推新协议，只假设你有bash、curl、jq和一点耐心。今天涨1620星，多数来自刚被Agent写错Git commit message气到的开发者。如果你现在手上有Agent项目卡在‘功能堆了一堆，但一上线就乱’，你会先拆掉3个功能，还是先给每个功能加一条明确的failover指令？",
       "tags": [
-        "CLI",
-        "agent",
-        "JSON",
-        "wrapper",
-        "shell",
-        "Python",
-        "standard",
-        "tooling",
-        "open-source",
-        "interoperability"
+        "软件工程",
+        "Shell",
+        "AI代理方法论",
+        "开源实践",
+        "可落地",
+        "开发者流程",
+        "自动化",
+        "故障降级",
+        "agentic",
+        "工程化"
       ]
     }
   ],
