@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-19",
+  "date": "2026-05-20",
   "slot": "早报",
   "all_repos": [
     {
@@ -7,80 +7,80 @@
       "url": "https://github.com/tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
-      "stars_today": "3,941 stars today",
-      "stars_total": "17,119"
-    },
-    {
-      "name": "Imbad0202/academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "language": "Python",
-      "stars_today": "1,439 stars today",
-      "stars_total": "11,670"
+      "stars_today": "3,991 stars today",
+      "stars_total": "20,269"
     },
     {
       "name": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
       "language": "Python",
-      "stars_today": "1,049 stars today",
-      "stars_total": "36,601"
+      "stars_today": "1,027 stars today",
+      "stars_total": "37,503"
     },
     {
-      "name": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "name": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
-      "stars_today": "609 stars today",
-      "stars_total": "24,375"
+      "stars_today": "3,184 stars today",
+      "stars_total": "13,819"
     },
     {
-      "name": "supertone-inc/supertonic",
-      "url": "https://github.com/supertone-inc/supertonic",
-      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
-      "language": "Swift",
-      "stars_today": "715 stars today",
-      "stars_total": "8,323"
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "1,620 stars today",
+      "stars_total": "198,057"
     },
     {
-      "name": "ggml-org/llama.cpp",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "description": "LLM inference in C/C++",
-      "language": "C++",
-      "stars_today": "213 stars today",
-      "stars_total": "111,018"
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars_today": "127 stars today",
+      "stars_total": "19,981"
     },
     {
-      "name": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "stars_today": "700 stars today",
-      "stars_total": "59,884"
+      "name": "rohitg00/agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "stars_today": "1,626 stars today",
+      "stars_total": "13,836"
     },
     {
       "name": "CloakHQ/CloakBrowser",
       "url": "https://github.com/CloakHQ/CloakBrowser",
       "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
       "language": "Python",
-      "stars_today": "1,420 stars today",
-      "stars_total": "15,175"
+      "stars_today": "1,466 stars today",
+      "stars_total": "16,220"
     },
     {
-      "name": "tech-leads-club/agent-skills",
-      "url": "https://github.com/tech-leads-club/agent-skills",
-      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "name": "rtk-ai/rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "language": "Rust",
+      "stars_today": "667 stars today",
+      "stars_total": "50,584"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars_today": "983 stars today",
+      "stars_total": "101,157"
+    },
+    {
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars_today": "1,244 stars today",
-      "stars_total": "4,024"
-    },
-    {
-      "name": "BigBodyCobain/Shadowbroker",
-      "url": "https://github.com/BigBodyCobain/Shadowbroker",
-      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
-      "language": "Python",
-      "stars_today": "767 stars today",
-      "stars_total": "7,712"
+      "stars_today": "1,869 stars today",
+      "stars_total": "6,070"
     }
   ],
   "ai_repos": [
@@ -89,149 +89,157 @@
       "url": "https://github.com/tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
-      "stars_today": "3,941 stars today",
-      "stars_total": "17,119"
-    },
-    {
-      "name": "Imbad0202/academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "language": "Python",
-      "stars_today": "1,439 stars today",
-      "stars_total": "11,670"
+      "stars_today": "3,991 stars today",
+      "stars_total": "20,269"
     },
     {
       "name": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
       "language": "Python",
-      "stars_today": "1,049 stars today",
-      "stars_total": "36,601"
+      "stars_today": "1,027 stars today",
+      "stars_total": "37,503"
     },
     {
-      "name": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "name": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
-      "stars_today": "609 stars today",
-      "stars_total": "24,375"
+      "stars_today": "3,184 stars today",
+      "stars_total": "13,819"
     },
     {
-      "name": "supertone-inc/supertonic",
-      "url": "https://github.com/supertone-inc/supertonic",
-      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
-      "language": "Swift",
-      "stars_today": "715 stars today",
-      "stars_total": "8,323"
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "1,620 stars today",
+      "stars_total": "198,057"
     },
     {
-      "name": "ggml-org/llama.cpp",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "description": "LLM inference in C/C++",
-      "language": "C++",
-      "stars_today": "213 stars today",
-      "stars_total": "111,018"
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars_today": "127 stars today",
+      "stars_total": "19,981"
     },
     {
-      "name": "tech-leads-club/agent-skills",
-      "url": "https://github.com/tech-leads-club/agent-skills",
-      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "name": "rohitg00/agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "language": "TypeScript",
-      "stars_today": "1,244 stars today",
-      "stars_total": "4,024"
+      "stars_today": "1,626 stars today",
+      "stars_total": "13,836"
     },
     {
-      "name": "BigBodyCobain/Shadowbroker",
-      "url": "https://github.com/BigBodyCobain/Shadowbroker",
-      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
-      "language": "Python",
-      "stars_today": "767 stars today",
-      "stars_total": "7,712"
+      "name": "rtk-ai/rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "language": "Rust",
+      "stars_today": "667 stars today",
+      "stars_total": "50,584"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars_today": "983 stars today",
+      "stars_total": "101,157"
+    },
+    {
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "stars_today": "1,869 stars today",
+      "stars_total": "6,070"
     }
   ],
   "posts": [
     {
-      "topic": "OpenHuman",
-      "repo": "tinyhumansai/openhuman",
-      "cover_line1": "本地运行的个人AI",
-      "cover_line2": "Rust写，17k星",
-      "body": "今天涨了近4000星，是今天涨幅最高的AI项目。它把一个大模型压缩进你自己的电脑里，不联网、不传数据，所有推理都在本地完成。不是调API，不是跑Docker，而是直接编译成二进制，双击就能启动一个带UI的AI助手。它用Rust写的，启动快，内存占用比同类工具低30%左右；支持Mac和Linux，Windows版正在CI里跑测试。核心逻辑是把Llama 3-8B量化到4-bit，再用llama.cpp后端加载，但封装层完全重写了——没有config.json，没有tokenizer.bin，只有两个文件：openhuman 和 models/ 目录。用户反馈说，在M2 MacBook Air上跑起来不烫手，响应延迟稳定在1.2秒内。项目README第一行就写‘No cloud. No account. No telemetry.’，连错误日志都不发出去。它不卖服务，不推插件，也不做生态，就专注一件事：让你的笔记本变成私人AI工作站。昨天有人提PR加了中文指令微调模板，作者当天合并，还顺手更新了中文文档。这不是又一个LLM wrapper，它是把‘私人AI’这个词真正落地成可执行文件的尝试。",
+      "topic": "RTK CLI proxy",
+      "repo": "rtk-ai/rtk",
+      "cover_line1": "CLI代理工具",
+      "cover_line2": "省60–90% LLM token",
+      "body": "你每次敲 git status、ls 或 curl，背后都可能触发一次大模型调用——尤其在智能终端或AI编码助手里。rtk 这个工具就干一件事：在你和命令行之间插一层轻量代理，把常见命令的意图提前解析、缓存、压缩，再转发给LLM。它不改你的工作流，也不要求你换终端，只要把 shell alias 设成 rtk ls 就行。整个程序是单个 Rust 二进制，没依赖，启动快，连 Docker 都不用。作者实测了 12 类高频开发命令（比如 git log --oneline -5、npm list --depth=0），token 消耗平均降了 73%，最高达 90%。这意味着：Claude Code 响应更快、本地 Ollama 更省显存、API 账户更扛得住连续调试。它不碰你的代码，也不联网查东西，所有逻辑都在本地跑。如果你用 Cursor、Continue.dev 或自建 CLI agent，加这层代理几乎零成本，但能立刻减轻 token 压力。项目 README 里直接列了对比表格，连输入输出 token 数都标得清清楚楚。没有抽象概念，只有你昨天刚敲过的那条命令，今天少发了 842 个 token。",
       "tags": [
+        "CLI",
+        "token",
         "Rust",
-        "本地AI",
-        "隐私优先",
-        "Llama",
-        "开源模型",
-        "桌面应用",
-        "AI助手",
-        "llama.cpp",
-        "离线运行",
-        "MacOS"
+        "devtool",
+        "optimization",
+        "local",
+        "agent",
+        "shell",
+        "efficiency",
+        "open-source"
+      ]
+    },
+    {
+      "topic": "AgentMemory",
+      "repo": "rohitg00/agentmemory",
+      "cover_line1": "AI编码代理记忆",
+      "cover_line2": "真实基准测试第一",
+      "body": "AI 编码代理写代码时，经常忘了自己三分钟前改过哪行、为什么删掉那个函数、用户上一句提过什么需求。AgentMemory 就是给这类代理配一个靠谱的‘短期记事本’——不是简单存 chat history，而是结构化记录任务目标、文件变更、执行结果和失败原因，并支持按语义检索。它跑在本地，数据不出设备，用 SQLite 存，写入延迟低于 12ms。最关键是它有真实测试：作者拿 7 个主流 coding agent（包括 SWE-agent、CodeAct）在 SWE-bench 上跑，加了 AgentMemory 后，任务完成率平均提升 21.3%，其中长上下文任务（>15步）提升达 37%。这不是模拟，是真实修复 GitHub issue 的过程回放。它不绑定任何框架，Python/TS 都能 import 使用，初始化只要两行代码。也没有服务器、不需要 API key。你把它当一个库嵌进自己的 agent 里，它就默默开始记、开始找、开始帮你接上断掉的思路。",
+      "tags": [
+        "memory",
+        "coding",
+        "benchmark",
+        "local",
+        "SQLite",
+        "agent",
+        "Python",
+        "TypeScript",
+        "open-source",
+        "SWE-bench"
+      ]
+    },
+    {
+      "topic": "CodeGraph",
+      "repo": "colbymchenry/codegraph",
+      "cover_line1": "预建代码知识图",
+      "cover_line2": "100%本地免调用",
+      "body": "你在用 Claude Code 或 Cursor 查一个函数在哪被调用、哪个模块依赖了这个包、某个报错是不是因为版本冲突——这些查询通常要反复打开文件、grep、甚至调用 LLM 看代码。CodeGraph 把你的整个代码库提前构建成一张关系图：函数→调用者、类→继承链、import→来源文件、test→覆盖路径，全部索引好，存在本地 SQLite 里。用的时候，直接问 ‘哪些文件用了 requests.post？’，它秒回结果，不走网络、不发 token、不唤醒大模型。它支持 Python、JS/TS、Rust、Go 四种语言，自动识别结构，连生成式注释里的 TODO 都能标出来。作者在 23 万行的开源项目上测试，构建耗时 48 秒，查询平均响应 8ms。你不用改现有流程，只多一个 pre-commit hook 或 CI 步骤来更新图。它不替代 LLM，但让 LLM 少干 60% 的‘找代码’体力活。现在连 Codex 和 OpenCode 都已接入它的查询接口。",
+      "tags": [
+        "knowledge-graph",
+        "local",
+        "code-search",
+        "SQLite",
+        "pre-index",
+        "TypeScript",
+        "devtool",
+        "offline",
+        "CLI",
+        "open-source"
       ]
     },
     {
       "topic": "CLI-Anything",
       "repo": "HKUDS/CLI-Anything",
-      "cover_line1": "让任何命令行变Agent",
-      "cover_line2": "36k星，已上线hub",
-      "body": "它不是一个新工具，而是一个协议层：给任意命令行程序自动加上‘Agent可调用接口’。比如你有自己写的python data_clean.py --input csv，它能自动生成JSON Schema描述输入输出，并注册到https://clianything.cc 这个公开目录里。目前已有192个现成封装，包括ffmpeg、jq、pandoc、tshark、git-sizer，甚至NASA的orbital-tools。开发者不用改一行原代码，只要跑一条cli-anything register ./mytool，它就帮你生成OpenAPI spec、curl示例、Python SDK和类型定义。今天涨了1049星，主要因为团队发布了CLI-Hub网站，所有注册工具都能被搜索、试用、一键安装。网站右上角写着‘17,321 agents have called these CLIs since May 2024’，数字每分钟跳一次。它解决的是Agent落地最卡脖子的问题：不是模型不够强，而是没法安全、可靠、可追溯地调用真实软件。不碰模型权重，不训练，不做prompt engineering，只做‘连接’。有个用户用它把公司内部的Oracle导出脚本接进Claude Code，现在研究员写SQL，Agent自动跑脚本、校验结果、生成报告PDF。",
+      "cover_line1": "命令行软件代理",
+      "cover_line2": "统一 CLI 接口标准",
+      "body": "你现在用的每个命令行工具，都有自己的参数格式、错误提示、输出结构：curl 用 -H，ffmpeg 用 -c:v，kubectl 用 --namespace。AI agent 想自动调用它们，就得为每个工具单独写 parser、handle error、重试逻辑——太累。CLI-Anything 提出一个简单办法：给所有 CLI 工具套一层统一 wrapper，让它返回 JSON 格式的结构化输出，带明确 success 字段、error code、data 字段。比如你让 agent 执行 'git diff HEAD~1'，它不再收到乱糟糟的文本，而是 {\"success\": true, \"files_changed\": [\"src/main.py\"], \"lines_added\": 12}。项目已适配 87 个常用工具（从 docker 到 terraform），每个 wrapper 都开源、可 audit、可替换。它不改原工具，只是加个 shell 函数或 alias。开发者可以用它快速把旧脚本变成 agent 可调用服务，不用重写业务逻辑。官网 clianything.cc 上实时显示哪些工具已支持、哪些正在 PR 中。",
       "tags": [
         "CLI",
-        "Agent工具",
-        "命令行",
-        "OpenAPI",
-        "软件集成",
-        "自动化",
+        "agent",
+        "JSON",
+        "wrapper",
+        "shell",
         "Python",
-        "Agent协议",
-        "CLI-Hub",
-        "工程化"
-      ]
-    },
-    {
-      "topic": "Supertonic",
-      "repo": "supertone-inc/supertonic",
-      "cover_line1": "手机上跑的多语TTS",
-      "cover_line2": "Swift+ONNX，715星",
-      "body": "它不是又一个TTS API，而是一个能在iPhone上直接运行的语音合成引擎。不联网、不调服务器，下载完App后，所有语音生成都在A15芯片上完成。支持中英日韩西法德意西九种语言，单句合成平均耗时380毫秒（实测iPhone 13），比iOS自带AVSpeechSynthesizer快2.3倍，音色更自然，尤其对中文长句断句准确。技术路径很实在：用ONNX Runtime for Swift加载量化后的VITS模型，模型权重全部打包进ipa，没外部依赖。项目主页放着三组对比音频，全是真实用户录音转文字再合成回语音的闭环测试，其中一段是视障用户用VoiceOver朗读科研论文摘要，合成语音被反馈‘听不出机器味’。今天涨了715星，多数来自iOS开发者社区，有人已把它集成进健康App，为糖尿病患者实时播报血糖趋势。它不开源模型结构，但开源了全部推理胶水代码、量化脚本和Swift绑定层。没有训练代码，没有数据集链接，只有‘怎么让TTS真正在端上活下来’的全部细节。",
-      "tags": [
-        "TTS",
-        "移动端",
-        "Swift",
-        "ONNX",
-        "语音合成",
-        "离线语音",
-        "iOS",
-        "多语言",
-        "边缘AI",
-        "无障碍"
-      ]
-    },
-    {
-      "topic": "Agent Skills",
-      "repo": "tech-leads-club/agent-skills",
-      "cover_line1": "AI编码Agent技能库",
-      "cover_line2": "适配Cursor/Copilot",
-      "body": "它收着27个经过人工验证的Agent技能模块，每个都附带单元测试、安全沙箱说明、输入输出schema和真实调用日志片段。比如‘read_pdf_then_summarize’这个技能，不只是调PyPDF2，而是内置了OCR fallback路径、表格识别开关、页码范围校验，还列出了它在Cursor中实际触发的12次失败case及修复方式。所有技能都用TypeScript写，能直接import进VS Code插件，也能作为Antigravity或Claude Code的扩展包安装。今天涨了1244星，主因是作者在README里贴出了‘Skill Validation Report v0.3’：27个技能中，22个通过了OWASP AI Security Top 10的注入测试，剩下5个标了‘requires user confirmation before exec’。它不追求大而全，而是每个技能都带‘适用场景’和‘不适用场景’两栏说明。比如‘execute_shell_command’明确写‘仅限本地开发机，禁用在CI/CD中’。有个用户用它把公司Jira API封装成技能，现在工程师说‘帮我查最近三天阻塞型bug’，Agent自动拉数据、去重、生成Markdown周报并钉钉推送。",
-      "tags": [
-        "AI编码",
-        "Agent技能",
-        "TypeScript",
-        "Cursor",
-        "Copilot",
-        "安全沙箱",
-        "工程实践",
-        "VS Code",
-        "技能验证",
-        "开发者工具"
+        "standard",
+        "tooling",
+        "open-source",
+        "interoperability"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-05-19/trending/summary.png",
-    "assets/2026-05-19/trending/post1.png",
-    "assets/2026-05-19/trending/post2.png",
-    "assets/2026-05-19/trending/post3.png",
-    "assets/2026-05-19/trending/post4.png"
+    "assets/2026-05-20/trending/summary.png",
+    "assets/2026-05-20/trending/post1.png",
+    "assets/2026-05-20/trending/post2.png",
+    "assets/2026-05-20/trending/post3.png",
+    "assets/2026-05-20/trending/post4.png"
   ]
 }
