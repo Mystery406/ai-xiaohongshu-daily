@@ -1,245 +1,253 @@
 {
-  "date": "2026-05-20",
+  "date": "2026-05-21",
   "slot": "早报",
   "all_repos": [
     {
-      "name": "tinyhumansai/openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "language": "Rust",
-      "stars_today": "3,991 stars today",
-      "stars_total": "21,128"
-    },
-    {
-      "name": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-      "language": "Python",
-      "stars_today": "1,027 stars today",
-      "stars_total": "37,680"
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "stars_today": "1,910 stars today",
+      "stars_total": "8,501"
     },
     {
       "name": "Imbad0202/academic-research-skills",
       "url": "https://github.com/Imbad0202/academic-research-skills",
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
-      "stars_today": "3,184 stars today",
-      "stars_total": "14,085"
+      "stars_today": "1,639 stars today",
+      "stars_total": "15,595"
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars_today": "3,603 stars today",
+      "stars_total": "23,299"
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "stars_today": "2,620 stars today",
+      "stars_total": "140,198"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars_today": "762 stars today",
+      "stars_total": "9,205"
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars_today": "930 stars today",
+      "stars_total": "38,361"
+    },
+    {
+      "name": "can1357/oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "language": "TypeScript",
+      "stars_today": "237 stars today",
+      "stars_total": "5,277"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,620 stars today",
-      "stars_total": "198,338"
+      "stars_today": "1,776 stars today",
+      "stars_total": "199,711"
     },
     {
       "name": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars_today": "127 stars today",
-      "stars_total": "20,164"
-    },
-    {
-      "name": "rohitg00/agentmemory",
-      "url": "https://github.com/rohitg00/agentmemory",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "language": "TypeScript",
-      "stars_today": "1,626 stars today",
-      "stars_total": "14,116"
-    },
-    {
-      "name": "CloakHQ/CloakBrowser",
-      "url": "https://github.com/CloakHQ/CloakBrowser",
-      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-      "language": "Python",
-      "stars_today": "1,466 stars today",
-      "stars_total": "16,555"
-    },
-    {
-      "name": "rtk-ai/rtk",
-      "url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "language": "Rust",
-      "stars_today": "667 stars today",
-      "stars_total": "50,853"
+      "stars_today": "706 stars today",
+      "stars_total": "20,615"
     },
     {
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_today": "1,610 stars today",
-      "stars_total": "101,564"
-    },
-    {
-      "name": "colbymchenry/codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
-      "language": "TypeScript",
-      "stars_today": "1,869 stars today",
-      "stars_total": "6,552"
+      "stars_today": "1,714 stars today",
+      "stars_total": "102,591"
     }
   ],
   "ai_repos": [
     {
-      "name": "tinyhumansai/openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "language": "Rust",
-      "stars_today": "3,991 stars today",
-      "stars_total": "21,128"
-    },
-    {
-      "name": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-      "language": "Python",
-      "stars_today": "1,027 stars today",
-      "stars_total": "37,680"
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "stars_today": "1,910 stars today",
+      "stars_total": "8,501"
     },
     {
       "name": "Imbad0202/academic-research-skills",
       "url": "https://github.com/Imbad0202/academic-research-skills",
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
-      "stars_today": "3,184 stars today",
-      "stars_total": "14,085"
+      "stars_today": "1,639 stars today",
+      "stars_total": "15,595"
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars_today": "3,603 stars today",
+      "stars_total": "23,299"
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "stars_today": "2,620 stars today",
+      "stars_total": "140,198"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars_today": "762 stars today",
+      "stars_total": "9,205"
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars_today": "930 stars today",
+      "stars_total": "38,361"
+    },
+    {
+      "name": "can1357/oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "language": "TypeScript",
+      "stars_today": "237 stars today",
+      "stars_total": "5,277"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,620 stars today",
-      "stars_total": "198,338"
+      "stars_today": "1,776 stars today",
+      "stars_total": "199,711"
     },
     {
       "name": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars_today": "127 stars today",
-      "stars_total": "20,164"
-    },
-    {
-      "name": "rohitg00/agentmemory",
-      "url": "https://github.com/rohitg00/agentmemory",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "language": "TypeScript",
-      "stars_today": "1,626 stars today",
-      "stars_total": "14,116"
-    },
-    {
-      "name": "rtk-ai/rtk",
-      "url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "language": "Rust",
-      "stars_today": "667 stars today",
-      "stars_total": "50,853"
+      "stars_today": "706 stars today",
+      "stars_total": "20,615"
     },
     {
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_today": "1,610 stars today",
-      "stars_total": "101,564"
-    },
-    {
-      "name": "colbymchenry/codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
-      "language": "TypeScript",
-      "stars_today": "1,869 stars today",
-      "stars_total": "6,552"
+      "stars_today": "1,714 stars today",
+      "stars_total": "102,591"
     }
   ],
   "posts": [
     {
-      "topic": "RTK CLI proxy",
-      "repo": "rtk-ai/rtk",
-      "cover_line1": "CLI代理工具",
-      "cover_line2": "省60-90% LLM token",
-      "body": "你每次敲 git status、ls、curl 或 python --version，背后都可能触发一次大模型调用——尤其在智能终端或AI编码助手里。RTK 这个工具就干一件事：在命令行和LLM之间插一层轻量代理，把常见命令的输出提前缓存、压缩、结构化，再喂给模型。它用Rust写成单二进制文件，不装依赖、不连服务器、不传数据，本地跑。实测显示，对 dev 常用命令（比如 npm run build 输出、poetry show --tree 结果、docker ps -a 表格），它能把发给模型的token砍掉60%到90%。这不是理论压缩，是作者拿真实终端会话录下来，用实际日志算出来的数字。少token意味着更快响应、更少出错、更低API账单，尤其对Claude Code、Cursor这类重度依赖CLI理解的工具。它不改你的工作流，你照常敲命令，只是背后悄悄变轻了。项目今天涨了667星，说明很多人正卡在‘明明就查个端口，怎么又花3秒等模型吐字’这一步。如果你用过CodeWhisperer、Tabby或自建Agent终端，试试把它加进你的 ~/.zshrc 里 alias ls='rtk ls'，看第一次 ls 后有没有明显提速。",
-      "tags": [
-        "CLI",
-        "token优化",
-        "Rust",
-        "开发者工具",
-        "LLM效率",
-        "本地运行",
-        "命令行代理",
-        "devex",
-        "AI编码",
-        "轻量工具"
-      ]
-    },
-    {
-      "topic": "AgentMemory",
-      "repo": "rohitg00/agentmemory",
-      "cover_line1": "AI编码代理记忆库",
-      "cover_line2": "实测第一的持久记忆",
-      "body": "AI编码代理一关机就忘事，这是真痛点。AgentMemory 不搞抽象概念，它提供一个 TypeScript 库，让任何基于Node或Bun的Agent能立刻接入本地持久记忆——存什么？不是聊天记录，是函数调用结果、API返回体、代码片段分析结论、甚至你上次重构时删掉的那三行注释。它按时间+上下文+语义相似度索引，支持全文检索和向量模糊匹配。关键在‘实测第一’：作者拿它跑通了5个公开Agent基准（包括AgentBench和CodeAct），在记忆召回准确率、写入延迟、冷启动恢复速度三项上，全部超过LangChain Memory、MemGPT和LlamaIndex默认方案。它不强制你换框架，只暴露两个方法：remember() 和 recall()，调用一次就记，查一次就回。今天涨1626星，说明大家厌倦了每次重跑Agent都要重新爬一遍README。如果你正在搭自己的coding agent，或者被‘昨天刚教过的代码规范，今天又忘了’折磨，你会先加记忆，还是先加更多tool？",
-      "tags": [
-        "AI代理",
-        "记忆系统",
-        "TypeScript",
-        "持久化",
-        "基准测试",
-        "编码Agent",
-        "本地存储",
-        "语义检索",
-        "开源库",
-        "开发者可用"
-      ]
-    },
-    {
-      "topic": "CodeGraph",
+      "topic": "codegraph",
       "repo": "colbymchenry/codegraph",
-      "cover_line1": "预建代码知识图谱",
-      "cover_line2": "100%本地，免工具调用",
-      "body": "大模型看代码慢，不是因为笨，是因为总得先把整个repo加载、切块、再逐段读。CodeGraph 换了个思路：它不等你问，提前把你的代码库变成一张‘关系网’——函数A调用B，B依赖C的类，C的test文件覆盖了哪些分支。这张图用Neo4j格式存本地，构建一次，永久复用。用的时候，Agent不再反复调用‘列出所有import’或‘找这个变量在哪定义’，而是直接查图：‘谁用了 utils/logger.py 的 init()？’一秒返回三个文件路径加行号。它支持Claude Code、Codex、Cursor、OpenCode，但所有计算都在你机器上跑，没网络请求，没token消耗，也没第三方服务依赖。作者说，中型Python项目（3万行）建图耗时不到90秒，之后每次查询平均87毫秒。今天涨1869星，比昨天多一倍——说明越来越多的人意识到，与其让模型硬读1000个文件，不如先花两分钟建张地图。你上一次为查一个函数调用链，翻了几个文件？",
+      "cover_line1": "codegraph",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**colbymchenry/codegraph**\n\n📌 Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local\n\n🔗 https://github.com/colbymchenry/codegraph\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "代码图谱",
-        "本地知识库",
-        "TypeScript",
-        "代码理解",
-        "Claude",
-        "零API调用",
-        "预索引",
-        "开发提效",
-        "静态分析",
-        "开源工具"
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "Superpowers",
-      "repo": "obra/superpowers",
-      "cover_line1": "Agentic开发方法论",
-      "cover_line2": "198k星，已验证落地",
-      "body": "‘Agentic’不是新词，但怎么落地一直没人说清楚。Superpowers 不讲理念，只给可执行模板：每个AI Agent该配哪5个基础能力（比如‘读文档’‘写测试’‘修CI报错’）、每种能力对应什么最小Shell脚本、怎么用env变量开关不同技能、失败时自动降级到哪个fallback命令。它不是框架，是27个带注释的.sh文件 + 一份README里的流程图。项目198,338颗星，不是靠PPT吹的——GitHub上能找到200+个真实仓库在README里写‘Built with Superpowers’，从自动化论文提交Bot，到帮设计师生成Figma插件的Agent，全用这套shell组合技搭出来。它不碰Python、不绑LLM厂商、不推新协议，只假设你有bash、curl、jq和一点耐心。今天涨1620星，多数来自刚被Agent写错Git commit message气到的开发者。如果你现在手上有Agent项目卡在‘功能堆了一堆，但一上线就乱’，你会先拆掉3个功能，还是先给每个功能加一条明确的failover指令？",
+      "topic": "academic-research-sk",
+      "repo": "Imbad0202/academic-research-skills",
+      "cover_line1": "academic-r",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**Imbad0202/academic-research-skills**\n\n📌 Academic Research Skills for Claude Code: research → write → review → revise → finalize\n\n🔗 https://github.com/Imbad0202/academic-research-skills\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "软件工程",
-        "Shell",
-        "AI代理方法论",
-        "开源实践",
-        "可落地",
-        "开发者流程",
-        "自动化",
-        "故障降级",
-        "agentic",
-        "工程化"
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "openhuman",
+      "repo": "tinyhumansai/openhuman",
+      "cover_line1": "openhuman",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**tinyhumansai/openhuman**\n\n📌 Your Personal AI super intelligence. Private, Simple and extremely powerful.\n\n🔗 https://github.com/tinyhumansai/openhuman\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "andrej-karpathy-skil",
+      "repo": "multica-ai/andrej-karpathy-skills",
+      "cover_line1": "andrej-kar",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**multica-ai/andrej-karpathy-skills**\n\n📌 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.\n\n🔗 https://github.com/multica-ai/andrej-karpathy-skills\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-05-20/trending/summary.png",
-    "assets/2026-05-20/trending/post1.png",
-    "assets/2026-05-20/trending/post2.png",
-    "assets/2026-05-20/trending/post3.png",
-    "assets/2026-05-20/trending/post4.png"
+    "assets/2026-05-21/trending/summary.png",
+    "assets/2026-05-21/trending/post1.png",
+    "assets/2026-05-21/trending/post2.png",
+    "assets/2026-05-21/trending/post3.png",
+    "assets/2026-05-21/trending/post4.png"
   ]
 }
