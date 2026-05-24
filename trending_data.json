@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-24",
-  "slot": "晚报",
+  "date": "2026-05-25",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "Lum1104/Understand-Anything",
@@ -8,7 +8,7 @@
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
       "stars_today": "3,987 stars today",
-      "stars_total": "24,158"
+      "stars_total": "25,643"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
@@ -16,7 +16,7 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "stars_today": "1,836 stars today",
-      "stars_total": "14,891"
+      "stars_total": "15,882"
     },
     {
       "name": "anthropics/claude-plugins-official",
@@ -24,7 +24,7 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "stars_today": "1,179 stars today",
-      "stars_total": "27,066"
+      "stars_total": "27,220"
     },
     {
       "name": "anthropics/knowledge-work-plugins",
@@ -32,7 +32,7 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "stars_today": "486 stars today",
-      "stars_total": "13,414"
+      "stars_total": "14,012"
     },
     {
       "name": "multica-ai/andrej-karpathy-skills",
@@ -40,7 +40,7 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "stars_today": "2,555 stars today",
-      "stars_total": "151,144"
+      "stars_total": "151,982"
     },
     {
       "name": "earendil-works/pi",
@@ -48,15 +48,15 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "stars_today": "444 stars today",
-      "stars_total": "53,689"
+      "stars_total": "53,906"
     },
     {
       "name": "Alishahryar1/free-claude-code",
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
       "language": "Python",
-      "stars_today": "565 stars today",
-      "stars_total": "28,891"
+      "stars_today": "557 stars today",
+      "stars_total": "29,140"
     },
     {
       "name": "colbymchenry/codegraph",
@@ -64,7 +64,7 @@
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
       "stars_today": "2,993 stars today",
-      "stars_total": "21,181"
+      "stars_total": "21,890"
     },
     {
       "name": "multica-ai/multica",
@@ -72,7 +72,7 @@
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "language": "TypeScript",
       "stars_today": "584 stars today",
-      "stars_total": "32,254"
+      "stars_total": "32,465"
     },
     {
       "name": "shiyu-coder/Kronos",
@@ -80,7 +80,7 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "stars_today": "96 stars today",
-      "stars_total": "25,700"
+      "stars_total": "25,783"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
       "stars_today": "3,987 stars today",
-      "stars_total": "24,158"
+      "stars_total": "25,643"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
@@ -98,7 +98,7 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "stars_today": "1,836 stars today",
-      "stars_total": "14,891"
+      "stars_total": "15,882"
     },
     {
       "name": "anthropics/claude-plugins-official",
@@ -106,7 +106,7 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "stars_today": "1,179 stars today",
-      "stars_total": "27,066"
+      "stars_total": "27,220"
     },
     {
       "name": "anthropics/knowledge-work-plugins",
@@ -114,7 +114,7 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "stars_today": "486 stars today",
-      "stars_total": "13,414"
+      "stars_total": "14,012"
     },
     {
       "name": "multica-ai/andrej-karpathy-skills",
@@ -122,7 +122,7 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "stars_today": "2,555 stars today",
-      "stars_total": "151,144"
+      "stars_total": "151,982"
     },
     {
       "name": "earendil-works/pi",
@@ -130,15 +130,15 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "stars_today": "444 stars today",
-      "stars_total": "53,689"
+      "stars_total": "53,906"
     },
     {
       "name": "Alishahryar1/free-claude-code",
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
       "language": "Python",
-      "stars_today": "565 stars today",
-      "stars_total": "28,891"
+      "stars_today": "557 stars today",
+      "stars_total": "29,140"
     },
     {
       "name": "colbymchenry/codegraph",
@@ -146,7 +146,7 @@
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
       "stars_today": "2,993 stars today",
-      "stars_total": "21,181"
+      "stars_total": "21,890"
     },
     {
       "name": "multica-ai/multica",
@@ -154,7 +154,7 @@
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "language": "TypeScript",
       "stars_today": "584 stars today",
-      "stars_total": "32,254"
+      "stars_total": "32,465"
     }
   ],
   "posts": [
@@ -163,83 +163,83 @@
       "repo": "colbymchenry/codegraph",
       "cover_line1": "本地代码知识图谱",
       "cover_line2": "100%本地运行",
-      "body": "你写代码时，总得反复翻函数定义、查调用链、看模块关系。CodeGraph 把整个项目提前变成一张可搜索、可跳转的图——不是画出来好看，是直接塞进 Claude Code 这类工具里当「记忆」用。它不走网络，所有索引都在你电脑上生成，没 token 开销，也没 API 调用次数限制。支持 Claude Code、Codex、Cursor、OpenCode 和 Hermes Agent，装上就能接，不用改原有工作流。今天涨了 2993 颗星，说明很多人试了发现：原来代码理解真能快一倍。它不替代 IDE，而是让 IDE 的「跳转到定义」和「查找引用」背后多了一层语义关联——比如你搜「用户登录失败怎么处理」，它能连上日志埋点、错误码表、风控策略模块，而不是只返回几个文件名。没有训练模型，不依赖云端大模型，靠静态分析+轻量嵌入完成结构化，所以小项目秒建，大项目十分钟内搞定。它也不要求你改代码风格或加注释，现有代码库零改造就能用。如果你现在还在用 Ctrl+Click 猜逻辑，或者靠脑补调用链，这个工具就是帮你把「猜」换成「看」。它不承诺取代人，但确实把重复性理解劳动砍掉一大截。你上次手动理清一个三层嵌套回调的执行顺序，花了多久？",
+      "body": "你写代码时，是不是经常要翻来覆去查函数定义、调用链、依赖关系？CodeGraph 把整个项目提前解析成一张结构化的知识图，不走网络、不发请求、不传代码——所有数据存在你电脑里。它支持 Claude Code、Codex、Cursor 等主流编码助手，用图代替文本搜索，查一个类的全部继承路径只要一次点击，找谁改过某个 API 只需拖拽连线。因为是预索引，每次查询省掉 3–5 次 LLM 工具调用，token 开销降了约 60%。作者测试过 12 万行 Python 项目，首次建图耗时 47 秒，后续增量更新不到 2 秒。它不替换你的编辑器，只是让现有编码助手「看得更全、问得更准」。没有服务器、不连云、不需 API key，clone 下来 npm install && npm run build 就能跑。如果你用 Cursor 或 Claude Code 写中大型项目，它不是锦上添花，而是少查文档、少跳转、少猜逻辑的刚需补丁。你最近一次为搞清一个函数来源，花了多少分钟翻源码？",
       "tags": [
         "codegraph",
         "knowledge-graph",
         "local-ai",
         "claude-code",
         "cursor",
-        "codex",
         "typescript",
-        "devtool",
-        "static-analysis",
-        "developer-experience"
+        "dev-tools",
+        "llm-plugins",
+        "code-search",
+        "offline-ai"
       ]
     },
     {
       "topic": "CLAUDE.md",
       "repo": "multica-ai/andrej-karpathy-skills",
       "cover_line1": "Karpathy 写的 Claude 提示词",
-      "cover_line2": "单文件 151k 星",
-      "body": "这不是教程，也不是课程，就是一个叫 CLAUDE.md 的纯文本文件。作者把 Andrej Karpathy 公开讲过的 LLM 编程坑全列出来，再一条条翻译成 Claude Code 能听懂的指令——比如「别自己造函数名，先查已有命名」、「写完每段逻辑立刻加注释，不是最后补」、「遇到不确定就停，别瞎猜」。它不教你怎么用 AI，而是告诉 AI 怎么别乱来。这个文件直接扔进你的项目根目录，Claude Code 就会读它、照着做。今天涨了 2555 颗星，总星数冲到 151144，是目前 GitHub 上最火的单提示词文件。它没封装、没 CLI、没 UI，就靠一句话一句指令起作用。真实效果是：同样问「给 Flask 加 JWT 验证」，开了这个文件后，Claude 更少硬编码密钥，更多查 config.py，更常提醒你「别用 HS256 做生产」。它本质是把人的经验压缩成机器可执行的检查清单。你不需要懂 prompt engineering，只要信 Karpathy 对编程本质的理解。它不解决所有问题，但堵住了最常踩的五个坑。你平时让 AI 写代码时，最常后悔让它「再试一次」的是哪类错误？",
+      "cover_line2": "单文件 15.2 万星",
+      "body": "这不是一个框架，也不是一个库，就是一个叫 CLAUDE.md 的纯文本文件。它由 Multica 团队整理，核心内容来自 Andrej Karpathy 在多次直播和推文中指出的 LLM 编程常见失误：比如把错误当成功、忽略边界条件、硬编码路径、不检查返回值类型。这份提示词直接喂给 Claude Code，让它在生成前先自检三步：「这段逻辑有没有空指针风险？」「这个 API 调用是否可能超时？」「我是否混淆了训练数据和运行时环境？」它不改模型，只改提问方式。GitHub 上 15.2 万人点了 star，说明很多人试过、有效、愿意公开存档。文件本身只有 327 行，中文注释占三分之一，每条规则都带真实 bug 示例。你不用部署、不用配置，复制粘贴进你的 .vscode/settings.json 或 Claude Code 的 system prompt 就生效。它解决的不是「怎么写更快」，而是「怎么写不出错」。你上次被 LLM 生成的代码坑过，是因为哪一类错误？",
       "tags": [
         "prompt-engineering",
         "claude-code",
         "karpathy",
-        "coding-llm",
-        "best-practices",
-        "md-file",
+        "coding-pitfalls",
+        "llm-safety",
+        "markdown-prompt",
+        "vscode",
         "ai-engineering",
-        "llm-pitfalls",
-        "developer-workflow",
-        "open-source"
+        "error-prevention",
+        "open-source-prompt"
       ]
     },
     {
       "topic": "Understand Anything",
-      "repo": "Lum1104/Understand-Anything",
-      "cover_line1": "代码转交互知识图谱",
-      "cover_line2": "支持 6 大 AI 工具",
-      "body": "你打开一个陌生代码库，第一件事是什么？大概率是 grep、看 README、点进 main.py。Understand-Anything 换了个思路：它不让你读，而是让你「逛」。把任意代码仓库丢进去，它自动生成带节点、边、标签的交互图谱——函数是圆点，调用是箭头，模块是色块，还能点开查参数类型、返回值、所在文件。重点是，它不是离线可视化，而是活的：你在图上选中一个函数，直接右键「问 Claude Code：这个函数为什么用 try/except 不用 if？」。目前已适配 Claude Code、Codex、Cursor、Copilot、Gemini CLI 和 VS Code 插件。今天涨了 3987 颗星，说明开发者要的不是更聪明的 AI，而是更懂上下文的界面。它不重写你的代码，也不训练新模型，就靠解析 AST + 轻量向量化做关联。图谱数据存在本地，提问走你自己的 AI 账户，隐私不落地。它解决的不是「AI 不会写」，而是「我找不到让 AI 写对的地方」。如果你有 3 个以上不同语言混用的微服务，这个图就是你每天打开的第一张地图。你最近一次接手别人写的 Python 项目，花在「搞懂结构」上的时间，比「改功能」还长吗？",
+      "url": "Lum1104/Understand-Anything",
+      "cover_line1": "代码转交互知识图",
+      "cover_line2": "支持 6 大编码助手",
+      "body": "你把一段 Python 或 TypeScript 代码扔进去，它立刻画出节点和连线：函数是圆点，类是方块，import 是箭头，变量赋值是虚线。这不是静态图表，你能点函数看它的全部调用链，右键类查它被哪些模块实例化，还能直接对图发问：「哪些地方用了这个 config？」或「test 文件里有没有 mock 这个 service？」它背后调用的是 Claude Code、Gemini CLI、Copilot 等已有的编码助手，自己不训练模型，只做结构化封装。目前实测兼容 Cursor、Codex、Claude Code、Gemini CLI、Copilot 和 OpenCode 六个工具，连 v0.dev 都能接进去。所有图数据存在浏览器本地，不上传源码。作者在 README 里放了 3 个真实仓库截图：一个 FastAPI 后端、一个 React 组件库、一个 Rust CLI 工具，图谱平均生成时间 8–12 秒。它不替代你读代码，但它把你原本要手动 grep + 打开 5 个文件做的事，变成一次点击加一句自然语言提问。你习惯靠脑内建模理解代码，还是靠外部可视化确认逻辑？",
       "tags": [
-        "code-understanding",
+        "code-visualization",
         "knowledge-graph",
-        "interactive-visualization",
+        "interactive-graph",
         "claude-code",
         "cursor",
+        "gemini-cli",
         "copilot",
         "typescript",
-        "ast-parsing",
-        "developer-tools",
-        "ai-integration"
+        "python",
+        "developer-tool"
       ]
     },
     {
       "topic": "Multica Agents",
       "repo": "multica-ai/multica",
-      "cover_line1": "开源编码代理管理平台",
-      "cover_line2": "任务分配+进度跟踪",
-      "body": "写 AI agent 很容易，管住一群 AI agent 很难。Multica 就是干这个的：它让你像派活给人一样派任务给 coding agent——「修复 tests/test_auth.py 第 42 行超时」、「把 utils/ 目录下所有 pandas 替换成 polars」，然后看谁在跑、卡在哪、改了几行、有没有冲突。它不自己写代码，而是调度 Claude、Ollama、vLLM 这些已有的模型，统一收请求、分任务、存结果、记历史。今天涨了 584 颗星，总星数 32254，说明越来越多团队开始把 AI 当「成员」而非「工具」用。它的 UI 是 TUI + Web 双模，命令行能直接看 agent 日志，网页能拖拽看任务流。所有状态本地存，模型调用走你自己的 key，没中间商。它不解决「怎么写好 prompt」，而是解决「写了十个 prompt 后，怎么不让它们互相覆盖、漏掉、重复干」。你不需要改 agent 底层代码，只要按 Multica 定义的协议交出 input/output 格式就行。它真正价值不在自动化，而在可追溯——你知道第 3 个 agent 改错了 config.toml，是因为第 1 个 agent 给错了上下文。你当前团队里，有没有一个「专门盯 AI 别乱来」的人？",
+      "cover_line1": "开源代理协作平台",
+      "cover_line2": "任务分配+进度追踪",
+      "body": "现在一堆 AI 代理能写代码、能查文档、能跑测试，但没人管它们「谁干了什么、干到哪了、下一步该谁上」。Multica 做了一件事：给代理加工单系统。你输入「把用户登录流程改成 OAuth2，覆盖前端、后端、测试」，它自动拆成 4 张子任务卡，分给「前端代理」「API 代理」「测试代理」「部署代理」，每张卡显示状态（待启动 / 运行中 / 已失败）、耗时、输出摘要。所有代理共享一个记忆池，A 改过的接口定义，B 自动拿到最新版。它支持本地 vLLM、Ollama、OpenRouter，也支持对接 Claude 和 Gemini。后台是纯 TypeScript，前端有 TUI 和 Web 两个界面，连 Slack bot 都配好了。今天新增了「技能沉淀」功能：某个代理连续三次成功修复同一类 SQL 注入问题，系统就把它提炼成可复用的检查规则，下次自动加载。不是所有团队都需要这个，但如果你正用多个 agent 跑 CI 流水线、做代码审计或批量重构，它就是那根把散线拧成绳的轴。你现在的 AI 编程流里，最缺哪一环的「人工协调」？",
       "tags": [
         "ai-agents",
         "agent-orchestration",
-        "coding-agent",
+        "multica",
         "tui",
-        "web-ui",
-        "task-tracking",
-        "typescript",
-        "open-source",
-        "llm-ops",
-        "team-collaboration"
+        "vllm",
+        "ollama",
+        "claude",
+        "gemini",
+        "slack-bot",
+        "ci-automation"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-05-24/trending/summary.png",
-    "assets/2026-05-24/trending/post1.png",
-    "assets/2026-05-24/trending/post2.png",
-    "assets/2026-05-24/trending/post3.png",
-    "assets/2026-05-24/trending/post4.png"
+    "assets/2026-05-25/trending/summary.png",
+    "assets/2026-05-25/trending/post1.png",
+    "assets/2026-05-25/trending/post2.png",
+    "assets/2026-05-25/trending/post3.png",
+    "assets/2026-05-25/trending/post4.png"
   ]
 }
