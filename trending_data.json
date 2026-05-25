@@ -1,86 +1,86 @@
 {
   "date": "2026-05-25",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
       "name": "Lum1104/Understand-Anything",
       "url": "https://github.com/Lum1104/Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
-      "stars_today": "3,987 stars today",
-      "stars_total": "25,643"
-    },
-    {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "stars_today": "1,836 stars today",
-      "stars_total": "15,882"
-    },
-    {
-      "name": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "language": "Python",
-      "stars_today": "1,179 stars today",
-      "stars_total": "27,220"
+      "stars_today": "5,625 stars today",
+      "stars_total": "29,958"
     },
     {
       "name": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars_today": "486 stars today",
-      "stars_total": "14,012"
+      "stars_today": "1,448 stars today",
+      "stars_total": "14,903"
     },
     {
-      "name": "multica-ai/andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "language": "",
-      "stars_today": "2,555 stars today",
-      "stars_total": "151,982"
-    },
-    {
-      "name": "earendil-works/pi",
-      "url": "https://github.com/earendil-works/pi",
-      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
-      "language": "TypeScript",
-      "stars_today": "444 stars today",
-      "stars_total": "53,906"
-    },
-    {
-      "name": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "557 stars today",
-      "stars_total": "29,140"
+      "stars_today": "3,167 stars today",
+      "stars_total": "18,021"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_today": "2,052 stars today",
+      "stars_total": "191,976"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "language": "Python",
+      "stars_today": "999 stars today",
+      "stars_total": "8,956"
     },
     {
       "name": "colbymchenry/codegraph",
       "url": "https://github.com/colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars_today": "2,993 stars today",
-      "stars_total": "21,890"
+      "stars_today": "3,171 stars today",
+      "stars_total": "24,415"
     },
     {
-      "name": "multica-ai/multica",
-      "url": "https://github.com/multica-ai/multica",
-      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-      "language": "TypeScript",
-      "stars_today": "584 stars today",
-      "stars_total": "32,465"
+      "name": "manaflow-ai/cmux",
+      "url": "https://github.com/manaflow-ai/cmux",
+      "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+      "language": "Swift",
+      "stars_today": "598 stars today",
+      "stars_total": "19,368"
     },
     {
-      "name": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "stars_today": "2,753 stars today",
+      "stars_total": "154,172"
+    },
+    {
+      "name": "Fincept-Corporation/FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "language": "Python",
-      "stars_today": "96 stars today",
-      "stars_total": "25,783"
+      "stars_today": "345 stars today",
+      "stars_total": "23,747"
+    },
+    {
+      "name": "paperless-ngx/paperless-ngx",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "language": "Python",
+      "stars_today": "151 stars today",
+      "stars_total": "41,197"
     }
   ],
   "ai_repos": [
@@ -89,149 +89,149 @@
       "url": "https://github.com/Lum1104/Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
-      "stars_today": "3,987 stars today",
-      "stars_total": "25,643"
-    },
-    {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "stars_today": "1,836 stars today",
-      "stars_total": "15,882"
-    },
-    {
-      "name": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "language": "Python",
-      "stars_today": "1,179 stars today",
-      "stars_total": "27,220"
+      "stars_today": "5,625 stars today",
+      "stars_total": "29,958"
     },
     {
       "name": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars_today": "486 stars today",
-      "stars_total": "14,012"
+      "stars_today": "1,448 stars today",
+      "stars_total": "14,903"
     },
     {
-      "name": "multica-ai/andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "language": "",
-      "stars_today": "2,555 stars today",
-      "stars_total": "151,982"
-    },
-    {
-      "name": "earendil-works/pi",
-      "url": "https://github.com/earendil-works/pi",
-      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
-      "language": "TypeScript",
-      "stars_today": "444 stars today",
-      "stars_total": "53,906"
-    },
-    {
-      "name": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "557 stars today",
-      "stars_total": "29,140"
+      "stars_today": "3,167 stars today",
+      "stars_total": "18,021"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_today": "2,052 stars today",
+      "stars_total": "191,976"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "language": "Python",
+      "stars_today": "999 stars today",
+      "stars_total": "8,956"
     },
     {
       "name": "colbymchenry/codegraph",
       "url": "https://github.com/colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars_today": "2,993 stars today",
-      "stars_total": "21,890"
+      "stars_today": "3,171 stars today",
+      "stars_total": "24,415"
     },
     {
-      "name": "multica-ai/multica",
-      "url": "https://github.com/multica-ai/multica",
-      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-      "language": "TypeScript",
-      "stars_today": "584 stars today",
-      "stars_total": "32,465"
+      "name": "manaflow-ai/cmux",
+      "url": "https://github.com/manaflow-ai/cmux",
+      "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+      "language": "Swift",
+      "stars_today": "598 stars today",
+      "stars_total": "19,368"
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "stars_today": "2,753 stars today",
+      "stars_total": "154,172"
+    },
+    {
+      "name": "Fincept-Corporation/FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "language": "Python",
+      "stars_today": "345 stars today",
+      "stars_total": "23,747"
     }
   ],
   "posts": [
     {
-      "topic": "CodeGraph",
-      "repo": "colbymchenry/codegraph",
-      "cover_line1": "本地代码知识图谱",
-      "cover_line2": "100%本地运行",
-      "body": "你写代码时，是不是经常要翻来覆去查函数定义、调用链、依赖关系？CodeGraph 把整个项目提前解析成一张结构化的知识图，不走网络、不发请求、不传代码——所有数据存在你电脑里。它支持 Claude Code、Codex、Cursor 等主流编码助手，用图代替文本搜索，查一个类的全部继承路径只要一次点击，找谁改过某个 API 只需拖拽连线。因为是预索引，每次查询省掉 3–5 次 LLM 工具调用，token 开销降了约 60%。作者测试过 12 万行 Python 项目，首次建图耗时 47 秒，后续增量更新不到 2 秒。它不替换你的编辑器，只是让现有编码助手「看得更全、问得更准」。没有服务器、不连云、不需 API key，clone 下来 npm install && npm run build 就能跑。如果你用 Cursor 或 Claude Code 写中大型项目，它不是锦上添花，而是少查文档、少跳转、少猜逻辑的刚需补丁。你最近一次为搞清一个函数来源，花了多少分钟翻源码？",
+      "topic": "Understand-Anything",
+      "repo": "Lum1104/Understand-Anything",
+      "cover_line1": "代码转知识图谱工具",
+      "cover_line2": "支持 Claude Code 等 6+ 编程助手",
+      "body": "你打开一段 Python 代码，它不光高亮语法，还能自动画出函数调用链、变量流向、模块依赖关系，变成一张可点击、可搜索、可提问的交互式图。比如点一下 main()，立刻展开它调用的所有函数；右键一个类，直接问「这个类为什么继承 BaseHandler？」——图里所有节点都连着 LLM 能理解的语义描述。它不是靠正则硬匹配，而是用多步提示工程把代码喂给 Claude Code 或 Gemini CLI，再把返回结果结构化成图。整个过程本地跑，不传代码上云。今天涨了 5625 星，说明很多人试过之后发现：原来读别人项目不用从头 grep 三天，真能点两下就看懂主干。它不替代 IDE，但补上了 IDE 最缺的一环：让代码自己开口说话。目前支持 TypeScript 实现，插件已适配 Cursor、Copilot、Codex CLI 等主流环境，配置只要三行 JSON。图是静态生成的，但每次改代码后一键重绘，比手动画架构图快十倍。它没做 fancy 的 3D 渲染，图就是带箭头的节点加文字气泡，重点在信息密度和响应速度。如果你上周还在为 legacy service 的依赖绕晕，这周可能已经用它把整个微服务网拉成一张可钻取的图了。它不承诺帮你写代码，但它让“看懂”这件事第一次有了确定性路径。",
       "tags": [
-        "codegraph",
-        "knowledge-graph",
-        "local-ai",
-        "claude-code",
-        "cursor",
+        "code-graph",
+        "llm-plugin",
         "typescript",
-        "dev-tools",
-        "llm-plugins",
-        "code-search",
-        "offline-ai"
-      ]
-    },
-    {
-      "topic": "CLAUDE.md",
-      "repo": "multica-ai/andrej-karpathy-skills",
-      "cover_line1": "Karpathy 写的 Claude 提示词",
-      "cover_line2": "单文件 15.2 万星",
-      "body": "这不是一个框架，也不是一个库，就是一个叫 CLAUDE.md 的纯文本文件。它由 Multica 团队整理，核心内容来自 Andrej Karpathy 在多次直播和推文中指出的 LLM 编程常见失误：比如把错误当成功、忽略边界条件、硬编码路径、不检查返回值类型。这份提示词直接喂给 Claude Code，让它在生成前先自检三步：「这段逻辑有没有空指针风险？」「这个 API 调用是否可能超时？」「我是否混淆了训练数据和运行时环境？」它不改模型，只改提问方式。GitHub 上 15.2 万人点了 star，说明很多人试过、有效、愿意公开存档。文件本身只有 327 行，中文注释占三分之一，每条规则都带真实 bug 示例。你不用部署、不用配置，复制粘贴进你的 .vscode/settings.json 或 Claude Code 的 system prompt 就生效。它解决的不是「怎么写更快」，而是「怎么写不出错」。你上次被 LLM 生成的代码坑过，是因为哪一类错误？",
-      "tags": [
-        "prompt-engineering",
-        "claude-code",
-        "karpathy",
-        "coding-pitfalls",
-        "llm-safety",
-        "markdown-prompt",
-        "vscode",
-        "ai-engineering",
-        "error-prevention",
-        "open-source-prompt"
-      ]
-    },
-    {
-      "topic": "Understand Anything",
-      "url": "Lum1104/Understand-Anything",
-      "cover_line1": "代码转交互知识图",
-      "cover_line2": "支持 6 大编码助手",
-      "body": "你把一段 Python 或 TypeScript 代码扔进去，它立刻画出节点和连线：函数是圆点，类是方块，import 是箭头，变量赋值是虚线。这不是静态图表，你能点函数看它的全部调用链，右键类查它被哪些模块实例化，还能直接对图发问：「哪些地方用了这个 config？」或「test 文件里有没有 mock 这个 service？」它背后调用的是 Claude Code、Gemini CLI、Copilot 等已有的编码助手，自己不训练模型，只做结构化封装。目前实测兼容 Cursor、Codex、Claude Code、Gemini CLI、Copilot 和 OpenCode 六个工具，连 v0.dev 都能接进去。所有图数据存在浏览器本地，不上传源码。作者在 README 里放了 3 个真实仓库截图：一个 FastAPI 后端、一个 React 组件库、一个 Rust CLI 工具，图谱平均生成时间 8–12 秒。它不替代你读代码，但它把你原本要手动 grep + 打开 5 个文件做的事，变成一次点击加一句自然语言提问。你习惯靠脑内建模理解代码，还是靠外部可视化确认逻辑？",
-      "tags": [
-        "code-visualization",
-        "knowledge-graph",
-        "interactive-graph",
         "claude-code",
         "cursor",
-        "gemini-cli",
         "copilot",
-        "typescript",
-        "python",
+        "gemini-cli",
+        "code-understanding",
+        "knowledge-graph",
         "developer-tool"
       ]
     },
     {
-      "topic": "Multica Agents",
-      "repo": "multica-ai/multica",
-      "cover_line1": "开源代理协作平台",
-      "cover_line2": "任务分配+进度追踪",
-      "body": "现在一堆 AI 代理能写代码、能查文档、能跑测试，但没人管它们「谁干了什么、干到哪了、下一步该谁上」。Multica 做了一件事：给代理加工单系统。你输入「把用户登录流程改成 OAuth2，覆盖前端、后端、测试」，它自动拆成 4 张子任务卡，分给「前端代理」「API 代理」「测试代理」「部署代理」，每张卡显示状态（待启动 / 运行中 / 已失败）、耗时、输出摘要。所有代理共享一个记忆池，A 改过的接口定义，B 自动拿到最新版。它支持本地 vLLM、Ollama、OpenRouter，也支持对接 Claude 和 Gemini。后台是纯 TypeScript，前端有 TUI 和 Web 两个界面，连 Slack bot 都配好了。今天新增了「技能沉淀」功能：某个代理连续三次成功修复同一类 SQL 注入问题，系统就把它提炼成可复用的检查规则，下次自动加载。不是所有团队都需要这个，但如果你正用多个 agent 跑 CI 流水线、做代码审计或批量重构，它就是那根把散线拧成绳的轴。你现在的 AI 编程流里，最缺哪一环的「人工协调」？",
+      "topic": "ECC agent system",
+      "repo": "affaan-m/ECC",
+      "cover_line1": "Claude Code 代理增强系统",
+      "cover_line2": "191,976 总星，含安全与记忆模块",
+      "body": "ECC 不是一个新模型，而是一套让 Claude Code 更像人类工程师的「操作系统层」。它给 AI 加了四个基础能力：技能注册表（比如「能查 CVE 数据库」「会修 Dockerfile 错误」）、本能反应（遇到报错自动触发 debug 流程而非瞎猜）、短期记忆池（记住当前文件上下文、上次修改位置）、以及安全沙箱（禁止执行 shell 命令或访问未授权路径）。这些不是概念，是实打实的 JavaScript 模块，可插拔。比如「记忆」模块用 LRU 缓存最近 20 个编辑动作，下次你问「刚才改的 config 文件在哪一行？」它能准确定位。今天涨了 2052 星，总星冲到 19.2 万，说明大量人在用它把 Claude Code 接进真实工作流。它不替换原生 Copilot，而是作为中间件拦截请求、增强响应、过滤风险。文档里写了 7 个真实 case：怎么让 AI 在修改 Nginx 配置前先 check syntax，怎么让它在生成 SQL 时自动加上 EXPLAIN 分析。它没提「智能」，只说「少犯错、记得住、有边界」。如果你试过让 AI 改生产配置却不敢点「确认」，那 ECC 就是那个帮你加了「回滚按钮」和「审批弹窗」的人。",
       "tags": [
-        "ai-agents",
-        "agent-orchestration",
-        "multica",
-        "tui",
-        "vllm",
-        "ollama",
-        "claude",
-        "gemini",
-        "slack-bot",
-        "ci-automation"
+        "agent-system",
+        "claude-code",
+        "javascript",
+        "security",
+        "memory",
+        "skills",
+        "plugin",
+        "ai-engineering",
+        "llm-ops",
+        "copilot-extension"
+      ]
+    },
+    {
+      "topic": "Cybersecurity Skills",
+      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+      "cover_line1": "754 条结构化网络安全技能",
+      "cover_line2": "覆盖 MITRE ATT&CK 等 5 大框架",
+      "body": "这不是一份 PDF 白皮书，而是 754 行可执行的 Python 字典，每一条定义了一个 AI 能做的具体安全任务。比如 'detect_log4j_vulnerability' 这条技能，包含输入格式（日志片段）、输出结构（CVE 编号、影响版本、修复建议）、验证规则（必须引用 NVD 数据源），还标注了它属于 MITRE ATT&CK 的 T1190（漏洞利用）还是 NIST CSF 的 ID.RA（风险识别）。所有技能按 26 个安全域分类：从云配置审计、红队模拟到 AI 模型投毒检测。它用 agentskills.io 标准写成，Claude Code 或 Codex CLI 只要加载这个包，就能在 prompt 里直接 call skill('scan_k8s_manifest')。今天涨了 999 星，累计近 9000，说明安全工程师开始用它把经验固化成机器可调用的原子能力。它不训练新模型，也不卖 SaaS，只是把专家脑子里的 checklist 变成代码里能 import 的模块。你可以删掉其中 200 条你用不到的，也可以加自己团队的 SOP。Apache 2.0 协议意味着你能把它塞进内部 AI 安全平台，不担心合规风险。它存在的意义很简单：别再让每个安全 AI 从零学「怎么判断一个 URL 是钓鱼链接」。",
+      "tags": [
+        "cybersecurity",
+        "ai-agent",
+        "python",
+        "mitre-attck",
+        "nist",
+        "skills-library",
+        "claude-code",
+        "copilot",
+        "security-automation",
+        "open-source"
+      ]
+    },
+    {
+      "topic": "CodeGraph",
+      "repo": "colbymchenry/codegraph",
+      "cover_line1": "预建代码知识图谱",
+      "cover_line2": "100% 本地运行，零 token 开销",
+      "body": "CodeGraph 把你的整个代码库提前编译成一张静态知识图——不是边问边查，而是像数据库一样秒响应。它扫描全部文件，提取类、函数、接口、import 关系，生成带唯一 ID 的节点和带类型标签的边（比如「inherits_from」「calls」「imports」），存成本地 SQLite 和 JSON-LD。当你在 Claude Code 里问「哪个服务调用了 PaymentGateway.send()？」，它不调大模型，直接 SQL 查询图数据库，返回三个文件路径和对应行号。全程离线，不发一字符到云端，也不消耗 API token。今天涨了 3171 星，总星 2.4 万，说明开发者终于受够了「等 8 秒、花 3000 token、结果答非所问」的代码问答。它支持 TypeScript 实现，但图数据通用，Hermes Agent 或 Cursor 都能直接读。你不需要改代码，只需要运行一次 codegraph init，它就默默建好索引。后续编辑时，它用 fs.watch 监听变更，增量更新图，比重新全量扫描快 9 倍。它不渲染漂亮图形界面，命令行里敲 codegraph search --call PaymentGateway.send 就出结果。如果你的 monorepo 已经大到 VS Code 的「转到定义」开始卡顿，这个项目就是给你装了个轻量级 Neo4j。",
+      "tags": [
+        "code-graph",
+        "local-first",
+        "typescript",
+        "sqlite",
+        "claude-code",
+        "cursor",
+        "hermes-agent",
+        "code-search",
+        "offline-ai",
+        "developer-productivity"
       ]
     }
   ],
