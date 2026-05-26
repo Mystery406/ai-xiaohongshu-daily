@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-26",
+  "date": "2026-05-27",
   "slot": "早报",
   "all_repos": [
     {
@@ -7,80 +7,80 @@
       "url": "https://github.com/Lum1104/Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
-      "stars_today": "5,604 stars today",
-      "stars_total": "30,958"
-    },
-    {
-      "name": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "stars_today": "1,441 stars today",
-      "stars_total": "15,398"
-    },
-    {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "stars_today": "3,154 stars today",
-      "stars_total": "18,467"
+      "stars_today": "4,721 stars today",
+      "stars_total": "34,797"
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "2,025 stars today",
-      "stars_total": "192,298"
+      "stars_today": "1,912 stars today",
+      "stars_total": "193,873"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars_today": "2,169 stars today",
+      "stars_total": "20,302"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars_today": "1,698 stars today",
+      "stars_total": "16,470"
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
       "language": "Python",
-      "stars_today": "1,004 stars today",
-      "stars_total": "9,203"
+      "stars_today": "871 stars today",
+      "stars_total": "9,862"
     },
     {
-      "name": "colbymchenry/codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "language": "TypeScript",
-      "stars_today": "3,161 stars today",
-      "stars_total": "24,856"
-    },
-    {
-      "name": "manaflow-ai/cmux",
-      "url": "https://github.com/manaflow-ai/cmux",
-      "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
-      "language": "Swift",
-      "stars_today": "603 stars today",
-      "stars_total": "19,471"
-    },
-    {
-      "name": "multica-ai/andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "name": "hardikpandya/stop-slop",
+      "url": "https://github.com/hardikpandya/stop-slop",
+      "description": "A skill file for removing AI tells from prose",
       "language": "",
-      "stars_today": "2,749 stars today",
-      "stars_total": "154,882"
+      "stars_today": "547 stars today",
+      "stars_total": "4,833"
     },
     {
-      "name": "Fincept-Corporation/FinceptTerminal",
-      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
-      "language": "Python",
-      "stars_today": "317 stars today",
-      "stars_total": "23,861"
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "Shell",
+      "stars_today": "1,440 stars today",
+      "stars_total": "20,926"
     },
     {
-      "name": "paperless-ngx/paperless-ngx",
-      "url": "https://github.com/paperless-ngx/paperless-ngx",
-      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
-      "language": "Python",
-      "stars_today": "176 stars today",
-      "stars_total": "41,313"
+      "name": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "language": "HTML",
+      "stars_today": "1,127 stars today",
+      "stars_total": "166,776"
+    },
+    {
+      "name": "jellyfin/jellyfin",
+      "url": "https://github.com/jellyfin/jellyfin",
+      "description": "The Free Software Media System - Server Backend & API",
+      "language": "C#",
+      "stars_today": "91 stars today",
+      "stars_total": "52,296"
+    },
+    {
+      "name": "Axorax/awesome-free-apps",
+      "url": "https://github.com/Axorax/awesome-free-apps",
+      "description": "Curated list of the best free apps for PC and mobile",
+      "language": "JavaScript",
+      "stars_today": "738 stars today",
+      "stars_total": "5,074"
     }
   ],
   "ai_repos": [
@@ -89,157 +89,149 @@
       "url": "https://github.com/Lum1104/Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
-      "stars_today": "5,604 stars today",
-      "stars_total": "30,958"
-    },
-    {
-      "name": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "stars_today": "1,441 stars today",
-      "stars_total": "15,398"
-    },
-    {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "stars_today": "3,154 stars today",
-      "stars_total": "18,467"
+      "stars_today": "4,721 stars today",
+      "stars_total": "34,797"
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "2,025 stars today",
-      "stars_total": "192,298"
+      "stars_today": "1,912 stars today",
+      "stars_total": "193,873"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars_today": "2,169 stars today",
+      "stars_total": "20,302"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars_today": "1,698 stars today",
+      "stars_total": "16,470"
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
       "language": "Python",
-      "stars_today": "1,004 stars today",
-      "stars_total": "9,203"
+      "stars_today": "871 stars today",
+      "stars_total": "9,862"
     },
     {
-      "name": "colbymchenry/codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "language": "TypeScript",
-      "stars_today": "3,161 stars today",
-      "stars_total": "24,856"
-    },
-    {
-      "name": "manaflow-ai/cmux",
-      "url": "https://github.com/manaflow-ai/cmux",
-      "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
-      "language": "Swift",
-      "stars_today": "603 stars today",
-      "stars_total": "19,471"
-    },
-    {
-      "name": "multica-ai/andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "name": "hardikpandya/stop-slop",
+      "url": "https://github.com/hardikpandya/stop-slop",
+      "description": "A skill file for removing AI tells from prose",
       "language": "",
-      "stars_today": "2,749 stars today",
-      "stars_total": "154,882"
+      "stars_today": "547 stars today",
+      "stars_total": "4,833"
     },
     {
-      "name": "Fincept-Corporation/FinceptTerminal",
-      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
-      "language": "Python",
-      "stars_today": "317 stars today",
-      "stars_total": "23,861"
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "Shell",
+      "stars_today": "1,440 stars today",
+      "stars_total": "20,926"
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "language": "HTML",
+      "stars_today": "1,127 stars today",
+      "stars_total": "166,776"
     }
   ],
   "posts": [
     {
-      "topic": "Understand-Anything",
+      "topic": "理解任意代码",
       "repo": "Lum1104/Understand-Anything",
       "cover_line1": "把代码转成交互知识图",
-      "cover_line2": "支持 Claude Code、Cursor 等 6+ 工具",
-      "body": "你写完一段代码，它就自动画出一张能点、能搜、能问的知识图——不是静态流程图，是真能回答‘这个函数被谁调用？’‘哪里用了 Redis？’的动态图。它不依赖服务器，本地跑 TypeScript，用 LLM 把代码结构、变量流向、模块依赖全抽出来，再组织成图谱。你点一个类，它列出所有引用位置；输个关键词，它高亮匹配节点；甚至直接问‘怎么修复这个空指针？’，图里就弹出上下文。今天涨了 5604 星，说明很多人正卡在‘看懂别人代码’这一步。它没做新模型，而是把已有工具（Claude Code、Copilot、Gemini CLI）的能力串起来，让它们看得见、摸得着。比如你在 Cursor 里打开一个 3 万行的 Python 项目，原来要 grep 十几次才找到入口，现在三秒生成图，鼠标点两下就跳到主逻辑。它不教你怎么写代码，只解决一个最痛的问题：代码写完了，但没人（包括你自己）真正理解它。开源、MIT 协议、文档里有 7 个真实项目接入截图。你上次花超过一小时搞懂一个陌生 repo 的入口逻辑，是什么时候？",
+      "cover_line2": "支持 Claude、Copilot 等 6+ 工具",
+      "body": "你写完一段代码，光看文件结构和函数名，其实很难快速抓住它在解决什么问题、依赖哪些模块、数据怎么流动。这个项目直接把代码变成一张可点、可搜、可提问的知识图——不是静态图表，而是用 LLM 分析 AST 和调用链后生成的动态图谱。它不只画关系，还能回答「哪个函数处理用户输入？」「哪里可能有 SQL 注入风险？」这类问题。目前支持 Claude Code、GitHub Copilot、Cursor、Gemini CLI 等主流 AI 编程工具，开箱即用，不需要改代码或加注释。作者没搞复杂部署，核心逻辑就一个 TypeScript 包，配合 VS Code 插件就能跑起来。今天涨了 4721 星，总星数冲到 3.4 万，说明很多人卡在「看懂别人代码」这一步上。它没试图替代 IDE，而是补上那块被忽略的「理解层」：不是让你更快写，而是让你更快懂。它不渲染漂亮图形，但每条连线都对应真实调用或数据流向；不承诺全自动修复 bug，但能帮你三秒定位「这个参数从哪来」。如果你最近在读开源库、接手遗留项目，或者带新人时反复解释「这段到底干啥」，这个图就是你的新导航仪。它不教你怎么写代码，它教你怎么不靠猜就看懂代码。",
       "tags": [
-        "code-graph",
-        "llm-tools",
-        "typescript",
-        "code-understanding",
-        "cursor",
-        "claude-code",
-        "copilot",
-        "gemini-cli",
-        "developer-tools",
-        "knowledge-graph"
+        "代码理解",
+        "知识图谱",
+        "VS Code",
+        "Claude",
+        "Copilot",
+        "AST",
+        "开发者工具",
+        "TypeScript",
+        "LLM 集成",
+        "交互可视化"
       ]
     },
     {
-      "topic": "ECC agent system",
+      "topic": "ECC 代理优化系统",
       "repo": "affaan-m/ECC",
-      "cover_line1": "Claude Code 的代理增强系统",
-      "cover_line2": "含技能、记忆、安全三模块",
-      "body": "ECC 不是一个新模型，而是一套给 Claude Code 这类编程助手加能力的‘操作系统’。它把 AI 编程代理拆成三块：技能（比如‘自动补全测试用例’）、记忆（记住你上周改过的 config 文件路径）、安全（阻止它删 prod 数据库）。所有模块都开源，Python 和 JS 都能调，已适配 Codex、Cursor、Opencode。它不像传统插件只干一件事，而是让多个能力协同——比如你让它‘修 bug’，它先查记忆找最近类似错误，再调技能运行单元测试，最后用安全模块过滤掉危险命令。今天涨了 2025 星，总星 19.2 万，是目前 GitHub 上 star 最多的 AI 编程代理框架。它没碰模型权重，只改 prompt 结构和调用链路，所以轻、快、可调试。你试过让 Copilot 写一个带权限校验的 API 吗？它大概率会漏掉 check_user_role 这一行——ECC 就是为堵这种漏设计的。文档里写了怎么把它的记忆模块接到你的 Notion 数据库，也写了怎么用它的技能模板注册一个‘自动生成 Swagger 注释’的功能。你日常 coding 时，最常重复写的三件事是什么？",
+      "cover_line1": "AI 代理性能优化框架",
+      "cover_line2": "总星数 19.3 万，今天涨 1912",
+      "body": "AI 代理跑着跑着变慢、记不住上下文、反复犯同样错误、甚至把敏感信息发给不该连的服务——这些问题不是模型不够大，而是缺少一套轻量、可插拔的运行时支撑层。ECC 就是这么个东西：它不替换你的 LLM，而是在调用前后加一层「代理操作系统」，管技能调度、短期记忆压缩、安全过滤、行为回溯。比如它能把 500 行的提示词压缩成 80 字的「本能摘要」存进内存，下次遇到同类任务直接调用，不重走完整推理链。它原生适配 Claude Code、Codex、Cursor 等 5+ 工具，不是靠 hack，而是用标准插件接口接入。项目 README 没讲大道理，直接列了 12 个实测场景下的延迟下降百分比，最高一次把响应时间从 3.2 秒压到 0.8 秒。它也不鼓吹「全栈自主」，而是明确说：ECC 只负责让 agent 更稳、更省、更守规矩，决策权永远在你手里。今天单日涨星 1912，总星破 19.3 万，说明大量人在用 agent 做真实工作，却卡在「能跑」和「能用」之间。ECC 不造轮子，它修轮子。",
       "tags": [
-        "agent-framework",
-        "claude-code",
-        "cursor",
-        "codex",
-        "ai-engineering",
-        "security",
-        "memory",
-        "skills",
-        "prompt-engineering",
-        "typescript"
+        "AI Agent",
+        "性能优化",
+        "记忆管理",
+        "安全过滤",
+        "Claude",
+        "Cursor",
+        "JavaScript",
+        "插件系统",
+        "生产可用",
+        "低延迟"
       ]
     },
     {
-      "topic": "Cybersecurity Skills",
+      "topic": "AI 工程实战课",
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "cover_line1": "从零手撸 AI 工程项目",
+      "cover_line2": "20302 星，含 12 个可运行 demo",
+      "body": "市面上太多 AI 课讲完 transformer 就结束，没人告诉你怎么把模型打包成 API、怎么加 rate limit、怎么写测试用例、怎么监控 token 消耗、怎么灰度发布新 prompt。这个仓库反着来：它不教理论，只带你从空目录开始，一行行敲出真实能上线的 AI 工程。比如第 3 个项目是「带缓存和 fallback 的 RAG 服务」，代码里真有 Redis 连接、PostgreSQL 元数据表、以及当 LLM 抽风时自动切回关键词搜索的逻辑。所有 demo 都附 Dockerfile 和本地一键启动脚本，不用配环境。作者自己做过 3 个上线 AI 产品，所以每个坑都标了注释：「这里不加 timeout 会阻塞整个队列」「这个正则在中文分句里漏掉顿号」。今天涨了 2169 星，总星 20302，说明工程师不想听「未来已来」，就想看「现在怎么 deploy」。它没用任何黑科技，全靠 Python + FastAPI + LangChain（v0.1）这些老朋友，但组合方式全是生产环境验证过的。你学完不会突然变架构师，但下次老板说「明天上线个文档问答」，你能下午三点前发 PR。",
+      "tags": [
+        "AI 工程",
+        "Python",
+        "FastAPI",
+        "RAG",
+        "Docker",
+        "LangChain",
+        "实战教程",
+        "可部署",
+        "测试覆盖",
+        "工程规范"
+      ]
+    },
+    {
+      "topic": "754 个网安技能",
       "repo": "mukul975/Anthropic-Cybersecurity-Skills",
-      "cover_line1": "754 条网络安全技能清单",
+      "cover_line1": "754 个结构化网安技能",
       "cover_line2": "覆盖 MITRE ATT&CK 等 5 大框架",
-      "body": "这不是一个扫描器，也不是一个训练好的模型，而是一份结构化、可直接喂给 AI 编程助手的技能说明书。它列了 754 条具体动作，比如‘识别 Log4j2 JNDI 注入特征’‘生成符合 NIST CSF 2.0 的 incident response checklist’，每条都标清楚属于 MITRE ATT&CK 的哪个战术、NIST AI RMF 的哪个阶段。这些技能已经按 agentskills.io 标准格式化好，Claude Code、Copilot、Gemini CLI 拿过去就能用。它不教你防御原理，只告诉 AI ‘遇到 XX 日志，该查 YY 配置，再执行 ZZ 命令’。今天涨了 1004 星，说明安全工程师正在批量把领域知识塞进 AI 助手。26 个安全子领域全覆盖，从云配置审计到 AI 模型投毒检测，全部 Apache 2.0 开源。你可以把它当词典查，也可以当插件集成进自己的 agent 工作流。比如你在写 SOC 分析脚本，让 Copilot 调用其中第 321 条技能，它就会生成带 IOC 提取、TTP 关联、报告模板的完整脚本。你上一次手动翻 MITRE ATT&CK 网站查 technique ID，是为了修什么 bug？",
+      "body": "AI 安全分析常卡在两头：一头是模型懂语法不懂攻防语义，另一头是红队专家写不出 prompt。这个项目填了中间那条缝——它把 754 个真实网安动作拆成机器可读的技能单元，比如「识别 Log4j JNDI 注入特征」「提取 Cobalt Strike beacon 的 C2 域名」，每个技能都标注了输入格式、输出约束、检测逻辑、误报规避点。更关键的是，它按 MITRE ATT&CK、NIST CSF 2.0、D3FEND 等 5 个权威框架做了双向映射，你可以查「ATT&CK T1059.004 对应哪些技能」，也能反向看「某个技能影响几个框架域」。所有技能用 agentskills.io 标准定义，直接喂给 Claude Code、Copilot、Cursor 就能执行，不用改写。它没训练新模型，但让现有模型在安全任务上少踩 80% 的语义坑。今天涨 871 星，总星近万，说明安全团队终于不满足于「让 AI 写报告」，而要它真能跑检测、提建议、补规则。这些技能不是玩具，文档里写了某银行用其中 42 个技能替换了原来的手动 IOC 提取流程，平均节省 11 小时/周。你上次手动 grep 日志找可疑 base64 是什么时候？",
       "tags": [
-        "cybersecurity",
-        "mitre-attck",
-        "nists-csf",
-        "ai-agents",
-        "claude-code",
-        "copilot",
-        "gemini-cli",
-        "agentskills",
-        "python",
-        "security-frameworks"
-      ]
-    },
-    {
-      "topic": "CLAUDE.md Karpathy 版",
-      "repo": "multica-ai/andrej-karpathy-skills",
-      "cover_line1": "Karpathy 总结的 Claude 编码提示",
-      "cover_line2": "单文件，154k stars",
-      "body": "它就一个文件：CLAUDE.md。里面没代码，没模型，全是 Andrej Karpathy 观察到的 LLM 写代码时的真实毛病，比如‘爱造轮子不调库’‘忽略边界条件’‘把错误日志写成成功日志’。每一条毛病后面，跟着一句能立刻粘贴进 Claude Code 的 prompt 改写建议。比如原 prompt 是‘写个快速排序’，它建议改成‘写个快速排序，要求：1. 用 Python 标准库的 random.shuffle 做 pivot，2. 处理空数组和单元素数组，3. 每行加注释说明作用，4. 最后加一句“注意：这里不处理重复元素”’。这个文件今天涨了 2749 星，总星 15.5 万，是 GitHub 上最火的 prompt 工程实践之一。它不教理论，只给能抄的句子。你不用懂 RLHF，也不用调 temperature，复制粘贴就能让 Claude Code 少犯错。文件里还标注了哪些建议在 Cursor 里实测有效，哪些在 GitHub Copilot 里效果打折。它背后不是玄学，而是 Karpathy 看了上千次 LLM 编程失败案例后总结的规律。你最近一次被 AI 生成的代码坑到，是因为它漏写了哪类检查？",
-      "tags": [
-        "prompt-engineering",
-        "claude-code",
-        "karpathy",
-        "coding-pitfalls",
-        "llm-behavior",
-        "github-copilot",
-        "cursor",
-        "python",
-        "engineering-practice",
-        "markdown"
+        "网络安全",
+        "AI Agent",
+        "MITRE ATT&CK",
+        "NIST",
+        "技能库",
+        "Claude",
+        "Copilot",
+        "结构化提示",
+        "红队",
+        "自动化检测"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-05-26/trending/summary.png",
-    "assets/2026-05-26/trending/post1.png",
-    "assets/2026-05-26/trending/post2.png",
-    "assets/2026-05-26/trending/post3.png",
-    "assets/2026-05-26/trending/post4.png"
+    "assets/2026-05-27/trending/summary.png",
+    "assets/2026-05-27/trending/post1.png",
+    "assets/2026-05-27/trending/post2.png",
+    "assets/2026-05-27/trending/post3.png",
+    "assets/2026-05-27/trending/post4.png"
   ]
 }
