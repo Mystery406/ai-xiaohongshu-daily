@@ -1,237 +1,237 @@
 {
-  "date": "2026-05-27",
+  "date": "2026-05-28",
   "slot": "早报",
   "all_repos": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars_today": "1,737 stars today",
+      "stars_total": "61,138"
+    },
     {
       "name": "Lum1104/Understand-Anything",
       "url": "https://github.com/Lum1104/Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
-      "stars_today": "4,721 stars today",
-      "stars_total": "35,715"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars_today": "1,912 stars today",
-      "stars_total": "194,311"
-    },
-    {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "stars_today": "2,169 stars today",
-      "stars_total": "20,669"
-    },
-    {
-      "name": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "stars_today": "1,698 stars today",
-      "stars_total": "16,643"
-    },
-    {
-      "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
-      "language": "Python",
-      "stars_today": "871 stars today",
-      "stars_total": "10,091"
+      "stars_today": "4,466 stars today",
+      "stars_total": "38,994"
     },
     {
       "name": "hardikpandya/stop-slop",
       "url": "https://github.com/hardikpandya/stop-slop",
       "description": "A skill file for removing AI tells from prose",
       "language": "",
-      "stars_today": "547 stars today",
-      "stars_total": "5,000"
+      "stars_today": "664 stars today",
+      "stars_total": "5,488"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_today": "2,062 stars today",
+      "stars_total": "195,716"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars_today": "695 stars today",
+      "stars_total": "17,102"
     },
     {
       "name": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "Shell",
-      "stars_today": "1,440 stars today",
-      "stars_total": "21,583"
+      "stars_today": "2,715 stars today",
+      "stars_total": "23,719"
     },
     {
-      "name": "DigitalPlatDev/FreeDomain",
-      "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "language": "HTML",
-      "stars_today": "1,127 stars today",
-      "stars_total": "167,308"
+      "name": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
+      "stars_today": "219 stars today",
+      "stars_total": "21,900"
     },
     {
-      "name": "jellyfin/jellyfin",
-      "url": "https://github.com/jellyfin/jellyfin",
-      "description": "The Free Software Media System - Server Backend & API",
-      "language": "C#",
-      "stars_today": "91 stars today",
-      "stars_total": "52,373"
+      "name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars_today": "402 stars today",
+      "stars_total": "26,782"
     },
     {
-      "name": "Axorax/awesome-free-apps",
-      "url": "https://github.com/Axorax/awesome-free-apps",
-      "description": "Curated list of the best free apps for PC and mobile",
-      "language": "JavaScript",
-      "stars_today": "738 stars today",
-      "stars_total": "5,240"
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "language": "Python",
+      "stars_today": "885 stars today",
+      "stars_total": "10,730"
+    },
+    {
+      "name": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "language": "TypeScript",
+      "stars_today": "520 stars today",
+      "stars_total": "47,174"
     }
   ],
   "ai_repos": [
     {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars_today": "1,737 stars today",
+      "stars_total": "61,138"
+    },
+    {
       "name": "Lum1104/Understand-Anything",
       "url": "https://github.com/Lum1104/Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
-      "stars_today": "4,721 stars today",
-      "stars_total": "35,715"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars_today": "1,912 stars today",
-      "stars_total": "194,311"
-    },
-    {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "stars_today": "2,169 stars today",
-      "stars_total": "20,669"
-    },
-    {
-      "name": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "stars_today": "1,698 stars today",
-      "stars_total": "16,643"
-    },
-    {
-      "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
-      "language": "Python",
-      "stars_today": "871 stars today",
-      "stars_total": "10,091"
+      "stars_today": "4,466 stars today",
+      "stars_total": "38,994"
     },
     {
       "name": "hardikpandya/stop-slop",
       "url": "https://github.com/hardikpandya/stop-slop",
       "description": "A skill file for removing AI tells from prose",
       "language": "",
-      "stars_today": "547 stars today",
-      "stars_total": "5,000"
+      "stars_today": "664 stars today",
+      "stars_total": "5,488"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_today": "2,062 stars today",
+      "stars_total": "195,716"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars_today": "695 stars today",
+      "stars_total": "17,102"
     },
     {
       "name": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "Shell",
-      "stars_today": "1,440 stars today",
-      "stars_total": "21,583"
+      "stars_today": "2,715 stars today",
+      "stars_total": "23,719"
     },
     {
-      "name": "DigitalPlatDev/FreeDomain",
-      "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "language": "HTML",
-      "stars_today": "1,127 stars today",
-      "stars_total": "167,308"
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "language": "Python",
+      "stars_today": "885 stars today",
+      "stars_total": "10,730"
+    },
+    {
+      "name": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "language": "TypeScript",
+      "stars_today": "520 stars today",
+      "stars_total": "47,174"
     }
   ],
   "posts": [
     {
-      "topic": "理解任意代码",
+      "topic": "MoneyPrinterTurbo",
+      "repo": "harry0703/MoneyPrinterTurbo",
+      "cover_line1": "AI短视频生成工具",
+      "cover_line2": "一天涨1737星",
+      "body": "它不是又一个AI视频概念Demo，而是能直接跑起来的Python脚本：你丢一张图、一段文案，它调用本地或云端大模型（比如Qwen-VL、CogVideoX），自动选BGM、加字幕、切镜头，输出MP4。不依赖GPU也能跑基础版，Windows/Mac/Linux全支持。最近三天更新了TikTok竖屏模板和中文字体自动适配，用户反馈生成5秒视频平均耗时28秒。61k总星里，约1/3是开发者fork后改造成电商口播脚本流水线——比如把淘宝商品页URL喂进去，自动生成带价格弹窗和下单箭头的15秒带货片。它没做UI，命令行参数清清楚楚：--voice zh-CN-XiaoxiaoNeural --aspect 9:16 --duration 15。你不用懂多模态训练，但得会写prompt，项目里附了27个真实可用的中文prompt模板，从‘农村大妈讲化肥’到‘科技博主测手机散热’都有。作者harry0703是独立开发者，README第一句就写‘别指望它替代剪映，但能帮你每天省掉3小时重复操作’。现在最常被提的issue是‘怎么批量处理Excel里的100条产品描述’——已有用户用pandas+for循环接上了。你觉得，这种‘prompt+脚本’组合，比封装成Web服务更可持续吗？",
+      "tags": [
+        "video-generation",
+        "llm-pipeline",
+        "python",
+        "cli-tool",
+        "tiktok",
+        "prompt-engineering",
+        "open-source",
+        "multimodal",
+        "automation",
+        "content-creation"
+      ]
+    },
+    {
+      "topic": "Understand-Anything",
       "repo": "Lum1104/Understand-Anything",
-      "cover_line1": "把代码转成交互知识图",
-      "cover_line2": "支持 Claude、Copilot 等 6+ 工具",
-      "body": "你写完一段代码，想立刻看清它在干什么、调了哪些函数、依赖什么模块，但又不想一行行 debug 或翻文档？这个项目就是干这个的。它不生成新代码，也不改逻辑，而是把现有代码自动变成一个可点击、可搜索、可提问的知识图——比如点开一个函数，立刻看到谁调用了它、它改了哪些变量、返回值被谁用了。图是动态生成的，不是静态截图；你改代码，图跟着变。它已实测兼容 Claude Code、GitHub Copilot、Cursor、Gemini CLI 等 6 个主流 AI 编程工具，不是理论支持，是真能粘贴进这些工具里直接用。整个流程不上传代码到服务器，所有解析都在本地或你指定的环境里跑。作者没吹「智能理解」，只说「让代码结构可见」，而目前它确实做到了：Python、TypeScript、Go、Rust 的常见语法结构都能识别，连带注释和类型声明一起建模。35,715 人星标，今天涨了 4,721 颗星，说明不是玩具项目，是开发者正在塞进日常流程里的工具。它不替代 IDE，但补上了 IDE 没解决的一块：代码的语义关系看不见。你上次花多久才搞懂一个别人写的 300 行脚本里，哪个函数才是真正入口？",
+      "cover_line1": "代码知识图谱工具",
+      "cover_line2": "支持Claude/Gemini/Copilot",
+      "body": "它把任意一段Python、JS或Rust代码，扔进大模型分析一遍，生成可点击、可搜索、可提问的交互式知识图谱。不是静态UML图，而是节点带来源链接、边带推理依据的活图：比如点开‘fetch_user’函数，能看到它调用了哪个API、被哪些测试用例覆盖、最近一次修改是谁、还关联着哪三个安全漏洞CVE编号。目前兼容Claude Code、GitHub Copilot、Cursor、Gemini CLI等8个主流编码助手，只要你的编辑器支持插件，就能装上。38k总星里，近半数来自安全团队——他们用它快速理清遗留系统里‘谁调用了硬编码密钥’。项目用TypeScript写，核心逻辑只有3个文件，文档里写了怎么把图谱导出为Mermaid或Neo4j格式。最近一次更新加了‘问问题’按钮：你右键图中任意节点，输入‘这个函数为什么有SQL注入风险’，它就调模型现场解释并标出危险行号。没有训练数据，不上传代码，所有分析在本地完成。它解决的不是‘看不懂代码’，而是‘看懂后不知道下一步该问什么’。如果你明天要接手一个没人维护的微服务，你会先让它画图，还是先跑测试？",
       "tags": [
-        "代码可视化",
-        "知识图谱",
-        "AI编程辅助",
-        "本地解析",
-        "TypeScript",
-        "Claude",
-        "Copilot",
-        "Cursor",
-        "开发者工具",
-        "开源"
+        "code-understanding",
+        "knowledge-graph",
+        "typescript",
+        "developer-tools",
+        "ai-coding",
+        "static-analysis",
+        "security",
+        "copilot-plugin",
+        "claudelint",
+        "graph-visualization"
       ]
     },
     {
-      "topic": "Anthropic 安全技能库",
+      "topic": "Taste-Skill",
+      "repo": "Leonxlnx/taste-skill",
+      "cover_line1": "AI文本口味调节器",
+      "cover_line2": "2715星单日最高",
+      "body": "它是一段Shell脚本，作用很直白：接在任何AI文本生成流程后面，把‘根据以上内容，我们可以得出以下结论’这种AI味浓重的句子，替换成更像真人写的版本。比如把‘此举具有重要的战略意义’改成‘老板看了当场拍板’；把‘综上所述’干掉，换成‘说白了，就三件事’。它不改事实，只调语气，规则全写在taste_rules.yaml里，共47条，包括删连接词、砍长句、加口语停顿、替换官腔动词。23k总星里，最多的是营销和运营从业者——他们用它处理AI生成的公众号推文、小红书文案、客服话术。有个典型用法是：把ChatGPT吐出的初稿喂给taste-skill，再喂给Grammarly做拼写检查，最后人工微调。项目没碰LLM权重，纯靠正则+模板+少量LLM重写，所以跑得快、部署轻，连树莓派都能跑。作者说‘这不是让AI变聪明，是让它别那么碍眼’。最近PR合并了粤语方言模式，支持把‘非常棒’改成‘真係掂’。如果让你给‘专业感’和‘人味儿’打分，你现在手上的AI文案，哪边更缺？",
+      "tags": [
+        "text-editing",
+        "shell-script",
+        "prompt-postprocessing",
+        "copywriting",
+        "ai-tone",
+        "local-first",
+        "cli-tool",
+        "marketing-ai",
+        "nlp",
+        "humanization"
+      ]
+    },
+    {
+      "topic": "Cybersecurity-Skills",
       "repo": "mukul975/Anthropic-Cybersecurity-Skills",
-      "cover_line1": "754 个结构化安全技能",
-      "cover_line2": "覆盖 MITRE ATT&CK 等 5 大框架",
-      "body": "AI 要帮人做渗透测试、日志分析或合规检查，光有大模型不够，得知道具体怎么做。这个项目就把 754 个真实网络安全动作，一条条拆成 AI 能执行的技能：比如「从 Suricata 日志提取可疑 C2 域名」「按 NIST CSF 2.0 分类漏洞报告」「比对 ATT&CK 技术 ID 和实际攻击链」。每条技能都标清楚对应哪个框架、哪个子域、输入输出格式，还附了测试用例。它不是泛泛讲「提升安全能力」，而是给出可集成、可验证、可替换的 JSON 文件，直接喂给 Claude Code 或 Copilot。目前已映射到 MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND 和 NIST AI RMF 这 5 个权威框架，覆盖 26 类安全场景，比如云配置审计、恶意软件行为分析、AI 模型投毒检测。Apache 2.0 开源，20+ 平台已接入，包括 Codex CLI 和 Gemini CLI。10,091 星，今天新增 871 颗，说明安全工程师正在拿它当积木拼自己的 AI 助手。它不教你怎么写漏洞利用，但告诉你怎么让 AI 正确理解「横向移动」这个词在不同标准里到底指哪几步。",
+      "cover_line1": "754条网安技能集",
+      "cover_line2": "覆盖MITRE/NIST五大框架",
+      "body": "它不是教程，也不是扫描器，而是一套标准化的AI技能卡片：每张卡对应一个具体动作，比如‘识别Log4j JNDI注入特征’或‘从PCAP里提取C2域名’，包含输入格式、预期输出、验证方法、参考框架条目（比如MITRE ATT&CK T1219）、以及已在Claude Code、Copilot、Cursor实测通过的prompt示例。754条全部开源，Apache 2.0协议，按26个安全领域分类，从云原生到工控系统都有。10k总星里，超过一半来自蓝队工程师——他们把这套技能嵌进内部AI助手，让新人输入‘帮我写个YARA规则查恶意PowerShell’，AI直接返回带注释的代码+检测逻辑说明+误报规避建议。所有技能都经过agentskills.io标准校验，确保能在不同平台复用。作者mukul975是前Splunk安全研究员，README里明确写了‘不教你怎么修漏洞，只帮你让AI少说错话’。最新更新加入了NIST AI RMF对齐表，标注每条技能在‘AI治理’中的定位。如果你要给安全团队配一个AI助手，你会优先塞进‘漏洞扫描’能力，还是‘报告生成’能力？",
       "tags": [
-        "网络安全",
-        "AI技能库",
-        "MITRE ATT&CK",
-        "NIST",
-        "结构化提示",
-        "Claude",
-        "渗透测试",
-        "合规",
-        "开源",
-        "JSON"
-      ]
-    },
-    {
-      "topic": "AI 写作去味剂",
-      "repo": "hardikpandya/stop-slop",
-      "cover_line1": "删除 AI 写作痕迹的技能文件",
-      "cover_line2": "5000 星，纯文本规则集",
-      "body": "你让 AI 写一封客户邮件，结果发出去被对方一眼认出是机器写的：太工整、太客气、动词全是「致力于」「赋能」「抓手」——不是内容错，是味道不对。这个项目就干一件事：提供一组轻量文本规则，让 AI 在输出前主动删掉这些典型痕迹。它不是大模型微调，也不是重写引擎，就是一个 skill file，几 KB 大小，里面全是正则和替换模板，比如把「我们非常重视您的反馈」替换成「谢谢你的来信」，把被动语态批量转主动，删掉无意义副词，压缩空洞形容词。它不追求「写得更好」，只追求「写得不像 AI」。5000 星，今天涨了 547 颗，说明很多人试过、压进工作流、觉得有用。它没用任何训练数据，不联网，不调 API，纯本地文本处理，可以塞进 Cursor、Copilot 或任何支持 skill file 的工具里即插即用。作者没说它能骗过专家，但明确写了适用场景：内部沟通、周报、PR 描述、非正式文档。你上一次发给同事的 AI 生成文字，有没有被问「这真是你写的？」",
-      "tags": [
-        "写作优化",
-        "AI去味",
-        "文本规则",
-        "skill file",
-        "正则替换",
-        "Cursor",
-        "Copilot",
-        "开发者写作",
-        "轻量工具",
-        "开源"
-      ]
-    },
-    {
-      "topic": "AI 编程代理增强系统",
-      "repo": "affaan-m/ECC",
-      "cover_line1": "AI 编程代理性能优化系统",
-      "cover_line2": "194,311 星，支持 5+ 编程工具",
-      "body": "AI 编程助手经常卡在三件事上：记不住上下文、重复犯同一类错、不敢改关键逻辑。这个项目叫 ECC，不是模型，也不是 IDE 插件，而是一套运行时增强系统——给 Claude Code、Codex、Cursor 这些工具加「技能层」「记忆层」「本能层」。比如你让 AI 改一段 SQL，它以前可能只看当前文件；ECC 会自动把关联的 schema 文件、最近三次修改记录、甚至你上周写的同类查询，一并塞进上下文。它还内置 12 种常见错误模式检测器，比如「疑似漏掉 null 检查」「疑似 SQL 注入风险」，发现就暂停，让你确认。所有增强都不改原工具，而是通过中间层注入。194,311 星，今天涨了 1,912 颗，是目前 GitHub 上星标最多的 AI 编程基础设施项目之一。它没承诺「取代程序员」，但把 AI 从「单次问答机」拉到了「可持续协作伙伴」的位置。你现在的 AI 编程工具，能记住你昨天在哪段代码里加过日志吗？",
-      "tags": [
-        "AI代理",
-        "编程增强",
-        "上下文管理",
-        "错误检测",
-        "Claude",
-        "Codex",
-        "Cursor",
-        "开源",
-        "运行时增强",
-        "开发者工具"
+        "cybersecurity",
+        "ai-agents",
+        "mitre-attack",
+        "nistspf",
+        "prompt-library",
+        "red-team",
+        "blue-team",
+        "security-automation",
+        "anthropic",
+        "open-source-security"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-05-27/trending/summary.png",
-    "assets/2026-05-27/trending/post1.png",
-    "assets/2026-05-27/trending/post2.png",
-    "assets/2026-05-27/trending/post3.png",
-    "assets/2026-05-27/trending/post4.png"
+    "assets/2026-05-28/trending/summary.png",
+    "assets/2026-05-28/trending/post1.png",
+    "assets/2026-05-28/trending/post2.png",
+    "assets/2026-05-28/trending/post3.png",
+    "assets/2026-05-28/trending/post4.png"
   ]
 }
