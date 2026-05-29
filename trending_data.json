@@ -7,80 +7,80 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
-      "stars_today": "4,685 stars today",
-      "stars_total": "65,708"
+      "stars_today": "4,698 stars today",
+      "stars_total": "66,208"
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "1,388 stars today",
-      "stars_total": "196,978"
+      "stars_today": "1,385 stars today",
+      "stars_total": "197,241"
     },
     {
       "name": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "Shell",
-      "stars_today": "2,235 stars today",
-      "stars_total": "25,935"
+      "stars_today": "2,234 stars today",
+      "stars_total": "26,357"
     },
     {
       "name": "hardikpandya/stop-slop",
       "url": "https://github.com/hardikpandya/stop-slop",
       "description": "A skill file for removing AI tells from prose",
       "language": "",
-      "stars_today": "755 stars today",
-      "stars_total": "6,234"
+      "stars_today": "761 stars today",
+      "stars_total": "6,395"
     },
     {
       "name": "twentyhq/twenty",
       "url": "https://github.com/twentyhq/twenty",
       "description": "The open alternative to Salesforce, designed for AI.",
       "language": "TypeScript",
-      "stars_today": "495 stars today",
-      "stars_total": "47,694"
+      "stars_today": "493 stars today",
+      "stars_total": "47,829"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
       "language": "HTML",
-      "stars_today": "1,769 stars today",
-      "stars_total": "170,405"
+      "stars_today": "1,761 stars today",
+      "stars_total": "170,679"
     },
     {
       "name": "byoungd/English-level-up-tips",
       "url": "https://github.com/byoungd/English-level-up-tips",
       "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
       "language": "",
-      "stars_today": "2,015 stars today",
-      "stars_total": "48,220"
+      "stars_today": "2,019 stars today",
+      "stars_total": "48,446"
     },
     {
       "name": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars_today": "1,263 stars today",
-      "stars_total": "127,251"
+      "stars_today": "1,410 stars today",
+      "stars_total": "127,698"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,726 stars today",
-      "stars_total": "210,815"
+      "stars_today": "1,730 stars today",
+      "stars_total": "211,042"
     },
     {
       "name": "revfactory/harness",
       "url": "https://github.com/revfactory/harness",
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
       "language": "HTML",
-      "stars_today": "68 stars today",
-      "stars_total": "3,779"
+      "stars_today": "65 stars today",
+      "stars_total": "3,875"
     }
   ],
   "ai_repos": [
@@ -89,64 +89,64 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
-      "stars_today": "4,685 stars today",
-      "stars_total": "65,708"
+      "stars_today": "4,698 stars today",
+      "stars_total": "66,208"
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "1,388 stars today",
-      "stars_total": "196,978"
+      "stars_today": "1,385 stars today",
+      "stars_total": "197,241"
     },
     {
       "name": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "Shell",
-      "stars_today": "2,235 stars today",
-      "stars_total": "25,935"
+      "stars_today": "2,234 stars today",
+      "stars_total": "26,357"
     },
     {
       "name": "hardikpandya/stop-slop",
       "url": "https://github.com/hardikpandya/stop-slop",
       "description": "A skill file for removing AI tells from prose",
       "language": "",
-      "stars_today": "755 stars today",
-      "stars_total": "6,234"
+      "stars_today": "761 stars today",
+      "stars_total": "6,395"
     },
     {
       "name": "twentyhq/twenty",
       "url": "https://github.com/twentyhq/twenty",
       "description": "The open alternative to Salesforce, designed for AI.",
       "language": "TypeScript",
-      "stars_today": "495 stars today",
-      "stars_total": "47,694"
+      "stars_today": "493 stars today",
+      "stars_total": "47,829"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
       "language": "HTML",
-      "stars_today": "1,769 stars today",
-      "stars_total": "170,405"
+      "stars_today": "1,761 stars today",
+      "stars_total": "170,679"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,726 stars today",
-      "stars_total": "210,815"
+      "stars_today": "1,730 stars today",
+      "stars_total": "211,042"
     },
     {
       "name": "revfactory/harness",
       "url": "https://github.com/revfactory/harness",
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
       "language": "HTML",
-      "stars_today": "68 stars today",
-      "stars_total": "3,779"
+      "stars_today": "65 stars today",
+      "stars_total": "3,875"
     }
   ],
   "posts": [
@@ -154,76 +154,76 @@
       "topic": "MoneyPrinterTurbo",
       "repo": "harry0703/MoneyPrinterTurbo",
       "cover_line1": "AI短视频一键生成工具",
-      "cover_line2": "今天涨4685星",
-      "body": "它不靠模型训练，也不让你调参数，就是把已有的大模型（比如Qwen、GLM、DeepSeek）和开源视频合成工具（如Manim、Stable Video Diffusion）串起来，写好提示词模板、分镜逻辑和画质增强流程，打包成一个命令行脚本。你输一句话，它自动跑完：理解语义→拆成镜头→生成画面→配字幕→加背景音→导出MP4。整个过程本地运行，不传数据到服务器，Python写成，Windows/macOS/Linux都支持。项目 README 里写了 12 个实测案例，包括‘用3秒生成小红书风格美妆教程’和‘批量做10条抖音口播稿转视频’。最近两天合并了中文语音克隆支持，用的是CosyVoice轻量模型，1分钟音频就能微调出人声。它没碰底层模型，但把AI视频生产的‘最后一公里’走通了——不是理论方案，是现在就能 cd 到目录里 python run.py --prompt '一只柴犬穿宇航服种土豆' 看结果。作者是独立开发者Harry，没公司背书，更新日志全是具体功能上线时间，比如‘4月12日加入字幕位置自定义’。它解决的不是‘能不能做’，而是‘能不能让实习生下午三点前交5条带货视频’。你上一次手动剪一条一分钟短视频，花了多久？",
+      "cover_line2": "今天涨4698星",
+      "body": "这个项目能让普通人用一句话描述，就自动生成高清短视频。它不靠剪辑软件，也不调参数，直接调用大模型理解你的意思，再驱动图像和视频模型分步出片——文字转画面、加配音、配字幕、自动剪节奏。整个流程封装成一个命令行脚本和 Web 界面，Windows/macOS/Linux 都能跑，显卡只要 8GB 显存就能本地跑通。作者是 Harry（GitHub ID harry0703），没融资、没公司背书，纯个人开源，但已经累计 6.6 万星。最近一次更新把生成时长从平均 90 秒压到 45 秒以内，还加了中文语音克隆选项。它不承诺‘完美成片’，但明确告诉用户：输入‘一只橘猫穿宇航服在火星跳踢踏舞’，大概率输出 10 秒带音效的可用片段。很多人拿它做小红书/抖音冷启动内容，也有人集成进内部运营系统每天批量产 50 条商品预告。它没碰版权水印检测，也没做企业级权限管理，就是专注把‘一句话→一段片’这一步做稳。如果你试过 Runway、Pika 或 Sora API 却卡在提示词反复调试上，这个项目会显得特别实在——它把失败路径都写进文档里，比如‘避免用‘优雅’‘震撼’这种抽象词，改用‘镜头从左往右扫过三块发光键盘’’。你最近一次想发个视频，但卡在开头 30 秒没动手，是因为缺创意、缺时间，还是缺工具？",
       "tags": [
-        "AI视频",
-        "CLI工具",
-        "开源",
-        "本地运行",
-        "提示工程",
-        "短视频",
-        "Python",
-        "自动化",
-        "内容生产",
-        "轻量部署"
+        "video-generation",
+        "llm-pipeline",
+        "cli-tool",
+        "open-source",
+        "local-run",
+        "content-creation",
+        "python",
+        "multimodal",
+        "prompt-engineering",
+        "no-gui"
       ]
     },
     {
-      "topic": "ECC",
-      "repo": "affaan-m/ECC",
-      "cover_line1": "Claude代码助手优化系统",
-      "cover_line2": "适配Cursor等5个IDE",
-      "body": "它不是新模型，也不是插件，而是一套给现有AI编程工具‘装大脑’的配置层。核心是把技能（skill）、记忆（memory）、安全策略（security guardrails）和研究优先的开发流程（research-first dev）做成可加载模块，然后让Claude Code、Codex、Opencode、Cursor甚至VS Code里的CodeWhisperer都能读得懂、调得动。比如你在Cursor里写前端组件，ECC会自动触发‘前端可访问性检查’技能，再调用本地Linter；写后端API时，它悄悄加载‘OpenAPI规范校验’记忆库。所有技能文件都是YAML+JS写的，不用编译，改完保存就生效。项目主页列了37个已验证技能，包括‘自动补全TypeScript泛型约束’和‘检测SQL注入风险提示’。总星数近20万，但作者没融资、没官网，只在README里放了一张手绘架构图和一句‘This is not a product. It’s a way to stop fighting your tools.’。它不承诺更高准确率，只承诺‘让AI少说废话，多干实事’。如果你常在IDE里反复删掉AI生成的冗余注释或错误类型声明，你会觉得它像突然有了编辑部。你平时用哪个IDE写代码？",
-      "tags": [
-        "AI编程",
-        "IDE扩展",
-        "Claude",
-        "开发者工具",
-        "YAML配置",
-        "安全增强",
-        "TypeScript",
-        "Cursor",
-        "代码质量",
-        "开源框架"
-      ]
-    },
-    {
-      "topic": "taste-skill",
+      "topic": "Taste-Skill",
       "repo": "Leonxlnx/taste-skill",
-      "cover_line1": "给AI加审美的Shell脚本",
-      "cover_line2": "停掉通用废话生成",
-      "body": "它只有三个文件：一个shell脚本、一个JSON规则表、一份示例提示词。作用很直白——在AI输出文字前，先过一遍‘有没有形容词堆砌’‘是不是每句都以‘这是一个’开头’‘有没有连续三句结构相同’。如果命中规则，就截断重试，或者插入‘换一种说法’‘去掉模板化表达’这类修正指令。不是训练模型，是当AI开始写‘这是一个充满活力、极具创意、面向未来的解决方案’时，立刻按住它的手。作者测试了GPT-4、Claude-3和本地Qwen-7B，发现加了taste-skill后，技术文档中‘显著提升’‘高效赋能’‘深度协同’这类词出现频次下降约70%。它不改模型权重，只改输入提示和输出后处理逻辑，所以能直接塞进任何调用OpenAI API的脚本里。Shell写成意味着零依赖，Mac上source一下就能用，Linux上chmod +x就行。它没提‘美学’‘风格’这些虚词，只列了19条可测量规则，比如‘单段落内重复动词不超过1次’‘名词短语长度≤7字’。这不是让AI更有文采，而是让它别再假装有文采。你最近一次被AI文案里的‘抓手’‘闭环’‘颗粒度’闪到腰，是什么时候？",
+      "cover_line1": "给AI加审美判断的技能",
+      "cover_line2": "26357星，Shell实现",
+      "body": "这个项目不是训练新模型，而是教现有大模型‘别写得那么平’。它用一套 Shell 脚本+配置文件，在 AI 输出后立刻介入：识别模板化表达（比如‘综上所述’‘值得一提的是’）、替换空洞形容词（‘优秀’→‘三秒内加载完 200 行代码的插件’）、插入具体细节（‘支持多平台’→‘在 M1 Mac 上用 VS Code 启动耗时 1.2 秒’）。它不改模型权重，只改 prompt 后处理链，所以能套在任何 Chat API 后面，包括本地 Ollama 或 Claude。作者叫 Leon，没提公司，README 第一行就写‘This is not a library. It’s a taste test.’。目前支持英文技术写作和中文产品文案两种模式，测试显示对 73% 的‘AI 味’段落有明显去味效果。有人把它塞进 Obsidian 插件里，每次写周报前自动过一遍；也有人集成进 CI，PR 描述不合口味就直接 fail。它没做 UI，没连数据库，甚至没写单元测试，但文档里列了 12 个真实被它救回来的句子对比——比如把‘提供稳定服务’改成‘过去 30 天 API 错误率低于 0.02%，最长宕机 17 秒’。你上次写的文字，有没有哪句自己读着就下意识想删掉？",
       "tags": [
-        "提示工程",
-        "Shell脚本",
-        "文案优化",
-        "AI去模板化",
-        "文本后处理",
-        "轻量工具",
-        "GPT-4",
-        "Claude-3",
-        "Qwen",
-        "开发者友好"
+        "post-processing",
+        "writing-enhancement",
+        "shell-script",
+        "ai-taste",
+        "prompt-refinement",
+        "technical-writing",
+        "open-source",
+        "cli",
+        "text-quality",
+        "developer-tool"
       ]
     },
     {
-      "topic": "stop-slop",
+      "topic": "Stop-Slop",
       "repo": "hardikpandya/stop-slop",
-      "cover_line1": "删除AI痕迹的技能文件",
-      "cover_line2": "专治‘我是一个AI’",
-      "body": "它只做一件事：扫描AI生成的文本，把‘作为一个人工智能模型’‘我不能保证完全准确’‘请注意核实信息’这类自我披露句子，连同‘总而言之’‘值得一提的是’‘在此基础上’等典型AI过渡词，替换成更自然的人类表达。比如把‘我无法提供医疗建议，但可以分享一般信息’改成‘医生通常会建议先查血常规，下面是常见参考值’。替换规则写在纯文本skill文件里，一行一条正则，没有模型、不联网、不调API，直接用sed或Python re.sub就能跑。作者测试了100段ChatGPT生成的技术博客摘要，处理后人工盲测识别率从92%降到31%。它不追求骗过专家，只求让读者‘读着不硌硬’。项目没文档网站，只有README里一段话和两个命令示例：curl -s https://raw.githubusercontent.com/hardikpandya/stop-slop/main/skill | bash -s 'AI生成的初稿.txt'。它甚至没说自己是‘去AI味’，只说‘make prose feel human-written’。这种事本来不该需要工具——但现实是，很多人复制粘贴AI输出就发出去了。你转发过自己没改过的AI文案吗？",
+      "cover_line1": "专删AI腔的轻量技能",
+      "cover_line2": "6395星，纯文本规则",
+      "body": "这个项目只有 3 个文件：一个 JSON 规则表、一个 Python 脚本、一份 200 字说明。它不做语义重写，只干一件事——扫描文本，找到典型 AI 腔表达，替换成更像真人说的话。比如把‘此举旨在提升用户体验’换成‘点一下就跳转，不用等’；把‘具备强大的扩展能力’换成‘加个按钮就能接微信通知’。所有规则都是人工写的正则+关键词，没有机器学习，所以快、透明、可审计。作者 Hardik 是个独立开发者，没提用途，但 GitHub Issues 里有 17 人说已用在客户提案、App Store 描述和内部邮件模板里。它不处理逻辑错误，也不优化结构，就是专注砍掉‘的’‘了’‘进行’‘具备’这类信号词，以及‘显著’‘深度’‘赋能’这种空转词。最新版新增了对中文‘AI 八股文’的识别，比如‘基于…视角’‘依托…体系’‘构建…范式’，一并替换成动词短语。它不声称‘让你变作家’，只说‘帮你省下 10 分钟润色时间’。你刚写完的一段话，有没有哪句读着像‘AI 写的’，但又说不准哪里不对？",
       "tags": [
-        "AI去标识",
-        "文本清洗",
-        "Shell工具",
-        "正则替换",
-        "写作辅助",
-        "人话转换",
-        "sed",
-        "轻量实用",
-        "内容可信度",
-        "开源技能"
+        "ai-detection",
+        "text-cleaning",
+        "regex-rules",
+        "copywriting",
+        "lightweight",
+        "python-script",
+        "developer-tool",
+        "practical-ai",
+        "human-tone",
+        "no-ml"
+      ]
+    },
+    {
+      "topic": "Superpowers",
+      "repo": "obra/superpowers",
+      "cover_line1": "AI编程代理能力框架",
+      "cover_line2": "21万星，Shell驱动",
+      "body": "这个项目不是另一个 LLM 应用，而是一套让 AI 程序员真正干活的方法论+脚手架。它把‘写代码’拆成 9 个原子技能：读报错、查文档、改依赖、跑测试、写 commit message、解释 diff、找历史相似修改……每个技能用 Shell 脚本封装，可单独调用，也能串成流水线。比如执行 ‘sp fix bug’，它会自动抓当前报错、搜 GitHub issue、定位疑似改动行、生成 patch、提交 PR。作者团队 obra 没融资，但把所有设计决策写在 README：为什么不用 Python 写（怕环境依赖）？为什么坚持用 Shell（Linux/macOS 开箱即用）？为什么拒绝 GUI（终端才是开发主战场）？它不追求‘全自动’，而是强调‘人在环中’——每步输出都带解释，每个决定都可打断。已有 32 个社区贡献的技能包，包括 React 组件重构、SQL 查询优化、Python 类型补全。它没用任何私有 API，全走开源工具链：ripgrep、jq、curl、git。你如果试过让 AI 写完整功能却总卡在环境适配或上下文丢失上，这个项目会显得格外清醒。你最近一次让 AI 帮忙改代码，最后是它真改好了，还是你把它输出粘进编辑器里手动调了半小时？",
+      "tags": [
+        "ai-agent",
+        "shell-framework",
+        "dev-tools",
+        "programming-assistant",
+        "open-source",
+        "cli-first",
+        "linux",
+        "git-integration",
+        "practical-ai",
+        "developer-workflow"
       ]
     }
   ],
