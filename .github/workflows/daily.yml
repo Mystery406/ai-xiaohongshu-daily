@@ -68,8 +68,16 @@ jobs:
           git add assets/ posts_data.json
           # 如果有变动才提交
           git diff --staged --quiet || git commit -m "chore: daily AI post assets $(date +%Y-%m-%d) [skip ci]"
-          git pull --rebase origin master
-          git push
+          for attempt in 1 2 3 4 5; do
+            if git fetch origin master && git rebase origin/master && git push origin HEAD:master; then
+              exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            echo "Push failed, retrying in $((attempt * 5))s... ($attempt/5)"
+            sleep $((attempt * 5))
+          done
+          echo "Push failed after 5 attempts"
+          exit 1
 
       # ── 5. 创建 GitHub Issue ─────────────────────────────────────────────────
       - name: Create GitHub Issue

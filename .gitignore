@@ -14,3 +14,6 @@ assets/test/
 # 本地环境
 .env
 *.env.local
+
+.idea
+.DS_Store
