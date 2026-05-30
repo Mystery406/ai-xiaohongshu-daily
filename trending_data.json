@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-30",
-  "slot": "晚报",
+  "date": "2026-05-31",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "microsoft/markitdown",
@@ -8,7 +8,7 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "stars_today": "2,473 stars today",
-      "stars_total": "131,333"
+      "stars_total": "132,313"
     },
     {
       "name": "harry0703/MoneyPrinterTurbo",
@@ -16,7 +16,7 @@
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
       "stars_today": "2,775 stars today",
-      "stars_total": "71,398"
+      "stars_total": "71,918"
     },
     {
       "name": "anthropics/claude-code",
@@ -24,7 +24,7 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Python",
       "stars_today": "595 stars today",
-      "stars_total": "128,221"
+      "stars_total": "128,385"
     },
     {
       "name": "cursor/plugins",
@@ -32,15 +32,15 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "stars_today": "206 stars today",
-      "stars_total": "1,385"
+      "stars_total": "1,454"
     },
     {
       "name": "revfactory/harness",
       "url": "https://github.com/revfactory/harness",
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
       "language": "HTML",
-      "stars_today": "313 stars today",
-      "stars_total": "4,144"
+      "stars_today": "80 stars today",
+      "stars_total": "4,250"
     },
     {
       "name": "EveryInc/compound-engineering-plugin",
@@ -48,7 +48,7 @@
       "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
       "language": "TypeScript",
       "stars_today": "348 stars today",
-      "stars_total": "18,324"
+      "stars_total": "18,413"
     },
     {
       "name": "affaan-m/ECC",
@@ -56,15 +56,15 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "stars_today": "918 stars today",
-      "stars_total": "199,019"
+      "stars_total": "199,276"
     },
     {
       "name": "OpenBMB/VoxCPM",
       "url": "https://github.com/OpenBMB/VoxCPM",
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
-      "stars_today": "1,815 stars today",
-      "stars_total": "22,563"
+      "stars_today": "658 stars today",
+      "stars_total": "22,743"
     },
     {
       "name": "galilai-group/stable-worldmodel",
@@ -72,7 +72,7 @@
       "description": "A platform for reproducible world model research and evaluation",
       "language": "Python",
       "stars_today": "319 stars today",
-      "stars_total": "1,386"
+      "stars_total": "1,455"
     },
     {
       "name": "Crosstalk-Solutions/project-nomad",
@@ -80,7 +80,7 @@
       "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
       "language": "TypeScript",
       "stars_today": "473 stars today",
-      "stars_total": "27,178"
+      "stars_total": "27,343"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
       "stars_today": "2,775 stars today",
-      "stars_total": "71,398"
+      "stars_total": "71,918"
     },
     {
       "name": "anthropics/claude-code",
@@ -98,15 +98,15 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Python",
       "stars_today": "595 stars today",
-      "stars_total": "128,221"
+      "stars_total": "128,385"
     },
     {
       "name": "revfactory/harness",
       "url": "https://github.com/revfactory/harness",
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
       "language": "HTML",
-      "stars_today": "313 stars today",
-      "stars_total": "4,144"
+      "stars_today": "80 stars today",
+      "stars_total": "4,250"
     },
     {
       "name": "EveryInc/compound-engineering-plugin",
@@ -114,7 +114,7 @@
       "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
       "language": "TypeScript",
       "stars_today": "348 stars today",
-      "stars_total": "18,324"
+      "stars_total": "18,413"
     },
     {
       "name": "affaan-m/ECC",
@@ -122,15 +122,15 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "stars_today": "918 stars today",
-      "stars_total": "199,019"
+      "stars_total": "199,276"
     },
     {
       "name": "OpenBMB/VoxCPM",
       "url": "https://github.com/OpenBMB/VoxCPM",
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
-      "stars_today": "1,815 stars today",
-      "stars_total": "22,563"
+      "stars_today": "658 stars today",
+      "stars_total": "22,743"
     },
     {
       "name": "galilai-group/stable-worldmodel",
@@ -138,7 +138,7 @@
       "description": "A platform for reproducible world model research and evaluation",
       "language": "Python",
       "stars_today": "319 stars today",
-      "stars_total": "1,386"
+      "stars_total": "1,455"
     },
     {
       "name": "Crosstalk-Solutions/project-nomad",
@@ -146,92 +146,92 @@
       "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
       "language": "TypeScript",
       "stars_today": "473 stars today",
-      "stars_total": "27,178"
+      "stars_total": "27,343"
     }
   ],
   "posts": [
     {
-      "topic": "一键生成短视频",
+      "topic": "AI一键做视频",
       "repo": "harry0703/MoneyPrinterTurbo",
-      "cover_line1": "AI一键生成高清短视频",
-      "cover_line2": "今天涨了2775个赞",
-      "body": "刷 GitHub 看到这个，涨星速度有点吓人。它就是一个 AI 短视频生产线，你给它一个主题，比如“猫咪搞笑瞬间”，它就能用大模型自动写文案、找素材、配音、生成字幕，最后合成一个可以发的高清短视频。你不需要会剪辑，甚至不需要有素材库，它都帮你搞定了。对于想快速做内容但不想花时间学剪辑软件的人来说，这工具太实用了，相当于雇了个24小时加班的短视频实习生。今天单日涨了快3000星，总星数七万多，说明很多人真的在用它“印钱”。它背后是利用多个AI模型分工协作，从想法到成品，真的是点一下按钮就行。当你想做个视频但懒得动手时，第一个想到的会是它吗？",
+      "cover_line1": "AI一键做短视频",
+      "cover_line2": "今天涨了近三千星",
+      "body": "做短视频不用再求人了。MoneyPrinterTurbo 这个工具，你给它一个想法，它就能用大模型自己写脚本、找素材、配音、剪辑，最后生成一个能直接发的高清短片。不用你懂剪辑，也不用找素材网站。一个开发者写的项目，今天突然火了，一天加了将近三千颗星。现在总星数超过七万，说明很多人真的在用，不是玩具。它解决了内容生产里最耗时的剪辑和素材环节，把创作从几天压缩到几分钟。但我在想，当大家都能用AI一分钟生成视频时，什么才是真正的稀缺内容？",
       "tags": [
-        "AI视频生成",
-        "自动化",
-        "短视频",
-        "内容创作",
-        "效率工具",
-        "开源",
+        "AI短视频",
         "一键生成",
-        "大模型应用",
+        "内容创作",
+        "开源工具",
+        "LLM应用",
+        "效率提升",
+        "趋势项目",
         "Python",
-        "MoneyPrinterTurbo"
+        "自动生成",
+        "工具推荐"
       ]
     },
     {
-      "topic": "免费语音克隆",
+      "topic": "Claude编码助手",
+      "repo": "anthropics/claude-code",
+      "cover_line1": "Claude住在终端里写代码",
+      "cover_line2": "12.8万星，帮你跑git",
+      "body": "Anthropic 把 Claude 做成了一个终端里的编码工具。它不是简单的代码补全，而是能住在你的终端里，读懂你整个代码库。你用自然语言跟它说要做什么，它能帮你执行那些重复的任务，比如解释一大段复杂的代码，或者帮你处理 git 的提交、分支这些操作。听起来像有个资深程序员随时待命。这个项目已经有12.8万颗星，说明开发者对这类能理解上下文、深度集成到工作流的AI助手需求很大。它想取代的是你花在“操作”而非“思考”上的时间。一个问题是：当AI能熟练操作我们的开发环境后，程序员的核心价值会不会从“写”转向“设计和定义”？",
+      "tags": [
+        "AI编程",
+        "终端工具",
+        "Claude",
+        "代码助手",
+        "自然语言",
+        "Git",
+        "Anthropic",
+        "开发者工具",
+        "效率",
+        "代码理解"
+      ]
+    },
+    {
+      "topic": "ECC优化AI代理",
+      "repo": "affaan-m/ECC",
+      "cover_line1": "给AI代理装上‘加速器’",
+      "cover_line2": "总星快20万，让Cursor跑更快",
+      "body": "ECC 这个项目有点意思，它不造新的AI工具，而是优化像 Claude Code、Cursor 这些现有AI代理的性能。它像一个调校系统，通过管理AI的技能、记忆甚至安全策略，让这些工具响应更快、更准。它今天涨了九百多星，总星数快接近二十万，说明它戳中了用户的痛点：好用的AI工具，有时候反应太慢，或者理解偏差。ECC 就是在现有工具下面再加一层优化和编排。它代表了一个新思路：当底层AI模型大家都用一样的，上层优化和工程就变得特别关键。但我不太确定，这种优化带来的速度提升，在实际开发中到底能省下多少时间？",
+      "tags": [
+        "性能优化",
+        "AI代理",
+        "Claude Code",
+        "Cursor",
+        "效率提升",
+        "工程优化",
+        "开源",
+        "JavaScript",
+        "开发工具",
+        "系统调优"
+      ]
+    },
+    {
+      "topic": "免Tokenizer语音",
       "repo": "OpenBMB/VoxCPM",
-      "cover_line1": "免费开源的语音克隆模型",
-      "cover_line2": "支持中英等多语种声音设计",
-      "body": "VoxCPM 是个很厉害的语音合成项目，简单说，就是能让AI学一个人的声音然后模仿说话。它跟之前那些工具不一样的地方在于，它不用“Tokenizer”——你可以理解为不用先把人说的话转成一堆看不懂的中间符号，而是直接从原始声音学起，这样生成的语音更自然，连语气、停顿都更像真人。它支持中文、英文好几种语言，而且是开源的，这意味着你可以在自己电脑上跑，不用付钱给商业API。对于想做个私人语音助手、或者给视频配个特定声音解说的开发者来说，这工具门槛低效果又好。它今天涨了1800多星，总星数两万多，说明社区对能自己掌控的语音技术需求很大。如果AI连声音和语气都能克隆得真假难辨，我们还怎么判断电话那头是不是真人？",
+      "cover_line1": "不用Tokenizer也能说话",
+      "cover_line2": "OpenBMB开源，支持克隆声音",
+      "body": "VoxCPM2 做了一件在语音合成领域挺突破的事：它完全扔掉了传统TTS（文字转语音）里的Tokenizer模块。Tokenizer通常是把文字转成声音代码的中间人，VoxCPM2 直接省掉了这一步，据说能让生成的语音更自然，支持的语言也更多。它不只是能读文字，还能让你设计独特的声音风格，甚至克隆真实人的声音。这是 OpenBMB 这个机构开源的项目，今天涨了六百多星。没有Tokenizer意味着系统更简洁，可能也更容易部署和调试。我在想，如果声音克隆变得这么简单和开源，我们怎么区分电话那头是真人还是AI？",
       "tags": [
         "语音合成",
         "TTS",
+        "免Tokenizer",
+        "多语言",
         "声音克隆",
+        "OpenBMB",
         "开源模型",
-        "多语种",
-        "AI生成",
-        "自然语言处理",
-        "深度学习",
+        "AI语音",
         "Python",
-        "VoxCPM"
-      ]
-    },
-    {
-      "topic": "终端AI编程助手",
-      "repo": "anthropics/claude-code",
-      "cover_line1": "Anthropic官方终端编程工具",
-      "cover_line2": "总星数12.8万帮程序员更快写码",
-      "body": "Claude Code 不是个网页聊天机器人，它是一个住在你命令行终端里的AI编程搭档。它能理解你整个项目的代码库，然后通过你的自然语言指令来干活。比如你说“帮我看看这个函数为什么报错”，它能直接读代码，找出问题，甚至帮你改好；你说“把这段代码重写得更清晰”，它就能动手重构。它还能处理Git那些麻烦事，比如提交代码、看历史记录。这意味着你不用离开熟悉的命令行环境，就能让AI帮你处理很多重复、枯燥的编码任务，让程序员专注在更有创造性的思考上。它来自Anthropic，Claude的开发商，所以能力比较可靠，总星数快13万了，是很多开发者已经在用的日常工具。当AI可以熟练操作我们的命令行和代码仓库时，程序员未来的日常会是什么样子？",
-      "tags": [
-        "编程助手",
-        "AI编程",
-        "命令行工具",
-        "代码生成",
-        "Anthropic",
-        "Claude",
-        "开发者工具",
-        "自动化",
-        "Python",
-        "开源"
-      ]
-    },
-    {
-      "topic": "Claude Code技能插件",
-      "repo": "EveryInc/compound-engineering-plugin",
-      "cover_line1": "给Claude Code装新技能的插件",
-      "cover_line2": "让AI编程助手更懂你的流程",
-      "body": "这个插件是专门为Claude Code设计的，作用是把一些通用的、好的工程实践打包成“技能”，让Claude Code学会。比如，它可以教Claude Code怎么规范地写提交信息，怎么自动做代码审查，或者怎么管理项目的依赖。你把它装上，Claude Code这个AI助手就不仅仅能改代码了，还能按照你团队的最佳实践来工作，像个有经验的同事。这个项目今天涨了350星左右，总星数1.8万，说明很多人买了Claude Code这个“主机”之后，还想要扩展它的功能。它让AI工具从一个通用的助手，慢慢变成了能融入你特定工作流的定制化伙伴。如果AI助手能通过插件不断学习新的工作方法，它会不会最终比我们的工作习惯还要优秀？",
-      "tags": [
-        "插件",
-        "AI增强",
-        "编程工作流",
-        "代码规范",
-        "最佳实践",
-        "Claude Code",
-        "TypeScript",
-        "开发者体验",
-        "工具扩展",
-        "效率"
+        "语音生成"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-05-30/trending/summary.png",
-    "assets/2026-05-30/trending/post1.png",
-    "assets/2026-05-30/trending/post2.png",
-    "assets/2026-05-30/trending/post3.png",
-    "assets/2026-05-30/trending/post4.png"
+    "assets/2026-05-31/trending/summary.png",
+    "assets/2026-05-31/trending/post1.png",
+    "assets/2026-05-31/trending/post2.png",
+    "assets/2026-05-31/trending/post3.png",
+    "assets/2026-05-31/trending/post4.png"
   ]
 }
