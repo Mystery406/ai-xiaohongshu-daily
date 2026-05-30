@@ -7,80 +7,80 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
-      "stars_today": "3,563 stars today",
-      "stars_total": "69,077"
+      "stars_today": "3,567 stars today",
+      "stars_total": "69,602"
     },
     {
       "name": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars_today": "1,876 stars today",
-      "stars_total": "129,226"
+      "stars_today": "1,873 stars today",
+      "stars_total": "129,909"
     },
     {
       "name": "EveryInc/compound-engineering-plugin",
       "url": "https://github.com/EveryInc/compound-engineering-plugin",
       "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
       "language": "TypeScript",
-      "stars_today": "354 stars today",
-      "stars_total": "18,037"
+      "stars_today": "353 stars today",
+      "stars_total": "18,124"
     },
     {
       "name": "twentyhq/twenty",
       "url": "https://github.com/twentyhq/twenty",
       "description": "The open alternative to Salesforce, designed for AI.",
       "language": "TypeScript",
-      "stars_today": "575 stars today",
-      "stars_total": "48,251"
+      "stars_today": "578 stars today",
+      "stars_total": "48,397"
     },
     {
       "name": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Python",
-      "stars_today": "460 stars today",
-      "stars_total": "127,734"
+      "stars_today": "395 stars today",
+      "stars_total": "127,863"
     },
     {
       "name": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "Shell",
-      "stars_today": "2,066 stars today",
-      "stars_total": "27,782"
+      "stars_today": "2,062 stars today",
+      "stars_total": "28,096"
     },
     {
       "name": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars_today": "129 stars today",
-      "stars_total": "1,215"
+      "stars_today": "134 stars today",
+      "stars_total": "1,294"
     },
     {
       "name": "run-llama/liteparse",
       "url": "https://github.com/run-llama/liteparse",
       "description": "A fast, helpful, and open-source document parser",
       "language": "Rust",
-      "stars_today": "680 stars today",
-      "stars_total": "7,010"
+      "stars_today": "701 stars today",
+      "stars_total": "7,271"
     },
     {
       "name": "galilai-group/stable-worldmodel",
       "url": "https://github.com/galilai-group/stable-worldmodel",
       "description": "A platform for reproducible world model research and evaluation",
       "language": "Python",
-      "stars_today": "346 stars today",
-      "stars_total": "1,145"
+      "stars_today": "362 stars today",
+      "stars_total": "1,240"
     },
     {
       "name": "byoungd/English-level-up-tips",
       "url": "https://github.com/byoungd/English-level-up-tips",
       "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
       "language": "",
-      "stars_today": "1,564 stars today",
-      "stars_total": "49,554"
+      "stars_today": "1,566 stars today",
+      "stars_total": "49,623"
     }
   ],
   "ai_repos": [
@@ -89,133 +89,129 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
-      "stars_today": "3,563 stars today",
-      "stars_total": "69,077"
+      "stars_today": "3,567 stars today",
+      "stars_total": "69,602"
     },
     {
       "name": "EveryInc/compound-engineering-plugin",
       "url": "https://github.com/EveryInc/compound-engineering-plugin",
       "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
       "language": "TypeScript",
-      "stars_today": "354 stars today",
-      "stars_total": "18,037"
+      "stars_today": "353 stars today",
+      "stars_total": "18,124"
     },
     {
       "name": "twentyhq/twenty",
       "url": "https://github.com/twentyhq/twenty",
       "description": "The open alternative to Salesforce, designed for AI.",
       "language": "TypeScript",
-      "stars_today": "575 stars today",
-      "stars_total": "48,251"
+      "stars_today": "578 stars today",
+      "stars_total": "48,397"
     },
     {
       "name": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Python",
-      "stars_today": "460 stars today",
-      "stars_total": "127,734"
+      "stars_today": "395 stars today",
+      "stars_total": "127,863"
     },
     {
       "name": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "Shell",
-      "stars_today": "2,066 stars today",
-      "stars_total": "27,782"
+      "stars_today": "2,062 stars today",
+      "stars_total": "28,096"
     },
     {
       "name": "run-llama/liteparse",
       "url": "https://github.com/run-llama/liteparse",
       "description": "A fast, helpful, and open-source document parser",
       "language": "Rust",
-      "stars_today": "680 stars today",
-      "stars_total": "7,010"
+      "stars_today": "701 stars today",
+      "stars_total": "7,271"
     },
     {
       "name": "galilai-group/stable-worldmodel",
       "url": "https://github.com/galilai-group/stable-worldmodel",
       "description": "A platform for reproducible world model research and evaluation",
       "language": "Python",
-      "stars_today": "346 stars today",
-      "stars_total": "1,145"
+      "stars_today": "362 stars today",
+      "stars_total": "1,240"
     }
   ],
   "posts": [
     {
-      "topic": "AI一键生成短视频",
+      "topic": "MoneyPrinterTurbo",
       "repo": "harry0703/MoneyPrinterTurbo",
-      "cover_line1": "一键生成高清短视频的工具",
-      "cover_line2": "今天GitHub涨了3563颗星",
-      "body": "做短视频以前挺麻烦的，找素材、剪辑、配音，一套下来大半天。现在有个叫MoneyPrinterTurbo的开源项目，它用AI大模型，你只需要给个主题或者一句话，它就能自动帮你生成一个完整的高清短视频，包括脚本、画面、配音和字幕。整个过程真的就像一键操作。这个项目今天在GitHub上一下就涨了3563颗星，总星数到了6.9万，看得出来很多人都想试试这种省事的视频创作方式。它背后的逻辑是把那些复杂的步骤都用代码串联起来，调用各种AI能力来完成。你可以想象它是一个自动流水线，原料是你的想法，出来的是一个可以直接发出去的视频。当然，生成的视频质量怎么样，还取决于你输入的具体程度和它用的模型能力，但至少提供了一个快速出片的起点。一个问题是，如果视频都能这么一键生成了，我们看视频的时候，还会觉得它有趣吗？",
+      "cover_line1": "AI一键生成短视频",
+      "cover_line2": "今天冲上3500星",
+      "body": "用AI做短视频的开源项目火了，今天一天就涨了三千多星。这个叫MoneyPrinterTurbo的工具，简单说就是你给它一个主题，比如‘咖啡入门指南’，它自己就能搜素材、配音、配字幕，最后给你拼成一个能直接发的短视频。它背后连着大模型，能把事情说得有条有理。很多人喜欢它，是因为想试试做短视频，但卡在找素材和剪辑上，这个工具把这些步骤都自动化了。不过它生成的内容质量如何，很大程度上取决于你给它的主题描述有多具体。它还支持自定义配音，听起来不会太机械。一个关键问题是，当AI能这么方便地批量生产视频时，什么样的内容才能真正被记住？",
       "tags": [
-        "AI视频",
-        "短视频生成",
+        "AI视频生成",
+        "一键生成",
+        "开源工具",
         "自动化",
-        "内容创作",
-        "Python",
-        "开源",
-        "效率工具",
+        "短视频",
         "大模型应用",
-        "多媒体",
-        "趋势项目"
+        "内容创作",
+        "效率工具",
+        "GitHub热门"
       ]
     },
     {
-      "topic": "终端里的AI编码助手",
-      "repo": "anthropics/claude-code",
-      "cover_line1": "Anthropic出的终端编码工具",
-      "cover_line2": "已有12万开发者用它写代码",
-      "body": "开发者每天在终端里待的时间可能比在浏览器里还多。Anthropic做的Claude Code，就是一个活在你终端里的AI编码助手。你用自然语言跟它说话，它就能理解你整个代码库的上下文，帮你处理那些日常的、重复的编码任务，比如写个函数、解释一段复杂代码，或者搞定git的提交和分支管理。它不是那种你得切来切去的网页工具，而是直接在你敲命令的地方干活。它今天在GitHub上涨了460颗星，但总星数已经到了12.7万，说明已经有不少开发者把它当成了日常工具。这意味着你不需要离开熟悉的命令行环境，就能获得AI的帮助，流程中断得更少。它的存在，让“在终端里完成更多工作”这件事变得更可行。不过，当AI越来越深入开发流程，开发者的核心能力会变成什么？是提出需求，还是审查AI的输出？",
-      "tags": [
-        "AI编程",
-        "开发者工具",
-        "终端",
-        "Claude",
-        "代码助手",
-        "效率",
-        "自然语言命令",
-        "Python",
-        "Anthropic",
-        "代码库"
-      ]
-    },
-    {
-      "topic": "给AI加品味",
+      "topic": "taste-skill",
       "repo": "Leonxlnx/taste-skill",
-      "cover_line1": "一个提升AI生成内容品味的工具",
-      "cover_line2": "今天GitHub增长超过2000颗星",
-      "body": "AI生成的文字、图片、代码，有时候你一看就知道是AI做的——太工整、太模板化、没什么个性，就是所谓的“AI味儿”。Taste-Skill这个项目想解决的就是这个问题。它像一个插件或者技能包，你可以给你的AI模型“装”上，目的是让它生成的东西更有“品味”，减少那种无聊的、通用的、像流水线产品一样的输出。它今天在GitHub上涨了2066颗星，增长非常快，说明很多人都有同感：我们想要的不只是AI能干活，还想让它干得有点意思。这个工具具体怎么工作的，细节还需要看代码，但思路是通过一些规则或微调，影响AI在生成时的偏好，让它避开那些最容易被识别为“AI生成”的套路。它把一个模糊的感受——“没品味”——变成了一个可以尝试技术解决的问题。一个有趣的点是，品味本身是非常主观的，这个工具定义的“好品味”，和你觉得的“好品味”，会是一回事吗？",
+      "cover_line1": "给AI生成注入品味",
+      "cover_line2": "今天涨2000星",
+      "body": "现在让AI写段话、画个图，最大的问题不是出错，而是太‘正确’、太通用，毫无味道。有人专门做了个叫taste-skill的东西来治这个病。它的原理是把一套关于‘什么是好品味’的规则打包，让你在给AI下指令时一起‘喂’给它。比如你让AI写产品介绍，它可能会加上具体的、有画面感的词，而不是用‘领先’、‘强大’这种空话。这个项目火起来，说明大家开始受够了AI那种‘正确的废话’。它不是让AI变得更聪明，而是教它懂得分寸和审美。一个很实际的问题来了：如果所有人的AI都开始有了相似的‘好品味’，世界会不会变得又另一种单调？",
       "tags": [
-        "AI质量",
-        "内容品味",
-        "生成式AI",
-        "工具链",
-        "Shell",
-        "优化",
-        "反套路",
-        "创意",
-        "开源",
-        "AI生成"
+        "AI品味",
+        "提示词工程",
+        "内容优化",
+        "去模板化",
+        "审美训练",
+        "开源项目",
+        "创意辅助",
+        "语言模型",
+        "用户体验"
       ]
     },
     {
-      "topic": "Rust写的文档解析器",
+      "topic": "Twenty",
+      "repo": "twentyhq/twenty",
+      "cover_line1": "开源AI版Salesforce",
+      "cover_line2": "涨到48000星",
+      "body": "管理客户关系的软件（CRM）基本被Salesforce这类大公司垄断了，又贵又难改。Twenty这个开源项目就是想用开源和AI来破局。它被设计成‘给AI用的CRM’，意思是它不只是个记录客户信息的数据库，还内置了能理解自然语言的AI。你可以像跟同事说话一样问它：‘上个月联系过的上海客户里，哪些没下单？’它能直接在你存的数据里找到答案。今天又涨了快六百星，说明想找个能自己掌控、又能用上AI能力的企业客户管理工具的人不少。它的价值在于把死板的企业软件数据，变成了可以对话的智能助手。那么，当你的销售数据、客户对话全都交给一个开源的AI管理时，最大的安全感来自哪里？",
+      "tags": [
+        "开源CRM",
+        "Salesforce替代",
+        "AI原生",
+        "客户关系管理",
+        "SaaS",
+        "企业软件",
+        "TypeScript",
+        "自托管",
+        "数据智能"
+      ]
+    },
+    {
+      "topic": "LiteParse",
       "repo": "run-llama/liteparse",
-      "cover_line1": "一个快速开源的文档解析工具",
-      "cover_line2": "用Rust实现，今天涨680颗星",
-      "body": "要把PDF、Word、HTML这些文档里的文字和结构提出来，给AI用或者做分析，这一步经常是又慢又容易出错。run-llama团队出的LiteParse，目标就是做一个“快速、好用、开源”的文档解析器。它核心是用Rust语言写的，天生就追求高性能。今天在GitHub上涨了680颗星，总数到了7010。它的价值在于，当你构建一个处理文档的AI应用时，需要一个可靠的“前端”先把文档变成干净的文本或数据。LiteParse想成为这个前端，而且强调开源，这意味着你可以自己部署，控制数据隐私，也方便根据需求去调整。它背后是LlamaIndex，一个做数据连接的框架，所以这个解析器很可能被设计来和他们的其他工具无缝配合，优化整个数据处理链路。文档解析听起来基础，但它是很多AI应用的第一步，这一步的质量直接决定后面环节的效果。问题是，面对格式千奇百怪的现实文档，它真的能像宣传的那么快和准吗？",
+      "cover_line1": "开源文档解析器",
+      "cover_line2": "Rust写的速度快",
+      "body": "很多AI应用，比如读合同、看报告，第一步是把PDF、Word这些乱七八糟的文档变成AI能懂的干净文字。这活以前又慢又容易出错。Run-Llama团队用Rust语言写了这个叫liteparse的开源工具，专门解决这个问题。它的核心卖点就是‘快’和‘准’。Rust语言保证了处理大量文档时的速度，而它自己会聪明地处理表格、标题、多栏排版这些麻烦格式。对开发者来说，这相当于给自己的AI应用配了一个又快又稳的‘文档消化系统’。今天涨了七百多星，说明需要从文档里提取信息的开发者很多。当AI能轻松‘读’懂任何格式的文档后，什么类型的专业工作会被改变得最大？",
       "tags": [
         "文档解析",
-        "数据处理",
-        "Rust",
         "开源工具",
-        "性能优化",
-        "AI基础设施",
-        "PDF",
-        "数据提取",
-        "LlamaIndex",
-        "开发者工具"
+        "Rust语言",
+        "PDF处理",
+        "AI数据预处理",
+        "开发者工具",
+        "高性能",
+        "内容提取",
+        "LLM应用"
       ]
     }
   ],
