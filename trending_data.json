@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-31",
-  "slot": "晚报",
+  "date": "2026-06-01",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "harry0703/MoneyPrinterTurbo",
@@ -8,7 +8,7 @@
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
       "stars_today": "1,937 stars today",
-      "stars_total": "73,349"
+      "stars_total": "74,097"
     },
     {
       "name": "microsoft/markitdown",
@@ -16,7 +16,7 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "stars_today": "2,759 stars today",
-      "stars_total": "134,072"
+      "stars_total": "134,884"
     },
     {
       "name": "D4Vinci/Scrapling",
@@ -24,7 +24,7 @@
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
       "language": "Python",
       "stars_today": "639 stars today",
-      "stars_total": "56,208"
+      "stars_total": "56,579"
     },
     {
       "name": "nesquena/hermes-webui",
@@ -32,7 +32,7 @@
       "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
       "language": "Python",
       "stars_today": "320 stars today",
-      "stars_total": "9,665"
+      "stars_total": "9,945"
     },
     {
       "name": "EveryInc/compound-engineering-plugin",
@@ -40,7 +40,7 @@
       "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
       "language": "TypeScript",
       "stars_today": "243 stars today",
-      "stars_total": "18,582"
+      "stars_total": "18,693"
     },
     {
       "name": "github/docs",
@@ -48,7 +48,7 @@
       "description": "The open-source repo for docs.github.com",
       "language": "TypeScript",
       "stars_today": "20 stars today",
-      "stars_total": "19,621"
+      "stars_total": "19,720"
     },
     {
       "name": "OpenBMB/VoxCPM",
@@ -56,7 +56,7 @@
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
       "stars_today": "639 stars today",
-      "stars_total": "23,196"
+      "stars_total": "23,485"
     },
     {
       "name": "revfactory/harness",
@@ -64,7 +64,7 @@
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
       "language": "HTML",
       "stars_today": "318 stars today",
-      "stars_total": "4,471"
+      "stars_total": "4,581"
     },
     {
       "name": "FareedKhan-dev/train-llm-from-scratch",
@@ -72,7 +72,7 @@
       "description": "A straightforward method for training your LLM, from downloading data to generating text.",
       "language": "Jupyter Notebook",
       "stars_today": "627 stars today",
-      "stars_total": "2,657"
+      "stars_total": "2,937"
     },
     {
       "name": "supermemoryai/supermemory",
@@ -80,7 +80,7 @@
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "language": "TypeScript",
       "stars_today": "236 stars today",
-      "stars_total": "23,107"
+      "stars_total": "23,315"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
       "stars_today": "1,937 stars today",
-      "stars_total": "73,349"
+      "stars_total": "74,097"
     },
     {
       "name": "nesquena/hermes-webui",
@@ -98,7 +98,7 @@
       "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
       "language": "Python",
       "stars_today": "320 stars today",
-      "stars_total": "9,665"
+      "stars_total": "9,945"
     },
     {
       "name": "EveryInc/compound-engineering-plugin",
@@ -106,7 +106,7 @@
       "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
       "language": "TypeScript",
       "stars_today": "243 stars today",
-      "stars_total": "18,582"
+      "stars_total": "18,693"
     },
     {
       "name": "OpenBMB/VoxCPM",
@@ -114,7 +114,7 @@
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
       "stars_today": "639 stars today",
-      "stars_total": "23,196"
+      "stars_total": "23,485"
     },
     {
       "name": "revfactory/harness",
@@ -122,7 +122,7 @@
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
       "language": "HTML",
       "stars_today": "318 stars today",
-      "stars_total": "4,471"
+      "stars_total": "4,581"
     },
     {
       "name": "FareedKhan-dev/train-llm-from-scratch",
@@ -130,7 +130,7 @@
       "description": "A straightforward method for training your LLM, from downloading data to generating text.",
       "language": "Jupyter Notebook",
       "stars_today": "627 stars today",
-      "stars_total": "2,657"
+      "stars_total": "2,937"
     },
     {
       "name": "supermemoryai/supermemory",
@@ -138,92 +138,92 @@
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "language": "TypeScript",
       "stars_today": "236 stars today",
-      "stars_total": "23,107"
+      "stars_total": "23,315"
     }
   ],
   "posts": [
     {
-      "topic": "MoneyPrinterTurbo",
+      "topic": "AI一键出视频",
       "repo": "harry0703/MoneyPrinterTurbo",
-      "cover_line1": "MoneyPrint",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**harry0703/MoneyPrinterTurbo**\n\n📌 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.\n\n🔗 https://github.com/harry0703/MoneyPrinterTurbo\n\n关注我，每天第一时间 AI 动态 👇",
+      "cover_line1": "AI一键生成短视频",
+      "cover_line2": "今日涨近2000星，总7.4万",
+      "body": "想做短视频又没时间拍和剪？MoneyPrinterTurbo 就是解决这个问题的。你给它一个主题或关键词，它用AI大模型自己写文案、配画面、加音乐、生成字幕，最后给你一个可以直发的高清短视频。它内置了好几个视频模板，也支持换背景音乐和配音音色，跑通流程大概几分钟。现在开源社区里很多人在用它批量生产内容，项目热度一天涨了快两千星，总标星过了七万四。这工具核心价值就一个字：省。省时间、省人力，让不懂剪辑的人也能做出像样的视频。不过我也在想，当AI能直接产出完整视频，我们人类创作者的价值到底在哪儿体现？",
       "tags": [
-        "AI",
-        "GitHub",
+        "AI视频",
+        "效率工具",
+        "内容生成",
+        "一键生成",
+        "Python",
         "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "自媒体",
+        "AIGC",
+        "自动化",
+        "短视频"
       ]
     },
     {
-      "topic": "hermes-webui",
-      "repo": "nesquena/hermes-webui",
-      "cover_line1": "hermes-web",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**nesquena/hermes-webui**\n\n📌 Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!\n\n🔗 https://github.com/nesquena/hermes-webui\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "compound-engineering",
-      "repo": "EveryInc/compound-engineering-plugin",
-      "cover_line1": "compound-e",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**EveryInc/compound-engineering-plugin**\n\n📌 Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more\n\n🔗 https://github.com/EveryInc/compound-engineering-plugin\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "VoxCPM",
+      "topic": "无Tokenizer语音",
       "repo": "OpenBMB/VoxCPM",
-      "cover_line1": "VoxCPM",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**OpenBMB/VoxCPM**\n\n📌 VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning\n\n🔗 https://github.com/OpenBMB/VoxCPM\n\n关注我，每天第一时间 AI 动态 👇",
+      "cover_line1": "VoxCPM2 无Tokenizer多语言TTS",
+      "cover_line2": "去掉Tokenizer，支持多语言与声音克隆",
+      "body": "大多数文字转语音系统，第一步得把文字切成一个个小单元，这个过程叫tokenization。VoxCPM2来自OpenBMB，它直接跳过了这一步。这意味着模型处理语音的路径更直接，理论上能保留更多原始的声音细节和情感。它支持多语言合成，也能根据你提供的音频样本去克隆一个新声音，做创意配音。项目今天涨了六百多星，总星标两万三。对于开发者来说，去掉tokenizer可能让整个语音生成的流程更简洁，调试也更方便。但这套新方法在各种复杂场景下的稳定性和效果如何，还得看更多人的实际测试。",
       "tags": [
-        "AI",
-        "GitHub",
+        "语音合成",
+        "TTS",
+        "多语言",
+        "声音克隆",
         "开源",
-        "热门项目",
-        "大模型",
+        "AI模型",
+        "深度学习",
+        "Python",
+        "OpenBMB",
+        "创新"
+      ]
+    },
+    {
+      "topic": "从零训大模型",
+      "repo": "FareedKhan-dev/train-llm-from-scratch",
+      "cover_line1": "手把手教你从头训练大模型",
+      "cover_line2": "从下载数据到生成文本，全流程代码",
+      "body": "大模型（LLM）听起来很厉害，但自己从头训一个是什么感觉？FareedKhan-dev 的这个教程就是干这个事的。它不是只讲理论，而是给你一份能跑通的代码，带着你一步步走完：下载数据、处理数据、搭建模型、训练、最后用模型生成文字。今天一天它就涨了超过六百星，总共近三千星，说明很多人真的想搞懂底层是怎么回事。它最大的价值是‘祛魅’，让你亲手摸到大模型的心脏。教程用的是Jupyter Notebook，可以边看代码边跑边理解。如果你是想深入LLM内部原理的开发者，这个起点很实在。那么问题来了，现在照着教程训一个玩具模型和真正用它解决实际问题之间，还有多远的路要走？",
+      "tags": [
+        "大模型训练",
+        "教程",
+        "入门",
+        "LLM",
+        "开源",
         "机器学习",
         "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "Python",
+        "代码实战",
+        "教育"
+      ]
+    },
+    {
+      "topic": "AI的超级记忆",
+      "repo": "supermemoryai/supermemory",
+      "cover_line1": "给AI应用配个超级记忆库",
+      "cover_line2": "快速可扩展的记忆API，解决AI遗忘",
+      "body": "现在的AI聊天机器人有个通病：聊完就忘，下次对话一切从头开始。Supermemory 就是来解决这个‘记忆’问题的。它把自己定位成AI时代的记忆引擎，提供一套API，让你的应用能方便地存储、检索和管理信息。它的特点是快和能扛住大规模数据。今天有两百多颗新星，总星标超过两万三。对开发者来说，这就像给AI配了一个随身记事本，能让对话更连贯，服务更个性化。你可以用它让客服机器人记住用户的历史问题，或者让知识助手牢记你研究过的所有资料。当然，记忆多了也会带来新问题：AI该记住什么，不该记住什么？这会不会引发新的隐私担忧？",
+      "tags": [
+        "记忆引擎",
+        "AI基础设施",
+        "API",
+        "向量数据库",
+        "TypeScript",
+        "开源",
+        "开发工具",
+        "个性化",
+        "可扩展",
+        "效率"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-05-31/trending/summary.png",
-    "assets/2026-05-31/trending/post1.png",
-    "assets/2026-05-31/trending/post2.png",
-    "assets/2026-05-31/trending/post3.png",
-    "assets/2026-05-31/trending/post4.png"
+    "assets/2026-06-01/trending/summary.png",
+    "assets/2026-06-01/trending/post1.png",
+    "assets/2026-06-01/trending/post2.png",
+    "assets/2026-06-01/trending/post3.png",
+    "assets/2026-06-01/trending/post4.png"
   ]
 }
