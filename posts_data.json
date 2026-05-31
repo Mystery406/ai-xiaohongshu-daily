@@ -1,89 +1,89 @@
 {
-  "date": "2026-05-30",
+  "date": "2026-05-31",
   "posts": [
     {
-      "topic": "Mistral技术分享",
-      "cover_line1": "Mistral办了场技术分享会",
-      "cover_line2": "总裁Arthur Mensch透露训练细节",
-      "body": "今天看了一个对Mistral AI内部技术分享的笔记，总裁Arthur Mensch和团队讲了不少干货。他们提到，公司的核心策略就是通过技术创新把模型跑得更快、更便宜，这样才能把AI真正用起来。Mistral很看重开源，他们觉得让社区能用和改进自己的模型，是推动技术前进的最好办法。具体到技术上，他们重点在优化模型架构和训练流程，目标是用更少的计算资源达到同样甚至更好的效果。这背后其实是一个很实际的逻辑：算力是成本，谁能把效率做到极致，谁的产品才能大规模落地。他们也谈了未来，认为模型不会无限变大，而是会朝着更聪明、更专用的方向走。你觉得，对于想用AI的公司来说，是追最新的大模型重要，还是用好一个够用且高效的模型更实在？",
+      "topic": "Domain expertise has",
+      "cover_line1": "Domain exp",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Domain expertise has always been the real moat**\n\n📌 来源：HackerNews\n🔗 https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "Mistral",
-        "开源",
-        "效率",
-        "模型优化",
-        "AI成本",
-        "技术分享",
-        "Arthur Mensch",
-        "推理",
-        "训练",
-        "AI落地"
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "免费清洁换数据",
-      "cover_line1": "Shift用免费清洁换训练数据",
-      "cover_line2": "已签下1000户家庭",
-      "body": "有家叫Shift的公司想了个新招：他们上门给你免费打扫房间，代价是把整个清洁过程录下来，用这些视频数据去训练未来的家政机器人。听起来有点科幻，但他们已经在做了，据说已经签了上千户家庭。这其实是在解决AI训练一个最头疼的问题——真实世界的数据太难拿了。教机器人认杯子、擦桌子、躲开宠物，光在虚拟环境里模拟远远不够，得有海量真实、多样、带详细标注的拍摄数据。Shift用免费服务当诱饵，让普通人愿意参与，这比花钱雇人表演或者去别人家拍要便宜得多。这种模式如果跑通，以后类似“免费理发换数据”、“免费开车换数据”的事可能会越来越多。你愿意用一些隐私，去换一个未来可能照顾你生活的机器人吗？",
+      "topic": "OpenRouter raises $1",
+      "cover_line1": "OpenRouter",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**OpenRouter raises $113M Series B**\n\n📌 来源：HackerNews\n🔗 https://openrouter.ai/announcements/series-b\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "机器人训练",
-        "数据收集",
-        "商业模式",
-        "家用机器人",
-        "隐私",
-        "Shift",
-        "计算机视觉",
-        "训练数据",
-        "AI数据",
-        "创业公司"
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "Liquid AI新模型",
-      "cover_line1": "Liquid AI发布新款开源模型",
-      "cover_line2": "80亿参数中仅10亿常被激活",
-      "body": "Liquid AI发布了一个叫LFM2-5的模型，技术亮点很突出。它总共有80亿参数，但采用了MoE（专家混合）架构，意思是它内部有很多个小“专家”，每次处理任务时只激活其中一小部分，这次是10亿参数左右。这样的好处是，模型的“知识量”（总参数）很大，但实际计算时需要的算力（激活参数）很小，跑起来又快又省电。它还是在高达38万亿个token的数据上训练的，量非常大，这意味着它见过的“世面”很广。对于想在自家服务器或者未来在手机上跑强大AI模型的人来说，这种设计特别有吸引力，因为它在效果和效率之间找到了一个不错的平衡点。你觉得，这种“用时才调用”的稀疏架构，会是未来所有大模型的标配吗？",
+      "topic": "Navier-Stokes fluid ",
+      "cover_line1": "Navier-Sto",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Navier-Stokes fluid simulation explained with Godot game engine**\n\n📌 来源：HackerNews\n🔗 https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "Liquid AI",
-        "开源模型",
-        "MoE",
-        "模型架构",
-        "推理效率",
-        "LFM2",
-        "训练数据",
-        "AI硬件",
-        "端侧AI",
-        "参数效率"
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "AI与前端开发",
-      "cover_line1": "AI会重蹈前端开发的老路吗",
-      "cover_line2": "有人觉得历史正在重演",
-      "body": "Hacker News上有个挺火的讨论，是在问AI工具的泛滥，会不会导致前端开发领域再经历一次“失去的十年”。这里说的“失去的十年”，大概是指以前各种框架、库、工具满天飞，开发者疲于追赶潮流，反而忽略了打好HTML、CSS、JavaScript这些基本功。现在AI写代码的工具太多了，很多人开始担心，新一代的开发者可能会过度依赖AI生成代码，而不去真正理解底层逻辑和原理，导致写出的代码看似能跑，但脆弱、难以维护。这就像给了小孩一个计算器，他可能能算对题，但完全不理解数学。这个观点是不是有点危言耸听？还是说，我们确实需要警惕，别让工具替代了思考？",
+      "topic": "Show HN: Open Envelo",
+      "cover_line1": "Show HN: O",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Open Envelope – an open schema for defining AI agent teams**\n\n📌 来源：HackerNews\n🔗 https://openenvelope.org/docs/schema/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "前端开发",
-        "AI编程",
-        "开发者工具",
-        "软件工程",
-        "基础技能",
-        "行业反思",
-        "历史循环",
-        "代码质量",
-        "技术趋势",
-        "AI影响"
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-05-30/cover1.png",
-    "assets/2026-05-30/cover2.png",
-    "assets/2026-05-30/cover3.png",
-    "assets/2026-05-30/cover4.png"
+    "assets/2026-05-31/cover1.png",
+    "assets/2026-05-31/cover2.png",
+    "assets/2026-05-31/cover3.png",
+    "assets/2026-05-31/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-05-30/cover1_feishu.png",
-    "assets/2026-05-30/cover2_feishu.png",
-    "assets/2026-05-30/cover3_feishu.png",
-    "assets/2026-05-30/cover4_feishu.png"
+    "assets/2026-05-31/cover1_feishu.png",
+    "assets/2026-05-31/cover2_feishu.png",
+    "assets/2026-05-31/cover3_feishu.png",
+    "assets/2026-05-31/cover4_feishu.png"
   ]
 }
