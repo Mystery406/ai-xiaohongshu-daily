@@ -1,229 +1,229 @@
 {
-  "date": "2026-06-02",
+  "date": "2026-06-03",
   "slot": "早报",
   "all_repos": [
+    {
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars_today": "1,266 stars today",
+      "stars_total": "5,624"
+    },
     {
       "name": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars_today": "3,034 stars today",
-      "stars_total": "138,315"
+      "stars_today": "3,616 stars today",
+      "stars_total": "140,787"
     },
     {
-      "name": "nesquena/hermes-webui",
-      "url": "https://github.com/nesquena/hermes-webui",
-      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-      "language": "Python",
-      "stars_today": "945 stars today",
-      "stars_total": "11,259"
-    },
-    {
-      "name": "supermemoryai/supermemory",
-      "url": "https://github.com/supermemoryai/supermemory",
-      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-      "language": "TypeScript",
-      "stars_today": "647 stars today",
-      "stars_total": "23,955"
-    },
-    {
-      "name": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "language": "Python",
-      "stars_today": "3,375 stars today",
-      "stars_total": "76,802"
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_today": "1,597 stars today",
+      "stars_total": "203,378"
     },
     {
       "name": "D4Vinci/Scrapling",
       "url": "https://github.com/D4Vinci/Scrapling",
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
       "language": "Python",
-      "stars_today": "1,486 stars today",
-      "stars_total": "57,997"
+      "stars_today": "1,196 stars today",
+      "stars_total": "58,951"
     },
-    {
-      "name": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "JavaScript",
-      "stars_today": "485 stars today",
-      "stars_total": "32,662"
-    },
-    {
-      "name": "p-e-w/heretic",
-      "url": "https://github.com/p-e-w/heretic",
-      "description": "Fully automatic censorship removal for language models",
-      "language": "Python",
-      "stars_today": "249 stars today",
-      "stars_total": "23,022"
-    },
-    {
-      "name": "EveryInc/compound-engineering-plugin",
-      "url": "https://github.com/EveryInc/compound-engineering-plugin",
-      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
-      "language": "TypeScript",
-      "stars_today": "417 stars today",
-      "stars_total": "19,087"
-    },
-    {
-      "name": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "stars_today": "299 stars today",
-      "stars_total": "81,748"
-    },
-    {
-      "name": "revfactory/harness",
-      "url": "https://github.com/revfactory/harness",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "language": "HTML",
-      "stars_today": "524 stars today",
-      "stars_total": "5,130"
-    }
-  ],
-  "ai_repos": [
     {
       "name": "nesquena/hermes-webui",
       "url": "https://github.com/nesquena/hermes-webui",
       "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
       "language": "Python",
-      "stars_today": "945 stars today",
-      "stars_total": "11,259"
+      "stars_today": "1,725 stars today",
+      "stars_total": "12,391"
+    },
+    {
+      "name": "reconurge/flowsint",
+      "url": "https://github.com/reconurge/flowsint",
+      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "language": "TypeScript",
+      "stars_today": "190 stars today",
+      "stars_total": "4,385"
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars_today": "779 stars today",
+      "stars_total": "24,976"
+    },
+    {
+      "name": "stefan-jansen/machine-learning-for-trading",
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+      "language": "Jupyter Notebook",
+      "stars_today": "570 stars today",
+      "stars_total": "18,301"
+    },
+    {
+      "name": "jamwithai/production-agentic-rag-course",
+      "url": "https://github.com/jamwithai/production-agentic-rag-course",
+      "description": "",
+      "language": "Python",
+      "stars_today": "31 stars today",
+      "stars_total": "6,302"
     },
     {
       "name": "supermemoryai/supermemory",
       "url": "https://github.com/supermemoryai/supermemory",
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "language": "TypeScript",
-      "stars_today": "647 stars today",
-      "stars_total": "23,955"
-    },
+      "stars_today": "677 stars today",
+      "stars_total": "24,489"
+    }
+  ],
+  "ai_repos": [
     {
-      "name": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_today": "3,375 stars today",
-      "stars_total": "76,802"
+      "stars_today": "1,266 stars today",
+      "stars_total": "5,624"
     },
     {
-      "name": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "485 stars today",
-      "stars_total": "32,662"
+      "stars_today": "1,597 stars today",
+      "stars_total": "203,378"
     },
     {
-      "name": "EveryInc/compound-engineering-plugin",
-      "url": "https://github.com/EveryInc/compound-engineering-plugin",
-      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
-      "language": "TypeScript",
-      "stars_today": "417 stars today",
-      "stars_total": "19,087"
-    },
-    {
-      "name": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "name": "nesquena/hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
       "language": "Python",
-      "stars_today": "299 stars today",
-      "stars_total": "81,748"
+      "stars_today": "1,725 stars today",
+      "stars_total": "12,391"
     },
     {
-      "name": "revfactory/harness",
-      "url": "https://github.com/revfactory/harness",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "language": "HTML",
-      "stars_today": "524 stars today",
-      "stars_total": "5,130"
+      "name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars_today": "779 stars today",
+      "stars_total": "24,976"
+    },
+    {
+      "name": "stefan-jansen/machine-learning-for-trading",
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+      "language": "Jupyter Notebook",
+      "stars_today": "570 stars today",
+      "stars_total": "18,301"
+    },
+    {
+      "name": "jamwithai/production-agentic-rag-course",
+      "url": "https://github.com/jamwithai/production-agentic-rag-course",
+      "description": "",
+      "language": "Python",
+      "stars_today": "31 stars today",
+      "stars_total": "6,302"
+    },
+    {
+      "name": "supermemoryai/supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "stars_today": "677 stars today",
+      "stars_total": "24,489"
     }
   ],
   "posts": [
     {
-      "topic": "AI一键做视频",
-      "repo": "harry0703/MoneyPrinterTurbo",
-      "cover_line1": "用AI一键生成短视频",
-      "cover_line2": "今日涨了3375个star，总7.6万",
-      "body": "这个项目的核心就一句话：你给它一个主题或者几个关键词，它就能调用大模型，自动生成一个高清短视频，包括画面、配音和字幕。它解决了做短视频最麻烦的脚本构思、素材寻找和剪辑拼接这几步，让你把精力全放在创意上。今天一天在GitHub上就涨了三千多个star，总星数冲到7.6万，这说明很多人真的受够了繁琐的剪辑流程，想要一个一键出片的工具。它内置了好几个大模型的接口，你可以选不同的风格，生成的速度也很快。对于想快速测试内容想法，或者批量生产特定类型视频的团队来说，这东西能省下大量时间。但生成的画面质量肯定没法跟专业制作比，它更像是个高效率的起跑器。如果AI视频生成已经这么方便了，那专业的视频剪辑师未来的核心竞争力到底是什么？",
+      "topic": "headroom",
+      "repo": "chopratejas/headroom",
+      "cover_line1": "LLM输入压缩工具",
+      "cover_line2": "减少60-95%的token使用",
+      "body": "如果你在用大语言模型做开发，肯定头疼过API费用，token用得越多钱烧得越快。headroom这个工具就是来省这笔钱的。它能在数据送给LLM之前进行压缩，不管是工具的输出结果、日志文件，还是RAG系统检索出来的文档块，都能大幅减小体积。官方测试下来，token使用量能减少60%到95%，而且答案质量基本不变。它提供了三种接入方式：作为Python库集成到代码里，作为代理透明处理请求，或者作为MCP服务器独立运行。这样，开发者不需要改动太多现有逻辑，就能直接省下成本。比如，一个每天处理上万条日志的应用，装上它可能月费直接砍半。不过，压缩总需要计算资源，你觉得在实际项目中，为了省token，愿意额外付出多少处理时间？",
       "tags": [
-        "AI视频生成",
-        "开源工具",
-        "AIGC",
-        "自动化",
-        "大模型应用",
-        "内容创作",
-        "效率工具",
-        "一键生成",
+        "AI",
+        "LLM",
+        "压缩",
+        "优化",
+        "token",
+        "成本",
         "Python",
-        "GitHub Trending"
+        "工具",
+        "开发",
+        "效率"
       ]
     },
     {
-      "topic": "给AI装上长期记忆",
-      "repo": "supermemoryai/supermemory",
-      "cover_line1": "给AI应用接上长期记忆",
-      "cover_line2": "今日涨647星，主打快和可扩展",
-      "body": "你用的聊天机器人或者AI助手，往往聊完上句忘下句，因为它没有长期记忆。SuperMemory就是干这个的，它提供一个专门存、取、回忆信息的‘记忆引擎’，让AI能把对话和重要信息记住。它的卖点是速度极快和容易扩展，专为AI时代设计了记忆API。想象一下，你的智能客服能记住每个用户的所有历史问题和偏好，或者一个写作助手能真正了解你多年的写作风格。今天这个项目涨了六百多个star，说明开发者社区对这种底层能力的需求是真实的。它本质是个后端服务，你把它接进自己的AI应用里就行。不过记忆怎么存、存多少、隐私怎么管，这些细节决定了它能不能用在严肃场景。当你的AI助手比你自己还清楚你的习惯和过去，这到底是进步还是另一种依赖？",
+      "topic": "ECC",
+      "repo": "affaan-m/ECC",
+      "cover_line1": "agent性能优化系统",
+      "cover_line2": "总星超20万的热门框架",
+      "body": "ECC是一个专门为AI agent做性能优化的系统。它设计了一整套技能、本能、记忆和安全模块，主要针对Claude Code、Codex、Opencode这些代码助手工具。今天它涨了快1600星，总星数已经突破20万，说明开发者社区非常认可。它强调研究先行，意思是每个功能都是基于实际开发痛点来设计的。比如，记忆模块能帮agent记住上下文，安全模块防止操作出错。如果你在用这些agent写代码或自动化任务，ECC可能帮你把它们调教得更顺手、更可靠。不过，agent优化现在还是个新领域，你觉得在复杂项目里，让AI自主决策最大的障碍是什么？",
       "tags": [
-        "AI记忆",
-        "API",
-        "后端服务",
-        "可扩展性",
-        "上下文学习",
-        "智能助手",
-        "基础设施",
-        "开源",
-        "TypeScript",
-        "开发者工具"
+        "AI",
+        "agent",
+        "优化",
+        "性能",
+        "JavaScript",
+        "框架",
+        "开发",
+        "Claude",
+        "Codex",
+        "工具"
       ]
     },
     {
-      "topic": "自动组建AI团队",
-      "repo": "revfactory/harness",
-      "cover_line1": "用AI自动设计AI智能体团队",
-      "cover_line2": "今日涨524星，自动生成技能定义",
-      "body": "想让多个AI智能体合作完成任务，但手动配置每个智能体的能力和它们怎么协作，很麻烦。Harness这个项目是个‘元技能’，意思是它本身的能力就是帮你设计别的技能。你告诉它一个领域或目标，它能自动分析出需要哪些专业智能体，比如一个负责调研，一个负责写作，一个负责检查，然后生成每个智能体的具体指令和它们使用的工具定义。它今天涨了五百多个star，反映出大家对于如何快速搭建复杂AI系统的需求。这省去了大量前期设计和试错的时间，让你能更快地验证想法。但它生成的设计是否合理、高效，还是需要人来审核和调整。如果AI能自己设计AI团队，那人类在其中的角色，是变成了最终的决策者和产品经理吗？",
-      "tags": [
-        "多智能体",
-        "自动化设计",
-        "元编程",
-        "AI工程",
-        "团队协作",
-        "开源框架",
-        "HTML",
-        "低代码",
-        "代理",
-        "AI开发"
-      ]
-    },
-    {
-      "topic": "手机控AI助手",
+      "topic": "hermes-webui",
       "repo": "nesquena/hermes-webui",
-      "cover_line1": "Hermes智能体的网页和手机界面",
-      "cover_line2": "今日涨945星，总星数破1.1万",
-      "body": "Hermes可能是个不错的AI智能体，但如果你只能用命令行跟它交互，那太不方便了。这个项目就是给Hermes Agent做了一个完整的网页界面，让你在浏览器或者手机上就能方便地使用它。今天涨了九百多个star，总星数突破一万，证明‘好用的前端’和‘强大的后端’同样重要。它把智能体的核心能力包装成了直观的界面，降低了使用门槛。这意味着你可以随时随地，像用手机App一样调用你的AI助手。不过，一个通用的界面能否适配不同用户对智能体千差万别的使用习惯，可能是个挑战。当AI助手变得像微信一样触手可及，它会不会更深度地融入我们的日常生活和工作流？",
+      "cover_line1": "Hermes Agent网页界面",
+      "cover_line2": "今天涨星1725个最多",
+      "body": "如果你喜欢用Hermes Agent但嫌命令行操作麻烦，这个项目就是为你准备的。hermes-webui提供了一个网页界面，让你在浏览器或者手机上都能方便地使用agent。今天它涨了1725星，是今天GitHub上最火的AI项目。它把agent的交互变简单了，不需要记命令，点点鼠标就行。比如，你可以快速测试一个想法，或者给非技术同事做个演示。界面设计看起来挺直观，应该能降低使用门槛。不过，网页界面有时候会牺牲一些命令行的灵活性，你觉得对于AI工具来说，易用性和控制力哪个更重要？",
       "tags": [
+        "AI",
+        "agent",
         "WebUI",
-        "前端开发",
-        "移动端",
-        "用户体验",
-        "AI界面",
-        "开源应用",
+        "界面",
         "Python",
-        "降低门槛",
-        "聊天机器人",
-        "Hermes"
+        "开发",
+        "Hermes",
+        "网页",
+        "移动端",
+        "工具"
+      ]
+    },
+    {
+      "topic": "VoxCPM",
+      "repo": "OpenBMB/VoxCPM",
+      "cover_line1": "多语言语音生成模型",
+      "cover_line2": "无需tokenizer的TTS系统",
+      "body": "VoxCPM2是一个文本转语音模型，但特别的是它完全不需要tokenizer。它支持多语言，能设计创意声音，还能克隆真实人声，听起来挺逼真。今天它涨了779星，社区对这个进展很感兴趣。传统TTS系统通常需要复杂的tokenization步骤来把文本拆成小单元，VoxCPM跳过了这个环节，可能让语音生成更直接、更快。对于开发者来说，这意味着集成起来可能更简单。比如，做一个多语言客服机器人，或者给内容配上自定义声音。不过，去tokenizer化会不会影响生成质量的控制，你觉得这种简化在语音AI里是趋势还是妥协？",
+      "tags": [
+        "AI",
+        "TTS",
+        "语音",
+        "生成",
+        "多语言",
+        "Python",
+        "模型",
+        "OpenBMB",
+        "克隆",
+        "工具"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-02/trending/summary.png",
-    "assets/2026-06-02/trending/post1.png",
-    "assets/2026-06-02/trending/post2.png",
-    "assets/2026-06-02/trending/post3.png",
-    "assets/2026-06-02/trending/post4.png"
+    "assets/2026-06-03/trending/summary.png",
+    "assets/2026-06-03/trending/post1.png",
+    "assets/2026-06-03/trending/post2.png",
+    "assets/2026-06-03/trending/post3.png",
+    "assets/2026-06-03/trending/post4.png"
   ]
 }
