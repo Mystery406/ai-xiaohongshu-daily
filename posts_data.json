@@ -1,89 +1,89 @@
 {
-  "date": "2026-06-01",
+  "date": "2026-06-02",
   "posts": [
     {
-      "topic": "1-Bit Bonsai Image 4",
-      "cover_line1": "1-Bit Bons",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**1-Bit Bonsai Image 4B Image Generation for Local Devices**\n\n📌 来源：HackerNews\n🔗 https://prismml.com/news/bonsai-image-4b\n\n关注我，每天第一时间 AI 动态 👇",
+      "topic": "Anthropic 提交上市文件",
+      "cover_line1": "Anthropic 保密提交上市草案",
+      "cover_line2": "已向 SEC 递交 S-1 文件",
+      "body": "Anthropic 这家搞 Claude 的公司，今天悄悄向美国证监会（SEC）递了一份上市申请的初稿。不是正式提交，而是保密提交，意思是他们先把材料给监管部门看看，但具体内容不对外公开。这通常是大公司上市前的标准动作，既测试监管水温，又能继续调整，直到觉得稳妥了再公开。对 Anthropic 来说，这意味着他们终于从「大力研发」阶段，开始正式考虑怎么从资本市场上拿钱、怎么向公众投资人交代了。在 OpenAI 和谷歌都大举烧钱的当下，Anthropic 必须跟上节奏。这份草案的递交，像是一声发令枪。不过，保密阶段能持续多久、正式上市时估值会是多少，现在都还说不好。你怎么看这些顶尖 AI 公司扎堆准备上市这件事？",
       "tags": [
-        "AI",
-        "人工智能",
-        "大模型",
-        "科技",
-        "每日热点",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "Anthropic",
+        "上市",
+        "SEC",
+        "Claude",
+        "融资",
+        "AI公司",
+        "监管",
+        "资本",
+        "行业动态",
+        "重大事件"
       ]
     },
     {
-      "topic": "Creatine raises brai",
-      "cover_line1": "Creatine r",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Creatine raises brain energy levels and slows cognitive decline: study**\n\n📌 来源：HackerNews\n🔗 https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/\n\n关注我，每天第一时间 AI 动态 👇",
+      "topic": "OpenAI 模型上 AWS",
+      "cover_line1": "OpenAI 模型正式上 AWS",
+      "cover_line2": "前沿模型和 Codex 可用",
+      "body": "OpenAI 的最新模型，现在可以直接在亚马逊的 AWS 云服务上用了。这包括他们最强的前沿模型，还有专门写代码的 Codex。以前，开发者要调用 OpenAI 的能力，主要得去 OpenAI 自己的平台或者微软的 Azure。现在多了一个亚马逊的选择，这意味着企业客户有了更多灵活性和议价空间。对于开发者来说，如果公司的技术栈本来就搭在 AWS 上，现在就能更方便地把 OpenAI 的能力集成进去，不用再折腾跨云服务的连接。这看起来是 OpenAI 在扩大自己的商业触角，而 AWS 也补上了自家 AI 模型生态的一块重要拼图。当顶尖 AI 模型像水电一样在所有主流云上都能接，这会改变你构建 AI 应用的方式吗？",
       "tags": [
-        "AI",
-        "人工智能",
-        "大模型",
-        "科技",
-        "每日热点",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "OpenAI",
+        "AWS",
+        "亚马逊",
+        "云服务",
+        "Codex",
+        "API",
+        "开发者",
+        "云计算",
+        "企业服务",
+        "生态合作"
       ]
     },
     {
-      "topic": "United Airlines 767 ",
-      "cover_line1": "United Air",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**United Airlines 767 returns to Newark after Bluetooth name sparks alert**\n\n📌 来源：HackerNews\n🔗 https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/\n\n关注我，每天第一时间 AI 动态 👇",
+      "topic": "斯坦福新课讨论 AI 使用",
+      "cover_line1": "斯坦福新课讨论 AI 使用",
+      "cover_line2": "发布 AI 作业指南引发热议",
+      "body": "斯坦福大学开了一门叫「CS336: 从头构建语言模型」的新课，在 Hacker News 上火了。更火的是这门课配套的一份《AI 使用指南》。这份指南直接告诉学生：可以用 AI 工具（比如 Claude）来帮忙写作业，但有严格规矩。比如，你不能直接把问题扔给 AI 让它生成答案，但可以请它解释概念、帮你调试代码、或者给你灵感。提交作业时，你必须说明你在哪里用了 AI、怎么用的。教授们的思路很清晰：AI 已经是现实工具了，教学生正确、透明地使用它，比假装它不存在要好。这引发了很多讨论：当 AI 成为标配，课程到底该怎么设计？考核的又是什么能力？你觉得大学应该如何把 AI 工具纳入教学和考核体系？",
       "tags": [
-        "AI",
-        "人工智能",
-        "大模型",
-        "科技",
-        "每日热点",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "斯坦福",
+        "大学教育",
+        "课程设计",
+        "AI使用",
+        "学术规范",
+        "教育创新",
+        "学生",
+        "程序员",
+        "伦理",
+        "工具使用"
       ]
     },
     {
-      "topic": "The Speed of Prototy",
-      "cover_line1": "The Speed ",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**The Speed of Prototyping in the Age of AI**\n\n📌 来源：HackerNews\n🔗 https://darylcecile.net/notes/speed-of-prototyping-age-of-ai\n\n关注我，每天第一时间 AI 动态 👇",
+      "topic": "Alphabet 融资 800 亿美元",
+      "cover_line1": "Alphabet 融资 800 亿美元",
+      "cover_line2": "用于扩建 AI 计算设施",
+      "body": "谷歌的母公司 Alphabet 今天宣布，计划通过出售新股筹集 800 亿美元。这笔巨款只有一个目的：扩张 AI 基础设施和计算能力。800 亿美元是什么概念？很多大型科技公司全年的资本支出也就这个数。Alphabet 一次性拿出来，说明 AI 军备竞赛的门槛已经高到了这种程度。训练和运行下一代 AI 模型，需要海量的算力，而这算力的背后是昂贵的芯片、数据中心和电力。这笔钱会用来买更多的 GPU（或 TPU）、建更多的数据中心。在微软、亚马逊都在疯狂投入的当下，Alphabet 必须跟上，否则就会在 AI 竞赛中落后。这笔巨额融资，直接把 AI 竞赛的「钞能力」门槛又拉高了一个台阶。这对你我使用的 AI 产品，未来会有什么具体影响？",
       "tags": [
-        "AI",
-        "人工智能",
-        "大模型",
-        "科技",
-        "每日热点",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "Alphabet",
+        "谷歌",
+        "融资",
+        "800亿美元",
+        "AI基础设施",
+        "算力",
+        "数据中心",
+        "芯片",
+        "军备竞赛",
+        "行业投入"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-01/cover1.png",
-    "assets/2026-06-01/cover2.png",
-    "assets/2026-06-01/cover3.png",
-    "assets/2026-06-01/cover4.png"
+    "assets/2026-06-02/cover1.png",
+    "assets/2026-06-02/cover2.png",
+    "assets/2026-06-02/cover3.png",
+    "assets/2026-06-02/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-06-01/cover1_feishu.png",
-    "assets/2026-06-01/cover2_feishu.png",
-    "assets/2026-06-01/cover3_feishu.png",
-    "assets/2026-06-01/cover4_feishu.png"
+    "assets/2026-06-02/cover1_feishu.png",
+    "assets/2026-06-02/cover2_feishu.png",
+    "assets/2026-06-02/cover3_feishu.png",
+    "assets/2026-06-02/cover4_feishu.png"
   ]
 }
