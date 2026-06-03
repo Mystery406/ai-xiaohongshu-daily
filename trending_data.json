@@ -7,80 +7,80 @@
       "url": "https://github.com/chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_today": "1,266 stars today",
-      "stars_total": "5,624"
+      "stars_today": "1,265 stars today",
+      "stars_total": "6,348"
     },
     {
       "name": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars_today": "3,616 stars today",
-      "stars_total": "140,787"
+      "stars_today": "3,618 stars today",
+      "stars_total": "141,089"
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "1,597 stars today",
-      "stars_total": "203,378"
+      "stars_today": "1,533 stars today",
+      "stars_total": "203,912"
     },
     {
       "name": "D4Vinci/Scrapling",
       "url": "https://github.com/D4Vinci/Scrapling",
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
       "language": "Python",
-      "stars_today": "1,196 stars today",
-      "stars_total": "58,951"
+      "stars_today": "1,182 stars today",
+      "stars_total": "59,140"
     },
     {
       "name": "nesquena/hermes-webui",
       "url": "https://github.com/nesquena/hermes-webui",
       "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
       "language": "Python",
-      "stars_today": "1,725 stars today",
-      "stars_total": "12,391"
+      "stars_today": "1,722 stars today",
+      "stars_total": "12,527"
     },
     {
       "name": "reconurge/flowsint",
       "url": "https://github.com/reconurge/flowsint",
       "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
       "language": "TypeScript",
-      "stars_today": "190 stars today",
-      "stars_total": "4,385"
+      "stars_today": "124 stars today",
+      "stars_total": "4,491"
     },
     {
       "name": "OpenBMB/VoxCPM",
       "url": "https://github.com/OpenBMB/VoxCPM",
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
-      "stars_today": "779 stars today",
-      "stars_total": "24,976"
+      "stars_today": "783 stars today",
+      "stars_total": "25,104"
     },
     {
       "name": "stefan-jansen/machine-learning-for-trading",
       "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
       "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
       "language": "Jupyter Notebook",
-      "stars_today": "570 stars today",
-      "stars_total": "18,301"
+      "stars_today": "574 stars today",
+      "stars_total": "18,447"
     },
     {
       "name": "jamwithai/production-agentic-rag-course",
       "url": "https://github.com/jamwithai/production-agentic-rag-course",
       "description": "",
       "language": "Python",
-      "stars_today": "31 stars today",
-      "stars_total": "6,302"
+      "stars_today": "30 stars today",
+      "stars_total": "6,369"
     },
     {
       "name": "supermemoryai/supermemory",
       "url": "https://github.com/supermemoryai/supermemory",
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "language": "TypeScript",
-      "stars_today": "677 stars today",
-      "stars_total": "24,489"
+      "stars_today": "680 stars today",
+      "stars_total": "24,616"
     }
   ],
   "ai_repos": [
@@ -89,133 +89,133 @@
       "url": "https://github.com/chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_today": "1,266 stars today",
-      "stars_total": "5,624"
+      "stars_today": "1,265 stars today",
+      "stars_total": "6,348"
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "1,597 stars today",
-      "stars_total": "203,378"
+      "stars_today": "1,533 stars today",
+      "stars_total": "203,912"
     },
     {
       "name": "nesquena/hermes-webui",
       "url": "https://github.com/nesquena/hermes-webui",
       "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
       "language": "Python",
-      "stars_today": "1,725 stars today",
-      "stars_total": "12,391"
+      "stars_today": "1,722 stars today",
+      "stars_total": "12,527"
     },
     {
       "name": "OpenBMB/VoxCPM",
       "url": "https://github.com/OpenBMB/VoxCPM",
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
-      "stars_today": "779 stars today",
-      "stars_total": "24,976"
+      "stars_today": "783 stars today",
+      "stars_total": "25,104"
     },
     {
       "name": "stefan-jansen/machine-learning-for-trading",
       "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
       "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
       "language": "Jupyter Notebook",
-      "stars_today": "570 stars today",
-      "stars_total": "18,301"
+      "stars_today": "574 stars today",
+      "stars_total": "18,447"
     },
     {
       "name": "jamwithai/production-agentic-rag-course",
       "url": "https://github.com/jamwithai/production-agentic-rag-course",
       "description": "",
       "language": "Python",
-      "stars_today": "31 stars today",
-      "stars_total": "6,302"
+      "stars_today": "30 stars today",
+      "stars_total": "6,369"
     },
     {
       "name": "supermemoryai/supermemory",
       "url": "https://github.com/supermemoryai/supermemory",
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "language": "TypeScript",
-      "stars_today": "677 stars today",
-      "stars_total": "24,489"
+      "stars_today": "680 stars today",
+      "stars_total": "24,616"
     }
   ],
   "posts": [
     {
-      "topic": "headroom",
+      "topic": "LLM输入压缩",
       "repo": "chopratejas/headroom",
       "cover_line1": "LLM输入压缩工具",
-      "cover_line2": "减少60-95%的token使用",
-      "body": "如果你在用大语言模型做开发，肯定头疼过API费用，token用得越多钱烧得越快。headroom这个工具就是来省这笔钱的。它能在数据送给LLM之前进行压缩，不管是工具的输出结果、日志文件，还是RAG系统检索出来的文档块，都能大幅减小体积。官方测试下来，token使用量能减少60%到95%，而且答案质量基本不变。它提供了三种接入方式：作为Python库集成到代码里，作为代理透明处理请求，或者作为MCP服务器独立运行。这样，开发者不需要改动太多现有逻辑，就能直接省下成本。比如，一个每天处理上万条日志的应用，装上它可能月费直接砍半。不过，压缩总需要计算资源，你觉得在实际项目中，为了省token，愿意额外付出多少处理时间？",
+      "cover_line2": "省60-95% token，答案不变",
+      "body": "你跟大模型聊天或者让它处理文件时，最头疼的可能就是费用，因为它按输入内容的长度（token）收钱，内容越多越贵。Headroom 这个工具就是来解决这个问题的。它的作用像个智能过滤器，在文件、日志、工具输出或者检索到的资料（RAG chunks）送给大模型之前，先把它们压缩一遍，但要求是不影响最终答案的准确性。根据项目自己给出的数据，压缩后能省掉 60% 到 95% 的 token，这意味着调用成本可能直接砍掉一大半。它不只是一个简单的代码库，你可以把它当成代理服务器部署，或者作为一个 MCP（模型上下文协议）服务器来用，集成起来挺灵活。对于需要大量处理外部数据的 AI 应用来说，这直接关乎运行成本。你现在的项目里，有哪些数据流是值得用这种思路压缩一下的？",
       "tags": [
-        "AI",
-        "LLM",
-        "压缩",
-        "优化",
+        "llm",
         "token",
-        "成本",
-        "Python",
-        "工具",
-        "开发",
-        "效率"
+        "compression",
+        "cost",
+        "rag",
+        "proxy",
+        "mcp",
+        "efficiency",
+        "api",
+        "python"
       ]
     },
     {
-      "topic": "ECC",
-      "repo": "affaan-m/ECC",
-      "cover_line1": "agent性能优化系统",
-      "cover_line2": "总星超20万的热门框架",
-      "body": "ECC是一个专门为AI agent做性能优化的系统。它设计了一整套技能、本能、记忆和安全模块，主要针对Claude Code、Codex、Opencode这些代码助手工具。今天它涨了快1600星，总星数已经突破20万，说明开发者社区非常认可。它强调研究先行，意思是每个功能都是基于实际开发痛点来设计的。比如，记忆模块能帮agent记住上下文，安全模块防止操作出错。如果你在用这些agent写代码或自动化任务，ECC可能帮你把它们调教得更顺手、更可靠。不过，agent优化现在还是个新领域，你觉得在复杂项目里，让AI自主决策最大的障碍是什么？",
-      "tags": [
-        "AI",
-        "agent",
-        "优化",
-        "性能",
-        "JavaScript",
-        "框架",
-        "开发",
-        "Claude",
-        "Codex",
-        "工具"
-      ]
-    },
-    {
-      "topic": "hermes-webui",
-      "repo": "nesquena/hermes-webui",
-      "cover_line1": "Hermes Agent网页界面",
-      "cover_line2": "今天涨星1725个最多",
-      "body": "如果你喜欢用Hermes Agent但嫌命令行操作麻烦，这个项目就是为你准备的。hermes-webui提供了一个网页界面，让你在浏览器或者手机上都能方便地使用agent。今天它涨了1725星，是今天GitHub上最火的AI项目。它把agent的交互变简单了，不需要记命令，点点鼠标就行。比如，你可以快速测试一个想法，或者给非技术同事做个演示。界面设计看起来挺直观，应该能降低使用门槛。不过，网页界面有时候会牺牲一些命令行的灵活性，你觉得对于AI工具来说，易用性和控制力哪个更重要？",
-      "tags": [
-        "AI",
-        "agent",
-        "WebUI",
-        "界面",
-        "Python",
-        "开发",
-        "Hermes",
-        "网页",
-        "移动端",
-        "工具"
-      ]
-    },
-    {
-      "topic": "VoxCPM",
+      "topic": "无Tokenizer语音合成",
       "repo": "OpenBMB/VoxCPM",
-      "cover_line1": "多语言语音生成模型",
-      "cover_line2": "无需tokenizer的TTS系统",
-      "body": "VoxCPM2是一个文本转语音模型，但特别的是它完全不需要tokenizer。它支持多语言，能设计创意声音，还能克隆真实人声，听起来挺逼真。今天它涨了779星，社区对这个进展很感兴趣。传统TTS系统通常需要复杂的tokenization步骤来把文本拆成小单元，VoxCPM跳过了这个环节，可能让语音生成更直接、更快。对于开发者来说，这意味着集成起来可能更简单。比如，做一个多语言客服机器人，或者给内容配上自定义声音。不过，去tokenizer化会不会影响生成质量的控制，你觉得这种简化在语音AI里是趋势还是妥协？",
+      "cover_line1": "VoxCPM2无tokenizer语音合成",
+      "cover_line2": "不依赖传统tokenizer做TTS",
+      "body": "做文字转语音（TTS）应用，传统方案有个麻烦步骤：得先用一个叫“tokenizer”的工具把文字切成声音的“片段”，再让模型生成语音。VoxCPM2 直接跳过了这一步，它用了一套不依赖传统tokenizer的方法来生成语音。这样做的好处是，它能支持更灵活的多语言生成，允许你做更多创意的声音设计（比如混合音色），并且克隆一个声音时能更逼真。这意味着对于开发者来说，构建一个能说多种语言、声音又自然又多变的语音AI，技术门槛和潜在的限制变小了。它把生成能力更直接地交到了你手上。如果AI能像真人一样自由地说话，你最想用它做什么？",
       "tags": [
-        "AI",
-        "TTS",
-        "语音",
-        "生成",
-        "多语言",
-        "Python",
-        "模型",
-        "OpenBMB",
-        "克隆",
-        "工具"
+        "tts",
+        "speech",
+        "ai",
+        "multilingual",
+        "voice-clone",
+        "token-free",
+        "openbmb",
+        "generation",
+        "python",
+        "模型"
+      ]
+    },
+    {
+      "topic": "算法交易机器学习代码",
+      "repo": "stefan-jansen/machine-learning-for-trading",
+      "cover_line1": "算法交易机器学习实战代码",
+      "cover_line2": "配套书的完整代码，2019年更新",
+      "body": "如果你想用机器学习来做量化交易，这本书和配套代码是一个非常实用的起点。它不是空谈理论，而是《机器学习与算法交易》这本书第二版的全部实战代码。从最基础的数据处理、特征工程，到构建和评估预测模型，再到最终的策略回测，代码一步步跟着书走。这能帮你快速把书上的想法在电脑上跑通，看到实际效果。对于学习者来说，这种“书+代码”的组合避免了眼高手低，直接上手实战。书中涵盖的技术和策略都是经过市场检验的，虽然市场在变，但其中用数据驱动决策的逻辑依然有用。你曾用机器学习技术做过投资决策或回测吗？",
+      "tags": [
+        "machine-learning",
+        "trading",
+        "quantitative-finance",
+        "algorithmic-trading",
+        "jupyter",
+        "python",
+        "backtesting",
+        "textbook",
+        "开源",
+        "代码"
+      ]
+    },
+    {
+      "topic": "AI记忆引擎",
+      "repo": "supermemoryai/supermemory",
+      "cover_line1": "AI记忆引擎Supermemory",
+      "cover_line2": "给AI应用提供快速记忆API",
+      "body": "现在的AI应用大多有个毛病：聊完就忘，每次对话都是白纸一张，没有长期记忆。Supermemory 就是为了解决这个问题而生的记忆引擎。它设计得特别快、能存很多东西，然后对外提供一个“记忆API”。你可以把用户说过的话、重要的事实、对话历史存进去，下次AI需要调用时，能瞬间找回来。这就像给你的AI应用装了一个真正的大脑，能积累知识，越用越懂你。对于开发聊天机器人、个人助理或者任何需要个性化服务的AI产品来说，这解决了核心的“记忆”基础设施问题。你的AI应用，最该记住用户的哪一条信息？",
+      "tags": [
+        "ai",
+        "memory",
+        "api",
+        "fast",
+        "scalable",
+        "rag",
+        "database",
+        "agent",
+        "typescript",
+        "基础设施"
       ]
     }
   ],
