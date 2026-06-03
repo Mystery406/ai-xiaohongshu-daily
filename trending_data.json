@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-03",
+  "date": "2026-06-04",
   "slot": "早报",
   "all_repos": [
     {
@@ -7,80 +7,80 @@
       "url": "https://github.com/chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_today": "1,265 stars today",
-      "stars_total": "6,348"
-    },
-    {
-      "name": "microsoft/markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "language": "Python",
-      "stars_today": "3,618 stars today",
-      "stars_total": "141,089"
+      "stars_today": "3,528 stars today",
+      "stars_total": "9,097"
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "1,533 stars today",
-      "stars_total": "203,912"
+      "stars_today": "2,147 stars today",
+      "stars_total": "205,366"
     },
     {
-      "name": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars_today": "26 stars today",
+      "stars_total": "35,325"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
       "language": "Python",
-      "stars_today": "1,182 stars today",
-      "stars_total": "59,140"
+      "stars_today": "1,736 stars today",
+      "stars_total": "178,742"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars_today": "2,006 stars today",
+      "stars_total": "142,621"
     },
     {
       "name": "nesquena/hermes-webui",
       "url": "https://github.com/nesquena/hermes-webui",
       "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
       "language": "Python",
-      "stars_today": "1,722 stars today",
-      "stars_total": "12,527"
+      "stars_today": "734 stars today",
+      "stars_total": "13,010"
     },
     {
-      "name": "reconurge/flowsint",
-      "url": "https://github.com/reconurge/flowsint",
-      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
-      "language": "TypeScript",
-      "stars_today": "124 stars today",
-      "stars_total": "4,491"
-    },
-    {
-      "name": "OpenBMB/VoxCPM",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
       "language": "Python",
-      "stars_today": "783 stars today",
-      "stars_total": "25,104"
+      "stars_today": "1,078 stars today",
+      "stars_total": "59,987"
     },
     {
-      "name": "stefan-jansen/machine-learning-for-trading",
-      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
-      "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
-      "language": "Jupyter Notebook",
-      "stars_today": "574 stars today",
-      "stars_total": "18,447"
+      "name": "opendataloader-project/opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "language": "Java",
+      "stars_today": "573 stars today",
+      "stars_total": "23,145"
     },
     {
-      "name": "jamwithai/production-agentic-rag-course",
-      "url": "https://github.com/jamwithai/production-agentic-rag-course",
-      "description": "",
+      "name": "odoo/odoo",
+      "url": "https://github.com/odoo/odoo",
+      "description": "Odoo. Open Source Apps To Grow Your Business.",
       "language": "Python",
-      "stars_today": "30 stars today",
-      "stars_total": "6,369"
+      "stars_today": "29 stars today",
+      "stars_total": "51,860"
     },
     {
-      "name": "supermemoryai/supermemory",
-      "url": "https://github.com/supermemoryai/supermemory",
-      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-      "language": "TypeScript",
-      "stars_today": "680 stars today",
-      "stars_total": "24,616"
+      "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "language": "Python",
+      "stars_today": "702 stars today",
+      "stars_total": "8,847"
     }
   ],
   "ai_repos": [
@@ -89,141 +89,141 @@
       "url": "https://github.com/chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_today": "1,265 stars today",
-      "stars_total": "6,348"
+      "stars_today": "3,528 stars today",
+      "stars_total": "9,097"
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "1,533 stars today",
-      "stars_total": "203,912"
+      "stars_today": "2,147 stars today",
+      "stars_total": "205,366"
+    },
+    {
+      "name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars_today": "26 stars today",
+      "stars_total": "35,325"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars_today": "1,736 stars today",
+      "stars_total": "178,742"
     },
     {
       "name": "nesquena/hermes-webui",
       "url": "https://github.com/nesquena/hermes-webui",
       "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
       "language": "Python",
-      "stars_today": "1,722 stars today",
-      "stars_total": "12,527"
+      "stars_today": "734 stars today",
+      "stars_total": "13,010"
     },
     {
-      "name": "OpenBMB/VoxCPM",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "name": "opendataloader-project/opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "language": "Java",
+      "stars_today": "573 stars today",
+      "stars_total": "23,145"
+    },
+    {
+      "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
       "language": "Python",
-      "stars_today": "783 stars today",
-      "stars_total": "25,104"
-    },
-    {
-      "name": "stefan-jansen/machine-learning-for-trading",
-      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
-      "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
-      "language": "Jupyter Notebook",
-      "stars_today": "574 stars today",
-      "stars_total": "18,447"
-    },
-    {
-      "name": "jamwithai/production-agentic-rag-course",
-      "url": "https://github.com/jamwithai/production-agentic-rag-course",
-      "description": "",
-      "language": "Python",
-      "stars_today": "30 stars today",
-      "stars_total": "6,369"
-    },
-    {
-      "name": "supermemoryai/supermemory",
-      "url": "https://github.com/supermemoryai/supermemory",
-      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-      "language": "TypeScript",
-      "stars_today": "680 stars today",
-      "stars_total": "24,616"
+      "stars_today": "702 stars today",
+      "stars_total": "8,847"
     }
   ],
   "posts": [
     {
-      "topic": "LLM输入压缩",
+      "topic": "给AI减负的压缩器",
       "repo": "chopratejas/headroom",
-      "cover_line1": "LLM输入压缩工具",
-      "cover_line2": "省60-95% token，答案不变",
-      "body": "你跟大模型聊天或者让它处理文件时，最头疼的可能就是费用，因为它按输入内容的长度（token）收钱，内容越多越贵。Headroom 这个工具就是来解决这个问题的。它的作用像个智能过滤器，在文件、日志、工具输出或者检索到的资料（RAG chunks）送给大模型之前，先把它们压缩一遍，但要求是不影响最终答案的准确性。根据项目自己给出的数据，压缩后能省掉 60% 到 95% 的 token，这意味着调用成本可能直接砍掉一大半。它不只是一个简单的代码库，你可以把它当成代理服务器部署，或者作为一个 MCP（模型上下文协议）服务器来用，集成起来挺灵活。对于需要大量处理外部数据的 AI 应用来说，这直接关乎运行成本。你现在的项目里，有哪些数据流是值得用这种思路压缩一下的？",
+      "cover_line1": "给AI输入数据做瘦身",
+      "cover_line2": "能省下60%-95%的token",
+      "body": "你知道大语言模型（LLM）看的每份文件、日志，都在悄悄吃掉你的算力钱吗？headroom就是专门解决这个问题的。它像一道预处理闸门，在数据喂给AI之前，先把那些重复、冗长的部分压缩掉，只留下最关键的信息。比如你扔给它一份100页的PDF，它能帮你剔除大量无关紧要的格式和描述，只把核心内容压缩到原来的一小部分大小，再送给AI处理。结果就是，AI给出的答案质量几乎不变，但你支付的API费用和等待的时间都实实在在地降了60%到95%。它可以作为库、代理服务器，或者一个MCP服务器来用，直接集成到你现有的AI工作流里。这等于给你的AI应用装上了一个高效的信息筛选器，把钱花在刀刃上。你算过每个月在AI上花的“读数据钱”有多少吗？",
       "tags": [
-        "llm",
-        "token",
-        "compression",
-        "cost",
-        "rag",
-        "proxy",
-        "mcp",
-        "efficiency",
-        "api",
-        "python"
-      ]
-    },
-    {
-      "topic": "无Tokenizer语音合成",
-      "repo": "OpenBMB/VoxCPM",
-      "cover_line1": "VoxCPM2无tokenizer语音合成",
-      "cover_line2": "不依赖传统tokenizer做TTS",
-      "body": "做文字转语音（TTS）应用，传统方案有个麻烦步骤：得先用一个叫“tokenizer”的工具把文字切成声音的“片段”，再让模型生成语音。VoxCPM2 直接跳过了这一步，它用了一套不依赖传统tokenizer的方法来生成语音。这样做的好处是，它能支持更灵活的多语言生成，允许你做更多创意的声音设计（比如混合音色），并且克隆一个声音时能更逼真。这意味着对于开发者来说，构建一个能说多种语言、声音又自然又多变的语音AI，技术门槛和潜在的限制变小了。它把生成能力更直接地交到了你手上。如果AI能像真人一样自由地说话，你最想用它做什么？",
-      "tags": [
-        "tts",
-        "speech",
-        "ai",
-        "multilingual",
-        "voice-clone",
-        "token-free",
-        "openbmb",
-        "generation",
-        "python",
-        "模型"
-      ]
-    },
-    {
-      "topic": "算法交易机器学习代码",
-      "repo": "stefan-jansen/machine-learning-for-trading",
-      "cover_line1": "算法交易机器学习实战代码",
-      "cover_line2": "配套书的完整代码，2019年更新",
-      "body": "如果你想用机器学习来做量化交易，这本书和配套代码是一个非常实用的起点。它不是空谈理论，而是《机器学习与算法交易》这本书第二版的全部实战代码。从最基础的数据处理、特征工程，到构建和评估预测模型，再到最终的策略回测，代码一步步跟着书走。这能帮你快速把书上的想法在电脑上跑通，看到实际效果。对于学习者来说，这种“书+代码”的组合避免了眼高手低，直接上手实战。书中涵盖的技术和策略都是经过市场检验的，虽然市场在变，但其中用数据驱动决策的逻辑依然有用。你曾用机器学习技术做过投资决策或回测吗？",
-      "tags": [
-        "machine-learning",
-        "trading",
-        "quantitative-finance",
-        "algorithmic-trading",
-        "jupyter",
-        "python",
-        "backtesting",
-        "textbook",
+        "AI工具",
+        "性能优化",
+        "LLM",
+        "Token优化",
         "开源",
-        "代码"
+        "效率",
+        "Python",
+        "开发工具",
+        "成本控制",
+        "AI开发"
       ]
     },
     {
-      "topic": "AI记忆引擎",
-      "repo": "supermemoryai/supermemory",
-      "cover_line1": "AI记忆引擎Supermemory",
-      "cover_line2": "给AI应用提供快速记忆API",
-      "body": "现在的AI应用大多有个毛病：聊完就忘，每次对话都是白纸一张，没有长期记忆。Supermemory 就是为了解决这个问题而生的记忆引擎。它设计得特别快、能存很多东西，然后对外提供一个“记忆API”。你可以把用户说过的话、重要的事实、对话历史存进去，下次AI需要调用时，能瞬间找回来。这就像给你的AI应用装了一个真正的大脑，能积累知识，越用越懂你。对于开发聊天机器人、个人助理或者任何需要个性化服务的AI产品来说，这解决了核心的“记忆”基础设施问题。你的AI应用，最该记住用户的哪一条信息？",
+      "topic": "AI编程助手优化器",
+      "repo": "affaan-m/ECC",
+      "cover_line1": "优化Claude Code等AI编程工具",
+      "cover_line2": "涵盖技能、记忆、安全等全方位",
+      "body": "现在很多人用Claude Code、Cursor这些AI来写代码，但你知道吗，这些AI工具本身的“行为”是可以被优化和训练的。ECC就是干这个的，它是一个针对AI编程智能体的“性能调优系统”。你可以把它理解为给AI程序员配备的一套训练手册和装备库。它管理着AI的“技能”，比如它更擅长写Python还是调JS；优化它的“记忆”，让它记住项目上下文和你的编码习惯；还关注“安全”，防止它写出有漏洞的代码。它不是一个具体的代码助手，而是一套让所有这类助手（包括Codex等）变得更聪明、更高效、更安全的底层框架和方法论。对于重度依赖AI编程的开发者来说，这就像给你的AI副驾升级了导航和操作系统，让它跑得更快、更准。你觉得自己现在用的AI编程工具，哪个方面最需要被“优化”一下？",
       "tags": [
-        "ai",
-        "memory",
-        "api",
-        "fast",
-        "scalable",
-        "rag",
-        "database",
-        "agent",
-        "typescript",
-        "基础设施"
+        "AI编程",
+        "智能体",
+        "性能优化",
+        "Claude",
+        "Cursor",
+        "开发框架",
+        "JavaScript",
+        "开源",
+        "安全",
+        "AI研究"
+      ]
+    },
+    {
+      "topic": "会成长的AI智能体",
+      "repo": "NousResearch/hermes-agent",
+      "cover_line1": "一个能和你一起成长的AI助手",
+      "cover_line2": "来自知名研究团队NousResearch",
+      "body": "很多AI助手是用完就忘的，你今天教它的东西，明天它可能就忘了。NousResearch推出的hermes-agent，核心卖点是“与你一同成长”。这意味着它不只是一个被动回答问题的工具，而是一个能在与你交互的过程中不断学习、适应和进化的伙伴。它能记住你的偏好，了解你的工作风格，甚至随着时间推移，对问题的理解和解决方式也会越来越贴合你的需求。NousResearch是AI社区里一个知名的开放研究团队，他们的项目通常注重实际效用和创新性。这个智能体项目总星数已经超过17.8万，今天又涨了1700多，说明大家对这种有记忆、能进化的AI概念很买账。它可能代表了个人AI助手的一个发展方向：从通用工具变成专属伙伴。如果有一个AI能记住你所有的偏好和习惯，你会放心让它帮你处理多少事？",
+      "tags": [
+        "AI智能体",
+        "NousResearch",
+        "记忆",
+        "个性化",
+        "开源",
+        "Python",
+        "研究",
+        "成长型AI",
+        "个人助手",
+        "趋势"
+      ]
+    },
+    {
+      "topic": "可打断的语音AI",
+      "repo": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "cover_line1": "用语音和Live2D虚拟形象对话",
+      "cover_line2": "支持打断和本地运行",
+      "body": "想跟AI聊天，但懒得打字？这个项目让你可以像跟朋友打电话一样，用语音和AI对话。它不只是把语音转成文字那么简单，而是整合了“免手提语音交互”和“Live2D虚拟形象”。你可以直接对着麦克风说话，AI不仅会语音回复，屏幕上的虚拟形象还会根据对话做出表情和口型。更重要的是，它支持“语音打断”，就像真人对话一样，你可以在它说话时直接打断它，而不需要等它说完。整个对话过程可以在你自己的电脑上本地运行，保护了隐私。这解决了纯文本聊天的单调问题，也比传统的、需要等系统说完才能继续的语音交互更自然。它就像是给LLM装上了一张会动的脸和一副能听能说的耳朵。你觉得这种有“人设”、可打断的语音交互，比单纯的文字聊天体验好在哪里？",
+      "tags": [
+        "语音交互",
+        "VTuber",
+        "Live2D",
+        "本地运行",
+        "AI聊天",
+        "开源",
+        "Python",
+        "实时",
+        "隐私",
+        "创新交互"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-03/trending/summary.png",
-    "assets/2026-06-03/trending/post1.png",
-    "assets/2026-06-03/trending/post2.png",
-    "assets/2026-06-03/trending/post3.png",
-    "assets/2026-06-03/trending/post4.png"
+    "assets/2026-06-04/trending/summary.png",
+    "assets/2026-06-04/trending/post1.png",
+    "assets/2026-06-04/trending/post2.png",
+    "assets/2026-06-04/trending/post3.png",
+    "assets/2026-06-04/trending/post4.png"
   ]
 }
