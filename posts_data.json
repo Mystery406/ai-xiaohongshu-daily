@@ -1,89 +1,89 @@
 {
-  "date": "2026-06-03",
+  "date": "2026-06-04",
   "posts": [
     {
-      "topic": "微软发布编程模型",
-      "cover_line1": "微软发布编程模型MAI-Code-1-Flash",
-      "cover_line2": "比GPT-4快两倍还更便宜",
-      "body": "微软今天悄悄上线了一个叫 MAI-Code-1-Flash 的编程模型。这个模型不是什么全能的通用AI，它就专心干一件事：帮你写代码。它的特点是快，而且便宜。快是说，根据微软自己的测试，它在常见的代码生成任务上，速度大概是之前GPT-4的两倍。便宜是说，它的使用成本只有GPT-4的十分之一左右。这对于天天要跟AI结对编程的开发者来说，是个实实在在的消息。现在大家用的AI编程工具，比如Copilot，后台往往调用的是又大又贵的模型，响应慢、烧钱快。Flash这类专精的小模型，就像给开发者发了一张本地咖啡店的快取卡，不用每次都跑到市中心去排长队买昂贵的特调。它可能解决不了特别复杂的架构设计，但对于日常的补全代码、写测试用例、调试错误这些高频活，快和便宜就是一切。当写代码变成像呼吸一样自然的日常，你希望助手上气不接下气地慢慢反应，还是想它随时在你指尖准备好？",
+      "topic": "Gemma 4 12B: A unifi",
+      "cover_line1": "Gemma 4 12",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Gemma 4 12B: A unified, encoder-free multimodal model**\n\n📌 来源：HackerNews\n🔗 https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "微软",
-        "编程模型",
-        "Flash",
-        "开发者工具",
-        "代码生成",
-        "性能",
-        "成本",
-        "AI编程",
-        "效率",
-        "产品发布"
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "AI心理支持普及",
-      "cover_line1": "超六成人用AI做心理支持",
-      "cover_line2": "数据来自AXA 2026年报告",
-      "body": "今天看到一个AXA（安盛）发布的年度报告，里面提到一个数字：超过60%的人，在过去一年中曾向AI寻求心理或情感上的支持。这个比例高得有点意外。报告具体没细说这些支持是指跟聊天机器人倾诉烦恼，还是用AI应用做正念练习，或者分析自己的情绪日记。但它指向一个正在发生的事实：AI正在从一个冷冰冰的工具，变成很多人愿意对其说心里话的「树洞」。这背后的逻辑不难理解。去找真人心理咨询师，贵、难约、有社会压力。而AI永远在线、不带评判、绝对保密。当一个人凌晨三点焦虑发作，或者只是想抱怨一下今天办公室的糟心事，打开一个App立刻就能得到回应，这个吸引力是巨大的。当然，AI无法提供真正的人际共情和临床判断。但报告显示的数字说明，它确实填补了一个现实存在的情感需求缺口。当技术开始介入我们最私密的情绪领域，它应该扮演一个谦卑的陪伴者，还是一个自信的分析师？",
+      "topic": "The ways we contain ",
+      "cover_line1": "The ways w",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**The ways we contain Claude across products**\n\n📌 来源：HackerNews\n🔗 https://www.anthropic.com/engineering/how-we-contain-claude\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "心理健康",
-        "AI应用",
-        "用户报告",
-        "AXA",
-        "情感支持",
-        "聊天机器人",
-        "社会趋势",
-        "数字健康",
-        "行为数据",
-        "隐私"
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "AI法律题超教授",
-      "cover_line1": "AI在斯坦福研究里答法律题超越教授",
-      "cover_line2": "准确率高出23个百分点",
-      "body": "斯坦福法学院最近搞了一个研究，把最新的AI大模型和他们的法律教授放在同一个考场里，做同一套法律推理题。结果出来了：AI的平均准确率比教授们高出了大概23个百分点。注意，这不是在比背法条，题目考的是复杂的案例分析、法律论证和策略选择。这个研究很有趣，因为它把比较放到了一个具体的、有公认标准的场景里。教授们不是因为不懂法律而输给AI，更可能是因为AI能在瞬间处理和比对海量的判例、法律条文和学说观点，找出其中细微的关联和逻辑，这是人脑无法企及的广度与速度。这并不意味着律师要失业了。法律实践的核心，比如与客户沟通、理解诉求背后的复杂人性、在法庭上随机应变、把握法官的倾向，这些依然是人类的领地。但这个实验像一个信号：AI正在成为法律这个智力密集行业里，一个超强的「研究助理」和「初稿生成器」。如果AI已经能在学术测试中证明其强大的法律推理能力，那么在实际的法庭上，法官和律师该如何看待和利用AI给出的分析意见呢？",
+      "topic": "I built a vulnerable",
+      "cover_line1": "I built a ",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**I built a vulnerable app and spent $1,500 seeing if LLMs could hack it**\n\n📌 来源：HackerNews\n🔗 https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "斯坦福",
-        "法律AI",
-        "研究",
-        "AI能力",
-        "教育",
-        "专业技能",
-        "人机对比",
-        "法律科技",
-        "准确率",
-        "未来职业"
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "Gmail AI功能引不满",
-      "cover_line1": "用户因Gmail的AI功能太笨离开",
-      "cover_line2": "吐槽帖获600多赞引发共鸣",
-      "body": "今天Hacker News上一篇帖子火了，标题很直白：《Gmail thinks I'm stupid, so I left》（Gmail觉得我蠢，所以我走了）。作者详细抱怨了Gmail里那些试图「智能」整理邮件、自动建议回复、或是猜你想看什么的AI功能。他的核心观点是：这些功能不仅不准，还很傲慢，总想代替他做决定，结果就是把收件箱搞得一团糟。这篇帖子收获了超过600个赞，说明这是很多人的心声。这揭示了当前AI产品一个尴尬的痛点：功能上线得急，用户调研和退出选项做得糙。开发者可能觉得「自动归类」是好意，但用户只想要一个听话的、可预测的收件箱。AI的「智能」一旦变成用户无法掌控的「自作主张」，就会从助手变成麻烦。当AI系统越来越复杂，我们该如何确保用户始终拥有那个简单、清晰的「关闭智能」开关，而不是被强行拖入一个它自以为是的世界里？",
+      "topic": "Uber's $1,500/month ",
+      "cover_line1": "Uber's $1,",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Uber's $1,500/month AI limit is a useful signal for AI tool pricing**\n\n📌 来源：HackerNews\n🔗 https://simonwillison.net/2026/Jun/3/uber-caps-usage/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "Gmail",
-        "用户体验",
-        "AI功能",
-        "产品设计",
-        "吐槽",
-        "社区反馈",
-        "邮箱",
-        "智能助手",
-        "用户控制",
-        "界面设计"
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-03/cover1.png",
-    "assets/2026-06-03/cover2.png",
-    "assets/2026-06-03/cover3.png",
-    "assets/2026-06-03/cover4.png"
+    "assets/2026-06-04/cover1.png",
+    "assets/2026-06-04/cover2.png",
+    "assets/2026-06-04/cover3.png",
+    "assets/2026-06-04/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-06-03/cover1_feishu.png",
-    "assets/2026-06-03/cover2_feishu.png",
-    "assets/2026-06-03/cover3_feishu.png",
-    "assets/2026-06-03/cover4_feishu.png"
+    "assets/2026-06-04/cover1_feishu.png",
+    "assets/2026-06-04/cover2_feishu.png",
+    "assets/2026-06-04/cover3_feishu.png",
+    "assets/2026-06-04/cover4_feishu.png"
   ]
 }
