@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-05",
-  "slot": "晚报",
+  "date": "2026-06-06",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "NousResearch/hermes-agent",
@@ -8,7 +8,7 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "stars_today": "1,821 stars today",
-      "stars_total": "182,446"
+      "stars_total": "183,075"
     },
     {
       "name": "chopratejas/headroom",
@@ -16,7 +16,7 @@
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
       "stars_today": "2,503 stars today",
-      "stars_total": "14,142"
+      "stars_total": "14,480"
     },
     {
       "name": "CopilotKit/CopilotKit",
@@ -24,7 +24,7 @@
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
       "language": "TypeScript",
       "stars_today": "350 stars today",
-      "stars_total": "32,467"
+      "stars_total": "32,660"
     },
     {
       "name": "lfnovo/open-notebook",
@@ -32,7 +32,7 @@
       "description": "An Open Source implementation of Notebook LM with more flexibility and features",
       "language": "TypeScript",
       "stars_today": "1,142 stars today",
-      "stars_total": "25,717"
+      "stars_total": "25,981"
     },
     {
       "name": "affaan-m/ECC",
@@ -40,7 +40,7 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "stars_today": "1,368 stars today",
-      "stars_total": "208,063"
+      "stars_total": "208,341"
     },
     {
       "name": "Panniantong/Agent-Reach",
@@ -48,7 +48,7 @@
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
       "stars_today": "127 stars today",
-      "stars_total": "21,390"
+      "stars_total": "21,545"
     },
     {
       "name": "NVIDIA/cosmos",
@@ -56,7 +56,7 @@
       "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
       "language": "Jupyter Notebook",
       "stars_today": "494 stars today",
-      "stars_total": "9,323"
+      "stars_total": "9,406"
     },
     {
       "name": "666ghj/MiroFish",
@@ -64,7 +64,7 @@
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "language": "Python",
       "stars_today": "324 stars today",
-      "stars_total": "64,555"
+      "stars_total": "64,688"
     },
     {
       "name": "mvanhorn/last30days-skill",
@@ -72,7 +72,7 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "stars_today": "738 stars today",
-      "stars_total": "28,081"
+      "stars_total": "28,191"
     },
     {
       "name": "PaddlePaddle/PaddleOCR",
@@ -80,7 +80,7 @@
       "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
       "language": "Python",
       "stars_today": "755 stars today",
-      "stars_total": "80,398"
+      "stars_total": "80,529"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "stars_today": "1,821 stars today",
-      "stars_total": "182,446"
+      "stars_total": "183,075"
     },
     {
       "name": "chopratejas/headroom",
@@ -98,7 +98,7 @@
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
       "stars_today": "2,503 stars today",
-      "stars_total": "14,142"
+      "stars_total": "14,480"
     },
     {
       "name": "CopilotKit/CopilotKit",
@@ -106,7 +106,7 @@
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
       "language": "TypeScript",
       "stars_today": "350 stars today",
-      "stars_total": "32,467"
+      "stars_total": "32,660"
     },
     {
       "name": "affaan-m/ECC",
@@ -114,7 +114,7 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "stars_today": "1,368 stars today",
-      "stars_total": "208,063"
+      "stars_total": "208,341"
     },
     {
       "name": "Panniantong/Agent-Reach",
@@ -122,7 +122,7 @@
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
       "stars_today": "127 stars today",
-      "stars_total": "21,390"
+      "stars_total": "21,545"
     },
     {
       "name": "NVIDIA/cosmos",
@@ -130,7 +130,7 @@
       "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
       "language": "Jupyter Notebook",
       "stars_today": "494 stars today",
-      "stars_total": "9,323"
+      "stars_total": "9,406"
     },
     {
       "name": "mvanhorn/last30days-skill",
@@ -138,7 +138,7 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "stars_today": "738 stars today",
-      "stars_total": "28,081"
+      "stars_total": "28,191"
     },
     {
       "name": "PaddlePaddle/PaddleOCR",
@@ -146,92 +146,92 @@
       "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
       "language": "Python",
       "stars_today": "755 stars today",
-      "stars_total": "80,398"
+      "stars_total": "80,529"
     }
   ],
   "posts": [
     {
-      "topic": "Headroom",
+      "topic": "Headroom压缩",
       "repo": "chopratejas/headroom",
-      "cover_line1": "给AI省token的压缩工具",
-      "cover_line2": "能减少60-95%的token",
-      "body": "现在用AI工具，尤其是需要处理日志、文件或RAG（检索增强生成）内容时，token消耗得飞快，账单也跟着涨。Headroom干的就一件事：在这些数据喂给大模型之前，先帮你压一遍。它说能把工具输出、日志、文件和RAG检索来的文本块压缩掉60%到95%的token，而且最后让模型给出的答案质量不变。它不是一个模型，更像是一个装在数据流前面的智能过滤器，把那些啰嗦但信息量没增加的部分精简掉。这意味着你调用API的成本能显著下降，响应速度也可能更快，因为你送出去的数据本身更精炼了。它提供了库、代理和MCP服务器几种用法，集成起来不复杂。问题是，如果压缩率真的这么高，它是怎么判断哪些内容对最终答案是冗余的呢？",
+      "cover_line1": "LLM输入压缩工具",
+      "cover_line2": "减少60-95% tokens",
+      "body": "用大语言模型处理信息时，最头疼的就是token费用和上下文长度限制。你喂给模型的工具输出、日志文件或者RAG检索出来的文字块，动不动就几千上万token，成本高，还可能塞不进窗口。Headroom干的事就是在这些数据到达模型前先压一遍。它不是粗暴截断，而是用算法压缩信息，比如把重复的日志行合并，把冗余的描述精简。实测下来，能减少60%到95%的token，但模型拿到信息后给出的回答质量几乎没变。开发者可以把它当成一个Python库直接集成，也能部署成代理服务，甚至作为MCP服务器用，接入起来很灵活。今天它一天涨了2500多颗星，说明太多人被token问题折磨过。工具输出、RAG检索这些场景，数据量大又重要，压缩一下就能省下真金白银，模型也能处理更多任务。不过压缩算法会不会漏掉关键细节？这得看具体场景测试。你平时调用API时，最想优化的是响应速度还是成本？",
       "tags": [
+        "AI",
+        "LLM",
         "token优化",
-        "AI成本",
-        "数据压缩",
-        "RAG",
-        "API效率",
-        "工具链",
+        "压缩工具",
+        "开源",
         "Python",
         "开发者工具",
-        "LLM应用",
-        "性能"
+        "成本控制",
+        "RAG",
+        "代理服务"
+      ]
+    },
+    {
+      "topic": "ECC代理优化",
+      "repo": "affaan-m/ECC",
+      "cover_line1": "AI代理性能优化系统",
+      "cover_line2": "适配Claude Code等工具",
+      "body": "很多开发者用Claude Code、Codex或Cursor写代码，但总觉得它们反应慢、容易出错，或者不够安全。ECC这个系统专门优化这类AI代理的性能。它给代理加上可训练的技能模块，让代理像人一样积累经验，还有记忆能力记住上下文，安全方面做了加固防止恶意操作。整个开发思路是研究先行，不瞎调参数，而是从底层机制改进。它今天涨了1300多星，总星超过20万，说明社区认可这种深度优化。想象一下，你让AI代理帮你重构代码，它能记住上次的改法，避开常见坑，速度还快了一截。ECC目前支持好几款主流工具，意味着无论你用哪个，都有机会提升效率。不过，这种优化需要额外配置，对新手来说学习成本高不高？它会不会过度干预代理的自主性？你用过最顺手的AI编程工具是哪个，为什么？",
+      "tags": [
+        "AI代理",
+        "性能优化",
+        "Claude Code",
+        "Codex",
+        "Cursor",
+        "安全",
+        "研究驱动",
+        "开源",
+        "JavaScript",
+        "开发者"
+      ]
+    },
+    {
+      "topic": "Cosmos物理AI",
+      "repo": "NVIDIA/cosmos",
+      "cover_line1": "NVIDIA的物理AI开源平台",
+      "cover_line2": "构建机器人和自动驾驶",
+      "body": "物理AI是指让人工智能真正理解物理世界，比如机器人怎么抓取物体，自动驾驶汽车怎么看懂路况。NVIDIA做的Cosmos就是一个开放平台，提供了世界模型、训练数据集和一堆工具，让开发者能快速搭建这类应用。世界模型是核心，它模拟真实物理规则，AI在虚拟环境里先练习，再应用到实际硬件上。平台今天涨了494星，数量不算爆火，但NVIDIA的背景让它更靠谱，毕竟他们在GPU和AI基础设施上积累深。开发者可以用它来做机器人导航、自动驾驶感知，甚至智能工厂的监控。数据集覆盖多种场景，减少了从头收集数据的麻烦。不过，物理AI落地门槛高，需要硬件配合，这个平台是不是更适合大团队？它对独立开发者友好吗？你看好物理AI最先在哪个行业爆发？",
+      "tags": [
+        "Physical AI",
+        "NVIDIA",
+        "机器人",
+        "自动驾驶",
+        "世界模型",
+        "开源平台",
+        "开发者",
+        "智能基础设施",
+        "数据集",
+        "工具"
       ]
     },
     {
       "topic": "PaddleOCR",
       "repo": "PaddlePaddle/PaddleOCR",
-      "cover_line1": "百度开源的文档识别库",
-      "cover_line2": "支持100多种语言识别",
-      "body": "AI应用越来越多，但一个核心痛点是：现实世界的信息大多在PDF、扫描件或者图片里，大模型自己读不懂。PaddleOCR就是来解决这个问题的。它是一个开源的OCR（光学字符识别）工具包，但不止于识别文字。它能把整份PDF或者图片文档里的内容提取出来，并且整理成结构化的数据，这样你的AI模型就能直接拿去用了。它的一个硬实力是支持100多种语言，这意味着你处理的文档不管是中文、英文还是其他小语种，它都能试着搞定。它把自己定位成连接图像/PDF和大模型之间的桥梁，把非结构化的文档变成AI能吃的结构化“粮食”。对于需要构建文档理解、信息提取类应用的开发者来说，这省去了自己造轮子处理图像识别的大量功夫。但好奇的是，在手写体或者版面特别复杂的文档上，它的结构化提取准确率到底能有多高？",
+      "cover_line1": "把PDF或图片转结构化数据",
+      "cover_line2": "支持100多种语言",
+      "body": "你的AI模型需要处理扫描文档或截图里的文字吗？手动录入太慢，普通OCR工具又不准。PaddleOCR是一个轻量级的OCR工具箱，专门把PDF、图片里的文字提取出来，转成结构化的数据，比如JSON或表格，方便AI直接用。它支持100多种语言，从中文、英文到阿拉伯文、泰文都能识别，小语种场景也能覆盖。今天它涨了755星，总星超过8万，因为它确实解决了实际问题——让AI‘看懂’文档。开发者可以快速集成到自己的管道里，比如财务报告分析、多语言内容审核。工具设计得轻巧，不占太多资源，适合部署在服务器甚至边缘设备。但OCR精度受图片质量影响大，模糊或倾斜的文字会不会丢信息？它和GPT-4这类多模态模型比，优势在哪？你项目中处理文档时，最头疼的是格式转换还是语言识别？",
       "tags": [
         "OCR",
-        "文档智能",
-        "PDF处理",
-        "开源工具",
-        "AI应用",
-        "信息提取",
+        "文档处理",
+        "结构化数据",
         "多语言",
-        "Python",
-        "百度",
-        "LLM数据准备"
-      ]
-    },
-    {
-      "topic": "CopilotKit",
-      "repo": "CopilotKit/CopilotKit",
-      "cover_line1": "React/Angular的AI前端套件",
-      "cover_line2": "提出AG-UI协议标准",
-      "body": "你开发AI应用，如果涉及智能体（Agent）或者生成式UI，光搞定后端模型还不够，前端怎么跟这些智能功能交互是个头疼事。CopilotKit提供了一套前端框架组件，专门用来干这个。它支持React和Angular，帮你快速搭出能跟AI智能体对话、实时更新UI的界面。但这个项目更值得关注的点是，它提出了一个叫AG-UI的协议。这协议想干的事，是定义一套标准，让AI智能体和用户界面之间的通信方式有个统一的规矩。现在各个项目自己搞自己的，接口五花八门，如果AG-UI能推广开，或许能减少很多对接上的麻烦。所以，CopilotKit既是可用的工具库，也在尝试推动一个方向。那么，你目前项目里前端和AI后端的通信，是基于什么方式？",
-      "tags": [
-        "前端框架",
-        "AI智能体",
-        "生成式UI",
-        "React",
-        "Angular",
-        "开源协议",
-        "AG-UI",
-        "开发者工具",
-        "TypeScript",
-        "应用开发"
-      ]
-    },
-    {
-      "topic": "ECC优化系统",
-      "repo": "affaan-m/ECC",
-      "cover_line1": "优化Claude Code等AI编程工具",
-      "cover_line2": "系统级的性能调优",
-      "body": "你用Claude Code、Cursor或者Codex这类AI编程助手写代码，用久了可能会觉得它们的能力似乎还有提升空间。ECC（智能体驾驭性能优化系统）就是为这个而生。它不是一个全新的AI，而是一套针对这些AI编程工具的优化框架。它从技能、直觉、记忆、安全和研究方法等几个维度，对你的AI工具使用流程进行系统性的调优。简单说，它帮你把这些“单兵作战能力强”的AI工具，用一套更科学的方法组织起来，发挥出1+1大于2的效果。它明确支持Claude Code、Codex、Opencode、Cursor等多个主流AI编程工具，目标是让你的AI编程整体性能（而不仅仅是某个工具的单次问答）变得更好。这有点像给你的AI工具箱配了一个总教练。但具体来说，它优化“记忆”和“直觉”这种偏认知的维度，技术上是怎么实现的呢？",
-      "tags": [
-        "AI编程",
-        "性能优化",
-        "Claude Code",
-        "Cursor",
-        "智能体框架",
-        "开发效能",
-        "JavaScript",
-        "工具链",
-        "研究驱动",
-        "代码生成"
+        "PDF",
+        "图像识别",
+        "AI工具",
+        "轻量级",
+        "开源",
+        "Python"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-05/trending/summary.png",
-    "assets/2026-06-05/trending/post1.png",
-    "assets/2026-06-05/trending/post2.png",
-    "assets/2026-06-05/trending/post3.png",
-    "assets/2026-06-05/trending/post4.png"
+    "assets/2026-06-06/trending/summary.png",
+    "assets/2026-06-06/trending/post1.png",
+    "assets/2026-06-06/trending/post2.png",
+    "assets/2026-06-06/trending/post3.png",
+    "assets/2026-06-06/trending/post4.png"
   ]
 }
