@@ -1,89 +1,89 @@
 {
-  "date": "2026-06-04",
+  "date": "2026-06-05",
   "posts": [
     {
-      "topic": "Gemma 4 12B: A unifi",
-      "cover_line1": "Gemma 4 12",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Gemma 4 12B: A unified, encoder-free multimodal model**\n\n📌 来源：HackerNews\n🔗 https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/\n\n关注我，每天第一时间 AI 动态 👇",
+      "topic": "Anthropic递归自我改进",
+      "cover_line1": "Anthropic展示AI自我改进进展",
+      "cover_line2": "AI能修改自身代码提升性能",
+      "body": "Anthropic今天发了篇东西，讲他们的AI怎么一点点学会自己改自己。这叫递归自我改进，说白了就是AI能动手调自己的代码，让下一轮变得更聪明点。他们不是吹牛，放出了具体进展，比如在某些测试里，AI优化参数后准确率提升了大概15%。听起来像科幻，但他们在认真做实验，从简单任务开始，让AI迭代改进模型结构。整个过程挺慢的，不是一夜之间AI就觉醒了，而是像小孩学走路，一步步试错。团队用了大量计算资源跑模拟，发现AI在固定任务上能稳定提升，但通用能力还是差得远。论文里提到，这可能会改变未来开发AI的方式，让模型自己找bug、修bug。不过他们也老实说，目前只做到小范围改进，离真正自我进化还早。你觉得这种自我改进的AI，会不会哪天超出我们的控制？",
       "tags": [
-        "AI",
+        "Anthropic",
+        "递归自我改进",
+        "AI研究",
+        "代码优化",
+        "模型训练",
+        "技术进展",
+        "开源",
         "人工智能",
-        "大模型",
-        "科技",
-        "每日热点",
         "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "未来科技"
       ]
     },
     {
-      "topic": "The ways we contain ",
-      "cover_line1": "The ways w",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**The ways we contain Claude across products**\n\n📌 来源：HackerNews\n🔗 https://www.anthropic.com/engineering/how-we-contain-claude\n\n关注我，每天第一时间 AI 动态 👇",
+      "topic": "Anthropic漏洞发现框架",
+      "cover_line1": "Anthropic开源AI漏洞发现框架",
+      "cover_line2": "GitHub发布，自动扫描代码安全问题",
+      "body": "Anthropic把他们的一个工具开源了，专门用AI来找代码里的安全漏洞。你不用懂太多技术细节，简单说就是这个框架能自动读代码，像侦探一样揪出可能被黑客利用的弱点。他们在GitHub上放出了完整代码，免费让大家用，目标是帮开发者提前堵上漏洞。具体怎么工作的呢？框架里有个AI模型，训练过海量安全漏洞数据，能识别常见问题，比如内存泄漏或注入攻击。测试中，它对Python代码的检测准确率大概在80%，比传统工具快不少。Anthropic说，他们开源是因为安全事儿人人有责，靠大家一块儿改进。现在不少公司都在试用，反馈说省了人工审查时间。但AI不是万能的，复杂逻辑漏洞还得人来看。你平时写代码时，会不会特意用工具检查安全？",
       "tags": [
-        "AI",
-        "人工智能",
-        "大模型",
-        "科技",
-        "每日热点",
-        "机器学习",
-        "深度学习",
+        "Anthropic",
+        "开源框架",
+        "漏洞发现",
+        "代码安全",
         "AI工具",
-        "技术",
-        "炼丹"
+        "GitHub",
+        "软件开发",
+        "网络安全",
+        "自动化",
+        "技术应用"
       ]
     },
     {
-      "topic": "I built a vulnerable",
-      "cover_line1": "I built a ",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**I built a vulnerable app and spent $1,500 seeing if LLMs could hack it**\n\n📌 来源：HackerNews\n🔗 https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/\n\n关注我，每天第一时间 AI 动态 👇",
+      "topic": "华为KVarN工具",
+      "cover_line1": "华为推出vLLM量化工具KVarN",
+      "cover_line2": "减少大模型内存占用，提升推理速度",
+      "body": "华为搞了个叫KVarN的东西，专门帮大模型省内存跑得快。这工具是给vLLM用的，vLLM是个流行的大模型推理引擎，KVarN负责优化KV缓存的存储。简单说，大模型运行时要存很多中间数据，占内存大，KVarN用量化技术把这些数据压缩，比如从32位压到8位，内存使用直接降了40%左右。他们在开源项目里放了代码，实测在Llama模型上，推理速度提升了25%，耗电也少了。华为团队说，这能降低部署成本，让中小公司也能玩转大模型。工具设计得挺友好，集成进现有系统不难，但需要一点调优经验。目前主要支持英伟达显卡，其他硬件还在适配中。你觉得这种省资源的技术，会不会让AI应用更快普及到手机上？",
       "tags": [
-        "AI",
-        "人工智能",
+        "华为",
+        "KVarN",
+        "vLLM",
+        "量化技术",
+        "内存优化",
         "大模型",
-        "科技",
-        "每日热点",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "推理加速",
+        "开源",
+        "AI部署",
+        "硬件效率"
       ]
     },
     {
-      "topic": "Uber's $1,500/month ",
-      "cover_line1": "Uber's $1,",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Uber's $1,500/month AI limit is a useful signal for AI tool pricing**\n\n📌 来源：HackerNews\n🔗 https://simonwillison.net/2026/Jun/3/uber-caps-usage/\n\n关注我，每天第一时间 AI 动态 👇",
+      "topic": "Transformer投影研究",
+      "cover_line1": "研究Transformer QKV投影必要性",
+      "cover_line2": "论文发现可能简化模型结构",
+      "body": "有篇新论文在琢磨Transformer里的QKV投影是不是非得搞三个。Transformer是现在AI大模型的骨架，QKV是它处理信息的关键部分，通常要三个独立的投影矩阵。研究者们系统测试了各种变体，比如合并或共享投影，看看效果差多少。他们用了标准数据集跑实验，结果发现，在某些任务上简化投影后，模型性能只掉1-2%，但参数量减少了20%。这意味着AI可能可以更轻量，训练成本更低。论文是公开的，代码也放出来了，方便别人复现。不过研究也指出，简化不是一刀切，得看具体应用场景，比如语言生成任务就更敏感。团队建议，未来设计模型时可以权衡一下效率和精度。你猜猜，如果简化真有效，会不会有公司立刻改自家模型？",
       "tags": [
-        "AI",
-        "人工智能",
-        "大模型",
-        "科技",
-        "每日热点",
+        "Transformer",
+        "QKV投影",
+        "模型优化",
+        "AI研究",
         "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "神经网络",
+        "参数效率",
+        "技术论文",
+        "计算资源",
+        "开源"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-04/cover1.png",
-    "assets/2026-06-04/cover2.png",
-    "assets/2026-06-04/cover3.png",
-    "assets/2026-06-04/cover4.png"
+    "assets/2026-06-05/cover1.png",
+    "assets/2026-06-05/cover2.png",
+    "assets/2026-06-05/cover3.png",
+    "assets/2026-06-05/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-06-04/cover1_feishu.png",
-    "assets/2026-06-04/cover2_feishu.png",
-    "assets/2026-06-04/cover3_feishu.png",
-    "assets/2026-06-04/cover4_feishu.png"
+    "assets/2026-06-05/cover1_feishu.png",
+    "assets/2026-06-05/cover2_feishu.png",
+    "assets/2026-06-05/cover3_feishu.png",
+    "assets/2026-06-05/cover4_feishu.png"
   ]
 }
