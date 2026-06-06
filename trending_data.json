@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-06",
-  "slot": "晚报",
+  "date": "2026-06-07",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "mvanhorn/last30days-skill",
@@ -8,7 +8,7 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "stars_today": "441 stars today",
-      "stars_total": "28,516"
+      "stars_total": "28,774"
     },
     {
       "name": "CopilotKit/CopilotKit",
@@ -16,7 +16,7 @@
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
       "language": "TypeScript",
       "stars_today": "613 stars today",
-      "stars_total": "32,994"
+      "stars_total": "33,195"
     },
     {
       "name": "MemPalace/mempalace",
@@ -24,7 +24,7 @@
       "description": "The best-benchmarked open-source AI memory system. And it's free.",
       "language": "Python",
       "stars_today": "441 stars today",
-      "stars_total": "54,112"
+      "stars_total": "54,266"
     },
     {
       "name": "danielmiessler/Personal_AI_Infrastructure",
@@ -32,7 +32,7 @@
       "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
       "language": "TypeScript",
       "stars_today": "63 stars today",
-      "stars_total": "14,823"
+      "stars_total": "14,951"
     },
     {
       "name": "openai/plugins",
@@ -40,7 +40,7 @@
       "description": "OpenAI Plugins",
       "language": "JavaScript",
       "stars_today": "215 stars today",
-      "stars_total": "1,665"
+      "stars_total": "1,765"
     },
     {
       "name": "Panniantong/Agent-Reach",
@@ -48,7 +48,7 @@
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
       "stars_today": "700 stars today",
-      "stars_total": "22,049"
+      "stars_total": "22,302"
     },
     {
       "name": "sveltejs/svelte",
@@ -56,15 +56,15 @@
       "description": "web development for the rest of us",
       "language": "JavaScript",
       "stars_today": "34 stars today",
-      "stars_total": "86,883"
+      "stars_total": "86,981"
     },
     {
       "name": "nginx/nginx",
       "url": "https://github.com/nginx/nginx",
       "description": "The official NGINX Open Source repository.",
       "language": "C",
-      "stars_today": "39 stars today",
-      "stars_total": "30,623"
+      "stars_today": "37 stars today",
+      "stars_total": "30,686"
     },
     {
       "name": "aquasecurity/trivy",
@@ -72,7 +72,7 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "stars_today": "159 stars today",
-      "stars_total": "35,937"
+      "stars_total": "35,998"
     },
     {
       "name": "golang/go",
@@ -80,7 +80,7 @@
       "description": "The Go programming language",
       "language": "Go",
       "stars_today": "24 stars today",
-      "stars_total": "134,450"
+      "stars_total": "134,505"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "stars_today": "441 stars today",
-      "stars_total": "28,516"
+      "stars_total": "28,774"
     },
     {
       "name": "CopilotKit/CopilotKit",
@@ -98,7 +98,7 @@
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
       "language": "TypeScript",
       "stars_today": "613 stars today",
-      "stars_total": "32,994"
+      "stars_total": "33,195"
     },
     {
       "name": "MemPalace/mempalace",
@@ -106,7 +106,7 @@
       "description": "The best-benchmarked open-source AI memory system. And it's free.",
       "language": "Python",
       "stars_today": "441 stars today",
-      "stars_total": "54,112"
+      "stars_total": "54,266"
     },
     {
       "name": "danielmiessler/Personal_AI_Infrastructure",
@@ -114,7 +114,7 @@
       "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
       "language": "TypeScript",
       "stars_today": "63 stars today",
-      "stars_total": "14,823"
+      "stars_total": "14,951"
     },
     {
       "name": "openai/plugins",
@@ -122,7 +122,7 @@
       "description": "OpenAI Plugins",
       "language": "JavaScript",
       "stars_today": "215 stars today",
-      "stars_total": "1,665"
+      "stars_total": "1,765"
     },
     {
       "name": "Panniantong/Agent-Reach",
@@ -130,7 +130,7 @@
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
       "stars_today": "700 stars today",
-      "stars_total": "22,049"
+      "stars_total": "22,302"
     },
     {
       "name": "aquasecurity/trivy",
@@ -138,92 +138,92 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "stars_today": "159 stars today",
-      "stars_total": "35,937"
+      "stars_total": "35,998"
     }
   ],
   "posts": [
     {
-      "topic": "AI网络爬虫工具",
-      "repo": "Panniantong/Agent-Reach",
-      "cover_line1": "给AI一个爬虫工具",
-      "cover_line2": "命令行免费抓取七个平台",
-      "body": "开发者想要自己的AI代理能上网找资料，但挨个平台对接API太麻烦。Agent-Reach 把这事儿简化了，它就是一个命令行工具，你只要输入关键词，它能自动去Twitter、Reddit、YouTube、GitHub甚至小红书和B站搜索，然后把内容整理出来。最实在的是，它不靠平台的官方API，所以完全免费，也不会因为调用次数被限流。今天一下子多了700颗星，说明大家确实受够了到处申请API密钥的日子。对于正在做研究助手或者市场分析机器人的人来说，这相当于给自家AI装上了一双能看遍主流网站的眼睛。用起来就像在终端里跑一个脚本，结果直接喂给你的AI流程。你觉得，这种绕过官方API的做法，会不会很快引起平台的反制？",
-      "tags": [
-        "AI Agent",
-        "网络爬虫",
-        "命令行工具",
-        "免费API",
-        "数据抓取",
-        "开源",
-        "信息聚合",
-        "多平台",
-        "开发者工具",
-        "效率工具"
-      ]
-    },
-    {
-      "topic": "前端AI组件库",
-      "repo": "CopilotKit/CopilotKit",
-      "cover_line1": "前端做AI助手的组件库",
-      "cover_line2": "今天613星，已支持Angular",
-      "body": "想在自己产品的网页或App里加个能聊天的AI助手，光是搞清楚怎么让输入框、对话流和后端AI连起来就够头大的。CopilotKit 这个项目就是专门解决这个问题的，它提供了一套现成的UI组件和协议，叫AG-UI，让前端开发者能快速把生成式AI功能接进来。不管是用React、Angular还是做移动端，都能找到对应的支持。它今天冲上600多星，是因为最新版本把Angular也纳入了官方支持，这意味着用这个主流框架的团队也能直接用了。本质上，它把“连接AI”这个复杂的技术问题，包装成了前端开发者熟悉的组件问题。对于想快速给产品加上Copilot功能，又不想从零造轮子的团队来说，这工具能省掉大量重复工作。当AI成为产品的标准配置时，前端框架的生态会不会因此被重新洗牌？",
-      "tags": [
-        "前端框架",
-        "AI UI",
-        "生成式UI",
-        "React",
-        "Angular",
-        "开发框架",
-        "Copilot",
-        "开源组件",
-        "AG-UI",
-        "快速开发"
-      ]
-    },
-    {
-      "topic": "全网信息总结器",
+      "topic": "last30days-skill",
       "repo": "mvanhorn/last30days-skill",
-      "cover_line1": "全网信息调研AI技能",
-      "cover_line2": "涵盖Reddit到预测市场",
-      "body": "想知道某个话题过去一个月在互联网上到底发生了什么？自己一个个网站去翻看太累。这个叫last30days-skill的工具，是一个给AI代理用的“技能”。你丢给它一个主题，比如“AI眼镜的进展”，它就能自动去Reddit、X、YouTube、Hacker News、Polymarket（预测市场）以及普通网页上搜集信息，然后综合所有来源，给你一份基于事实的总结。它不只是搜索引擎，而是会把不同平台的声音对比、交叉验证，最后给出一个 grounded（有依据的）的结论。今天有441颗星，说明人们需要这种跨越信息孤岛的洞察。对于做竞品分析、市场研究或者追踪技术趋势的人来说，这相当于雇了一个不知疲倦的实习生，专门帮你做一个月度情报简报。当信息过载时，这种“总结”能力本身，会不会成为比“搜索”更核心的AI技能？",
+      "cover_line1": "last30days",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**mvanhorn/last30days-skill**\n\n📌 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\n\n🔗 https://github.com/mvanhorn/last30days-skill\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "信息聚合",
-        "AI代理",
-        "调研工具",
-        "内容总结",
-        "多源数据",
+        "AI",
+        "GitHub",
         "开源",
-        "效率提升",
-        "市场研究",
-        "趋势分析",
-        "Python"
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "AI记忆系统基准",
-      "repo": "MemPalace/mempalace",
-      "cover_line1": "开源AI记忆系统",
-      "cover_line2": "跑分最高且完全免费",
-      "body": "大模型聊天有个致命弱点：聊完就忘。要想让AI记住你之前的对话、你的喜好、你的项目细节，就需要一个靠谱的“记忆系统”。MemPalace 项目专注于此，并且宣称在相关基准测试上跑分最高。它解决了AI长期记忆中的几个关键问题：怎么高效存储海量对话、怎么快速检索相关片段、以及怎么把旧记忆和当前对话自然地融合起来。今天它又收获了441颗星，总星数超过5.4万，是今天榜上最“大”的项目之一。它的核心价值在于“最好的基准”和“免费”这两个词，意味着开发者可以拿来一个经过严格测试的方案，而不是自己摸索。对于正在开发聊天机器人、个人助手或任何需要上下文连贯性的AI应用的团队来说，这提供了一个经过检验的底层方案。当AI的“记忆”变得越来越可靠，它离成为真正的个人伙伴还有多远？",
+      "topic": "CopilotKit",
+      "repo": "CopilotKit/CopilotKit",
+      "cover_line1": "CopilotKit",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**CopilotKit/CopilotKit**\n\n📌 The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol\n\n🔗 https://github.com/CopilotKit/CopilotKit\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "AI记忆",
-        "大语言模型",
-        "上下文管理",
+        "AI",
+        "GitHub",
         "开源",
-        "基准测试",
-        "Python",
-        "聊天机器人",
-        "长期记忆",
-        "开发者工具",
-        "基础设施"
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "mempalace",
+      "repo": "MemPalace/mempalace",
+      "cover_line1": "mempalace",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**MemPalace/mempalace**\n\n📌 The best-benchmarked open-source AI memory system. And it's free.\n\n🔗 https://github.com/MemPalace/mempalace\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "Personal_AI_Infrastr",
+      "repo": "danielmiessler/Personal_AI_Infrastructure",
+      "cover_line1": "Personal_A",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**danielmiessler/Personal_AI_Infrastructure**\n\n📌 Agentic AI Infrastructure for magnifying HUMAN capabilities.\n\n🔗 https://github.com/danielmiessler/Personal_AI_Infrastructure\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-06/trending/summary.png",
-    "assets/2026-06-06/trending/post1.png",
-    "assets/2026-06-06/trending/post2.png",
-    "assets/2026-06-06/trending/post3.png",
-    "assets/2026-06-06/trending/post4.png"
+    "assets/2026-06-07/trending/summary.png",
+    "assets/2026-06-07/trending/post1.png",
+    "assets/2026-06-07/trending/post2.png",
+    "assets/2026-06-07/trending/post3.png",
+    "assets/2026-06-07/trending/post4.png"
   ]
 }
