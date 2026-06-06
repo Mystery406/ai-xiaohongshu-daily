@@ -1,229 +1,221 @@
 {
   "date": "2026-06-06",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
-      "name": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_today": "1,821 stars today",
-      "stars_total": "183,075"
-    },
-    {
-      "name": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "language": "Python",
-      "stars_today": "2,503 stars today",
-      "stars_total": "14,480"
+      "stars_today": "441 stars today",
+      "stars_total": "28,516"
     },
     {
       "name": "CopilotKit/CopilotKit",
       "url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
       "language": "TypeScript",
-      "stars_today": "350 stars today",
-      "stars_total": "32,660"
+      "stars_today": "613 stars today",
+      "stars_total": "32,994"
     },
     {
-      "name": "lfnovo/open-notebook",
-      "url": "https://github.com/lfnovo/open-notebook",
-      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
-      "language": "TypeScript",
-      "stars_today": "1,142 stars today",
-      "stars_total": "25,981"
+      "name": "MemPalace/mempalace",
+      "url": "https://github.com/MemPalace/mempalace",
+      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "language": "Python",
+      "stars_today": "441 stars today",
+      "stars_total": "54,112"
     },
     {
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "name": "danielmiessler/Personal_AI_Infrastructure",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "language": "TypeScript",
+      "stars_today": "63 stars today",
+      "stars_total": "14,823"
+    },
+    {
+      "name": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
       "language": "JavaScript",
-      "stars_today": "1,368 stars today",
-      "stars_total": "208,341"
+      "stars_today": "215 stars today",
+      "stars_total": "1,665"
     },
     {
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_today": "127 stars today",
-      "stars_total": "21,545"
+      "stars_today": "700 stars today",
+      "stars_total": "22,049"
     },
     {
-      "name": "NVIDIA/cosmos",
-      "url": "https://github.com/NVIDIA/cosmos",
-      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
-      "language": "Jupyter Notebook",
-      "stars_today": "494 stars today",
-      "stars_total": "9,406"
+      "name": "sveltejs/svelte",
+      "url": "https://github.com/sveltejs/svelte",
+      "description": "web development for the rest of us",
+      "language": "JavaScript",
+      "stars_today": "34 stars today",
+      "stars_total": "86,883"
     },
     {
-      "name": "666ghj/MiroFish",
-      "url": "https://github.com/666ghj/MiroFish",
-      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "language": "Python",
-      "stars_today": "324 stars today",
-      "stars_total": "64,688"
+      "name": "nginx/nginx",
+      "url": "https://github.com/nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
+      "language": "C",
+      "stars_today": "39 stars today",
+      "stars_total": "30,623"
     },
     {
-      "name": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "language": "Python",
-      "stars_today": "738 stars today",
-      "stars_total": "28,191"
+      "name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars_today": "159 stars today",
+      "stars_total": "35,937"
     },
     {
-      "name": "PaddlePaddle/PaddleOCR",
-      "url": "https://github.com/PaddlePaddle/PaddleOCR",
-      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-      "language": "Python",
-      "stars_today": "755 stars today",
-      "stars_total": "80,529"
+      "name": "golang/go",
+      "url": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars_today": "24 stars today",
+      "stars_total": "134,450"
     }
   ],
   "ai_repos": [
     {
-      "name": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_today": "1,821 stars today",
-      "stars_total": "183,075"
-    },
-    {
-      "name": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "language": "Python",
-      "stars_today": "2,503 stars today",
-      "stars_total": "14,480"
+      "stars_today": "441 stars today",
+      "stars_total": "28,516"
     },
     {
       "name": "CopilotKit/CopilotKit",
       "url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
       "language": "TypeScript",
-      "stars_today": "350 stars today",
-      "stars_total": "32,660"
+      "stars_today": "613 stars today",
+      "stars_total": "32,994"
     },
     {
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "name": "MemPalace/mempalace",
+      "url": "https://github.com/MemPalace/mempalace",
+      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "language": "Python",
+      "stars_today": "441 stars today",
+      "stars_total": "54,112"
+    },
+    {
+      "name": "danielmiessler/Personal_AI_Infrastructure",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "language": "TypeScript",
+      "stars_today": "63 stars today",
+      "stars_total": "14,823"
+    },
+    {
+      "name": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
       "language": "JavaScript",
-      "stars_today": "1,368 stars today",
-      "stars_total": "208,341"
+      "stars_today": "215 stars today",
+      "stars_total": "1,665"
     },
     {
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_today": "127 stars today",
-      "stars_total": "21,545"
+      "stars_today": "700 stars today",
+      "stars_total": "22,049"
     },
     {
-      "name": "NVIDIA/cosmos",
-      "url": "https://github.com/NVIDIA/cosmos",
-      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
-      "language": "Jupyter Notebook",
-      "stars_today": "494 stars today",
-      "stars_total": "9,406"
-    },
-    {
-      "name": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "language": "Python",
-      "stars_today": "738 stars today",
-      "stars_total": "28,191"
-    },
-    {
-      "name": "PaddlePaddle/PaddleOCR",
-      "url": "https://github.com/PaddlePaddle/PaddleOCR",
-      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-      "language": "Python",
-      "stars_today": "755 stars today",
-      "stars_total": "80,529"
+      "name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars_today": "159 stars today",
+      "stars_total": "35,937"
     }
   ],
   "posts": [
     {
-      "topic": "Headroom压缩",
-      "repo": "chopratejas/headroom",
-      "cover_line1": "LLM输入压缩工具",
-      "cover_line2": "减少60-95% tokens",
-      "body": "用大语言模型处理信息时，最头疼的就是token费用和上下文长度限制。你喂给模型的工具输出、日志文件或者RAG检索出来的文字块，动不动就几千上万token，成本高，还可能塞不进窗口。Headroom干的事就是在这些数据到达模型前先压一遍。它不是粗暴截断，而是用算法压缩信息，比如把重复的日志行合并，把冗余的描述精简。实测下来，能减少60%到95%的token，但模型拿到信息后给出的回答质量几乎没变。开发者可以把它当成一个Python库直接集成，也能部署成代理服务，甚至作为MCP服务器用，接入起来很灵活。今天它一天涨了2500多颗星，说明太多人被token问题折磨过。工具输出、RAG检索这些场景，数据量大又重要，压缩一下就能省下真金白银，模型也能处理更多任务。不过压缩算法会不会漏掉关键细节？这得看具体场景测试。你平时调用API时，最想优化的是响应速度还是成本？",
+      "topic": "AI网络爬虫工具",
+      "repo": "Panniantong/Agent-Reach",
+      "cover_line1": "给AI一个爬虫工具",
+      "cover_line2": "命令行免费抓取七个平台",
+      "body": "开发者想要自己的AI代理能上网找资料，但挨个平台对接API太麻烦。Agent-Reach 把这事儿简化了，它就是一个命令行工具，你只要输入关键词，它能自动去Twitter、Reddit、YouTube、GitHub甚至小红书和B站搜索，然后把内容整理出来。最实在的是，它不靠平台的官方API，所以完全免费，也不会因为调用次数被限流。今天一下子多了700颗星，说明大家确实受够了到处申请API密钥的日子。对于正在做研究助手或者市场分析机器人的人来说，这相当于给自家AI装上了一双能看遍主流网站的眼睛。用起来就像在终端里跑一个脚本，结果直接喂给你的AI流程。你觉得，这种绕过官方API的做法，会不会很快引起平台的反制？",
       "tags": [
-        "AI",
-        "LLM",
-        "token优化",
-        "压缩工具",
+        "AI Agent",
+        "网络爬虫",
+        "命令行工具",
+        "免费API",
+        "数据抓取",
         "开源",
-        "Python",
+        "信息聚合",
+        "多平台",
         "开发者工具",
-        "成本控制",
-        "RAG",
-        "代理服务"
+        "效率工具"
       ]
     },
     {
-      "topic": "ECC代理优化",
-      "repo": "affaan-m/ECC",
-      "cover_line1": "AI代理性能优化系统",
-      "cover_line2": "适配Claude Code等工具",
-      "body": "很多开发者用Claude Code、Codex或Cursor写代码，但总觉得它们反应慢、容易出错，或者不够安全。ECC这个系统专门优化这类AI代理的性能。它给代理加上可训练的技能模块，让代理像人一样积累经验，还有记忆能力记住上下文，安全方面做了加固防止恶意操作。整个开发思路是研究先行，不瞎调参数，而是从底层机制改进。它今天涨了1300多星，总星超过20万，说明社区认可这种深度优化。想象一下，你让AI代理帮你重构代码，它能记住上次的改法，避开常见坑，速度还快了一截。ECC目前支持好几款主流工具，意味着无论你用哪个，都有机会提升效率。不过，这种优化需要额外配置，对新手来说学习成本高不高？它会不会过度干预代理的自主性？你用过最顺手的AI编程工具是哪个，为什么？",
+      "topic": "前端AI组件库",
+      "repo": "CopilotKit/CopilotKit",
+      "cover_line1": "前端做AI助手的组件库",
+      "cover_line2": "今天613星，已支持Angular",
+      "body": "想在自己产品的网页或App里加个能聊天的AI助手，光是搞清楚怎么让输入框、对话流和后端AI连起来就够头大的。CopilotKit 这个项目就是专门解决这个问题的，它提供了一套现成的UI组件和协议，叫AG-UI，让前端开发者能快速把生成式AI功能接进来。不管是用React、Angular还是做移动端，都能找到对应的支持。它今天冲上600多星，是因为最新版本把Angular也纳入了官方支持，这意味着用这个主流框架的团队也能直接用了。本质上，它把“连接AI”这个复杂的技术问题，包装成了前端开发者熟悉的组件问题。对于想快速给产品加上Copilot功能，又不想从零造轮子的团队来说，这工具能省掉大量重复工作。当AI成为产品的标准配置时，前端框架的生态会不会因此被重新洗牌？",
       "tags": [
+        "前端框架",
+        "AI UI",
+        "生成式UI",
+        "React",
+        "Angular",
+        "开发框架",
+        "Copilot",
+        "开源组件",
+        "AG-UI",
+        "快速开发"
+      ]
+    },
+    {
+      "topic": "全网信息总结器",
+      "repo": "mvanhorn/last30days-skill",
+      "cover_line1": "全网信息调研AI技能",
+      "cover_line2": "涵盖Reddit到预测市场",
+      "body": "想知道某个话题过去一个月在互联网上到底发生了什么？自己一个个网站去翻看太累。这个叫last30days-skill的工具，是一个给AI代理用的“技能”。你丢给它一个主题，比如“AI眼镜的进展”，它就能自动去Reddit、X、YouTube、Hacker News、Polymarket（预测市场）以及普通网页上搜集信息，然后综合所有来源，给你一份基于事实的总结。它不只是搜索引擎，而是会把不同平台的声音对比、交叉验证，最后给出一个 grounded（有依据的）的结论。今天有441颗星，说明人们需要这种跨越信息孤岛的洞察。对于做竞品分析、市场研究或者追踪技术趋势的人来说，这相当于雇了一个不知疲倦的实习生，专门帮你做一个月度情报简报。当信息过载时，这种“总结”能力本身，会不会成为比“搜索”更核心的AI技能？",
+      "tags": [
+        "信息聚合",
         "AI代理",
-        "性能优化",
-        "Claude Code",
-        "Codex",
-        "Cursor",
-        "安全",
-        "研究驱动",
+        "调研工具",
+        "内容总结",
+        "多源数据",
         "开源",
-        "JavaScript",
-        "开发者"
-      ]
-    },
-    {
-      "topic": "Cosmos物理AI",
-      "repo": "NVIDIA/cosmos",
-      "cover_line1": "NVIDIA的物理AI开源平台",
-      "cover_line2": "构建机器人和自动驾驶",
-      "body": "物理AI是指让人工智能真正理解物理世界，比如机器人怎么抓取物体，自动驾驶汽车怎么看懂路况。NVIDIA做的Cosmos就是一个开放平台，提供了世界模型、训练数据集和一堆工具，让开发者能快速搭建这类应用。世界模型是核心，它模拟真实物理规则，AI在虚拟环境里先练习，再应用到实际硬件上。平台今天涨了494星，数量不算爆火，但NVIDIA的背景让它更靠谱，毕竟他们在GPU和AI基础设施上积累深。开发者可以用它来做机器人导航、自动驾驶感知，甚至智能工厂的监控。数据集覆盖多种场景，减少了从头收集数据的麻烦。不过，物理AI落地门槛高，需要硬件配合，这个平台是不是更适合大团队？它对独立开发者友好吗？你看好物理AI最先在哪个行业爆发？",
-      "tags": [
-        "Physical AI",
-        "NVIDIA",
-        "机器人",
-        "自动驾驶",
-        "世界模型",
-        "开源平台",
-        "开发者",
-        "智能基础设施",
-        "数据集",
-        "工具"
-      ]
-    },
-    {
-      "topic": "PaddleOCR",
-      "repo": "PaddlePaddle/PaddleOCR",
-      "cover_line1": "把PDF或图片转结构化数据",
-      "cover_line2": "支持100多种语言",
-      "body": "你的AI模型需要处理扫描文档或截图里的文字吗？手动录入太慢，普通OCR工具又不准。PaddleOCR是一个轻量级的OCR工具箱，专门把PDF、图片里的文字提取出来，转成结构化的数据，比如JSON或表格，方便AI直接用。它支持100多种语言，从中文、英文到阿拉伯文、泰文都能识别，小语种场景也能覆盖。今天它涨了755星，总星超过8万，因为它确实解决了实际问题——让AI‘看懂’文档。开发者可以快速集成到自己的管道里，比如财务报告分析、多语言内容审核。工具设计得轻巧，不占太多资源，适合部署在服务器甚至边缘设备。但OCR精度受图片质量影响大，模糊或倾斜的文字会不会丢信息？它和GPT-4这类多模态模型比，优势在哪？你项目中处理文档时，最头疼的是格式转换还是语言识别？",
-      "tags": [
-        "OCR",
-        "文档处理",
-        "结构化数据",
-        "多语言",
-        "PDF",
-        "图像识别",
-        "AI工具",
-        "轻量级",
-        "开源",
+        "效率提升",
+        "市场研究",
+        "趋势分析",
         "Python"
+      ]
+    },
+    {
+      "topic": "AI记忆系统基准",
+      "repo": "MemPalace/mempalace",
+      "cover_line1": "开源AI记忆系统",
+      "cover_line2": "跑分最高且完全免费",
+      "body": "大模型聊天有个致命弱点：聊完就忘。要想让AI记住你之前的对话、你的喜好、你的项目细节，就需要一个靠谱的“记忆系统”。MemPalace 项目专注于此，并且宣称在相关基准测试上跑分最高。它解决了AI长期记忆中的几个关键问题：怎么高效存储海量对话、怎么快速检索相关片段、以及怎么把旧记忆和当前对话自然地融合起来。今天它又收获了441颗星，总星数超过5.4万，是今天榜上最“大”的项目之一。它的核心价值在于“最好的基准”和“免费”这两个词，意味着开发者可以拿来一个经过严格测试的方案，而不是自己摸索。对于正在开发聊天机器人、个人助手或任何需要上下文连贯性的AI应用的团队来说，这提供了一个经过检验的底层方案。当AI的“记忆”变得越来越可靠，它离成为真正的个人伙伴还有多远？",
+      "tags": [
+        "AI记忆",
+        "大语言模型",
+        "上下文管理",
+        "开源",
+        "基准测试",
+        "Python",
+        "聊天机器人",
+        "长期记忆",
+        "开发者工具",
+        "基础设施"
       ]
     }
   ],
