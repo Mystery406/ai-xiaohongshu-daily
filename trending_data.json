@@ -8,7 +8,7 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "stars_today": "3,558 stars today",
-      "stars_total": "33,756"
+      "stars_total": "34,460"
     },
     {
       "name": "RyanCodrai/turbovec",
@@ -16,7 +16,7 @@
       "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "language": "Python",
       "stars_today": "1,730 stars today",
-      "stars_total": "8,379"
+      "stars_total": "8,821"
     },
     {
       "name": "google/skills",
@@ -24,7 +24,7 @@
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
       "stars_today": "481 stars today",
-      "stars_total": "12,225"
+      "stars_total": "12,378"
     },
     {
       "name": "refactoringhq/tolaria",
@@ -32,7 +32,7 @@
       "description": "Desktop app to manage markdown knowledge bases",
       "language": "TypeScript",
       "stars_today": "649 stars today",
-      "stars_total": "13,407"
+      "stars_total": "13,556"
     },
     {
       "name": "Panniantong/Agent-Reach",
@@ -40,7 +40,7 @@
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
       "stars_today": "796 stars today",
-      "stars_total": "23,873"
+      "stars_total": "24,069"
     },
     {
       "name": "danielmiessler/Personal_AI_Infrastructure",
@@ -48,15 +48,15 @@
       "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
       "language": "TypeScript",
       "stars_today": "121 stars today",
-      "stars_total": "15,308"
+      "stars_total": "15,411"
     },
     {
       "name": "santifer/career-ops",
       "url": "https://github.com/santifer/career-ops",
       "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
       "language": "JavaScript",
-      "stars_today": "665 stars today",
-      "stars_total": "50,226"
+      "stars_today": "477 stars today",
+      "stars_total": "50,488"
     },
     {
       "name": "phuryn/pm-skills",
@@ -64,7 +64,7 @@
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "language": "",
       "stars_today": "112 stars today",
-      "stars_total": "12,497"
+      "stars_total": "12,641"
     },
     {
       "name": "openai/plugins",
@@ -72,7 +72,7 @@
       "description": "OpenAI Plugins",
       "language": "JavaScript",
       "stars_today": "296 stars today",
-      "stars_total": "2,246"
+      "stars_total": "2,312"
     },
     {
       "name": "Andyyyy64/whichllm",
@@ -80,7 +80,7 @@
       "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
       "language": "Python",
       "stars_today": "103 stars today",
-      "stars_total": "3,308"
+      "stars_total": "3,433"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "stars_today": "3,558 stars today",
-      "stars_total": "33,756"
+      "stars_total": "34,460"
     },
     {
       "name": "RyanCodrai/turbovec",
@@ -98,7 +98,7 @@
       "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "language": "Python",
       "stars_today": "1,730 stars today",
-      "stars_total": "8,379"
+      "stars_total": "8,821"
     },
     {
       "name": "google/skills",
@@ -106,7 +106,7 @@
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
       "stars_today": "481 stars today",
-      "stars_total": "12,225"
+      "stars_total": "12,378"
     },
     {
       "name": "Panniantong/Agent-Reach",
@@ -114,7 +114,7 @@
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
       "stars_today": "796 stars today",
-      "stars_total": "23,873"
+      "stars_total": "24,069"
     },
     {
       "name": "danielmiessler/Personal_AI_Infrastructure",
@@ -122,15 +122,15 @@
       "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
       "language": "TypeScript",
       "stars_today": "121 stars today",
-      "stars_total": "15,308"
+      "stars_total": "15,411"
     },
     {
       "name": "santifer/career-ops",
       "url": "https://github.com/santifer/career-ops",
       "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
       "language": "JavaScript",
-      "stars_today": "665 stars today",
-      "stars_total": "50,226"
+      "stars_today": "477 stars today",
+      "stars_total": "50,488"
     },
     {
       "name": "phuryn/pm-skills",
@@ -138,7 +138,7 @@
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "language": "",
       "stars_today": "112 stars today",
-      "stars_total": "12,497"
+      "stars_total": "12,641"
     },
     {
       "name": "openai/plugins",
@@ -146,7 +146,7 @@
       "description": "OpenAI Plugins",
       "language": "JavaScript",
       "stars_today": "296 stars today",
-      "stars_total": "2,246"
+      "stars_total": "2,312"
     },
     {
       "name": "Andyyyy64/whichllm",
@@ -154,7 +154,7 @@
       "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
       "language": "Python",
       "stars_today": "103 stars today",
-      "stars_total": "3,308"
+      "stars_total": "3,433"
     }
   ],
   "posts": [
