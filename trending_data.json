@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-09",
+  "date": "2026-06-10",
   "slot": "早报",
   "all_repos": [
     {
@@ -7,80 +7,80 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_today": "3,558 stars today",
-      "stars_total": "34,460"
+      "stars_today": "3,177 stars today",
+      "stars_total": "36,634"
     },
     {
       "name": "RyanCodrai/turbovec",
       "url": "https://github.com/RyanCodrai/turbovec",
       "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "language": "Python",
-      "stars_today": "1,730 stars today",
-      "stars_total": "8,821"
+      "stars_today": "1,800 stars today",
+      "stars_total": "9,919"
     },
     {
-      "name": "google/skills",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
+      "name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
       "language": "Python",
-      "stars_today": "481 stars today",
-      "stars_total": "12,378"
+      "stars_today": "735 stars today",
+      "stars_total": "42,806"
+    },
+    {
+      "name": "opencv/opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars_today": "395 stars today",
+      "stars_total": "88,501"
     },
     {
       "name": "refactoringhq/tolaria",
       "url": "https://github.com/refactoringhq/tolaria",
       "description": "Desktop app to manage markdown knowledge bases",
       "language": "TypeScript",
-      "stars_today": "649 stars today",
-      "stars_total": "13,556"
+      "stars_today": "821 stars today",
+      "stars_total": "14,156"
     },
     {
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "stars_today": "796 stars today",
-      "stars_total": "24,069"
-    },
-    {
-      "name": "danielmiessler/Personal_AI_Infrastructure",
-      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-      "language": "TypeScript",
-      "stars_today": "121 stars today",
-      "stars_total": "15,411"
-    },
-    {
-      "name": "santifer/career-ops",
-      "url": "https://github.com/santifer/career-ops",
-      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "language": "JavaScript",
-      "stars_today": "477 stars today",
-      "stars_total": "50,488"
-    },
-    {
-      "name": "phuryn/pm-skills",
-      "url": "https://github.com/phuryn/pm-skills",
-      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "language": "",
-      "stars_today": "112 stars today",
-      "stars_total": "12,641"
-    },
-    {
-      "name": "openai/plugins",
-      "url": "https://github.com/openai/plugins",
-      "description": "OpenAI Plugins",
-      "language": "JavaScript",
-      "stars_today": "296 stars today",
-      "stars_total": "2,312"
+      "name": "aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars_today": "490 stars today",
+      "stars_total": "48,382"
     },
     {
       "name": "Andyyyy64/whichllm",
       "url": "https://github.com/Andyyyy64/whichllm",
       "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
       "language": "Python",
-      "stars_today": "103 stars today",
-      "stars_total": "3,433"
+      "stars_today": "631 stars today",
+      "stars_total": "3,921"
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars_today": "517 stars today",
+      "stars_total": "73,413"
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "language": "",
+      "stars_today": "66 stars today",
+      "stars_total": "139,061"
+    },
+    {
+      "name": "yikart/AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "stars_today": "423 stars today",
+      "stars_total": "19,776"
     }
   ],
   "ai_repos": [
@@ -89,157 +89,149 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_today": "3,558 stars today",
-      "stars_total": "34,460"
+      "stars_today": "3,177 stars today",
+      "stars_total": "36,634"
     },
     {
       "name": "RyanCodrai/turbovec",
       "url": "https://github.com/RyanCodrai/turbovec",
       "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "language": "Python",
-      "stars_today": "1,730 stars today",
-      "stars_total": "8,821"
+      "stars_today": "1,800 stars today",
+      "stars_total": "9,919"
     },
     {
-      "name": "google/skills",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
+      "name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
       "language": "Python",
-      "stars_today": "481 stars today",
-      "stars_total": "12,378"
+      "stars_today": "735 stars today",
+      "stars_total": "42,806"
     },
     {
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "stars_today": "796 stars today",
-      "stars_total": "24,069"
+      "name": "opencv/opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars_today": "395 stars today",
+      "stars_total": "88,501"
     },
     {
-      "name": "danielmiessler/Personal_AI_Infrastructure",
-      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-      "language": "TypeScript",
-      "stars_today": "121 stars today",
-      "stars_total": "15,411"
-    },
-    {
-      "name": "santifer/career-ops",
-      "url": "https://github.com/santifer/career-ops",
-      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "language": "JavaScript",
-      "stars_today": "477 stars today",
-      "stars_total": "50,488"
-    },
-    {
-      "name": "phuryn/pm-skills",
-      "url": "https://github.com/phuryn/pm-skills",
-      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "language": "",
-      "stars_today": "112 stars today",
-      "stars_total": "12,641"
-    },
-    {
-      "name": "openai/plugins",
-      "url": "https://github.com/openai/plugins",
-      "description": "OpenAI Plugins",
-      "language": "JavaScript",
-      "stars_today": "296 stars today",
-      "stars_total": "2,312"
+      "name": "aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars_today": "490 stars today",
+      "stars_total": "48,382"
     },
     {
       "name": "Andyyyy64/whichllm",
       "url": "https://github.com/Andyyyy64/whichllm",
       "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
       "language": "Python",
-      "stars_today": "103 stars today",
-      "stars_total": "3,433"
+      "stars_today": "631 stars today",
+      "stars_total": "3,921"
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "language": "",
+      "stars_today": "66 stars today",
+      "stars_total": "139,061"
+    },
+    {
+      "name": "yikart/AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "stars_today": "423 stars today",
+      "stars_total": "19,776"
     }
   ],
   "posts": [
     {
-      "topic": "last30days-skill",
+      "topic": "全网话题研究AI",
       "repo": "mvanhorn/last30days-skill",
-      "cover_line1": "last30days",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**mvanhorn/last30days-skill**\n\n📌 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\n\n🔗 https://github.com/mvanhorn/last30days-skill\n\n关注我，每天第一时间 AI 动态 👇",
+      "cover_line1": "AI帮你研究任何话题",
+      "cover_line2": "一天涨了3177颗星",
+      "body": "这个AI技能的核心能力是帮你做功课。你给它一个话题，比如「AI编程助手最新进展」或者「哪个开源模型最近最火」，它就自动去Reddit、X、YouTube、Hacker News、Polymarket这些地方扒最新的讨论和信息，然后给你一份综合的、有依据的总结报告。它本质上是个信息聚合和摘要引擎，解决了你手动翻遍多个平台、筛选有效信息的麻烦。对于想快速了解某个领域近况的人来说，这省下了大量时间。它今天在GitHub上爆了，一天拿到超过三千颗星，总星数快四万，说明很多人有这种「快速把握动态」的需求。用Python写的，设计成AI代理的一个技能模块，你可以集成到自己的工作流里。它用「last30days」（最近30天）作为名字的一部分，也点明了它关注的是近期动态，而不是历史资料。那么，除了追技术热点，你会用它来研究什么具体问题呢？",
       "tags": [
-        "AI",
-        "GitHub",
+        "AI代理",
+        "信息聚合",
+        "研究工具",
+        "Python",
+        "自动化",
+        "社交媒体",
+        "舆情分析",
+        "效率工具",
         "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "热点追踪"
       ]
     },
     {
-      "topic": "turbovec",
+      "topic": "本地LLM性能实测",
+      "repo": "Andyyyy64/whichllm",
+      "cover_line1": "帮你选最能跑的本地模型",
+      "cover_line2": "一条命令跑完所有测试",
+      "body": "想在本地电脑跑大模型，但不知道哪个模型在你的硬件上跑得又快又准？whichllm这个工具就是来解决这个问题的。它不像其他榜单只看参数大小，而是用一套考虑了模型新旧、贴近真实使用场景的基准测试，去实际测量模型在你机器上的表现。然后给你一个排名，告诉你哪个模型最适合你的电脑。你只需要一条命令，它就能自动下载模型、运行测试、出结果。这对开发者、想低成本尝试AI的个人用户特别有用，避免了盲目下载几个大模型试来试去浪费时间和硬盘。项目用Python写，今天涨了六百多颗星，总星数快四千。它强调「real, recency-aware benchmarks」，意思是测试结果真实、且考虑了模型发布的时间因素，不会让一个老模型靠在旧测试上的好成绩误导你。你的电脑是什么配置？你会好奇它跑哪个模型最流畅吗？",
+      "tags": [
+        "本地AI",
+        "大语言模型",
+        "性能测试",
+        "硬件适配",
+        "开源工具",
+        "Python",
+        "基准测试",
+        "开发者工具",
+        "个人AI",
+        "模型选择"
+      ]
+    },
+    {
+      "topic": "向量索引性能优化",
       "repo": "RyanCodrai/turbovec",
-      "cover_line1": "turbovec",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**RyanCodrai/turbovec**\n\n📌 A vector index built on TurboQuant, written in Rust with Python bindings\n\n🔗 https://github.com/RyanCodrai/turbovec\n\n关注我，每天第一时间 AI 动态 👇",
+      "cover_line1": "一个更快的向量索引库",
+      "cover_line2": "用Rust重写，速度是关键",
+      "body": "做AI应用，特别是涉及到搜索、推荐或RAG（检索增强生成）时，经常需要处理向量数据，就是在高维空间里找最相似的点。这过程叫向量检索，核心是一个高效的向量索引。turbovec就是一个新的向量索引库，它建立在一个叫TurboQuant的量化技术上，用Rust语言重写以追求极致性能，并提供了Python接口方便大家用。它的价值在于「速度」。对于处理海量数据的应用，检索速度每快一点，用户体验和系统效率就能提升一大截。今天它在GitHub上涨了1800颗星，总星数接近一万，说明这个性能痛点被很多人感知到了。虽然向量数据库和索引库已经有不少了，但这个项目用Rust从底层优化，并聚焦于量化压缩（一种用空间换时间的常用技术），吸引了追求性能的开发者。在你的项目里，向量检索的速度有成为瓶颈吗？",
       "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "向量数据库",
+        "AI基础设施",
+        "Rust",
+        "性能优化",
+        "Python绑定",
+        "检索增强生成",
+        "RAG",
+        "开源库",
+        "高维索引",
+        "量化技术"
       ]
     },
     {
-      "topic": "skills",
-      "repo": "google/skills",
-      "cover_line1": "skills",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**google/skills**\n\n📌 Agent Skills for Google products and technologies\n\n🔗 https://github.com/google/skills\n\n关注我，每天第一时间 AI 动态 👇",
+      "topic": "开源全能AI代理",
+      "repo": "aaif-goose/goose",
+      "cover_line1": "能写能改能测试的AI代理",
+      "cover_line2": "星数快五万，社区很活跃",
+      "body": "goose不只是个给你写代码建议的助手，它是一个更全能的开源AI代理。你可以把它理解为一个能在你电脑上自动干活的程序员搭档。它能帮你安装软件包、运行命令、编辑文件、甚至运行测试，而且不绑定特定的大语言模型，你可以自由选择用哪个LLM来驱动它。这意味着它更贴近真实的开发工作流，不只是在编辑器里补全几行代码。项目用Rust写，保证了速度和效率，今天涨了490颗星，总星数已经超过48000，社区基础很扎实。它的名字「goose」（鹅）可能暗示着它敏捷、能多任务处理？在AI编程助手越来越卷的当下，这类能执行完整开发任务流程的代理，是大家探索的一个方向。它解决了代码生成之外的「最后一公里」问题。你觉得一个理想的AI编程伙伴，最应该帮你搞定哪类重复性工作？",
       "tags": [
-        "AI",
-        "GitHub",
+        "AI代理",
+        "编程助手",
+        "自动化",
+        "Rust",
         "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "Agent-Reach",
-      "repo": "Panniantong/Agent-Reach",
-      "cover_line1": "Agent-Reac",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**Panniantong/Agent-Reach**\n\n📌 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.\n\n🔗 https://github.com/Panniantong/Agent-Reach\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "LLM",
+        "开发工具",
+        "代码编辑",
+        "测试",
+        "工作流"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-09/trending/summary.png",
-    "assets/2026-06-09/trending/post1.png",
-    "assets/2026-06-09/trending/post2.png",
-    "assets/2026-06-09/trending/post3.png",
-    "assets/2026-06-09/trending/post4.png"
+    "assets/2026-06-10/trending/summary.png",
+    "assets/2026-06-10/trending/post1.png",
+    "assets/2026-06-10/trending/post2.png",
+    "assets/2026-06-10/trending/post3.png",
+    "assets/2026-06-10/trending/post4.png"
   ]
 }
