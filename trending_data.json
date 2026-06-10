@@ -1,237 +1,237 @@
 {
-  "date": "2026-06-10",
+  "date": "2026-06-11",
   "slot": "早报",
   "all_repos": [
     {
-      "name": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "language": "Python",
-      "stars_today": "3,191 stars today",
-      "stars_total": "37,270"
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars_today": "781 stars today",
+      "stars_total": "51,018"
     },
     {
-      "name": "RyanCodrai/turbovec",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
-      "language": "Python",
-      "stars_today": "1,801 stars today",
-      "stars_total": "10,152"
-    },
-    {
-      "name": "roboflow/supervision",
-      "url": "https://github.com/roboflow/supervision",
-      "description": "We write your reusable computer vision tools. 💜",
-      "language": "Python",
-      "stars_today": "733 stars today",
-      "stars_total": "42,966"
-    },
-    {
-      "name": "opencv/opencv",
-      "url": "https://github.com/opencv/opencv",
-      "description": "Open Source Computer Vision Library",
-      "language": "C++",
-      "stars_today": "102 stars today",
-      "stars_total": "88,619"
+      "name": "phuryn/pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": "",
+      "stars_today": "775 stars today",
+      "stars_total": "14,419"
     },
     {
       "name": "refactoringhq/tolaria",
       "url": "https://github.com/refactoringhq/tolaria",
       "description": "Desktop app to manage markdown knowledge bases",
       "language": "TypeScript",
-      "stars_today": "829 stars today",
-      "stars_total": "14,305"
+      "stars_today": "618 stars today",
+      "stars_total": "14,760"
     },
-    {
-      "name": "aaif-goose/goose",
-      "url": "https://github.com/aaif-goose/goose",
-      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "language": "Rust",
-      "stars_today": "489 stars today",
-      "stars_total": "48,489"
-    },
-    {
-      "name": "Andyyyy64/whichllm",
-      "url": "https://github.com/Andyyyy64/whichllm",
-      "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
-      "language": "Python",
-      "stars_today": "633 stars today",
-      "stars_total": "4,072"
-    },
-    {
-      "name": "TapXWorld/ChinaTextbook",
-      "url": "https://github.com/TapXWorld/ChinaTextbook",
-      "description": "所有小初高、大学PDF教材。",
-      "language": "Roff",
-      "stars_today": "519 stars today",
-      "stars_total": "73,455"
-    },
-    {
-      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "language": "",
-      "stars_today": "79 stars today",
-      "stars_total": "139,137"
-    },
-    {
-      "name": "yikart/AiToEarn",
-      "url": "https://github.com/yikart/AiToEarn",
-      "description": "Let's use AI to Earn!",
-      "language": "TypeScript",
-      "stars_today": "402 stars today",
-      "stars_total": "19,899"
-    }
-  ],
-  "ai_repos": [
     {
       "name": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_today": "3,191 stars today",
-      "stars_total": "37,270"
+      "stars_today": "2,561 stars today",
+      "stars_total": "38,848"
     },
     {
-      "name": "RyanCodrai/turbovec",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
-      "stars_today": "1,801 stars today",
-      "stars_total": "10,152"
-    },
-    {
-      "name": "roboflow/supervision",
-      "url": "https://github.com/roboflow/supervision",
-      "description": "We write your reusable computer vision tools. 💜",
-      "language": "Python",
-      "stars_today": "733 stars today",
-      "stars_total": "42,966"
-    },
-    {
-      "name": "opencv/opencv",
-      "url": "https://github.com/opencv/opencv",
-      "description": "Open Source Computer Vision Library",
-      "language": "C++",
-      "stars_today": "102 stars today",
-      "stars_total": "88,619"
-    },
-    {
-      "name": "aaif-goose/goose",
-      "url": "https://github.com/aaif-goose/goose",
-      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "language": "Rust",
-      "stars_today": "489 stars today",
-      "stars_total": "48,489"
-    },
-    {
-      "name": "Andyyyy64/whichllm",
-      "url": "https://github.com/Andyyyy64/whichllm",
-      "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
-      "language": "Python",
-      "stars_today": "633 stars today",
-      "stars_total": "4,072"
+      "stars_today": "261 stars today",
+      "stars_total": "31,834"
     },
     {
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
       "language": "",
-      "stars_today": "79 stars today",
-      "stars_total": "139,137"
+      "stars_today": "397 stars today",
+      "stars_total": "139,436"
     },
     {
-      "name": "yikart/AiToEarn",
-      "url": "https://github.com/yikart/AiToEarn",
-      "description": "Let's use AI to Earn!",
-      "language": "TypeScript",
-      "stars_today": "402 stars today",
-      "stars_total": "19,899"
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "1,011 stars today",
+      "stars_total": "223,355"
+    },
+    {
+      "name": "masterking32/MasterDnsVPN",
+      "url": "https://github.com/masterking32/MasterDnsVPN",
+      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "language": "Go",
+      "stars_today": "351 stars today",
+      "stars_total": "5,051"
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars_today": "1,471 stars today",
+      "stars_total": "84,699"
+    },
+    {
+      "name": "maziyarpanahi/openmed",
+      "url": "https://github.com/maziyarpanahi/openmed",
+      "description": "open-source healthcare ai",
+      "language": "Python",
+      "stars_today": "535 stars today",
+      "stars_total": "2,177"
+    }
+  ],
+  "ai_repos": [
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars_today": "781 stars today",
+      "stars_total": "51,018"
+    },
+    {
+      "name": "phuryn/pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": "",
+      "stars_today": "775 stars today",
+      "stars_total": "14,419"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars_today": "2,561 stars today",
+      "stars_total": "38,848"
+    },
+    {
+      "name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars_today": "261 stars today",
+      "stars_total": "31,834"
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "language": "",
+      "stars_today": "397 stars today",
+      "stars_total": "139,436"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "1,011 stars today",
+      "stars_total": "223,355"
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars_today": "1,471 stars today",
+      "stars_total": "84,699"
+    },
+    {
+      "name": "maziyarpanahi/openmed",
+      "url": "https://github.com/maziyarpanahi/openmed",
+      "description": "open-source healthcare ai",
+      "language": "Python",
+      "stars_today": "535 stars today",
+      "stars_total": "2,177"
     }
   ],
   "posts": [
     {
-      "topic": "本地LLM选择",
-      "repo": "Andyyyy64/whichllm",
-      "cover_line1": "找到本地跑得最好的LLM",
-      "cover_line2": "真实硬件基准，一键测试",
-      "body": "你想在本地跑大模型，但不知道哪个最适合你的电脑？whichllm 这个工具帮你解决。它直接在你的硬件上运行基准测试，根据实际性能给模型排名，而不是光看参数数量。你用一个命令就能跑起来，立刻看到结果。比如，它会测试不同模型的加载速度、推理时间，告诉你哪个在你的GPU或CPU上表现最好。这样，你就不用瞎猜，省得下载一堆模型试来试去。它用Python写的，今天 GitHub 上涨了 633 颗星，总星数 4072。开发者找本地模型时，这工具实实在在省时间。它基于真实基准测试，不是理论数据，所以结果可靠。你可以用它来评估新模型，或者优化现有设置。它支持多种硬件，从笔记本电脑到服务器，都能适应。开源社区在维护，不断更新基准数据。所以，如果你在AI开发中需要本地推理，这个工具值得加入工具箱。",
+      "topic": "agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "cover_line1": "agent-skil",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**addyosmani/agent-skills**\n\n📌 Production-grade engineering skills for AI coding agents.\n\n🔗 https://github.com/addyosmani/agent-skills\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "LLM",
-        "本地AI",
-        "基准测试",
-        "开发者工具",
-        "Python",
-        "硬件优化",
-        "模型选择",
-        "开源",
         "AI",
-        "工具"
-      ]
-    },
-    {
-      "topic": "AI研究技能",
-      "repo": "mvanhorn/last30days-skill",
-      "cover_line1": "AI研究跨平台摘要技能",
-      "cover_line2": "今天3191星，总37270星",
-      "body": "这个技能让AI代理能研究任何话题，从Reddit、X、YouTube、HN、Polymarket 到整个网络，然后合成一个基于事实的摘要。你只要给个主题，它自己去扒数据、汇总信息。比如，你想知道某个AI模型最近的讨论，它能自动收集帖子、视频、新闻，给你一份简洁报告。用Python写的，今天涨了3191颗星，总星数37270，说明很多人觉得有用。研究时手动搜太累，这技能自动化了，省时省力。它基于多个平台的数据源，确保信息全面。你可以把它集成到AI代理里，让代理自己做研究任务。开源项目，代码在GitHub上，你可以自己定制。对于开发者来说，这省去了手动爬虫和整理的麻烦。它输出的摘要基于真实数据，不是瞎编的，所以你可以信任结果。如果你经常需要跟踪热点或做市场调研，这个技能能帮你节省大量时间。",
-      "tags": [
-        "AI代理",
-        "研究工具",
-        "多平台",
-        "自动化",
-        "摘要",
-        "Python",
+        "GitHub",
         "开源",
-        "AI",
-        "技能",
-        "信息聚合"
-      ]
-    },
-    {
-      "topic": "向量索引工具",
-      "repo": "RyanCodrai/turbovec",
-      "cover_line1": "高性能向量索引库",
-      "cover_line2": "Rust写，今天1801星",
-      "body": "turbovec 是一个向量索引，基于TurboQuant技术构建，用Rust写的，但有Python绑定。向量索引在AI里很重要，比如做相似搜索、推荐系统。这个库用Rust追求高性能，同时让Python开发者也能轻松用。今天 GitHub 上涨了1801颗星，总星数10152，说明它解决了实际问题。如果你在做机器学习项目，需要快速处理大量向量数据，这个库值得一试。它开源的，你可以直接集成到代码里。Rust底层保证了速度，Python绑定让使用简单。它适用于检索、聚类等任务，能处理大规模数据集。开发者不用自己写复杂索引，直接调用它就行。它基于TurboQuant，这是一种高效量化技术，减少了内存占用。所以，对于AI应用来说，这库提升了性能，降低了成本。如果你在项目中遇到向量搜索慢的问题，可以试试它。",
-      "tags": [
-        "向量索引",
-        "Rust",
-        "Python",
-        "高性能",
+        "热门项目",
+        "大模型",
         "机器学习",
-        "相似搜索",
-        "开源",
+        "深度学习",
         "AI工具",
-        "库",
-        "开发者"
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "计算机视觉工具",
-      "repo": "roboflow/supervision",
-      "cover_line1": "可复用计算机视觉工具集",
-      "cover_line2": "roboflow出品，733星今天",
-      "body": "supervision 是 roboflow 出品的一套可复用计算机视觉工具。它帮你简化常见的视觉任务，比如物体检测、图像标注。你不用从头写代码，直接调用它的工具集。今天 GitHub 上涨了733颗星，总星数42966，证明它受欢迎。做计算机视觉项目时，重复劳动多，这个库节省时间，让你专注核心逻辑。用Python写的，开源免费，社区活跃。它提供了各种预处理、后处理的函数，让代码更干净。比如，你可以快速画边界框、评估模型性能。它和常见框架如PyTorch、TensorFlow兼容。开发者反馈说它文档好，容易上手。如果你在做AI视觉应用，这个工具集能加速开发。它基于roboflow的实战经验，所以很实用。总之，它把繁琐的活儿包办了，让你更专注于创新。",
+      "topic": "pm-skills",
+      "repo": "phuryn/pm-skills",
+      "cover_line1": "pm-skills",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**phuryn/pm-skills**\n\n📌 PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.\n\n🔗 https://github.com/phuryn/pm-skills\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "计算机视觉",
-        "工具集",
-        "roboflow",
-        "Python",
-        "开源",
         "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
         "机器学习",
-        "物体检测",
-        "图像处理",
-        "开发者工具"
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "last30days-skill",
+      "repo": "mvanhorn/last30days-skill",
+      "cover_line1": "last30days",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**mvanhorn/last30days-skill**\n\n📌 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\n\n🔗 https://github.com/mvanhorn/last30days-skill\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "maigret",
+      "repo": "soxoj/maigret",
+      "cover_line1": "maigret",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**soxoj/maigret**\n\n📌 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites\n\n🔗 https://github.com/soxoj/maigret\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-10/trending/summary.png",
-    "assets/2026-06-10/trending/post1.png",
-    "assets/2026-06-10/trending/post2.png",
-    "assets/2026-06-10/trending/post3.png",
-    "assets/2026-06-10/trending/post4.png"
+    "assets/2026-06-11/trending/summary.png",
+    "assets/2026-06-11/trending/post1.png",
+    "assets/2026-06-11/trending/post2.png",
+    "assets/2026-06-11/trending/post3.png",
+    "assets/2026-06-11/trending/post4.png"
   ]
 }
