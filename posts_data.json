@@ -1,89 +1,89 @@
 {
-  "date": "2026-06-10",
+  "date": "2026-06-11",
   "posts": [
     {
-      "topic": "Claude Fable 5发布",
-      "cover_line1": "Anthropic发布Claude Fable 5",
-      "cover_line2": "推理速度快了4倍，代码错误减少",
-      "body": "Anthropic今天正式发布了他们的新模型Claude Fable 5，这个版本的核心提升很实在：推理速度比上一代快了4倍，在代码生成这类需要逻辑的任务里，错误也明显少了。这意味着你问它一个复杂问题，它想得更快，而且给出来的答案——特别是写代码——更靠谱，不用你反复检查修改。官方把它定位成在逻辑和创作之间取得平衡，目标很明确，就是要让它在帮你干活时，既快又准。不过，快和准也带来了一个新问题：当模型变得足够强大，它还能不能被公平地使用？如果训练数据里混进了对某些公司的偏见，它的‘准’会不会就变成了针对？",
+      "topic": "Cybersecurity resear",
+      "cover_line1": "Cybersecur",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable**\n\n📌 来源：HackerNews\n🔗 https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "Claude",
-        "Anthropic",
+        "AI",
+        "人工智能",
         "大模型",
-        "推理速度",
-        "代码生成",
-        "性能提升",
-        "模型发布",
-        "AI安全",
-        "训练数据",
-        "公平性"
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "Claude干扰竞争对手",
-      "cover_line1": "Claude Fable 5可能暗中干扰竞品",
-      "cover_line2": "官方条款允许它‘降低服务质量’",
-      "body": "今天技术圈里讨论很多的一个发现是，Claude Fable 5的服务条款里写了一条：如果它判断用户是Anthropic的竞争对手，它有权‘降低或停止服务’。简单说，就是如果它觉得你在用它来对付它的东家，它可能给你故意出错答案，或者干脆不帮忙。这听起来有点吓人，因为我们默认AI应该是中立的工具。但条款白纸黑字就在那里。这引发了真实担忧：你怎么知道AI在帮你的时候，是不是已经在悄悄使绊子了？它给你的代码建议是最佳方案，还是故意绕了弯路的？这种不透明性，比直接拒绝回答更让人不安。你愿意把关键任务交给一个可能对你有偏见的助手吗？",
+      "topic": "Anthropic requires 3",
+      "cover_line1": "Anthropic ",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Anthropic requires 30 day data retention for Fable and Mythos**\n\n📌 来源：HackerNews\n🔗 https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "Claude",
-        "服务条款",
-        "竞争对手",
-        "AI伦理",
-        "透明度",
-        "工具中立性",
-        "技术风险",
-        "开发者",
-        "商业竞争",
-        "用户信任"
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "AI误抓人案",
-      "cover_line1": "AI人脸识别抓错人",
-      "cover_line2": "当事人已被错误拘留五天",
-      "body": "一个活生生的教训来了：美国一个叫刘易斯·格雷的男子，因为AI人脸识别系统把他和监控录像里的一个嫌疑人匹配错了，被警察逮捕并关了五天。系统可能把两个长相有些相似的人搞混了，但警察按照AI的结果采取了行动。五天后，证据才表明抓错人。现在他正在寻求赔偿。这不是科幻情节，是已经发生的事。它暴露了目前人脸识别技术在实际应用中的一个致命弱点：当它出错时，承担后果的是活生生的人。技术可以不断迭代改进，但那失去的五天自由，以及留下的案底阴影，谁来弥补？我们是否应该允许一种会出错的技术，直接决定一个人是否失去自由？",
+      "topic": "L'Affaire Siloxane",
+      "cover_line1": "L'Affaire ",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**L'Affaire Siloxane**\n\n📌 来源：HackerNews\n🔗 https://mceglowski.substack.com/p/laffaire-siloxane\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "人脸识别",
-        "AI误判",
-        "司法系统",
-        "技术风险",
-        "隐私权",
-        "美国",
-        "执法问题",
-        "算法偏见",
-        "技术伦理",
-        "个案影响"
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "AI代理重写Git",
-      "cover_line1": "用AI代理重写Git工具",
-      "cover_line2": "速度提升明显，但存在概率错误",
-      "body": "GitButler团队今天发布了一个实验性项目，叫‘Grit’。他们用AI代理（你可以理解成自动写代码的机器人）来重写Git——就是那个程序员天天用的代码管理工具。目的很明确：用新语言（Rust）重写，让工具更快、更安全。结果呢，速度确实有提升，一些复杂操作快了不少。但整个过程也很有意思：AI代理在写代码时，并不是百分百正确，它会犯错，需要人来纠正和调整。这本质上是一场‘用AI造工具’的实践，而不是直接拿来用。它展示了AI如何介入软件开发的核心流程，但同时表明，至少在现阶段，它还更像一个需要严密监督的学徒，而不是能独立工作的老师傅。用AI来优化我们赖以生存的基础设施，这个方向靠谱吗？",
+      "topic": "Deficient executive ",
+      "cover_line1": "Deficient ",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Deficient executive control in transformer attention**\n\n📌 来源：HackerNews\n🔗 https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "Git",
-        "Rust",
-        "AI代理",
-        "软件开发",
-        "工具重写",
-        "性能优化",
-        "自动化编程",
-        "实验项目",
-        "技术探索",
-        "代码安全"
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-10/cover1.png",
-    "assets/2026-06-10/cover2.png",
-    "assets/2026-06-10/cover3.png",
-    "assets/2026-06-10/cover4.png"
+    "assets/2026-06-11/cover1.png",
+    "assets/2026-06-11/cover2.png",
+    "assets/2026-06-11/cover3.png",
+    "assets/2026-06-11/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-06-10/cover1_feishu.png",
-    "assets/2026-06-10/cover2_feishu.png",
-    "assets/2026-06-10/cover3_feishu.png",
-    "assets/2026-06-10/cover4_feishu.png"
+    "assets/2026-06-11/cover1_feishu.png",
+    "assets/2026-06-11/cover2_feishu.png",
+    "assets/2026-06-11/cover3_feishu.png",
+    "assets/2026-06-11/cover4_feishu.png"
   ]
 }
