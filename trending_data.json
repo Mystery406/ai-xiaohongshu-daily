@@ -7,80 +7,80 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
-      "stars_today": "781 stars today",
-      "stars_total": "51,018"
+      "stars_today": "821 stars today",
+      "stars_total": "51,723"
     },
     {
       "name": "phuryn/pm-skills",
       "url": "https://github.com/phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "language": "",
-      "stars_today": "775 stars today",
-      "stars_total": "14,419"
+      "stars_today": "804 stars today",
+      "stars_total": "14,819"
     },
     {
       "name": "refactoringhq/tolaria",
       "url": "https://github.com/refactoringhq/tolaria",
       "description": "Desktop app to manage markdown knowledge bases",
       "language": "TypeScript",
-      "stars_today": "618 stars today",
-      "stars_total": "14,760"
+      "stars_today": "612 stars today",
+      "stars_total": "14,891"
     },
     {
       "name": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_today": "2,561 stars today",
-      "stars_total": "38,848"
+      "stars_today": "2,535 stars today",
+      "stars_total": "39,045"
     },
     {
       "name": "soxoj/maigret",
       "url": "https://github.com/soxoj/maigret",
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
-      "stars_today": "261 stars today",
-      "stars_total": "31,834"
+      "stars_today": "318 stars today",
+      "stars_total": "31,994"
     },
     {
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
       "language": "",
-      "stars_today": "397 stars today",
-      "stars_total": "139,436"
+      "stars_today": "393 stars today",
+      "stars_total": "139,505"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,011 stars today",
-      "stars_total": "223,355"
+      "stars_today": "1,104 stars today",
+      "stars_total": "223,576"
     },
     {
       "name": "masterking32/MasterDnsVPN",
       "url": "https://github.com/masterking32/MasterDnsVPN",
       "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
       "language": "Go",
-      "stars_today": "351 stars today",
-      "stars_total": "5,051"
+      "stars_today": "354 stars today",
+      "stars_total": "5,195"
     },
     {
       "name": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
-      "stars_today": "1,471 stars today",
-      "stars_total": "84,699"
+      "stars_today": "1,389 stars today",
+      "stars_total": "84,992"
     },
     {
       "name": "maziyarpanahi/openmed",
       "url": "https://github.com/maziyarpanahi/openmed",
       "description": "open-source healthcare ai",
       "language": "Python",
-      "stars_today": "535 stars today",
-      "stars_total": "2,177"
+      "stars_today": "527 stars today",
+      "stars_total": "2,276"
     }
   ],
   "ai_repos": [
@@ -89,141 +89,141 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
-      "stars_today": "781 stars today",
-      "stars_total": "51,018"
+      "stars_today": "821 stars today",
+      "stars_total": "51,723"
     },
     {
       "name": "phuryn/pm-skills",
       "url": "https://github.com/phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "language": "",
-      "stars_today": "775 stars today",
-      "stars_total": "14,419"
+      "stars_today": "804 stars today",
+      "stars_total": "14,819"
     },
     {
       "name": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_today": "2,561 stars today",
-      "stars_total": "38,848"
+      "stars_today": "2,535 stars today",
+      "stars_total": "39,045"
     },
     {
       "name": "soxoj/maigret",
       "url": "https://github.com/soxoj/maigret",
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
-      "stars_today": "261 stars today",
-      "stars_total": "31,834"
+      "stars_today": "318 stars today",
+      "stars_total": "31,994"
     },
     {
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
       "language": "",
-      "stars_today": "397 stars today",
-      "stars_total": "139,436"
+      "stars_today": "393 stars today",
+      "stars_total": "139,505"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,011 stars today",
-      "stars_total": "223,355"
+      "stars_today": "1,104 stars today",
+      "stars_total": "223,576"
     },
     {
       "name": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
-      "stars_today": "1,471 stars today",
-      "stars_total": "84,699"
+      "stars_today": "1,389 stars today",
+      "stars_total": "84,992"
     },
     {
       "name": "maziyarpanahi/openmed",
       "url": "https://github.com/maziyarpanahi/openmed",
       "description": "open-source healthcare ai",
       "language": "Python",
-      "stars_today": "535 stars today",
-      "stars_total": "2,177"
+      "stars_today": "527 stars today",
+      "stars_total": "2,276"
     }
   ],
   "posts": [
     {
-      "topic": "agent-skills",
-      "repo": "addyosmani/agent-skills",
-      "cover_line1": "agent-skil",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**addyosmani/agent-skills**\n\n📌 Production-grade engineering skills for AI coding agents.\n\n🔗 https://github.com/addyosmani/agent-skills\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "pm-skills",
-      "repo": "phuryn/pm-skills",
-      "cover_line1": "pm-skills",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**phuryn/pm-skills**\n\n📌 PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.\n\n🔗 https://github.com/phuryn/pm-skills\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "last30days-skill",
+      "topic": "信息综合助手",
       "repo": "mvanhorn/last30days-skill",
-      "cover_line1": "last30days",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**mvanhorn/last30days-skill**\n\n📌 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\n\n🔗 https://github.com/mvanhorn/last30days-skill\n\n关注我，每天第一时间 AI 动态 👇",
+      "cover_line1": "给AI agent装的研究技能",
+      "cover_line2": "一天涨了2535颗星",
+      "body": "这个工具教你的AI怎么快速搞懂一个新话题。你给它一个主题，它自己去Reddit、X、YouTube、Hacker News、预测市场Polymarket这些地方扒最近30天的讨论，然后整理一份有理有据的总结。今天突然火了，一天加了两千多颗星，说明大家真需要这个。现在信息太散了，想了解一个热点得自己挨个平台翻，这个技能把这活儿自动化了。不过它综合出来的内容质量到底怎么样，特别是对专业领域，还得看实际用下来靠不靠谱。你觉得，让AI替你浏览所有平台来总结信息，你会完全信任它给你的结论吗？",
       "tags": [
-        "AI",
-        "GitHub",
+        "AI agent",
+        "信息聚合",
+        "技能市场",
+        "效率工具",
+        "Python",
         "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "数据研究",
+        "自动化",
+        "社交媒体",
+        "总结"
       ]
     },
     {
-      "topic": "maigret",
-      "repo": "soxoj/maigret",
-      "cover_line1": "maigret",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**soxoj/maigret**\n\n📌 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites\n\n🔗 https://github.com/soxoj/maigret\n\n关注我，每天第一时间 AI 动态 👇",
+      "topic": "短视频生成器",
+      "repo": "harry0703/MoneyPrinterTurbo",
+      "cover_line1": "用AI一键做高清短视频",
+      "cover_line2": "总星数接近8.5万",
+      "body": "这个项目名字很直白，就是帮你“印钞”的。它用大模型的能力，你只需要给个想法或脚本，它就能自动配图、配音、剪辑，生成一条可以直接发的短视频。今天又涨了将近1400颗星，总星数快到8.5万了，一直很受欢迎。它省掉了很多找素材、剪片子、配音频的麻烦，对想快速试水短视频或者做内容矩阵的人来说是真方便。当然，用它批量生产的内容会不会同质化，或者引发平台的一些限制，这是另一个问题。如果工具让视频制作变得如此简单，那什么样的内容才是真正有价值的？",
       "tags": [
-        "AI",
-        "GitHub",
+        "短视频",
+        "AI生成",
+        "内容创作",
+        "自动化",
+        "效率工具",
+        "Python",
         "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "大模型应用",
+        "工具",
+        "一键生成"
+      ]
+    },
+    {
+      "topic": "技能框架",
+      "repo": "obra/superpowers",
+      "cover_line1": "一个让AI agent生效的框架",
+      "cover_line2": "总星数已超22万",
+      "body": "今天涨势最猛的是这个叫“superpowers”的东西，一天加了1100多颗星，总星数已经22万多了。它不是一个具体的技能，而是一套方法和框架，告诉你怎么给AI编码助手装上各种“技能”，让它能真正按你的工程习惯干活。这就好比，前面的几个技能是具体的招式，这个框架是教你内功心法。它火起来，说明大家开始不满足于只能聊天的AI，想要一个能深度集成到开发流程、能用自己一套规矩干活的AI助手。但框架再好，最后效果还是得看装进去的技能质量。你更愿意用一个集成好的、开箱即用的AI工具，还是愿意花时间用框架自己组装一个更符合自己习惯的？",
+      "tags": [
+        "开发框架",
+        "AI agent",
+        "工程方法",
+        "自动化",
+        "编程助手",
+        "效率",
+        "开源",
+        "开发工具",
+        "技能市场",
+        "流程优化"
+      ]
+    },
+    {
+      "topic": "人肉搜索器",
+      "repo": "soxoj/maigret",
+      "cover_line1": "通过用户名查遍全网信息",
+      "cover_line2": "能查3000多个网站",
+      "body": "这个工具在安全圈里挺有名，今天又涨了300多颗星。它的能力很简单也很强大：你给一个用户名，它就能去3000多个不同的网站和服务里查，看这个用户名在哪些平台注册过，把能找到的公开资料汇总成一份报告。这对网络安全调查、了解一个人公开的线上足迹很有用。当然，这种能力是一把双刃剑，用在正道上是排查风险，用在歪道上就是侵犯隐私。项目本身是开源的，代码透明。这种能高效聚合公开信息的工具，它的使用边界到底应该在哪里？",
+      "tags": [
+        "OSINT",
+        "网络安全",
+        "信息收集",
+        "开源情报",
+        "用户名搜索",
+        "隐私",
+        "Python",
+        "开源",
+        "调查工具",
+        "公开数据"
       ]
     }
   ],
