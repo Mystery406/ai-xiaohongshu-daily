@@ -1,237 +1,237 @@
 {
-  "date": "2026-06-11",
+  "date": "2026-06-12",
   "slot": "早报",
   "all_repos": [
+    {
+      "name": "apple/container",
+      "url": "https://github.com/apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "stars_today": "2,419 stars today",
+      "stars_total": "31,593"
+    },
     {
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
-      "stars_today": "821 stars today",
-      "stars_total": "51,723"
+      "stars_today": "3,275 stars today",
+      "stars_total": "54,102"
+    },
+    {
+      "name": "maziyarpanahi/openmed",
+      "url": "https://github.com/maziyarpanahi/openmed",
+      "description": "open-source healthcare ai",
+      "language": "Python",
+      "stars_today": "427 stars today",
+      "stars_total": "2,628"
     },
     {
       "name": "phuryn/pm-skills",
       "url": "https://github.com/phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "language": "",
-      "stars_today": "804 stars today",
-      "stars_total": "14,819"
+      "stars_today": "1,944 stars today",
+      "stars_total": "16,039"
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "language": "Python",
+      "stars_today": "308 stars today",
+      "stars_total": "2,450"
+    },
+    {
+      "name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars_today": "665 stars today",
+      "stars_total": "32,475"
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "language": "",
+      "stars_today": "369 stars today",
+      "stars_total": "139,790"
     },
     {
       "name": "refactoringhq/tolaria",
       "url": "https://github.com/refactoringhq/tolaria",
       "description": "Desktop app to manage markdown knowledge bases",
       "language": "TypeScript",
-      "stars_today": "612 stars today",
-      "stars_total": "14,891"
-    },
-    {
-      "name": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "language": "Python",
-      "stars_today": "2,535 stars today",
-      "stars_total": "39,045"
-    },
-    {
-      "name": "soxoj/maigret",
-      "url": "https://github.com/soxoj/maigret",
-      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-      "language": "Python",
-      "stars_today": "318 stars today",
-      "stars_total": "31,994"
-    },
-    {
-      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "language": "",
-      "stars_today": "393 stars today",
-      "stars_total": "139,505"
+      "stars_today": "604 stars today",
+      "stars_total": "15,303"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,104 stars today",
-      "stars_total": "223,576"
+      "stars_today": "1,323 stars today",
+      "stars_total": "224,598"
     },
     {
-      "name": "masterking32/MasterDnsVPN",
-      "url": "https://github.com/masterking32/MasterDnsVPN",
-      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "name": "restic/restic",
+      "url": "https://github.com/restic/restic",
+      "description": "Fast, secure, efficient backup program",
       "language": "Go",
-      "stars_today": "354 stars today",
-      "stars_total": "5,195"
+      "stars_today": "33 stars today",
+      "stars_total": "34,078"
+    }
+  ],
+  "ai_repos": [
+    {
+      "name": "apple/container",
+      "url": "https://github.com/apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "stars_today": "2,419 stars today",
+      "stars_total": "31,593"
     },
     {
-      "name": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "language": "Python",
-      "stars_today": "1,389 stars today",
-      "stars_total": "84,992"
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars_today": "3,275 stars today",
+      "stars_total": "54,102"
     },
     {
       "name": "maziyarpanahi/openmed",
       "url": "https://github.com/maziyarpanahi/openmed",
       "description": "open-source healthcare ai",
       "language": "Python",
-      "stars_today": "527 stars today",
-      "stars_total": "2,276"
-    }
-  ],
-  "ai_repos": [
-    {
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "Shell",
-      "stars_today": "821 stars today",
-      "stars_total": "51,723"
+      "stars_today": "427 stars today",
+      "stars_total": "2,628"
     },
     {
       "name": "phuryn/pm-skills",
       "url": "https://github.com/phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "language": "",
-      "stars_today": "804 stars today",
-      "stars_total": "14,819"
+      "stars_today": "1,944 stars today",
+      "stars_total": "16,039"
     },
     {
-      "name": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
       "language": "Python",
-      "stars_today": "2,535 stars today",
-      "stars_total": "39,045"
+      "stars_today": "308 stars today",
+      "stars_total": "2,450"
     },
     {
       "name": "soxoj/maigret",
       "url": "https://github.com/soxoj/maigret",
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
-      "stars_today": "318 stars today",
-      "stars_total": "31,994"
+      "stars_today": "665 stars today",
+      "stars_total": "32,475"
     },
     {
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
       "language": "",
-      "stars_today": "393 stars today",
-      "stars_total": "139,505"
+      "stars_today": "369 stars today",
+      "stars_total": "139,790"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,104 stars today",
-      "stars_total": "223,576"
-    },
-    {
-      "name": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "language": "Python",
-      "stars_today": "1,389 stars today",
-      "stars_total": "84,992"
-    },
-    {
-      "name": "maziyarpanahi/openmed",
-      "url": "https://github.com/maziyarpanahi/openmed",
-      "description": "open-source healthcare ai",
-      "language": "Python",
-      "stars_today": "527 stars today",
-      "stars_total": "2,276"
+      "stars_today": "1,323 stars today",
+      "stars_total": "224,598"
     }
   ],
   "posts": [
     {
-      "topic": "信息综合助手",
-      "repo": "mvanhorn/last30days-skill",
-      "cover_line1": "给AI agent装的研究技能",
-      "cover_line2": "一天涨了2535颗星",
-      "body": "这个工具教你的AI怎么快速搞懂一个新话题。你给它一个主题，它自己去Reddit、X、YouTube、Hacker News、预测市场Polymarket这些地方扒最近30天的讨论，然后整理一份有理有据的总结。今天突然火了，一天加了两千多颗星，说明大家真需要这个。现在信息太散了，想了解一个热点得自己挨个平台翻，这个技能把这活儿自动化了。不过它综合出来的内容质量到底怎么样，特别是对专业领域，还得看实际用下来靠不靠谱。你觉得，让AI替你浏览所有平台来总结信息，你会完全信任它给你的结论吗？",
+      "topic": "苹果容器工具",
+      "repo": "apple/container",
+      "cover_line1": "苹果出容器工具",
+      "cover_line2": "专为M系列芯片优化",
+      "body": "苹果今天在GitHub开源了一个叫‘container’的工具。简单说，它让你在Mac上不用Docker，就能快速创建和运行Linux容器。这个工具是用Swift写的，专门为苹果的M系列芯片做了优化。它背后用了一种很轻的虚拟机技术，所以启动快，资源占用也少。对于在Mac上搞开发，特别是需要频繁搭建各种Linux环境的程序员来说，这解决了老问题：不用再折腾虚拟机，也不用忍受Docker Desktop的内存开销。它用起来更贴近macOS的原生体验。有意思的是，苹果自己下场做这种底层工具，明显是想巩固开发者生态。一天就拿了两千多颗星，大家对这个方向是认可的。不过，它目前还是早期版本，功能上肯定没法跟Docker比。你会考虑用这个原生工具替换掉你用习惯的Docker吗？",
       "tags": [
-        "AI agent",
-        "信息聚合",
-        "技能市场",
-        "效率工具",
-        "Python",
-        "开源",
-        "数据研究",
-        "自动化",
-        "社交媒体",
-        "总结"
-      ]
-    },
-    {
-      "topic": "短视频生成器",
-      "repo": "harry0703/MoneyPrinterTurbo",
-      "cover_line1": "用AI一键做高清短视频",
-      "cover_line2": "总星数接近8.5万",
-      "body": "这个项目名字很直白，就是帮你“印钞”的。它用大模型的能力，你只需要给个想法或脚本，它就能自动配图、配音、剪辑，生成一条可以直接发的短视频。今天又涨了将近1400颗星，总星数快到8.5万了，一直很受欢迎。它省掉了很多找素材、剪片子、配音频的麻烦，对想快速试水短视频或者做内容矩阵的人来说是真方便。当然，用它批量生产的内容会不会同质化，或者引发平台的一些限制，这是另一个问题。如果工具让视频制作变得如此简单，那什么样的内容才是真正有价值的？",
-      "tags": [
-        "短视频",
-        "AI生成",
-        "内容创作",
-        "自动化",
-        "效率工具",
-        "Python",
-        "开源",
-        "大模型应用",
-        "工具",
-        "一键生成"
-      ]
-    },
-    {
-      "topic": "技能框架",
-      "repo": "obra/superpowers",
-      "cover_line1": "一个让AI agent生效的框架",
-      "cover_line2": "总星数已超22万",
-      "body": "今天涨势最猛的是这个叫“superpowers”的东西，一天加了1100多颗星，总星数已经22万多了。它不是一个具体的技能，而是一套方法和框架，告诉你怎么给AI编码助手装上各种“技能”，让它能真正按你的工程习惯干活。这就好比，前面的几个技能是具体的招式，这个框架是教你内功心法。它火起来，说明大家开始不满足于只能聊天的AI，想要一个能深度集成到开发流程、能用自己一套规矩干活的AI助手。但框架再好，最后效果还是得看装进去的技能质量。你更愿意用一个集成好的、开箱即用的AI工具，还是愿意花时间用框架自己组装一个更符合自己习惯的？",
-      "tags": [
-        "开发框架",
-        "AI agent",
-        "工程方法",
-        "自动化",
-        "编程助手",
-        "效率",
-        "开源",
+        "容器化",
+        "macOS开发",
+        "Apple Silicon",
+        "Swift",
         "开发工具",
-        "技能市场",
-        "流程优化"
+        "开源",
+        "轻量虚拟机",
+        "DevOps",
+        "苹果生态",
+        "工具"
       ]
     },
     {
-      "topic": "人肉搜索器",
-      "repo": "soxoj/maigret",
-      "cover_line1": "通过用户名查遍全网信息",
-      "cover_line2": "能查3000多个网站",
-      "body": "这个工具在安全圈里挺有名，今天又涨了300多颗星。它的能力很简单也很强大：你给一个用户名，它就能去3000多个不同的网站和服务里查，看这个用户名在哪些平台注册过，把能找到的公开资料汇总成一份报告。这对网络安全调查、了解一个人公开的线上足迹很有用。当然，这种能力是一把双刃剑，用在正道上是排查风险，用在歪道上就是侵犯隐私。项目本身是开源的，代码透明。这种能高效聚合公开信息的工具，它的使用边界到底应该在哪里？",
+      "topic": "AI代理技能包",
+      "repo": "addyosmani/agent-skills",
+      "cover_line1": "给AI代理加技能",
+      "cover_line2": "今日涨3275星",
+      "body": "谷歌Chrome工程师Addy Osmani搞了个叫‘agent-skills’的仓库，今天一下子火了，涨了三千多星。它本质上是一个技能包，或者说，是一套生产级的指令模板，专门给那些能自己写代码的AI代理（比如Devin、Cursor Agent）用的。你把这些技能喂给AI，它就能按规范的流程去完成‘重构代码’、‘写单元测试’、‘分析依赖’这些具体任务，而不是乱来。这解决了AI编程代理落地的一个大痛点：光有能力不行，还得知道怎么规范地、可靠地使用能力。现在总星数已经超过5.4万，说明大家苦于AI代理的输出质量不稳定久矣。这套技能像给AI上的岗前培训课。不过，如果AI真的学会了所有人类工程师的‘最佳实践’，它会不会开始觉得我们的代码写得太烂了？",
       "tags": [
-        "OSINT",
-        "网络安全",
-        "信息收集",
+        "AI代理",
+        "编码助手",
+        "开发效率",
+        "软件工程",
+        "技能库",
+        "提示工程",
+        "开发者工具",
+        "自动化",
+        "谷歌",
+        "趋势"
+      ]
+    },
+    {
+      "topic": "代理技能框架",
+      "repo": "obra/superpowers",
+      "cover_line1": "AI代理技能框架",
+      "cover_line2": "总星22万+",
+      "body": "今天在GitHub上看到一个惊人的数字：一个叫superpowers的仓库，总星数达到了22万4千多。它定义自己是一套给AI代理用的技能框架和开发方法论。和简单扔一堆指令不同，它更强调一种工程化的、可扩展的方式来构建和训练AI代理，让它具备持续解决复杂任务的能力。它和前面提到的agent-skills有点像，但更偏重‘系统’和‘方法’，不只是单个技能。一天涨了1300多星，热度很高。这个数字背后反映出，大家不再满足于让AI写个函数，而是想构建能系统性干活的AI助手。从工程角度看，把AI代理的能力模块化、标准化管理，确实是让它变得可靠、可预测的关键一步。但22万颗星里，有多少人是真在用这套框架，还是只是随手点个收藏？",
+      "tags": [
+        "AI代理框架",
+        "开发方法论",
+        "软件开发",
+        "工程化",
+        "开源框架",
+        "自动化编程",
+        "技能管理",
+        "高星项目",
+        "趋势",
+        "工具链"
+      ]
+    },
+    {
+      "topic": "AI提示词合集",
+      "repo": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "cover_line1": "AI工具提示词合集",
+      "cover_line2": "总星近14万",
+      "body": "这个叫‘system-prompts-and-models-of-ai-tools’的仓库，像个档案馆，收集了市面上几乎所有主流AI编程工具的系统提示词和内部工具信息。包括Cursor、Claude Code、Devin、Windsurf这些你能叫上名的。系统提示词就是AI工具启动时读的第一段话，决定了它的性格、能力和行为边界。研究这个，能让你知道这些工具是怎么被‘设计’和‘调教’的，比如Cursor是怎么理解你的项目结构的，Devin是怎么规划任务的。仓库总星数逼近14万，说明大家对AI黑盒内部如何工作充满了好奇。这相当于把各家的‘设计蓝图’摊开来看。不过，AI公司看到自己的核心提示词被这么公开分析，心里会怎么想？",
+      "tags": [
+        "系统提示词",
+        "AI工具",
+        "Cursor",
+        "Claude",
         "开源情报",
-        "用户名搜索",
-        "隐私",
-        "Python",
-        "开源",
-        "调查工具",
-        "公开数据"
+        "逆向工程",
+        "开发工具",
+        "黑盒揭秘",
+        "高星",
+        "技术档案"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-11/trending/summary.png",
-    "assets/2026-06-11/trending/post1.png",
-    "assets/2026-06-11/trending/post2.png",
-    "assets/2026-06-11/trending/post3.png",
-    "assets/2026-06-11/trending/post4.png"
+    "assets/2026-06-12/trending/summary.png",
+    "assets/2026-06-12/trending/post1.png",
+    "assets/2026-06-12/trending/post2.png",
+    "assets/2026-06-12/trending/post3.png",
+    "assets/2026-06-12/trending/post4.png"
   ]
 }
