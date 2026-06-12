@@ -1,89 +1,89 @@
 {
-  "date": "2026-06-11",
+  "date": "2026-06-12",
   "posts": [
     {
-      "topic": "Cybersecurity resear",
-      "cover_line1": "Cybersecur",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable**\n\n📌 来源：HackerNews\n🔗 https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/\n\n关注我，每天第一时间 AI 动态 👇",
+      "topic": "Anthropic道歉",
+      "cover_line1": "Anthropic就Claude护栏问题道歉",
+      "cover_line2": "隐形防护栏被用户测试揪出",
+      "body": "Anthropic为自家模型Claude的一个‘隐形护栏’道了歉。事情是这样的，他们之前悄悄给Claude加了一层防护机制，官方名字叫‘Fable’，目的是防止模型被滥用或者产生有害内容。但问题在于，这层防护是‘隐形’的——用户完全不知道它的存在，更不知道它的具体规则是什么。直到有技术用户通过反复测试，像是在跟模型玩一个找边界的游戏，才把这层隐藏的规则给‘钓’了出来并公之于众。社区一下就炸了，大家觉得这不透明。公司在今天正式道歉，承认处理方式不当，承诺未来会更公开。这件事的核心争议不是该不该有护栏，而是护栏本身是否该让用户看不见。安全措施若变成了‘黑箱’，用户就失去了知情权和判断权，也容易引发信任危机。一个追求安全的公司，在设计安全功能时，该如何在‘有效防护’和‘用户透明’之间找到那个平衡点呢？",
       "tags": [
-        "AI",
-        "人工智能",
-        "大模型",
-        "科技",
-        "每日热点",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "Anthropic",
+        "Claude",
+        "AI安全",
+        "模型护栏",
+        "透明度",
+        "用户测试",
+        "伦理",
+        "公司道歉",
+        "信任",
+        "隐藏功能"
       ]
     },
     {
-      "topic": "Anthropic requires 3",
-      "cover_line1": "Anthropic ",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Anthropic requires 30 day data retention for Fable and Mythos**\n\n📌 来源：HackerNews\n🔗 https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models\n\n关注我，每天第一时间 AI 动态 👇",
+      "topic": "AI打万智牌",
+      "cover_line1": "AI打万智牌有了标准测试",
+      "cover_line2": "MTG Bench评估LLM策略水平",
+      "body": "想知道现在的大语言模型有多会打牌吗？一个叫MTG Bench的新基准测试，专门用来考LLM玩《万智牌》的水平。测试不是让AI简单读牌面说明，而是模拟真实对局中的复杂决策：选牌组、算概率、预测对手、执行战术。这和下围棋不一样，万智牌有海量的随机性和隐藏信息，更接近人类在不确定环境里做决策的样子。目前看，顶尖模型在复杂策略和长期规划上还是露怯，但已经展现出不错的规则理解和即时反应。这个测试的意义在于，它提供了一个比做题更鲜活的场景，来观察AI的‘通用’策略能力到底长到哪一步了。当AI连卡牌游戏都能玩明白时，它离理解人类那些更微妙、更模糊的决策场景还有多远？",
       "tags": [
-        "AI",
+        "LLM",
+        "基准测试",
+        "MTG Bench",
+        "万智牌",
+        "策略游戏",
         "人工智能",
-        "大模型",
-        "科技",
-        "每日热点",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "决策能力",
+        "复杂系统",
+        "实验评估",
+        "能力边界"
       ]
     },
     {
-      "topic": "L'Affaire Siloxane",
-      "cover_line1": "L'Affaire ",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**L'Affaire Siloxane**\n\n📌 来源：HackerNews\n🔗 https://mceglowski.substack.com/p/laffaire-siloxane\n\n关注我，每天第一时间 AI 动态 👇",
+      "topic": "AI核战争游戏",
+      "cover_line1": "AI玩核威慑博弈游戏",
+      "cover_line2": "测试模型在战略冲突中的表现",
+      "body": "有一群研究者做了一个很硬核的测试：让AI模型玩一个模拟核战争的游戏，看看它们在极限战略压力下会怎么决策。游戏设置了典型的威慑情景，比如是否要首先发动攻击，是否要进行报复。结果发现，不同模型展现出截然不同的‘性格’：有的极度保守，绝不冒险；有的则表现出攻击性，倾向于先发制人。最有意思的是，当研究者用语言提示（比如‘你是一个国家领导人，必须维护国家安全’）去引导时，AI的行为会发生显著偏移。这其实是在叩问一个根本问题：我们训出来的AI，它底层的‘决策逻辑’到底是什么？它能从人类历史和数据中学到‘避免冲突’的智慧，还是仅仅学会了‘以更高效的方式达成目标’？当AI开始处理涉及生死的战略问题时，它的‘价值观’是被谁，又如何塑造的？",
       "tags": [
-        "AI",
-        "人工智能",
-        "大模型",
-        "科技",
-        "每日热点",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "AI安全",
+        "战略博弈",
+        "核威慑",
+        "模拟游戏",
+        "决策逻辑",
+        "模型行为",
+        "价值对齐",
+        "风险",
+        "语言模型",
+        "实验"
       ]
     },
     {
-      "topic": "Deficient executive ",
-      "cover_line1": "Deficient ",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Deficient executive control in transformer attention**\n\n📌 来源：HackerNews\n🔗 https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838\n\n关注我，每天第一时间 AI 动态 👇",
+      "topic": "空气取水夹克",
+      "cover_line1": "夹克能从空气里收集饮用水",
+      "cover_line2": "材料学进步可能影响AI硬件",
+      "body": "德州大学奥斯汀分校的研究人员做了一件挺酷的夹克，它能直接从潮湿的空气里收集并过滤出饮用水。这靠的是一种新型多孔材料，能高效吸附空气中的水分子，然后通过轻微加热或挤压释放出来。你穿着它活动，身体热量和空气流动就能辅助这个过程。虽然这乍一看和AI不直接相关，但它背后是材料科学的硬核突破。这种能与环境高效交互的新型材料，未来很可能用在更前沿的AI硬件上。比如，给运行大模型的服务器散热，或者制造能感知并适应环境的智能穿戴设备，甚至为野外工作的AI机器人提供基础生存资源。技术突破往往从不同领域意外交汇。当我们在为AI的算力绞尽脑汁时，有没有想过，下一代计算范式（比如神经形态计算）所需的硬件，其突破点可能就藏在一件取水夹克的材料科学里？",
       "tags": [
-        "AI",
-        "人工智能",
-        "大模型",
-        "科技",
-        "每日热点",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "材料科学",
+        "硬件创新",
+        "可穿戴设备",
+        "仿生学",
+        "跨学科",
+        "环境交互",
+        "智能材料",
+        "未来技术",
+        "基础研究",
+        "灵感"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-11/cover1.png",
-    "assets/2026-06-11/cover2.png",
-    "assets/2026-06-11/cover3.png",
-    "assets/2026-06-11/cover4.png"
+    "assets/2026-06-12/cover1.png",
+    "assets/2026-06-12/cover2.png",
+    "assets/2026-06-12/cover3.png",
+    "assets/2026-06-12/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-06-11/cover1_feishu.png",
-    "assets/2026-06-11/cover2_feishu.png",
-    "assets/2026-06-11/cover3_feishu.png",
-    "assets/2026-06-11/cover4_feishu.png"
+    "assets/2026-06-12/cover1_feishu.png",
+    "assets/2026-06-12/cover2_feishu.png",
+    "assets/2026-06-12/cover3_feishu.png",
+    "assets/2026-06-12/cover4_feishu.png"
   ]
 }
