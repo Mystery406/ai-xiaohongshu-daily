@@ -7,48 +7,48 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
-      "stars_today": "2,660 stars today",
-      "stars_total": "56,469"
+      "stars_today": "2,656 stars today",
+      "stars_total": "56,757"
     },
     {
       "name": "music-assistant/server",
       "url": "https://github.com/music-assistant/server",
       "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
       "language": "Python",
-      "stars_today": "6 stars today",
-      "stars_total": "1,682"
+      "stars_today": "20 stars today",
+      "stars_total": "1,773"
     },
     {
       "name": "mattermost/mattermost",
       "url": "https://github.com/mattermost/mattermost",
       "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
       "language": "TypeScript",
-      "stars_today": "391 stars today",
-      "stars_total": "37,541"
+      "stars_today": "388 stars today",
+      "stars_total": "37,621"
     },
     {
       "name": "apple/container",
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars_today": "3,513 stars today",
-      "stars_total": "34,657"
+      "stars_today": "3,504 stars today",
+      "stars_total": "35,052"
     },
     {
       "name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_today": "142 stars today",
-      "stars_total": "117,868"
+      "stars_today": "179 stars today",
+      "stars_total": "118,021"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,276 stars today",
-      "stars_total": "225,777"
+      "stars_today": "1,275 stars today",
+      "stars_total": "225,982"
     },
     {
       "name": "refactoringhq/tolaria",
@@ -56,31 +56,31 @@
       "description": "Desktop app to manage markdown knowledge bases",
       "language": "TypeScript",
       "stars_today": "369 stars today",
-      "stars_total": "15,646"
+      "stars_total": "15,754"
     },
     {
       "name": "maziyarpanahi/openmed",
       "url": "https://github.com/maziyarpanahi/openmed",
       "description": "open-source healthcare ai",
       "language": "Python",
-      "stars_today": "517 stars today",
-      "stars_total": "3,114"
+      "stars_today": "515 stars today",
+      "stars_total": "3,183"
     },
     {
       "name": "LMCache/LMCache",
       "url": "https://github.com/LMCache/LMCache",
       "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
       "language": "Python",
-      "stars_today": "17 stars today",
-      "stars_total": "8,558"
+      "stars_today": "28 stars today",
+      "stars_total": "8,630"
     },
     {
       "name": "phuryn/pm-skills",
       "url": "https://github.com/phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "language": "",
-      "stars_today": "823 stars today",
-      "stars_total": "16,806"
+      "stars_today": "827 stars today",
+      "stars_total": "16,966"
     }
   ],
   "ai_repos": [
@@ -89,133 +89,133 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
-      "stars_today": "2,660 stars today",
-      "stars_total": "56,469"
+      "stars_today": "2,656 stars today",
+      "stars_total": "56,757"
     },
     {
       "name": "apple/container",
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars_today": "3,513 stars today",
-      "stars_total": "34,657"
+      "stars_today": "3,504 stars today",
+      "stars_total": "35,052"
     },
     {
       "name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_today": "142 stars today",
-      "stars_total": "117,868"
+      "stars_today": "179 stars today",
+      "stars_total": "118,021"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,276 stars today",
-      "stars_total": "225,777"
+      "stars_today": "1,275 stars today",
+      "stars_total": "225,982"
     },
     {
       "name": "maziyarpanahi/openmed",
       "url": "https://github.com/maziyarpanahi/openmed",
       "description": "open-source healthcare ai",
       "language": "Python",
-      "stars_today": "517 stars today",
-      "stars_total": "3,114"
+      "stars_today": "515 stars today",
+      "stars_total": "3,183"
     },
     {
       "name": "LMCache/LMCache",
       "url": "https://github.com/LMCache/LMCache",
       "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
       "language": "Python",
-      "stars_today": "17 stars today",
-      "stars_total": "8,558"
+      "stars_today": "28 stars today",
+      "stars_total": "8,630"
     },
     {
       "name": "phuryn/pm-skills",
       "url": "https://github.com/phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "language": "",
-      "stars_today": "823 stars today",
-      "stars_total": "16,806"
+      "stars_today": "827 stars today",
+      "stars_total": "16,966"
     }
   ],
   "posts": [
     {
-      "topic": "苹果容器工具",
-      "repo": "apple/container",
-      "cover_line1": "苹果出 Linux 容器工具",
-      "cover_line2": "Swift 写的，优化 M 芯片",
-      "body": "苹果把一个容器工具开源了，名字就叫 container。它让你在 Mac 上用轻量虚拟机跑 Linux 容器。之前在 Mac 上用 Docker 跑容器，总得通过一层虚拟化，感觉有点绕。这个新工具用 Swift 写，专门为 Apple silicon 优化，目标是更原生、更高效。它不需要 Docker Desktop 那样复杂的后台，用命令行直接操作。核心思路是，利用 macOS 的虚拟化框架创建一个微型 Linux 环境，然后在里面运行容器镜像。今天一天就涨了三千多星，说明很多 Mac 开发者受够了旧方案。它现在功能还比较基础，但方向很清楚：让容器在 Mac 上像原生应用一样跑。如果你的工作流里重度依赖 Linux 容器，这值得试试。你觉得传统的虚拟机方案在开发里最烦人的一点是什么？",
-      "tags": [
-        "Swift",
-        "容器",
-        "苹果",
-        "Mac",
-        "开发工具",
-        "Linux",
-        "虚拟化",
-        "Apple Silicon",
-        "开源",
-        "命令行工具"
-      ]
-    },
-    {
-      "topic": "AI编程技能包",
+      "topic": "agent-skills",
       "repo": "addyosmani/agent-skills",
-      "cover_line1": "AI 编程代理的技能包",
-      "cover_line2": "Addy Osmani 出品，50 多个",
-      "body": "谷歌 Chrome 团队的 Addy Osmani 搞了个东西，叫 agent-skills。它是一套给 AI 编程代理用的现成技能，比如怎么写代码、怎么调试、怎么跑测试。这解决了一个现实问题：你让一个 AI 帮你写代码，光有大脑（模型）不够，还得有具体的手艺（技能）。这个项目里打包了 50 多个生产环境里常用的工程技能，用 Shell 脚本和简单配置描述。比如“修复一个 flaky 测试”或者“实现一个新的 API 端点”，每个技能都定义了清晰的步骤和检查点。AI 代理拿到这些技能，就像程序员拿到了操作手册，知道一步一步该怎么干。今天一天涨了两千多星，大家都觉得这东西实在。它让 AI 编程从“你随便写写”变成了“你按这个标准流程写”。你觉得 AI 编程助手要真正可靠，最重要的一个技能是什么？",
+      "cover_line1": "agent-skil",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**addyosmani/agent-skills**\n\n📌 Production-grade engineering skills for AI coding agents.\n\n🔗 https://github.com/addyosmani/agent-skills\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "AI 编程",
-        "代理技能",
-        "工程实践",
-        "自动化",
-        "开发工具",
-        "Shell",
-        "谷歌",
-        "代码生成",
-        "测试",
-        "生产力"
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "代理技能框架",
+      "topic": "container",
+      "repo": "apple/container",
+      "cover_line1": "container",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**apple/container**\n\n📌 A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.\n\n🔗 https://github.com/apple/container\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "iptv",
+      "repo": "iptv-org/iptv",
+      "cover_line1": "iptv",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**iptv-org/iptv**\n\n📌 Collection of publicly available IPTV channels from all over the world\n\n🔗 https://github.com/iptv-org/iptv\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "superpowers",
       "repo": "obra/superpowers",
-      "cover_line1": "代理技能开发框架和方法",
-      "cover_line2": "总星 22.5 万的社区方法",
-      "body": "obra/superpowers 这个项目火了有一阵子了，总星数超过 22 万。它不只是一个工具，更像一套方法论，告诉你怎么给 AI 代理设计和集成技能。你可以把它想成一本菜谱，教你怎么把“写单元测试”或者“部署服务”这种能力，变成 AI 能理解和执行的标准化模块。它强调的是一种开发 AI 代理的软件工程方法，让技能可组合、可复用。项目里包含了很多现成的技能脚本，从简单的文件操作到复杂的代码重构都有。它的核心价值在于把“代理该怎么做事情”这件事系统化了，而不是每次临时起意。对于想构建自己 AI 助手的团队来说，这套方法能省掉大量重复造轮子的时间。它今天又涨了一千多星，说明社区认可这套实践。如果让你给 AI 代理设计一个技能，你会从哪个日常任务开始？",
+      "cover_line1": "superpower",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**obra/superpowers**\n\n📌 An agentic skills framework & software development methodology that works.\n\n🔗 https://github.com/obra/superpowers\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "框架",
-        "方法论",
-        "代理技能",
-        "AI 开发",
-        "软件工程",
-        "自动化",
-        "可复用",
-        "Shell",
-        "脚本",
-        "开发流程"
-      ]
-    },
-    {
-      "topic": "产品经理技能市场",
-      "repo": "phuryn/pm-skills",
-      "cover_line1": "产品经理的 AI 技能市场",
-      "cover_line2": "100 多个技能覆盖全流程",
-      "body": "phuryn/pm-skills 瞄准了一个更垂直的领域：给产品经理用的 AI 代理技能。它弄了一个技能市场，里面有 100 多个现成的技能、命令和插件。这些技能覆盖了产品经理工作的全流程，从市场发现、战略制定，到执行落地、用户增长。比如，你可以让 AI 代理用“竞品分析”技能自动搜集信息，或者用“PRD 生成”技能快速起草文档。它把产品经理日常的分析、写作、协调动作，都封装成了 AI 可以执行的具体任务。今天涨了八百多星，看来这个需求挺真实。很多产品经理可能不会写代码，但通过这些封装好的技能，他们可以直接指挥 AI 助手干活。这降低了 AI 工具在非技术岗位的使用门槛。你觉得产品经理最希望 AI 自动化的第一个工作环节是什么？",
-      "tags": [
-        "产品经理",
-        "AI 技能",
-        "市场",
-        "自动化",
-        "工作流",
-        "代理",
-        "插件",
-        "非技术",
-        "生产力",
-        "商业"
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     }
   ],
