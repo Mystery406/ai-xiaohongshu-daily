@@ -1,86 +1,86 @@
 {
   "date": "2026-06-14",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
       "name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_today": "650 stars today",
-      "stars_total": "119,067"
+      "stars_today": "1,531 stars today",
+      "stars_total": "120,136"
     },
     {
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "Shell",
-      "stars_today": "1,507 stars today",
-      "stars_total": "58,324"
+      "name": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "stars_today": "114 stars today",
+      "stars_total": "446,982"
+    },
+    {
+      "name": "pytest-dev/pytest",
+      "url": "https://github.com/pytest-dev/pytest",
+      "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
+      "language": "Python",
+      "stars_today": "8 stars today",
+      "stars_total": "13,963"
+    },
+    {
+      "name": "swc-project/swc",
+      "url": "https://github.com/swc-project/swc",
+      "description": "Rust-based platform for the Web",
+      "language": "Rust",
+      "stars_today": "163 stars today",
+      "stars_total": "33,730"
     },
     {
       "name": "chatwoot/chatwoot",
       "url": "https://github.com/chatwoot/chatwoot",
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
-      "stars_today": "86 stars today",
-      "stars_total": "30,840"
+      "stars_today": "399 stars today",
+      "stars_total": "31,087"
     },
     {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "931 stars today",
-      "stars_total": "226,907"
-    },
-    {
-      "name": "apple/container",
-      "url": "https://github.com/apple/container",
-      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "language": "Swift",
-      "stars_today": "1,471 stars today",
-      "stars_total": "36,270"
-    },
-    {
-      "name": "music-assistant/server",
-      "url": "https://github.com/music-assistant/server",
-      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+      "name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
       "language": "Python",
-      "stars_today": "277 stars today",
-      "stars_total": "1,998"
+      "stars_today": "962 stars today",
+      "stars_total": "4,963"
     },
     {
-      "name": "kenn-io/agentsview",
-      "url": "https://github.com/kenn-io/agentsview",
-      "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
-      "language": "Go",
-      "stars_today": "187 stars today",
-      "stars_total": "2,355"
+      "name": "meshery/meshery",
+      "url": "https://github.com/meshery/meshery",
+      "description": "Meshery, the cloud native manager",
+      "language": "TypeScript",
+      "stars_today": "45 stars today",
+      "stars_total": "10,322"
     },
     {
-      "name": "LMCache/LMCache",
-      "url": "https://github.com/LMCache/LMCache",
-      "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
-      "language": "Python",
-      "stars_today": "246 stars today",
-      "stars_total": "8,883"
+      "name": "cypress-io/cypress",
+      "url": "https://github.com/cypress-io/cypress",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "language": "TypeScript",
+      "stars_today": "7 stars today",
+      "stars_total": "49,819"
     },
     {
-      "name": "microsoft/PowerToys",
-      "url": "https://github.com/microsoft/PowerToys",
-      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
-      "language": "C",
-      "stars_today": "374 stars today",
-      "stars_total": "134,658"
+      "name": "GorvGoyl/Clone-Wars",
+      "url": "https://github.com/GorvGoyl/Clone-Wars",
+      "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
+      "language": "",
+      "stars_today": "337 stars today",
+      "stars_total": "35,178"
     },
     {
-      "name": "andrewyng/aisuite",
-      "url": "https://github.com/andrewyng/aisuite",
-      "description": "Simple, unified interface to multiple Generative AI providers",
-      "language": "Python",
-      "stars_today": "132 stars today",
-      "stars_total": "14,096"
+      "name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "description": "Introduction to Autonomous Robots",
+      "language": "TeX",
+      "stars_today": "276 stars today",
+      "stars_total": "2,532"
     }
   ],
   "ai_repos": [
@@ -89,141 +89,57 @@
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_today": "650 stars today",
-      "stars_total": "119,067"
-    },
-    {
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "Shell",
-      "stars_today": "1,507 stars today",
-      "stars_total": "58,324"
+      "stars_today": "1,531 stars today",
+      "stars_total": "120,136"
     },
     {
       "name": "chatwoot/chatwoot",
       "url": "https://github.com/chatwoot/chatwoot",
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
-      "stars_today": "86 stars today",
-      "stars_total": "30,840"
+      "stars_today": "399 stars today",
+      "stars_total": "31,087"
     },
     {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "931 stars today",
-      "stars_total": "226,907"
-    },
-    {
-      "name": "apple/container",
-      "url": "https://github.com/apple/container",
-      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "language": "Swift",
-      "stars_today": "1,471 stars today",
-      "stars_total": "36,270"
-    },
-    {
-      "name": "kenn-io/agentsview",
-      "url": "https://github.com/kenn-io/agentsview",
-      "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
-      "language": "Go",
-      "stars_today": "187 stars today",
-      "stars_total": "2,355"
-    },
-    {
-      "name": "LMCache/LMCache",
-      "url": "https://github.com/LMCache/LMCache",
-      "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+      "name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
       "language": "Python",
-      "stars_today": "246 stars today",
-      "stars_total": "8,883"
+      "stars_today": "962 stars today",
+      "stars_total": "4,963"
     },
     {
-      "name": "andrewyng/aisuite",
-      "url": "https://github.com/andrewyng/aisuite",
-      "description": "Simple, unified interface to multiple Generative AI providers",
-      "language": "Python",
-      "stars_today": "132 stars today",
-      "stars_total": "14,096"
+      "name": "GorvGoyl/Clone-Wars",
+      "url": "https://github.com/GorvGoyl/Clone-Wars",
+      "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
+      "language": "",
+      "stars_today": "337 stars today",
+      "stars_total": "35,178"
     }
   ],
   "posts": [
     {
-      "topic": "AI代理工程技能",
-      "repo": "addyosmani/agent-skills",
-      "cover_line1": "给AI编码代理的工程技能",
-      "cover_line2": "一天新增1507星",
-      "body": "你让AI帮你写代码，它交回来的东西能不能直接用到生产环境？这是个大问题。addyosmani的agent-skills项目就在解决这个，它提供了一整套现成的、工程化的实践方法，教AI代理怎么写出更可靠的代码。这套东西不是理论，是从代码生成、测试、部署到监控的完整闭环。今天突然火了，一天就拿到一千五百多个星，说明大家都被AI写的代码折磨过，急需这种能把AI「管」起来的规矩。它就像给AI代理发了一本《工程师入职手册》，里面写满了怎么检查错误、怎么处理边界情况、怎么保持代码整洁这些具体操作。现在问题来了：你觉得自己团队里，是先有人去摸索这些技能，还是直接用这样一套已有的框架更靠谱？",
+      "topic": "AI安全扫描器",
+      "repo": "NVIDIA/SkillSpector",
+      "cover_line1": "NVIDIA发布AI安全扫描器",
+      "cover_line2": "检测代理漏洞今日962星",
+      "body": "NVIDIA在GitHub上刚放了个新工具叫SkillSpector，专治AI代理的安全毛病。AI代理你肯定不陌生，就是那些能自己执行任务的AI程序，比如自动处理邮件或跑数据的助手。这些代理用多了，安全问题就冒出来了，但很多人压根没当回事。SkillSpector干的事很简单：扫描代理的技能，找出漏洞、恶意代码或者任何可能被黑客利用的风险点。项目今天一下子火了，一天就多了962个星，总星数快到5000了。为啥这么火？因为AI安全这事儿一直被开发者忽略，大家忙着搞功能，忘了加锁。NVIDIA作为AI硬件的老大哥，做这个工具挺靠谱，它能让你在代理上线前就查出毛病，避免数据泄露或者系统崩掉。工具用Python写的，开源免费，上手应该不难。对搞AI开发的人来说，把安全扫描塞进日常流程，可能比出事再补救强得多。你想想，你的AI代理最近一次安全检查是什么时候？",
       "tags": [
-        "AI Agent",
-        "编码规范",
-        "软件工程",
-        "开发工具",
-        "最佳实践",
-        "代码质量",
-        "生产级",
-        "GitHub Trending"
-      ]
-    },
-    {
-      "topic": "代理技能框架",
-      "repo": "obra/superpowers",
-      "cover_line1": "代理技能与开发框架",
-      "cover_line2": "总星超22万，方法成熟",
-      "body": "怎么让AI代理稳定地、可重复地干活，而不是东一榔头西一棒槌？obra的superpowers项目就想系统化解决这件事。它不止是几个工具脚本，而是一整套方法论和框架，把如何训练、部署和管理AI代理的最佳实践给固化下来。你想想，一个团队里，如果每个人训练代理的方式都不一样，出来的效果肯定参差不齐。这个框架提供了统一的模块和流程，让代理开发从手工作坊变成工程。它的总星数已经到了二十二万多，这数字本身就能说明一些问题，说明「系统化管理AI代理」这个需求是真实存在的。它解决的核心问题是：如何把那些偶尔有效的「魔法」，变成团队里每个人都能上手的「技术」。你的团队现在管理AI代理的「技能」，是写在文档里，还是存在某个人的脑子里？",
-      "tags": [
-        "AI框架",
-        "代理管理",
-        "开发方法",
-        "最佳实践",
-        "自动化",
-        "工程化",
-        "代码代理",
-        "软件开发"
-      ]
-    },
-    {
-      "topic": "苹果容器工具",
-      "repo": "apple/container",
-      "cover_line1": "苹果出的Linux容器工具",
-      "cover_line2": "专为苹果芯片优化，一天1471星",
-      "body": "在Mac上跑Docker容器，有时候会觉得有点重，或者跟苹果芯片配合得不够丝滑。现在苹果自己下场了，开源了一个叫container的工具。它专门干一件事：在Mac上用轻量级的虚拟机来创建和运行Linux容器。而且它是用苹果自家的语言Swift写的，对M系列芯片做了优化。今天一天就收获了将近一千五百个星，大家显然是冲着「原生优化」这四个字去的。这工具的目标很明确，就是给你一个更轻、更快、更省资源的本地容器环境，尤其适合开发调试。它不再是简单的兼容层，而是试图提供一种更「苹果式」的体验。不过这也带来一个新问题：当你的开发环境和生产环境（通常是Linux服务器）使用的容器运行时开始分叉，这到底是带来了便利，还是埋下了新的兼容性隐患？",
-      "tags": [
-        "苹果",
-        "容器",
-        "Docker",
-        "macOS",
-        "苹果芯片",
-        "开发环境",
-        "虚拟化",
-        "工具链"
-      ]
-    },
-    {
-      "topic": "代理会话分析",
-      "repo": "kenn-io/agentsview",
-      "cover_line1": "编码代理的本地分析工具",
-      "cover_line2": "比ccusage快100倍，数据本地",
-      "body": "用Claude Code或者Codex这些AI代理写了一天代码，你到底调用了多少次模型？花在哪儿的时间最多？哪些操作最费钱？这些会话数据就像黑盒。kenn-io的agentsview就是一把打开这个黑盒的钥匙。它是一个本地工具，专门分析你的编码代理会话记录，支持Claude Code、Codex等二十多种代理。它主打两点：第一是快，声称比常用的ccusage工具快一百倍；第二是本地运行，你的所有会话数据都留在自己电脑上，不用担心隐私。这意味着你可以快速看清自己的使用习惯，优化提示词，节省开支。它解决的是「用了，但不知道用得怎么样」的痛点。不过，当你拿到这份详尽的报告后，下一步的挑战是：你准备根据这些数据，具体改变自己的哪一条使用习惯？",
-      "tags": [
-        "编码代理",
-        "使用分析",
-        "本地工具",
-        "隐私安全",
-        "Claude Code",
-        "开发效率",
-        "成本优化",
-        "监控"
+        "AI安全",
+        "安全扫描",
+        "NVIDIA",
+        "AI代理",
+        "漏洞检测",
+        "开源工具",
+        "GitHub趋势",
+        "开发者工具",
+        "网络安全",
+        "机器学习"
       ]
     }
   ],
   "image_paths": [
     "assets/2026-06-14/trending/summary.png",
-    "assets/2026-06-14/trending/post1.png",
-    "assets/2026-06-14/trending/post2.png",
-    "assets/2026-06-14/trending/post3.png",
-    "assets/2026-06-14/trending/post4.png"
+    "assets/2026-06-14/trending/post1.png"
   ]
 }
