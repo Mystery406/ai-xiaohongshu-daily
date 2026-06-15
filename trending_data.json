@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-15",
+  "date": "2026-06-16",
   "slot": "早报",
   "all_repos": [
     {
@@ -7,80 +7,80 @@
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_today": "1,528 stars today",
-      "stars_total": "120,858"
+      "stars_today": "2,650 stars today",
+      "stars_total": "122,656"
     },
     {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "language": "TypeScript",
-      "stars_today": "146 stars today",
-      "stars_total": "447,166"
+      "name": "teslamate-org/teslamate",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "language": "Elixir",
+      "stars_today": "35 stars today",
+      "stars_total": "8,191"
     },
     {
-      "name": "pytest-dev/pytest",
-      "url": "https://github.com/pytest-dev/pytest",
-      "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_today": "14 stars today",
-      "stars_total": "14,024"
-    },
-    {
-      "name": "swc-project/swc",
-      "url": "https://github.com/swc-project/swc",
-      "description": "Rust-based platform for the Web",
-      "language": "Rust",
-      "stars_today": "163 stars today",
-      "stars_total": "33,771"
-    },
-    {
-      "name": "chatwoot/chatwoot",
-      "url": "https://github.com/chatwoot/chatwoot",
-      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-      "language": "Ruby",
-      "stars_today": "400 stars today",
-      "stars_total": "31,204"
-    },
-    {
-      "name": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-      "language": "Python",
-      "stars_today": "964 stars today",
-      "stars_total": "5,257"
+      "stars_today": "1,045 stars today",
+      "stars_total": "29,850"
     },
     {
       "name": "meshery/meshery",
       "url": "https://github.com/meshery/meshery",
       "description": "Meshery, the cloud native manager",
       "language": "TypeScript",
-      "stars_today": "20 stars today",
-      "stars_total": "10,395"
+      "stars_today": "227 stars today",
+      "stars_total": "10,580"
     },
     {
-      "name": "cypress-io/cypress",
-      "url": "https://github.com/cypress-io/cypress",
-      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "name": "chatwoot/chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "stars_today": "431 stars today",
+      "stars_total": "31,573"
+    },
+    {
+      "name": "krahets/hello-algo",
+      "url": "https://github.com/krahets/hello-algo",
+      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+      "language": "Java",
+      "stars_today": "95 stars today",
+      "stars_total": "126,834"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
-      "stars_today": "39 stars today",
-      "stars_total": "49,925"
+      "stars_today": "738 stars today",
+      "stars_total": "447,761"
     },
     {
-      "name": "GorvGoyl/Clone-Wars",
-      "url": "https://github.com/GorvGoyl/Clone-Wars",
-      "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
+      "name": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "language": "HTML",
+      "stars_today": "57 stars today",
+      "stars_total": "18,087"
+    },
+    {
+      "name": "jwasham/coding-interview-university",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
       "language": "",
-      "stars_today": "269 stars today",
-      "stars_total": "35,440"
+      "stars_today": "352 stars today",
+      "stars_total": "352,188"
     },
     {
-      "name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
-      "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
-      "description": "Introduction to Autonomous Robots",
-      "language": "TeX",
-      "stars_today": "293 stars today",
-      "stars_total": "2,700"
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars_today": "538 stars today",
+      "stars_total": "32,936"
     }
   ],
   "ai_repos": [
@@ -89,97 +89,133 @@
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_today": "1,528 stars today",
-      "stars_total": "120,858"
+      "stars_today": "2,650 stars today",
+      "stars_total": "122,656"
+    },
+    {
+      "name": "teslamate-org/teslamate",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "language": "Elixir",
+      "stars_today": "35 stars today",
+      "stars_total": "8,191"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars_today": "1,045 stars today",
+      "stars_total": "29,850"
     },
     {
       "name": "chatwoot/chatwoot",
       "url": "https://github.com/chatwoot/chatwoot",
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
-      "stars_today": "400 stars today",
-      "stars_total": "31,204"
+      "stars_today": "431 stars today",
+      "stars_total": "31,573"
     },
     {
-      "name": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "name": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "language": "HTML",
+      "stars_today": "57 stars today",
+      "stars_total": "18,087"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "964 stars today",
-      "stars_total": "5,257"
-    },
-    {
-      "name": "GorvGoyl/Clone-Wars",
-      "url": "https://github.com/GorvGoyl/Clone-Wars",
-      "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
-      "language": "",
-      "stars_today": "269 stars today",
-      "stars_total": "35,440"
+      "stars_today": "538 stars today",
+      "stars_total": "32,936"
     }
   ],
   "posts": [
     {
-      "topic": "AI技能安全扫描器",
-      "repo": "NVIDIA/SkillSpector",
-      "cover_line1": "NVIDIA的AI技能安全扫描器",
-      "cover_line2": "昨天一天涨了964个star",
-      "body": "做AI智能体的人越来越多了，教它们用各种技能（比如调API、读文件）去干活。但这些技能本身安全吗？有没有藏着坏东西？NVIDIA刚开源了一个叫SkillSpector的工具，专门干这个。它像给智能体请的安检员，能自动扫描技能代码，找出里面的安全漏洞和恶意模式。比如，一个技能如果偷偷把你的聊天记录发到别的服务器，它能检测出来。这对开发和部署AI智能体的人特别重要，你总不想给自己造的助理留个后门吧。这个项目昨天一下涨了近千个star，说明大家确实需要这样的安全工具。它用Python写的，可以集成到你现有的开发流程里，在智能体上线前先过一遍检查。想想看，如果每个AI技能在上线前都需要一张安全合格证，整个生态会不会更可靠一点？",
+      "topic": "AI代理上网",
+      "repo": "Panniantong/Agent-Reach",
+      "cover_line1": "给AI代理装上眼睛",
+      "cover_line2": "一条命令看遍推特B站",
+      "body": "想让AI代理帮你刷推、看B站、查GitHub，却卡在各个平台的API申请和费用上？这个项目直接解决这个问题。它提供一套命令行工具，让你能通过Python代码，让AI代理无缝读取和搜索Twitter、Reddit、YouTube、GitHub、B站、小红书这些主流平台的数据，而且完全不需要任何平台API密钥，也就意味着零费用。这对开发需要理解网络动态的AI应用来说，是打开了一个巨大的信息库。想想看，一个研究社交媒体趋势的机器人，或者一个自动追踪技术新闻的助手，现在能轻松拿到全网信息了。这个工具本质是一个高效的网页数据抓取和整理层，它把复杂的反爬和格式转换工作都处理好了，开发者只管调用简单的函数。你接下来会用这个能力让AI代理帮你抓取什么信息？",
       "tags": [
-        "AI安全",
-        "智能体",
-        "漏洞扫描",
-        "NVIDIA",
-        "开源工具",
-        "代码安全",
+        "AI Agent",
+        "爬虫",
+        "CLI工具",
+        "免费API",
+        "社交媒体",
+        "数据抓取",
+        "自动化",
         "Python",
-        "DevSecOps",
-        "AI开发",
-        "安全检测"
+        "开发工具",
+        "网络爬虫"
       ]
     },
     {
-      "topic": "开源客服工具",
+      "topic": "AI电脑操作员",
+      "repo": "trycua/cua",
+      "cover_line1": "AI能自己操作电脑了",
+      "cover_line2": "macOS/Linux/Win桌面全能控",
+      "body": "现在很多AI演示很酷，但让AI在真实电脑上自动点按钮、填表格、用软件，开发起来挺麻烦的。cua这个项目想解决的就是这个‘最后一公里’问题。它提供一整套开源工具，包括一个安全隔离的虚拟机（沙箱）、一套软件开发包（SDK）和一套标准化的测试流程，专门用来训练和评估能操控整个桌面的AI代理。它支持macOS、Linux和Windows三大系统，这意味着开发者可以在统一的环境里，教AI学会操作各种不同系统下的图形界面软件。这对企业自动化流程、开发智能助手或者做复杂的软件测试都有直接价值。项目里内置了基准测试，你可以量化你的AI代理操作电脑到底有多熟练。一个关键问题是：当AI能熟练操作我们所有的办公软件时，工作流会发生什么根本变化？",
+      "tags": [
+        "计算机使用代理",
+        "桌面自动化",
+        "AI代理",
+        "开源工具",
+        "虚拟机",
+        "基准测试",
+        "跨平台",
+        "SDK",
+        "开发框架",
+        "GUI自动化"
+      ]
+    },
+    {
+      "topic": "从零学AI工程",
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "cover_line1": "手把手教你做AI应用",
+      "cover_line2": "从零构建到上线给别人用",
+      "body": "学AI不能只看论文，得动手做能跑起来的产品。这个项目就是一套完整的实操路线图，它的口号‘Learn it. Build it. Ship it for others.’说得很明白：学完知识，立刻动手构建，最终目标是做出能给别人用的东西。它不是那种罗列概念的教程，而是带着你一步步把想法变成可运行的代码和部署好的服务。对于想进入AI工程领域的开发者来说，这提供了一条清晰的路径，省去了自己摸索‘该学什么、怎么用’的时间。项目关注的是工程实践，比如如何集成模型、如何设计接口、如何部署上线这些具体问题。今天获得538颗星，说明很多人需要这种‘从学到用’的平滑过渡。你手头有没有一个AI点子，正好卡在不知道怎么把它工程化实现？",
+      "tags": [
+        "AI工程",
+        "学习教程",
+        "实战项目",
+        "开发路线",
+        "机器学习",
+        "模型部署",
+        "从零开始",
+        "工程实践",
+        "编程教学",
+        "在线学习"
+      ]
+    },
+    {
+      "topic": "开源客服系统",
       "repo": "chatwoot/chatwoot",
-      "cover_line1": "开源客服工具替代Intercom",
-      "cover_line2": "昨天新增400个star",
-      "body": "如果你正在为公司找客服系统，但觉得Intercom或Zendesk太贵，Chatwoot是个值得看看的开源选择。它是个全能客服台，能在一个界面里处理网页在线聊天、邮件、社交媒体等多种渠道来的客户消息，相当于一个开源的“客服中心”。你可以自己部署在服务器上，完全掌控数据，也能根据需要定制功能。它用Ruby on Rails写的，社区挺活跃，昨天又涨了400个star，总星数超过三万。对于创业公司或者预算有限但又想要专业客服体验的团队来说，这类开源方案能把软件成本砍掉一大截。不过，自建系统也意味着你得自己负责运维和更新。一个有趣的问题是：随着这类开源客服工具的功能越来越完善，传统商业SaaS客服软件的护城河还剩下多少？",
+      "cover_line1": "自己搭一个客服台",
+      "cover_line2": "替代Intercom的开源选择",
+      "body": "需要一个客服系统，但不想用昂贵的Intercom或Zendesk？Chatwoot就是一个成熟的开源替代方案。它能把你的网站在线聊天、邮件、社交媒体消息等各种客户沟通渠道，都整合到一个统一的后台里进行管理。这意味着你的客服团队在一个地方就能回复来自不同平台的所有客户问题，效率会高很多。作为一个已经获得31，500多颗星的项目，它的稳定性和功能完整性经过了大量用户的验证。今天又有431颗星的增长，说明持续有新的团队在采用它。对于中小公司或者技术团队来说，自建和定制化这样一个系统，既能控制成本和数据，又能获得比标准化SaaS产品更大的灵活性。一个现实的选择是：你的业务规模和对数据自主权的要求，到了哪个点，更适合从使用SaaS转向自建这样的开源系统？",
       "tags": [
+        "开源软件",
         "客服系统",
-        "开源",
-        "在线聊天",
-        "Intercom替代",
-        "Ruby",
-        "全渠道",
-        "客户支持",
         "SaaS替代",
-        "降低成本",
-        "自部署"
-      ]
-    },
-    {
-      "topic": "开源网站克隆大全",
-      "repo": "GorvGoyl/Clone-Wars",
-      "cover_line1": "100多个流行网站的开源克隆",
-      "cover_line2": "提供源码、演示和星数",
-      "body": "想做个像Airbnb的民宿平台，或者模仿Spotify的音乐应用，但不知道从哪下手？GitHub上有个叫Clone-Wars的仓库，整理了一百多个知名网站和应用的开源克隆项目。每个条目都附有源码链接、在线演示地址、用到的技术栈，还有GitHub上的星数，方便你评估项目质量。这不是教你抄作业，而是帮你快速学习。比如，你想理解一个电商平台的前端怎么构建，直接看它的开源实现比读教程快得多。它也帮你验证技术选型，看看主流项目都用了哪些框架。对于独立开发者或小团队，这相当于一个现成的“技术方案参考库”，能省下大量调研和踩坑的时间。但当你借鉴这些克隆项目的架构时，怎么避免在解决旧问题的同时，又引入了新的、属于自己的设计缺陷呢？",
-      "tags": [
-        "开源项目",
-        "学习资源",
-        "网站克隆",
-        "技术栈",
-        "GitHub",
-        "项目参考",
-        "独立开发",
-        "代码学习",
-        "全栈开发",
-        "架构参考"
+        "多渠道",
+        "在线聊天",
+        "客户支持",
+        "Ruby",
+        "自托管",
+        "企业软件",
+        "通信"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-15/trending/summary.png",
-    "assets/2026-06-15/trending/post1.png",
-    "assets/2026-06-15/trending/post2.png",
-    "assets/2026-06-15/trending/post3.png"
+    "assets/2026-06-16/trending/summary.png",
+    "assets/2026-06-16/trending/post1.png",
+    "assets/2026-06-16/trending/post2.png",
+    "assets/2026-06-16/trending/post3.png",
+    "assets/2026-06-16/trending/post4.png"
   ]
 }
