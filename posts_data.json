@@ -1,89 +1,89 @@
 {
-  "date": "2026-06-14",
+  "date": "2026-06-15",
   "posts": [
     {
-      "topic": "Amazon触发Anthropic监管",
-      "cover_line1": "Amazon CEO 谈话引 Anthropic 被查",
-      "cover_line2": "美国官员介入模型审查",
-      "body": "Amazon的CEO和美国政府官员开了个会，结果Anthropic的AI模型被官方盯上了。华尔街日报报道说，这次谈话直接触发了对Anthropic模型的审查。Anthropic是那家做Claude的公司，估值好几百亿，亚马逊投了钱进去。现在美国官员觉得这些模型可能有安全风险，得查清楚。具体来说，他们担心模型会不会被滥用，或者有没有潜在危害。这事的影响挺大，因为Anthropic的模型在很多产品里都用得到，如果被限制，整个AI行业都得调整。而且这可能是政府开始对AI动真格的信号，以前只是说说，现在真动手了。你猜这次审查会让Anthropic的模型更安全，还是会拖慢AI的进步？",
+      "topic": "Rio de Janeiro's \"ho",
+      "cover_line1": "Rio de Jan",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model**\n\n📌 来源：HackerNews\n🔗 https://github.com/nex-agi/Nex-N2/issues/4\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "AI监管",
-        "Anthropic",
-        "Amazon",
-        "美国政策",
-        "模型安全",
-        "企业责任",
-        "科技新闻",
+        "AI",
         "人工智能",
-        "政府干预",
-        "模型审查"
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "警察AI伪造证据",
-      "cover_line1": "警察用AI捏造证据被查",
-      "cover_line2": "多起案件牵涉AI滥用",
-      "body": "英国一个警察被调查了，因为他用AI生成假证据，还牵扯到好几个案子。Sky News报道说，这位警察用AI工具来“创造证据”，可能影响了司法公正。AI本来能帮人干活，但现在成了造假工具，这太吓人了。具体细节是，他可能用AI生成图像或文件，然后当成真证据提交。警方已经启动调查，要看看到底有多少案子受影响。这说明AI在执法领域用不好会出大乱子，普通人可能因此蒙冤。而且这事提醒大家，AI技术滥用比想象中容易。你觉得AI在司法系统里应该被严格限制，还是靠警察自己自律？",
+      "topic": "The Jqwik Anti-AI Af",
+      "cover_line1": "The Jqwik ",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**The Jqwik Anti-AI Affair**\n\n📌 来源：HackerNews\n🔗 https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "AI滥用",
-        "执法",
-        "伦理",
-        "证据伪造",
-        "警察调查",
-        "人工智能风险",
-        "社会影响",
-        "科技伦理",
-        "法律问题",
-        "公共安全"
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "AI工具融资后存档",
-      "cover_line1": "TensorZero融730万后存档",
-      "cover_line2": "一夜之间项目仓库变只读",
-      "body": "一个叫TensorZero的AI开源工具，刚融了730万美元的种子轮，结果第二天GitHub仓库就存档了，代码不能再改。HackerNews上很多人讨论这事，分数234。TensorZero是帮开发者优化AI模型的工具，本来挺有潜力，但突然关门，大家猜是不是内部出了问题，或者投资者施压。开源项目融到钱后关掉，对社区打击很大，用户可能得自己找替代品。具体来说，仓库状态从活跃变成只读，意味着项目暂停或结束。这反映了AI创业的高风险，钱来了也可能瞬间蒸发。如果AI工具突然消失，开发者该怎么办，是自建还是依赖大公司？",
+      "topic": "Did Anthropic ask fo",
+      "cover_line1": "Did Anthro",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Did Anthropic ask for this?**\n\n📌 来源：HackerNews\n🔗 https://www.verysane.ai/p/did-anthropic-ask-for-this\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "开源AI",
-        "融资",
-        "项目存档",
-        "TensorZero",
-        "开发者工具",
-        "创业风险",
-        "科技投资",
-        "代码仓库",
-        "项目管理",
-        "开源社区"
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "在家AI编码省钱",
-      "cover_line1": "在家用AI编码不破产",
-      "cover_line2": "实用技巧省下大笔开销",
-      "body": "有人写了篇博客，教你怎么在家用AI写代码而不花太多钱。文章说，AI编码工具像Copilot收费不低，但用对了方法能省很多。比如，选便宜的云服务，或者用本地模型跑推理。具体技巧包括优化提示词减少调用次数，或者结合免费工具混合使用。这对个人开发者或小团队很有用，因为AI资源费可能烧光预算。作者分享了自己的经历，从每月几百美元降到几十美元。这说明AI不是富人专属，普通人也能玩转。结尾一个真问题：你觉得AI编码工具的价格会越来越亲民，还是最终只有大公司用得起？",
+      "topic": "AI is code – and can",
+      "cover_line1": "AI is code",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**AI is code – and can't be prompted into being smarter**\n\n📌 来源：HackerNews\n🔗 https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "AI编码",
-        "成本节约",
-        "开发者工具",
-        "家庭工作",
-        "经济性",
-        "编程技巧",
-        "AI应用",
-        "软件开发",
-        "个人项目",
-        "预算管理"
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-14/cover1.png",
-    "assets/2026-06-14/cover2.png",
-    "assets/2026-06-14/cover3.png",
-    "assets/2026-06-14/cover4.png"
+    "assets/2026-06-15/cover1.png",
+    "assets/2026-06-15/cover2.png",
+    "assets/2026-06-15/cover3.png",
+    "assets/2026-06-15/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-06-14/cover1_feishu.png",
-    "assets/2026-06-14/cover2_feishu.png",
-    "assets/2026-06-14/cover3_feishu.png",
-    "assets/2026-06-14/cover4_feishu.png"
+    "assets/2026-06-15/cover1_feishu.png",
+    "assets/2026-06-15/cover2_feishu.png",
+    "assets/2026-06-15/cover3_feishu.png",
+    "assets/2026-06-15/cover4_feishu.png"
   ]
 }
