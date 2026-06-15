@@ -1,30 +1,30 @@
 {
-  "date": "2026-06-14",
-  "slot": "晚报",
+  "date": "2026-06-15",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_today": "1,531 stars today",
-      "stars_total": "120,136"
+      "stars_today": "1,528 stars today",
+      "stars_total": "120,858"
     },
     {
       "name": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
-      "stars_today": "114 stars today",
-      "stars_total": "446,982"
+      "stars_today": "146 stars today",
+      "stars_total": "447,166"
     },
     {
       "name": "pytest-dev/pytest",
       "url": "https://github.com/pytest-dev/pytest",
       "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
       "language": "Python",
-      "stars_today": "8 stars today",
-      "stars_total": "13,963"
+      "stars_today": "14 stars today",
+      "stars_total": "14,024"
     },
     {
       "name": "swc-project/swc",
@@ -32,55 +32,55 @@
       "description": "Rust-based platform for the Web",
       "language": "Rust",
       "stars_today": "163 stars today",
-      "stars_total": "33,730"
+      "stars_total": "33,771"
     },
     {
       "name": "chatwoot/chatwoot",
       "url": "https://github.com/chatwoot/chatwoot",
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
-      "stars_today": "399 stars today",
-      "stars_total": "31,087"
+      "stars_today": "400 stars today",
+      "stars_total": "31,204"
     },
     {
       "name": "NVIDIA/SkillSpector",
       "url": "https://github.com/NVIDIA/SkillSpector",
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
       "language": "Python",
-      "stars_today": "962 stars today",
-      "stars_total": "4,963"
+      "stars_today": "964 stars today",
+      "stars_total": "5,257"
     },
     {
       "name": "meshery/meshery",
       "url": "https://github.com/meshery/meshery",
       "description": "Meshery, the cloud native manager",
       "language": "TypeScript",
-      "stars_today": "45 stars today",
-      "stars_total": "10,322"
+      "stars_today": "20 stars today",
+      "stars_total": "10,395"
     },
     {
       "name": "cypress-io/cypress",
       "url": "https://github.com/cypress-io/cypress",
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
       "language": "TypeScript",
-      "stars_today": "7 stars today",
-      "stars_total": "49,819"
+      "stars_today": "39 stars today",
+      "stars_total": "49,925"
     },
     {
       "name": "GorvGoyl/Clone-Wars",
       "url": "https://github.com/GorvGoyl/Clone-Wars",
       "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
       "language": "",
-      "stars_today": "337 stars today",
-      "stars_total": "35,178"
+      "stars_today": "269 stars today",
+      "stars_total": "35,440"
     },
     {
       "name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
       "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
       "description": "Introduction to Autonomous Robots",
       "language": "TeX",
-      "stars_today": "276 stars today",
-      "stars_total": "2,532"
+      "stars_today": "293 stars today",
+      "stars_total": "2,700"
     }
   ],
   "ai_repos": [
@@ -89,57 +89,97 @@
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_today": "1,531 stars today",
-      "stars_total": "120,136"
+      "stars_today": "1,528 stars today",
+      "stars_total": "120,858"
     },
     {
       "name": "chatwoot/chatwoot",
       "url": "https://github.com/chatwoot/chatwoot",
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
-      "stars_today": "399 stars today",
-      "stars_total": "31,087"
+      "stars_today": "400 stars today",
+      "stars_total": "31,204"
     },
     {
       "name": "NVIDIA/SkillSpector",
       "url": "https://github.com/NVIDIA/SkillSpector",
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
       "language": "Python",
-      "stars_today": "962 stars today",
-      "stars_total": "4,963"
+      "stars_today": "964 stars today",
+      "stars_total": "5,257"
     },
     {
       "name": "GorvGoyl/Clone-Wars",
       "url": "https://github.com/GorvGoyl/Clone-Wars",
       "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
       "language": "",
-      "stars_today": "337 stars today",
-      "stars_total": "35,178"
+      "stars_today": "269 stars today",
+      "stars_total": "35,440"
     }
   ],
   "posts": [
     {
-      "topic": "AI安全扫描器",
+      "topic": "AI技能安全扫描器",
       "repo": "NVIDIA/SkillSpector",
-      "cover_line1": "NVIDIA发布AI安全扫描器",
-      "cover_line2": "检测代理漏洞今日962星",
-      "body": "NVIDIA在GitHub上刚放了个新工具叫SkillSpector，专治AI代理的安全毛病。AI代理你肯定不陌生，就是那些能自己执行任务的AI程序，比如自动处理邮件或跑数据的助手。这些代理用多了，安全问题就冒出来了，但很多人压根没当回事。SkillSpector干的事很简单：扫描代理的技能，找出漏洞、恶意代码或者任何可能被黑客利用的风险点。项目今天一下子火了，一天就多了962个星，总星数快到5000了。为啥这么火？因为AI安全这事儿一直被开发者忽略，大家忙着搞功能，忘了加锁。NVIDIA作为AI硬件的老大哥，做这个工具挺靠谱，它能让你在代理上线前就查出毛病，避免数据泄露或者系统崩掉。工具用Python写的，开源免费，上手应该不难。对搞AI开发的人来说，把安全扫描塞进日常流程，可能比出事再补救强得多。你想想，你的AI代理最近一次安全检查是什么时候？",
+      "cover_line1": "NVIDIA的AI技能安全扫描器",
+      "cover_line2": "昨天一天涨了964个star",
+      "body": "做AI智能体的人越来越多了，教它们用各种技能（比如调API、读文件）去干活。但这些技能本身安全吗？有没有藏着坏东西？NVIDIA刚开源了一个叫SkillSpector的工具，专门干这个。它像给智能体请的安检员，能自动扫描技能代码，找出里面的安全漏洞和恶意模式。比如，一个技能如果偷偷把你的聊天记录发到别的服务器，它能检测出来。这对开发和部署AI智能体的人特别重要，你总不想给自己造的助理留个后门吧。这个项目昨天一下涨了近千个star，说明大家确实需要这样的安全工具。它用Python写的，可以集成到你现有的开发流程里，在智能体上线前先过一遍检查。想想看，如果每个AI技能在上线前都需要一张安全合格证，整个生态会不会更可靠一点？",
       "tags": [
         "AI安全",
-        "安全扫描",
+        "智能体",
+        "漏洞扫描",
         "NVIDIA",
-        "AI代理",
-        "漏洞检测",
         "开源工具",
-        "GitHub趋势",
-        "开发者工具",
-        "网络安全",
-        "机器学习"
+        "代码安全",
+        "Python",
+        "DevSecOps",
+        "AI开发",
+        "安全检测"
+      ]
+    },
+    {
+      "topic": "开源客服工具",
+      "repo": "chatwoot/chatwoot",
+      "cover_line1": "开源客服工具替代Intercom",
+      "cover_line2": "昨天新增400个star",
+      "body": "如果你正在为公司找客服系统，但觉得Intercom或Zendesk太贵，Chatwoot是个值得看看的开源选择。它是个全能客服台，能在一个界面里处理网页在线聊天、邮件、社交媒体等多种渠道来的客户消息，相当于一个开源的“客服中心”。你可以自己部署在服务器上，完全掌控数据，也能根据需要定制功能。它用Ruby on Rails写的，社区挺活跃，昨天又涨了400个star，总星数超过三万。对于创业公司或者预算有限但又想要专业客服体验的团队来说，这类开源方案能把软件成本砍掉一大截。不过，自建系统也意味着你得自己负责运维和更新。一个有趣的问题是：随着这类开源客服工具的功能越来越完善，传统商业SaaS客服软件的护城河还剩下多少？",
+      "tags": [
+        "客服系统",
+        "开源",
+        "在线聊天",
+        "Intercom替代",
+        "Ruby",
+        "全渠道",
+        "客户支持",
+        "SaaS替代",
+        "降低成本",
+        "自部署"
+      ]
+    },
+    {
+      "topic": "开源网站克隆大全",
+      "repo": "GorvGoyl/Clone-Wars",
+      "cover_line1": "100多个流行网站的开源克隆",
+      "cover_line2": "提供源码、演示和星数",
+      "body": "想做个像Airbnb的民宿平台，或者模仿Spotify的音乐应用，但不知道从哪下手？GitHub上有个叫Clone-Wars的仓库，整理了一百多个知名网站和应用的开源克隆项目。每个条目都附有源码链接、在线演示地址、用到的技术栈，还有GitHub上的星数，方便你评估项目质量。这不是教你抄作业，而是帮你快速学习。比如，你想理解一个电商平台的前端怎么构建，直接看它的开源实现比读教程快得多。它也帮你验证技术选型，看看主流项目都用了哪些框架。对于独立开发者或小团队，这相当于一个现成的“技术方案参考库”，能省下大量调研和踩坑的时间。但当你借鉴这些克隆项目的架构时，怎么避免在解决旧问题的同时，又引入了新的、属于自己的设计缺陷呢？",
+      "tags": [
+        "开源项目",
+        "学习资源",
+        "网站克隆",
+        "技术栈",
+        "GitHub",
+        "项目参考",
+        "独立开发",
+        "代码学习",
+        "全栈开发",
+        "架构参考"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-14/trending/summary.png",
-    "assets/2026-06-14/trending/post1.png"
+    "assets/2026-06-15/trending/summary.png",
+    "assets/2026-06-15/trending/post1.png",
+    "assets/2026-06-15/trending/post2.png",
+    "assets/2026-06-15/trending/post3.png"
   ]
 }
