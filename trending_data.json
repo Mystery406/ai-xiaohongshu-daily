@@ -7,32 +7,32 @@
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_today": "2,650 stars today",
-      "stars_total": "122,656"
+      "stars_today": "2,657 stars today",
+      "stars_total": "122,845"
     },
     {
       "name": "teslamate-org/teslamate",
       "url": "https://github.com/teslamate-org/teslamate",
       "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
       "language": "Elixir",
-      "stars_today": "35 stars today",
-      "stars_total": "8,191"
+      "stars_today": "33 stars today",
+      "stars_total": "8,226"
     },
     {
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_today": "1,045 stars today",
-      "stars_total": "29,850"
+      "stars_today": "1,100 stars today",
+      "stars_total": "30,112"
     },
     {
       "name": "meshery/meshery",
       "url": "https://github.com/meshery/meshery",
       "description": "Meshery, the cloud native manager",
       "language": "TypeScript",
-      "stars_today": "227 stars today",
-      "stars_total": "10,580"
+      "stars_today": "228 stars today",
+      "stars_total": "10,623"
     },
     {
       "name": "chatwoot/chatwoot",
@@ -40,47 +40,47 @@
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
       "stars_today": "431 stars today",
-      "stars_total": "31,573"
+      "stars_total": "31,669"
     },
     {
       "name": "krahets/hello-algo",
       "url": "https://github.com/krahets/hello-algo",
       "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
       "language": "Java",
-      "stars_today": "95 stars today",
-      "stars_total": "126,834"
+      "stars_today": "71 stars today",
+      "stars_total": "126,882"
     },
     {
       "name": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
-      "stars_today": "738 stars today",
-      "stars_total": "447,761"
+      "stars_today": "736 stars today",
+      "stars_total": "447,874"
     },
     {
       "name": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
       "language": "HTML",
-      "stars_today": "57 stars today",
-      "stars_total": "18,087"
+      "stars_today": "70 stars today",
+      "stars_total": "18,140"
     },
     {
       "name": "jwasham/coding-interview-university",
       "url": "https://github.com/jwasham/coding-interview-university",
       "description": "A complete computer science study plan to become a software engineer.",
       "language": "",
-      "stars_today": "352 stars today",
-      "stars_total": "352,188"
+      "stars_today": "364 stars today",
+      "stars_total": "352,289"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "538 stars today",
-      "stars_total": "32,936"
+      "stars_today": "562 stars today",
+      "stars_total": "33,067"
     }
   ],
   "ai_repos": [
@@ -89,24 +89,24 @@
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_today": "2,650 stars today",
-      "stars_total": "122,656"
+      "stars_today": "2,657 stars today",
+      "stars_total": "122,845"
     },
     {
       "name": "teslamate-org/teslamate",
       "url": "https://github.com/teslamate-org/teslamate",
       "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
       "language": "Elixir",
-      "stars_today": "35 stars today",
-      "stars_total": "8,191"
+      "stars_today": "33 stars today",
+      "stars_total": "8,226"
     },
     {
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_today": "1,045 stars today",
-      "stars_total": "29,850"
+      "stars_today": "1,100 stars today",
+      "stars_total": "30,112"
     },
     {
       "name": "chatwoot/chatwoot",
@@ -114,100 +114,100 @@
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
       "stars_today": "431 stars today",
-      "stars_total": "31,573"
+      "stars_total": "31,669"
     },
     {
       "name": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
       "language": "HTML",
-      "stars_today": "57 stars today",
-      "stars_total": "18,087"
+      "stars_today": "70 stars today",
+      "stars_total": "18,140"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "538 stars today",
-      "stars_total": "32,936"
+      "stars_today": "562 stars today",
+      "stars_total": "33,067"
     }
   ],
   "posts": [
     {
       "topic": "AI代理上网",
       "repo": "Panniantong/Agent-Reach",
-      "cover_line1": "给AI代理装上眼睛",
-      "cover_line2": "一条命令看遍推特B站",
-      "body": "想让AI代理帮你刷推、看B站、查GitHub，却卡在各个平台的API申请和费用上？这个项目直接解决这个问题。它提供一套命令行工具，让你能通过Python代码，让AI代理无缝读取和搜索Twitter、Reddit、YouTube、GitHub、B站、小红书这些主流平台的数据，而且完全不需要任何平台API密钥，也就意味着零费用。这对开发需要理解网络动态的AI应用来说，是打开了一个巨大的信息库。想想看，一个研究社交媒体趋势的机器人，或者一个自动追踪技术新闻的助手，现在能轻松拿到全网信息了。这个工具本质是一个高效的网页数据抓取和整理层，它把复杂的反爬和格式转换工作都处理好了，开发者只管调用简单的函数。你接下来会用这个能力让AI代理帮你抓取什么信息？",
+      "cover_line1": "AI代理直接上网读内容",
+      "cover_line2": "不花一分钱API费用",
+      "body": "你造的AI，想让它帮你看看推特有啥热搜，或者B站今天流行啥，以前得一个个平台去申请接口，麻烦还可能要钱。这个叫 Agent-Reach 的工具，就是给你的AI接了一双眼睛，让它用一个命令行就能直接去读Twitter、Reddit、YouTube、GitHub、B站、小红书这些地方的信息，关键它还不用你付API的费用。它今天在GitHub上一下子多了1100颗星，总星数三万出头，说明很多做AI应用的人确实需要这个。它背后就是用Python写的，想法很直给：让AI能自由地看公开的互联网内容。不过，它读的都是公开数据，如果平台反爬策略严了，还能不能这么顺地用，可能得打个问号。",
       "tags": [
-        "AI Agent",
-        "爬虫",
-        "CLI工具",
-        "免费API",
-        "社交媒体",
-        "数据抓取",
-        "自动化",
-        "Python",
-        "开发工具",
-        "网络爬虫"
-      ]
-    },
-    {
-      "topic": "AI电脑操作员",
-      "repo": "trycua/cua",
-      "cover_line1": "AI能自己操作电脑了",
-      "cover_line2": "macOS/Linux/Win桌面全能控",
-      "body": "现在很多AI演示很酷，但让AI在真实电脑上自动点按钮、填表格、用软件，开发起来挺麻烦的。cua这个项目想解决的就是这个‘最后一公里’问题。它提供一整套开源工具，包括一个安全隔离的虚拟机（沙箱）、一套软件开发包（SDK）和一套标准化的测试流程，专门用来训练和评估能操控整个桌面的AI代理。它支持macOS、Linux和Windows三大系统，这意味着开发者可以在统一的环境里，教AI学会操作各种不同系统下的图形界面软件。这对企业自动化流程、开发智能助手或者做复杂的软件测试都有直接价值。项目里内置了基准测试，你可以量化你的AI代理操作电脑到底有多熟练。一个关键问题是：当AI能熟练操作我们所有的办公软件时，工作流会发生什么根本变化？",
-      "tags": [
-        "计算机使用代理",
-        "桌面自动化",
         "AI代理",
-        "开源工具",
-        "虚拟机",
-        "基准测试",
-        "跨平台",
-        "SDK",
-        "开发框架",
-        "GUI自动化"
+        "数据抓取",
+        "开发者工具",
+        "Python",
+        "命令行",
+        "网络爬虫",
+        "开源项目",
+        "AI应用",
+        "API替代",
+        "全网信息"
       ]
     },
     {
-      "topic": "从零学AI工程",
+      "topic": "AI工程从零学",
       "repo": "rohitg00/ai-engineering-from-scratch",
-      "cover_line1": "手把手教你做AI应用",
-      "cover_line2": "从零构建到上线给别人用",
-      "body": "学AI不能只看论文，得动手做能跑起来的产品。这个项目就是一套完整的实操路线图，它的口号‘Learn it. Build it. Ship it for others.’说得很明白：学完知识，立刻动手构建，最终目标是做出能给别人用的东西。它不是那种罗列概念的教程，而是带着你一步步把想法变成可运行的代码和部署好的服务。对于想进入AI工程领域的开发者来说，这提供了一条清晰的路径，省去了自己摸索‘该学什么、怎么用’的时间。项目关注的是工程实践，比如如何集成模型、如何设计接口、如何部署上线这些具体问题。今天获得538颗星，说明很多人需要这种‘从学到用’的平滑过渡。你手头有没有一个AI点子，正好卡在不知道怎么把它工程化实现？",
+      "cover_line1": "从头教你怎么搞AI工程",
+      "cover_line2": "学完就能做产品",
+      "body": "现在学AI的人很多，但怎么把模型真正做成个能给别人用的东西，中间有道坎。这个 ai-engineering-from-scratch 项目，口号就是‘学它，造它，给他人用’，今天涨了562颗星，总星数有三万三。它不是光讲理论，是手把手带你从最基础开始，一步步搭建一个完整的AI产品。课程用的是Python，思路是让你边学边干，最后能把一个AI应用发布出去。对想从‘会调模型’转向‘能做产品’的开发者来说，这种带项目的学习路径挺实在的。就是不知道它的更新频率和社区支持怎么样，毕竟AI技术变得快。",
       "tags": [
-        "AI工程",
-        "学习教程",
-        "实战项目",
-        "开发路线",
-        "机器学习",
-        "模型部署",
+        "AI教育",
         "从零开始",
-        "工程实践",
-        "编程教学",
-        "在线学习"
+        "项目实战",
+        "Python",
+        "课程",
+        "开发者成长",
+        "开源教程",
+        "全栈AI",
+        "技能提升",
+        "学习路径"
+      ]
+    },
+    {
+      "topic": "AI控制电脑",
+      "repo": "trycua/cua",
+      "cover_line1": "让AI像人一样操作电脑",
+      "cover_line2": "支持Mac和Linux系统",
+      "body": "AI如果只会说话不懂操作，那用处就有限。cua这个项目，就是专门搞基础设施，让你训练和评估那种能像人一样控制整个电脑桌面的AI代理。它提供了沙盒环境（就是个安全的测试房间）、开发用的SDK和效果评估的基准测试。目前主要支持macOS和Linux，Windows也快了。今天它多了70颗星，总数一万八，不算爆火，但这个方向——让AI直接操作系统——在AI圈里越来越受关注。它用HTML语言写的项目页面，背后是一套能处理鼠标点击、键盘输入、读屏幕的底层工具。难点在于，AI操作的准确性和安全性怎么保证，毕竟在你真实电脑上跑，万一它乱点就不好了。",
+      "tags": [
+        "AI代理",
+        "桌面自动化",
+        "计算机视觉",
+        "系统控制",
+        "开发框架",
+        "沙盒环境",
+        "SDK",
+        "基准测试",
+        "macOS",
+        "未来方向"
       ]
     },
     {
       "topic": "开源客服系统",
       "repo": "chatwoot/chatwoot",
-      "cover_line1": "自己搭一个客服台",
-      "cover_line2": "替代Intercom的开源选择",
-      "body": "需要一个客服系统，但不想用昂贵的Intercom或Zendesk？Chatwoot就是一个成熟的开源替代方案。它能把你的网站在线聊天、邮件、社交媒体消息等各种客户沟通渠道，都整合到一个统一的后台里进行管理。这意味着你的客服团队在一个地方就能回复来自不同平台的所有客户问题，效率会高很多。作为一个已经获得31，500多颗星的项目，它的稳定性和功能完整性经过了大量用户的验证。今天又有431颗星的增长，说明持续有新的团队在采用它。对于中小公司或者技术团队来说，自建和定制化这样一个系统，既能控制成本和数据，又能获得比标准化SaaS产品更大的灵活性。一个现实的选择是：你的业务规模和对数据自主权的要求，到了哪个点，更适合从使用SaaS转向自建这样的开源系统？",
+      "cover_line1": "开源的客服聊天台子",
+      "cover_line2": "可以替代贵的商业软件",
+      "body": "客服系统Intercom、Zendesk这些，好用但贵。chatwoot是个开源的替代品，它能同时处理网站在线聊天、邮件这些不同渠道的客户问题，放在一个界面里管理。今天涨了431颗星，总星数三万一，说明不少公司在找性价比高的客服方案。它用Ruby写的，功能上做到了全渠道统一处理，对于中小团队或者想自己掌控数据的企业，是挺有吸引力的。不过，开源软件意味着部署和维护得自己来，或者找人帮忙，这跟直接买SaaS服务那种‘打开就用’的体验是两码事。你愿意用省下的软件钱，去换一个需要自己运维的系统吗？",
       "tags": [
-        "开源软件",
         "客服系统",
+        "开源",
         "SaaS替代",
-        "多渠道",
+        "全渠道",
         "在线聊天",
-        "客户支持",
+        "邮件支持",
         "Ruby",
-        "自托管",
         "企业软件",
-        "通信"
+        "客户沟通",
+        "自托管"
       ]
     }
   ],
