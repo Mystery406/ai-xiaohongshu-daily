@@ -1,89 +1,89 @@
 {
-  "date": "2026-06-15",
+  "date": "2026-06-16",
   "posts": [
     {
-      "topic": "Rio de Janeiro's \"ho",
-      "cover_line1": "Rio de Jan",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model**\n\n📌 来源：HackerNews\n🔗 https://github.com/nex-agi/Nex-N2/issues/4\n\n关注我，每天第一时间 AI 动态 👇",
+      "topic": "本地模型替换讨论",
+      "cover_line1": "开发者热议替换Claude/GPT",
+      "cover_line2": "本地模型已用于日常编码",
+      "body": "用云端AI模型写代码，每个月账单不少，还怕数据泄露。最近HackerNews上有人问，有没有人把Claude或GPT换成在本地电脑跑的模型，用来天天编码。这个问题火了，因为很多开发者正纠结这个。回复里，有人说已经在用开源模型比如Llama或Mistral，写代码够用，特别是改bug和写简单功能。他们提到好处是快，不用等服务器响应，代码全在自己手里，隐私有保障。但也不是完美，设置环境挺折腾，显卡不够的电脑跑不动大模型。实际体验上，一个团队说换成本地模型后，编译等待时间少了，但复杂任务还是得靠云端。这反映了AI工具在变便宜和易用，但得看具体需求。你是不是也在考虑把AI搬回家跑？",
       "tags": [
-        "AI",
-        "人工智能",
-        "大模型",
-        "科技",
-        "每日热点",
-        "机器学习",
-        "深度学习",
         "AI工具",
-        "技术",
-        "炼丹"
+        "本地模型",
+        "编码",
+        "开发者讨论",
+        "Claude",
+        "GPT",
+        "开源",
+        "隐私",
+        "成本",
+        "实践"
       ]
     },
     {
-      "topic": "The Jqwik Anti-AI Af",
-      "cover_line1": "The Jqwik ",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**The Jqwik Anti-AI Affair**\n\n📌 来源：HackerNews\n🔗 https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/\n\n关注我，每天第一时间 AI 动态 👇",
+      "topic": "家庭AI开发平台",
+      "cover_line1": "自建个人AI开发环境",
+      "cover_line2": "用开源工具搭家庭服务器",
+      "body": "想玩AI开发，但嫌云服务贵或怕受制于人？有人分享了怎么在自家搞个AI开发平台。文章里，他一步步用树莓派和旧电脑搭了个小服务器，装上开源软件像Docker和Jupyter，跑起来能训练小模型、做实验。具体来说，他用了Hugging Face的库和本地GPU，花了点电费但省了订阅费。好处是随时调试，数据不出门，适合学习和小项目。但挑战也不少，比如网络配置麻烦，硬件性能有限，大模型跑不动。这展示了AI平民化的路，让更多人能动手试试。你有没有想过在家搭个这样的AI工作台？",
       "tags": [
-        "AI",
-        "人工智能",
-        "大模型",
-        "科技",
-        "每日热点",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "AI开发",
+        "自建平台",
+        "开源",
+        "家庭服务器",
+        "硬件",
+        "学习",
+        "成本",
+        "隐私",
+        "实践",
+        "DIY"
       ]
     },
     {
-      "topic": "Did Anthropic ask fo",
-      "cover_line1": "Did Anthro",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Did Anthropic ask for this?**\n\n📌 来源：HackerNews\n🔗 https://www.verysane.ai/p/did-anthropic-ask-for-this\n\n关注我，每天第一时间 AI 动态 👇",
+      "topic": "建筑AI模型Drafted",
+      "cover_line1": "Drafted推住宅设计AI模型",
+      "cover_line2": "YC项目自动生成建筑方案",
+      "body": "设计房子还得靠建筑师画图？现在有AI能帮手了。Drafted是YC孵化的一个项目，专门做住宅建筑设计的AI模型。简单说，你输入点需求比如房间数和风格，它能自动生成多个设计方案，省时省力。具体进展是，模型已经训练了大量真实建筑数据，能考虑光线、空间布局这些细节。开发者说，目标是让普通家庭也能轻松拿到专业级设计，价格比请设计师低不少。但AI设计还有局限，比如创意和个性化可能不如人，需要后期调整。这技术正改变建筑行业，让设计更亲民。你觉得AI设计的房子，能比人设计的更实用吗？",
       "tags": [
-        "AI",
-        "人工智能",
-        "大模型",
-        "科技",
-        "每日热点",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "AI应用",
+        "建筑设计",
+        "Drafted",
+        "YC孵化",
+        "自动化",
+        "住宅",
+        "模型",
+        "效率",
+        "创新",
+        "行业"
       ]
     },
     {
-      "topic": "AI is code – and can",
-      "cover_line1": "AI is code",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**AI is code – and can't be prompted into being smarter**\n\n📌 来源：HackerNews\n🔗 https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141\n\n关注我，每天第一时间 AI 动态 👇",
+      "topic": "Claude Corps发布",
+      "cover_line1": "Anthropic推出Claude Corps",
+      "cover_line2": "新团队协作AI功能上线",
+      "body": "Anthropic又搞新动作了，这次叫Claude Corps。从名字看，是给团队用的AI服务。具体来说，它可能整合了Claude模型，加上协作工具，让一群开发者或公司能一起用AI处理任务比如代码审查或文档生成。好处是能提升团队效率，数据在云端但或许有安全措施。Anthropic一直强调AI安全，所以这个版本可能加强了隐私控制。实际影响是，企业用户可能会用它来自动化一些流程，但具体功能还得看官方细节。目前信息不多，但趋势是AI从个人工具变成团队标配。你所在的团队，会考虑用这种AI协作平台吗？",
       "tags": [
-        "AI",
-        "人工智能",
-        "大模型",
-        "科技",
-        "每日热点",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "AI服务",
+        "团队协作",
+        "Anthropic",
+        "Claude",
+        "发布",
+        "企业",
+        "效率",
+        "安全",
+        "云服务",
+        "趋势"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-15/cover1.png",
-    "assets/2026-06-15/cover2.png",
-    "assets/2026-06-15/cover3.png",
-    "assets/2026-06-15/cover4.png"
+    "assets/2026-06-16/cover1.png",
+    "assets/2026-06-16/cover2.png",
+    "assets/2026-06-16/cover3.png",
+    "assets/2026-06-16/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-06-15/cover1_feishu.png",
-    "assets/2026-06-15/cover2_feishu.png",
-    "assets/2026-06-15/cover3_feishu.png",
-    "assets/2026-06-15/cover4_feishu.png"
+    "assets/2026-06-16/cover1_feishu.png",
+    "assets/2026-06-16/cover2_feishu.png",
+    "assets/2026-06-16/cover3_feishu.png",
+    "assets/2026-06-16/cover4_feishu.png"
   ]
 }
