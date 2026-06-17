@@ -7,56 +7,56 @@
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
-      "stars_today": "640 stars today",
-      "stars_total": "448,422"
+      "stars_today": "633 stars today",
+      "stars_total": "448,542"
     },
     {
       "name": "swc-project/swc",
       "url": "https://github.com/swc-project/swc",
       "description": "Rust-based platform for the Web",
       "language": "Rust",
-      "stars_today": "21 stars today",
-      "stars_total": "33,935"
+      "stars_today": "20 stars today",
+      "stars_total": "33,964"
     },
     {
       "name": "teslamate-org/teslamate",
       "url": "https://github.com/teslamate-org/teslamate",
       "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
       "language": "Elixir",
-      "stars_today": "214 stars today",
-      "stars_total": "8,377"
+      "stars_today": "215 stars today",
+      "stars_total": "8,400"
     },
     {
       "name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_today": "1,196 stars today",
-      "stars_total": "123,860"
+      "stars_today": "1,197 stars today",
+      "stars_total": "124,028"
     },
     {
       "name": "puppeteer/puppeteer",
       "url": "https://github.com/puppeteer/puppeteer",
       "description": "JavaScript API for Chrome and Firefox",
       "language": "TypeScript",
-      "stars_today": "80 stars today",
-      "stars_total": "94,837"
+      "stars_today": "56 stars today",
+      "stars_total": "94,879"
     },
     {
       "name": "meshery/meshery",
       "url": "https://github.com/meshery/meshery",
       "description": "Meshery, the cloud native manager",
       "language": "TypeScript",
-      "stars_today": "229 stars today",
-      "stars_total": "10,796"
+      "stars_today": "228 stars today",
+      "stars_total": "10,843"
     },
     {
       "name": "cypress-io/cypress",
       "url": "https://github.com/cypress-io/cypress",
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
       "language": "TypeScript",
-      "stars_today": "11 stars today",
-      "stars_total": "50,145"
+      "stars_today": "13 stars today",
+      "stars_total": "50,200"
     },
     {
       "name": "music-assistant/server",
@@ -64,7 +64,7 @@
       "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
       "language": "Python",
       "stars_today": "157 stars today",
-      "stars_total": "2,518"
+      "stars_total": "2,561"
     },
     {
       "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
@@ -72,15 +72,15 @@
       "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
       "language": "Rust",
       "stars_today": "146 stars today",
-      "stars_total": "7,193"
+      "stars_total": "7,284"
     },
     {
       "name": "OpenBMB/VoxCPM",
       "url": "https://github.com/OpenBMB/VoxCPM",
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
-      "stars_today": "413 stars today",
-      "stars_total": "30,056"
+      "stars_today": "408 stars today",
+      "stars_total": "30,118"
     }
   ],
   "ai_repos": [
@@ -89,69 +89,49 @@
       "url": "https://github.com/teslamate-org/teslamate",
       "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
       "language": "Elixir",
-      "stars_today": "214 stars today",
-      "stars_total": "8,377"
+      "stars_today": "215 stars today",
+      "stars_total": "8,400"
     },
     {
       "name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_today": "1,196 stars today",
-      "stars_total": "123,860"
+      "stars_today": "1,197 stars today",
+      "stars_total": "124,028"
     },
     {
       "name": "OpenBMB/VoxCPM",
       "url": "https://github.com/OpenBMB/VoxCPM",
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
-      "stars_today": "413 stars today",
-      "stars_total": "30,056"
+      "stars_today": "408 stars today",
+      "stars_total": "30,118"
     }
   ],
   "posts": [
     {
-      "topic": "特斯拉数据记录器",
-      "repo": "teslamate-org/teslamate",
-      "cover_line1": "特斯拉自建数据记录器",
-      "cover_line2": "总星数8377",
-      "body": "如果你开特斯拉，可能会想记录下每次充电、续航、去了哪里这些数据。TeslaMate 就是干这个的，它让你在自己的服务器上记录这一切，数据完全在自己手里。这个项目的主要维护者是 JakobLichterfeld，用 Elixir 语言写的，今天又多了214颗星，总星数达到了8377。你可以自己搭一个，然后就能看到自己爱车的详细驾驶报告，比如哪里最耗电，哪天开得最远，这些数据帮你更懂你的车。它不是个玩具，今天还在增长的星星数说明很多人真的在用。想不想知道，你自己的数据里藏着什么驾驶习惯？",
-      "tags": [
-        "特斯拉",
-        "数据记录",
-        "自托管",
-        "Elixir",
-        "汽车数据",
-        "开源",
-        "车主工具",
-        "隐私",
-        "仪表盘",
-        "服务器"
-      ]
-    },
-    {
-      "topic": "VoxCPM语音合成",
+      "topic": "VoxCPM语音生成",
       "repo": "OpenBMB/VoxCPM",
-      "cover_line1": "无Tokenizer多语言语音合成",
-      "cover_line2": "总星数超3万",
-      "body": "很多语音合成工具需要把文本先切成一小块一小块，这个叫 Tokenizer 的过程有时候会打断语言的自然节奏。VoxCPM2 这个模型直接跳过了这一步，它能把整段文字变成语音，支持好几种语言，还能模仿特定的声音风格，甚至克隆真实的人声，听起来很自然。今天它多了413颗星，总星数已经超过了3万，这说明开发者社区对这种更直接的语音生成方式很感兴趣。你可以用它来给视频配音，或者创造独一无二的声音角色。跳过 Tokenizer 这步，语音是不是就能更接近真人说话的流畅和停顿？",
+      "cover_line1": "无Tokenizer文本转语音",
+      "cover_line2": "支持多语言和真实声音克隆",
+      "body": "今天GitHub上VoxCPM一天涨了408颗星，总星数超过3万。它是OpenBMB团队做出来的文本转语音工具，但跟普通TTS不一样，它不需要Tokenizer。Tokenizer是啥？就是传统语音合成里把文字拆成小单元再生成语音的步骤，VoxCPM直接跳过了，这样生成的语音更连贯，尤其在多语言场景下不用针对每种语言单独调整。它还能做创意声音设计，比如给虚拟角色配音时调整语调和情感，甚至克隆特定人的声音，听起来跟真人几乎一样。对开发者来说，这工具开源，代码是Python写的，集成到App或虚拟助手很方便。声音质量高，支持多种语言，今天突然上Trending说明大家对这种无Tokenizer方法很感兴趣。开源项目总有改进空间，比如优化性能或增加语言支持。你觉得这种直接生成语音的方式，会不会让AI语音应用开发变得更简单？",
       "tags": [
-        "语音合成",
+        "AI",
         "TTS",
+        "语音合成",
         "多语言",
-        "无Tokenizer",
         "声音克隆",
-        "AI模型",
         "Python",
         "开源",
-        "创意工具",
-        "深度学习"
+        "GitHub",
+        "机器学习",
+        "开发工具"
       ]
     }
   ],
   "image_paths": [
     "assets/2026-06-17/trending/summary.png",
-    "assets/2026-06-17/trending/post1.png",
-    "assets/2026-06-17/trending/post2.png"
+    "assets/2026-06-17/trending/post1.png"
   ]
 }
