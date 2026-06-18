@@ -7,80 +7,80 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_today": "718 stars today",
-      "stars_total": "4,688"
+      "stars_today": "371 stars today",
+      "stars_total": "5,221"
     },
     {
       "name": "n0-computer/iroh",
       "url": "https://github.com/n0-computer/iroh",
       "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
       "language": "Rust",
-      "stars_today": "422 stars today",
-      "stars_total": "9,546"
+      "stars_today": "421 stars today",
+      "stars_total": "9,634"
     },
     {
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_today": "1,154 stars today",
-      "stars_total": "32,892"
+      "stars_today": "1,161 stars today",
+      "stars_total": "33,137"
     },
     {
       "name": "meshery/meshery",
       "url": "https://github.com/meshery/meshery",
       "description": "Meshery, the cloud native manager",
       "language": "TypeScript",
-      "stars_today": "199 stars today",
-      "stars_total": "10,968"
+      "stars_today": "196 stars today",
+      "stars_total": "11,014"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,109 stars today",
-      "stars_total": "230,771"
+      "stars_today": "1,129 stars today",
+      "stars_total": "231,034"
     },
     {
       "name": "google-research/timesfm",
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars_today": "712 stars today",
-      "stars_total": "21,650"
+      "stars_today": "606 stars today",
+      "stars_total": "21,875"
     },
     {
       "name": "RocketChat/Rocket.Chat",
       "url": "https://github.com/RocketChat/Rocket.Chat",
       "description": "The Secure CommsOS™ for mission-critical operations",
       "language": "TypeScript",
-      "stars_today": "15 stars today",
-      "stars_total": "45,525"
+      "stars_today": "22 stars today",
+      "stars_total": "45,571"
     },
     {
       "name": "continuedev/continue",
       "url": "https://github.com/continuedev/continue",
       "description": "open-source coding agent",
       "language": "TypeScript",
-      "stars_today": "38 stars today",
-      "stars_total": "33,825"
+      "stars_today": "49 stars today",
+      "stars_total": "33,888"
     },
     {
       "name": "penpot/penpot",
       "url": "https://github.com/penpot/penpot",
       "description": "Penpot: The open-source design tool for design and code collaboration",
       "language": "Clojure",
-      "stars_today": "94 stars today",
-      "stars_total": "49,975"
+      "stars_today": "70 stars today",
+      "stars_total": "50,075"
     },
     {
       "name": "krahets/hello-algo",
       "url": "https://github.com/krahets/hello-algo",
       "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
       "language": "Java",
-      "stars_today": "109 stars today",
-      "stars_total": "127,399"
+      "stars_today": "96 stars today",
+      "stars_total": "127,431"
     }
   ],
   "ai_repos": [
@@ -89,98 +89,117 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_today": "718 stars today",
-      "stars_total": "4,688"
+      "stars_today": "371 stars today",
+      "stars_total": "5,221"
     },
     {
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_today": "1,154 stars today",
-      "stars_total": "32,892"
+      "stars_today": "1,161 stars today",
+      "stars_total": "33,137"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,109 stars today",
-      "stars_total": "230,771"
+      "stars_today": "1,129 stars today",
+      "stars_total": "231,034"
     },
     {
       "name": "google-research/timesfm",
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars_today": "712 stars today",
-      "stars_total": "21,650"
+      "stars_today": "606 stars today",
+      "stars_total": "21,875"
     },
     {
       "name": "continuedev/continue",
       "url": "https://github.com/continuedev/continue",
       "description": "open-source coding agent",
       "language": "TypeScript",
-      "stars_today": "38 stars today",
-      "stars_total": "33,825"
+      "stars_today": "49 stars today",
+      "stars_total": "33,888"
     }
   ],
   "posts": [
     {
-      "topic": "代码知识图谱",
+      "topic": "代码库记忆MCP",
       "repo": "DeusData/codebase-memory-mcp",
-      "cover_line1": "高速代码索引为知识图谱",
-      "cover_line2": "158语言，查询不到一毫秒",
-      "body": "开发者看代码库，经常像在一大片森林里找一颗特定的树，得一个个文件翻。这个工具把整个代码库变成一张图，一个点是函数，一条线是调用关系，存起来反复用。它用C写成，编译后只有一个文件，不用装任何东西。实际跑起来，把一个普通大小的代码仓库建成图，只需要几毫秒。建好后查询更快，不到一毫秒就能找到你要的函数在哪、被谁调用。它还支持158种编程语言，从常见的Python、JavaScript到小众的都行。最实在的一个改变是，它让AI助手读代码时省掉了99%的“阅读量”，因为AI不用再把每行代码都吃进去，直接查图就知道结构。这意味着用AI做代码审查或重构，成本会低很多，速度快很多。你的项目里，AI理解代码结构通常要花多久？",
+      "cover_line1": "代码库索引成知识图谱的MCP服务",
+      "cover_line2": "毫秒查询省99% token",
+      "body": "AI读代码库最大的痛点是什么？慢，贵。把整个代码库丢给大模型，token哗哗地烧。这个项目换了个思路：先把代码库解析成知识图谱存起来，AI要查什么直接搜图，不用重新读代码。效果是查询速度到了亚毫秒级，token用量砍掉99%。用C写的一个静态二进制，零依赖，下下来就能跑。支持158种编程语言，基本把主流的都覆盖了。总星5221，今天涨371。对做AI编程工具的团队来说这是基础设施级别的东西——你的AI助手要理解代码库，底层得有这么一层把代码变成结构化知识的能力。问题是：如果每个项目都要先建一遍图谱，冷启动成本谁来扛？",
       "tags": [
-        "代码分析",
-        "知识图谱",
         "MCP",
-        "性能优化",
-        "AI编程助手",
+        "代码理解",
+        "知识图谱",
         "开发者工具",
+        "C语言",
+        "AI编程",
+        "token优化",
+        "静态二进制",
         "代码索引",
-        "静态分析",
-        "开源",
-        "零依赖"
+        "基础设施"
       ]
     },
     {
-      "topic": "AI全网浏览器",
+      "topic": "AI全网视野",
       "repo": "Panniantong/Agent-Reach",
-      "cover_line1": "给AI代理装上全网眼睛",
-      "cover_line2": "刷推特看B站，一个命令搞定",
-      "body": "很多AI助手很聪明，但被困在一个盒子里，看不到外面的互联网在发生什么。这个项目就是一个命令行工具，目标是撕开这个盒子。你用它，AI代理就能像人一样去读推特上的热门讨论、看红书里的种草笔记、搜B站的视频评论，甚至刷GitHub上的开源动态。所有操作通过一个CLI（命令行）完成，不需要去申请一堆网站的API密钥，也就没有那些烦人的费用和审批流程。想象一下，让AI每天自动帮你看看行业大V在推特上说了什么新观点，或者自动在GitHub上追踪几个核心项目的更新，它都能办到。工具本身是Python写的，扩展性不错，可以加你想加的新网站。如果你的AI助手现在就拥有了实时浏览和搜索这些平台的能力，你最想让它替你监视哪一个？",
+      "cover_line1": "给AI接入六大平台内容",
+      "cover_line2": "免API费一个CLI全搞定",
+      "body": "你的AI能看Twitter吗？能刷B站评论吗？能搜小红书笔记吗？大多数AI做不了这些事，因为调这些平台的API要么贵，要么申请流程长。Agent-Reach用一个命令行工具解决了这个问题——你的AI代理可以直接读Twitter、Reddit、YouTube、GitHub、B站、小红书六个平台的内容，不需要API key，不需要付一分钱。今天涨了1161星，总星3.3万，Python写的。对做社媒监控、内容分析、竞品调研的团队来说，这是真金白银的省钱工具。一个CLI覆盖六个平台，部署也简单。但想深一层：这些平台对非官方数据抓取的态度越来越紧，这种免费方案的生命周期到底有多长？",
       "tags": [
         "AI代理",
-        "网页抓取",
         "社交媒体",
-        "命令行工具",
-        "数据获取",
-        "零成本",
-        "Bilibili",
-        "小红书",
+        "CLI工具",
         "Twitter",
-        "GitHub"
+        "B站",
+        "小红书",
+        "免费API",
+        "内容分析",
+        "Python",
+        "零成本"
       ]
     },
     {
-      "topic": "时间序列预测",
+      "topic": "AI代理技能框架",
+      "repo": "obra/superpowers",
+      "cover_line1": "AI代理的技能开发方法论",
+      "cover_line2": "23万星的工程实践框架",
+      "body": "23万总星，今天又涨1129。superpowers不只是代码库，更像一套让AI代理\"学会干活\"的方法论。它解决的核心问题是：怎么把AI代理的能力从\"靠提示词临时凑\"变成\"结构化的可复用技能\"。不是写一堆prompt然后祈祷它好使，而是定义一套标准化的技能描述和组合方式。Shell写的，更像配置和脚本的集合体，上手门槛不高。对团队来说这意味着AI代理的行为可以被版本管理、可以被测试、可以跨项目复用。和传统prompt engineering的区别在于：prompt是一次性的指令，技能是持久的能力。问题来了：在你的团队里，AI代理现在更像一个需要反复调教的实习生，还是一个能独立交付的正式员工？",
+      "tags": [
+        "AI代理",
+        "技能框架",
+        "方法论",
+        "Shell",
+        "工程实践",
+        "软件开发",
+        "提示工程",
+        "可复用",
+        "开源",
+        "高星项目"
+      ]
+    },
+    {
+      "topic": "Google时间序列模型",
       "repo": "google-research/timesfm",
-      "cover_line1": "谷歌的时间序列预测模型",
-      "cover_line2": "预训练好，直接用来预测未来",
-      "body": "预测股价、销量、网站流量这些随时间变化的数据，对很多生意都至关重要。以前你得找数据专家，针对你的数据从头训练一个模型，费时费力。谷歌研究团队做了一个叫TimesFM的模型，它已经在海量的时间序列数据上“预训练”过了，就像一个读过很多书的学生。你拿到它，不需要从头教，只要把你的数据（比如过去一年的销售额）给它看，它就能比较快地给出未来的预测。这降低了使用门槛，让没有顶尖数据团队的公司也能用上高级的预测能力。模型是开源的，用Python就能跑。它特别擅长抓住数据里那种周期性、趋势性变化的规律。你工作或生活中，有没有哪一类数据，你一直觉得它的未来走势很难靠经验判断准？",
+      "cover_line1": "Google出的时间序列基础模型",
+      "cover_line2": "预训练好直接拿来做预测",
+      "body": "Google Research做的时间序列基础模型叫TimesFM。什么叫基础模型？就是预先在大量时间序列数据上训练好了，你拿来直接用或者微调一下就能跑，不用从零开始训。今天涨606星，总星2.2万，Python写的。适合做销售预测、库存规划、流量预估这类时间序列任务。传统做法是每个业务场景单独建模，TimesFM的思路是先有一个通用的时间序列理解能力，再适配具体场景。这是大模型在垂直领域落地的一个典型路径。但有个实际问题：预训练模型在你的具体业务数据上，准确率真的够用吗？通用能力到专业场景的Gap到底有多大，可能只有试了才知道。",
       "tags": [
         "时间序列",
-        "预测模型",
-        "谷歌研究",
-        "机器学习",
-        "开源模型",
-        "预训练",
-        "数据科学",
-        "AI应用",
+        "Google",
+        "基础模型",
+        "预测",
         "Python",
-        "基础模型"
+        "预训练",
+        "机器学习",
+        "数据分析",
+        "开源",
+        "大模型落地"
       ]
     }
   ],
@@ -188,6 +207,7 @@
     "assets/2026-06-18/trending/summary.png",
     "assets/2026-06-18/trending/post1.png",
     "assets/2026-06-18/trending/post2.png",
-    "assets/2026-06-18/trending/post3.png"
+    "assets/2026-06-18/trending/post3.png",
+    "assets/2026-06-18/trending/post4.png"
   ]
 }
