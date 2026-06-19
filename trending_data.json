@@ -7,8 +7,8 @@
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars_today": "858 stars today",
-      "stars_total": "22,713"
+      "stars_today": "844 stars today",
+      "stars_total": "23,141"
     },
     {
       "name": "n0-computer/iroh",
@@ -16,7 +16,7 @@
       "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
       "language": "Rust",
       "stars_today": "369 stars today",
-      "stars_total": "9,916"
+      "stars_total": "10,001"
     },
     {
       "name": "freeCodeCamp/freeCodeCamp",
@@ -24,63 +24,63 @@
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
       "stars_today": "417 stars today",
-      "stars_total": "449,438"
+      "stars_total": "449,538"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,435 stars today",
-      "stars_total": "232,168"
+      "stars_today": "1,429 stars today",
+      "stars_total": "232,396"
     },
     {
       "name": "zai-org/GLM-5",
       "url": "https://github.com/zai-org/GLM-5",
       "description": "GLM-5: From Vibe Coding to Agentic Engineering",
       "language": "",
-      "stars_today": "286 stars today",
-      "stars_total": "3,982"
+      "stars_today": "202 stars today",
+      "stars_total": "4,117"
     },
     {
       "name": "DeusData/codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_today": "2,308 stars today",
-      "stars_total": "6,739"
+      "stars_today": "2,322 stars today",
+      "stars_total": "7,013"
+    },
+    {
+      "name": "yifanfeng97/Hyper-Extract",
+      "url": "https://github.com/yifanfeng97/Hyper-Extract",
+      "description": "Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.",
+      "language": "Python",
+      "stars_today": "124 stars today",
+      "stars_total": "1,761"
     },
     {
       "name": "alibaba/zvec",
       "url": "https://github.com/alibaba/zvec",
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
-      "stars_today": "344 stars today",
-      "stars_total": "11,131"
+      "stars_today": "259 stars today",
+      "stars_total": "11,211"
     },
     {
       "name": "withastro/flue",
       "url": "https://github.com/withastro/flue",
       "description": "The sandbox agent framework.",
       "language": "TypeScript",
-      "stars_today": "164 stars today",
-      "stars_total": "5,402"
+      "stars_today": "162 stars today",
+      "stars_total": "5,494"
     },
     {
       "name": "Kilo-Org/kilocode",
       "url": "https://github.com/Kilo-Org/kilocode",
       "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
       "language": "TypeScript",
-      "stars_today": "1,339 stars today",
-      "stars_total": "21,775"
-    },
-    {
-      "name": "makeplane/plane",
-      "url": "https://github.com/makeplane/plane",
-      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-      "language": "TypeScript",
-      "stars_today": "610 stars today",
-      "stars_total": "51,693"
+      "stars_today": "1,345 stars today",
+      "stars_total": "22,114"
     }
   ],
   "ai_repos": [
@@ -89,133 +89,122 @@
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars_today": "858 stars today",
-      "stars_total": "22,713"
+      "stars_today": "844 stars today",
+      "stars_total": "23,141"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,435 stars today",
-      "stars_total": "232,168"
+      "stars_today": "1,429 stars today",
+      "stars_total": "232,396"
     },
     {
       "name": "zai-org/GLM-5",
       "url": "https://github.com/zai-org/GLM-5",
       "description": "GLM-5: From Vibe Coding to Agentic Engineering",
       "language": "",
-      "stars_today": "286 stars today",
-      "stars_total": "3,982"
+      "stars_today": "202 stars today",
+      "stars_total": "4,117"
     },
     {
       "name": "DeusData/codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_today": "2,308 stars today",
-      "stars_total": "6,739"
+      "stars_today": "2,322 stars today",
+      "stars_total": "7,013"
+    },
+    {
+      "name": "yifanfeng97/Hyper-Extract",
+      "url": "https://github.com/yifanfeng97/Hyper-Extract",
+      "description": "Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.",
+      "language": "Python",
+      "stars_today": "124 stars today",
+      "stars_total": "1,761"
     },
     {
       "name": "alibaba/zvec",
       "url": "https://github.com/alibaba/zvec",
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
-      "stars_today": "344 stars today",
-      "stars_total": "11,131"
+      "stars_today": "259 stars today",
+      "stars_total": "11,211"
     },
     {
       "name": "withastro/flue",
       "url": "https://github.com/withastro/flue",
       "description": "The sandbox agent framework.",
       "language": "TypeScript",
-      "stars_today": "164 stars today",
-      "stars_total": "5,402"
+      "stars_today": "162 stars today",
+      "stars_total": "5,494"
     },
     {
       "name": "Kilo-Org/kilocode",
       "url": "https://github.com/Kilo-Org/kilocode",
       "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
       "language": "TypeScript",
-      "stars_today": "1,339 stars today",
-      "stars_total": "21,775"
+      "stars_today": "1,345 stars today",
+      "stars_total": "22,114"
     }
   ],
   "posts": [
     {
-      "topic": "代码索引服务器",
+      "topic": "代码索引工具",
       "repo": "DeusData/codebase-memory-mcp",
-      "cover_line1": "高性能代码索引 MCP 服务器",
-      "cover_line2": "百万行代码毫秒级查询",
-      "body": "写代码时最烦的事，就是想用一个函数，但死活记不起它在哪个文件里。这个项目专门解决这个问题。它本质上是一个代码仓库的“大脑”，你把代码丢给它，它会扫描所有文件，把类、函数、变量之间的关系编成一张知识图谱，存下来。之后你问“某个功能在哪儿实现的”，它能毫秒级告诉你。它不是模糊搜索，是理解代码结构后给出的答案，所以给出的路径往往就是你要找的那个。它声称平均一个普通代码仓库的索引时间在毫秒级别，支持158种语言，查一次用的token比传统方法少99%。整个服务器是一个单独的静态文件，不用装其他东西。这对维护大型老项目，或者新人快速上手一个陌生代码库，帮助应该很大。它相当于给你的代码库配了一个随叫随到、过目不忘的导航员。但一个关键问题是：当代码库快速变动时，这张知识图谱怎么保持同步和准确？",
+      "cover_line1": "C写的代码索引服务",
+      "cover_line2": "毫秒级索引百万行仓库",
+      "body": "现在很多代码助手都有个毛病，它们每次回答都得重新看一遍你的代码库，又慢又费钱。DeusData 做了个叫 codebase-memory-mcp 的工具，专门治这个。它用 C 语言写成，快得吓人，能把整个代码库的结构和关系编成一张知识图，存下来。一旦编好，你再问它问题，查询都是毫秒级的，而且它支持 158 种语言，号称能省下 99% 的 token 开销。它本身就是一个独立的程序，不需要装一堆依赖，部署起来特别简单。这对那些天天要和 AI 助手打交道，又受够了每次上传代码都像第一次见面一样漫长的开发者来说，简直是治本。它把“理解代码”这件事，从 AI 的临时工作，变成了基础设施。你有没有觉得，让 AI 反复“看懂”同一个项目，是目前对话式编程最大的浪费？",
       "tags": [
-        "代码工具",
+        "代码索引",
         "MCP",
+        "性能",
         "知识图谱",
-        "代码搜索",
-        "性能优化",
-        "静态分析",
-        "开发效率",
-        "单体二进制",
-        "零依赖",
-        "AI辅助开发"
-      ]
-    },
-    {
-      "topic": "编码代理平台",
-      "repo": "Kilo-Org/kilocode",
-      "cover_line1": "一体化AI编码代理平台",
-      "cover_line2": "今日涨1339星",
-      "body": "现在想用AI写代码，你可能得同时开好几个工具：一个聊天机器人，一个代码补全插件，一个代码检查工具。Kilo想把这些事都拢到一块。它自称是一个“一体化代理工程平台”，目标是让你用AI更快地构建、发布和迭代软件。它提供了一个集成的环境，你可以在里面和AI对话生成代码，让AI帮你检查、修改，然后直接运行和调试。它今天的增长很猛，一天涨了超过一千颗星，说明很多开发者正在寻找这种整合方案。它的价值在于减少了在不同工具间切换的摩擦。但“代理”这个词有点宽泛，它实际能做到多“自主”？是只能按你说的改改函数，还是能自己规划一个新功能的实现步骤？这决定了它到底是一个好用的助手，还是一个真正的协作伙伴。",
-      "tags": [
-        "AI编程",
-        "开发平台",
-        "代理",
-        "代码生成",
-        "集成环境",
-        "效率工具",
+        "开发者工具",
+        "C语言",
         "开源",
-        "TypeScript",
-        "软件工程",
-        "生产力"
+        "AI编程",
+        "效率",
+        "基础设施"
       ]
     },
     {
-      "topic": "时间序列预测模型",
+      "topic": "时间序列预测",
       "repo": "google-research/timesfm",
-      "cover_line1": "谷歌研发的时间序列基础模型",
-      "cover_line2": "专门预测股价销量等数据",
-      "body": "预测未来几天的销售额、服务器负载或者股价走势，这种事以前得找算法工程师手动调模型，费时费力。谷歌研究院搞了个叫TimesFM的模型，想把这个过程变得像用ChatGPT一样简单。它是一个“时间序列基础模型”，意思是谷歌用海量的不同时间序列数据（比如天气、销售、网络流量等）预先训练好了它。你拿到这个模型后，不用从零开始教它，只需要给它你自己的历史数据，它就能直接用于预测。这有点像大语言模型读了互联网上的所有文字，所以懂语言；这个模型读了海量的时间序列数据，所以懂“变化规律”。它的核心价值是降低了预测的门槛。不过，基础模型好不好用，关键看它在你那个具体领域（比如预测某种小众商品的销量）上的表现，能不能比得上专门为这个领域优化过的传统模型。谷歌的模型，最终还得在你的数据上跑跑看。",
+      "cover_line1": "谷歌开源时间序列预测模型",
+      "cover_line2": "预训练模型直接用，省掉训练",
+      "body": "做预测的都知道，时间序列数据又多又杂，天气、股票、服务器负载，每个模型基本都要从头训练。谷歌研究团队搞了个 TimesFM，意思是“时间序列基础模型”。它的思路和 GPT 类似，先用海量数据预训练一个通用模型，之后你拿到自己的数据，不用从头训练，稍微调一调就能用。这个模型现在有两万三千多个星星，关注度不低。它的价值在于，把预测这个任务的门槛砍掉了一大截。以前你得是懂算法的工程师，现在可能业务分析师也能试试。它帮你省掉了最耗时、最依赖经验的“从零搭建”阶段。当预测变得像调用一个 API 那样简单，业务决策的速度会不会因此快一个量级？",
       "tags": [
         "时间序列",
-        "预测模型",
+        "预测",
+        "谷歌",
         "基础模型",
-        "谷歌研究",
-        "Python",
+        "预训练",
+        "开源",
         "机器学习",
-        "数据科学",
-        "人工智能",
-        "开源模型",
-        "Forecasting"
+        "数据分析",
+        "AI模型",
+        "降门槛"
       ]
     },
     {
-      "topic": "轻量级向量数据库",
-      "repo": "alibaba/zvec",
-      "cover_line1": "阿里巴巴开源的进程内向量数据库",
-      "cover_line2": "轻量快速，跑在你的程序里",
-      "body": "现在搞AI应用，特别是做语义搜索或者推荐系统，经常需要存和查向量。市面上向量数据库很多，但大多是个单独的服务器，需要部署和维护。阿里开源的zvec不一样，它是一个“进程内”数据库。意思是，你可以把它当成一个库，直接嵌入到你自己的应用程序里运行，数据就存在你程序的内存里。这样做的最大好处是快，没有网络开销。它主打“轻量”和“闪电般快速”，适合那些数据量不是特别巨大，但对响应延迟要求极高的场景，比如一个实时聊天机器人的上下文匹配。不过，既然是在进程里，它的数据容量和持久化能力就得看你服务器的内存和怎么设计存储了。它今天涨了三百多星，说明开发者对这种“嵌入式”AI组件的需求在增长。问题是，在什么场景下，你会觉得一个嵌入在自己程序里的数据库，比调用一个独立的数据库服务更合适？",
+      "topic": "全栈开发平台",
+      "repo": "Kilo-Org/kilocode",
+      "cover_line1": "一个集成AI的工程平台",
+      "cover_line2": "帮开发者更快构建和部署应用",
+      "body": "Kilocode 想把自己打造成一个“全能工程平台”。它集成了现在最火的开源编程 AI 代理，目标不是帮你写几行代码，而是想加速“构建、发布和迭代”这整个软件工程循环。简单说，它可能帮你管理代码、运行测试、部署上线，并且让 AI 参与到这些流程里，自动处理一些重复或模式化的工作。今天它涨了一千三百多星，说明很多人在找这样的整合方案。现在开发者手头工具太多，东一个西一个，Kilocode 想提供一个一站式的选择，把流程串起来。它背后的想法是：AI 不应该是写代码的另一个独立工具，而应该融入到从想法到上线的每一步里。如果一个平台真能把开发、测试、部署和 AI 协作无缝捏在一起，我们离“用想法直接做产品”的理想，是更近了还是更依赖复杂工具链了？",
       "tags": [
-        "向量数据库",
-        "嵌入式",
-        "阿里巴巴",
-        "C++",
-        "高性能",
-        "内存数据库",
-        "AI基础设施",
-        "轻量级",
-        "进程内",
-        "实时应用"
+        "开发平台",
+        "全栈",
+        "AI代理",
+        "DevOps",
+        "开发者工具",
+        "自动化",
+        "开源",
+        "软件工程",
+        "效率",
+        "集成"
       ]
     }
   ],
@@ -223,7 +212,6 @@
     "assets/2026-06-19/trending/summary.png",
     "assets/2026-06-19/trending/post1.png",
     "assets/2026-06-19/trending/post2.png",
-    "assets/2026-06-19/trending/post3.png",
-    "assets/2026-06-19/trending/post4.png"
+    "assets/2026-06-19/trending/post3.png"
   ]
 }
