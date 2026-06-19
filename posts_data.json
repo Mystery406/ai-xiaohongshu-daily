@@ -1,89 +1,89 @@
 {
-  "date": "2026-06-18",
+  "date": "2026-06-19",
   "posts": [
     {
-      "topic": "OpenAI亏损",
-      "cover_line1": "OpenAI财务文件泄露",
-      "cover_line2": "显示年亏损达数十亿美元",
-      "body": "一份泄露的内部财务文件，把OpenAI的账本摊开在了大家面前。文件显示，这家最火的AI公司去年亏了大约50亿美元，今年可能亏得更多。它赚的钱主要靠ChatGPT的订阅和API调用，但这部分收入（大概30-40亿美元）根本填不上研发和运行AI模型的巨大开销——光是给模型找答案，一年就要烧掉超过50亿美元的算力钱。这就像开了一家生意爆满的餐厅，但食材和厨房的成本比营收还高，卖得越多亏得越狠。所以你能看到它急着推出更贵的服务、想卖更多订阅，就是为了尽快止血。但市场和投资人现在都在看，这种用巨额亏损换来的技术领先，到底还能烧多久？",
+      "topic": "How Japan's railways",
+      "cover_line1": "How Japan'",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**How Japan's railways stayed one while splitting apart**\n\n📌 来源：HackerNews\n🔗 https://arun.is/blog/jr-logo/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "OpenAI",
-        "财务",
-        "亏损",
-        "AI行业",
-        "商业模式",
-        "算力",
-        "成本",
-        "ChatGPT",
-        "融资",
-        "估值"
-      ]
-    },
-    {
-      "topic": "开源模型GLM-5.2",
-      "cover_line1": "GLM-5.2成开源模型新王",
-      "cover_line2": "在Artificial Analysis排行榜登顶",
-      "body": "开源模型里，现在跑得最快、脑子最好的是智谱AI的GLM-5.2。在权威的Artificial Analysis智能排行榜上，它超过了之前的第一名，成了新的开源模型冠军。这个榜单不是看谁参数多，而是实打实地测试模型的理解、推理、写代码这些真本事。这意味着，对于开发者、公司来说，如果你不想把数据和命脉交给别人的闭源模型，现在有了一个更强、更自主的选择。开源阵营的追赶速度快得吓人，闭源模型的技术护城河，看起来正在被一点点填平。当最强的模型可以免费用的时候，AI应用的爆发会不会来得更猛烈一些？",
-      "tags": [
-        "GLM-5.2",
-        "智谱AI",
-        "开源模型",
-        "AI排行榜",
-        "大模型",
-        "基准测试",
+        "AI",
         "人工智能",
-        "技术突破",
-        "AI竞争",
-        "开发者"
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "开源AI设计工具",
-      "cover_line1": "开源CAD工具Adam发布",
-      "cover_line2": "用自然语言就能画草图建模",
-      "body": "一个叫Adam的开源项目，想用AI彻底改变工程师画图的方式。以前用CAD软件，你得记一堆按钮和命令，现在你只需要用大白话告诉Adam你想画什么，比如“一个带圆角的长方体，开个5毫米的孔”，它就能帮你把草图和3D模型初步建出来。它背后是个叫CADAM的引擎，专门为工程设计优化。这还只是个开始，目标是让人用聊天的方式就能完成复杂的设计任务。对于无数搞机械、建筑、产品设计的人来说，这或许能省下大量重复劳动的时间。不过，AI生成的模型能达到生产级精度要求吗？设计师的审美和经验，又该怎么塞进对话框里？",
+      "topic": "Flexport (YC W14) Is",
+      "cover_line1": "Flexport (",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand**\n\n📌 来源：HackerNews\n🔗 https://www.flexport.com/company/careers/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "Adam",
-        "CAD",
-        "AI设计",
-        "开源",
-        "自然语言处理",
-        "3D建模",
-        "工程软件",
-        "生产力工具",
-        "YC",
-        "W25"
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "机器人用谁的大脑",
-      "cover_line1": "机器人的AI大脑该选谁",
-      "cover_line2": "OpenRouter测试Claude与Grok",
-      "body": "如果一个机器人冲着你跑过来，你肯定希望它聪明又可靠。但给机器人当“大脑”的AI，该选谁家的？OpenRouter做了一场有趣的测试，让机器人在不同场景下运行Claude和Grok模型，看看谁的反应更合理、决策更靠谱。这其实戳到了一个很实际的问题：AI的能力不仅体现在聊天回答问题上，当它需要控制物理设备，在真实世界里行动和做决定时，哪个模型更稳定、更懂安全？这不再是实验室里的榜单比拼，而是关乎实际应用的可靠性。未来具身智能（也就是有身体的AI）时代，什么样的大模型才算合格？",
+      "topic": "Launch HN: TesterArm",
+      "cover_line1": "Launch HN:",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps**\n\n📌 来源：HackerNews\n🔗 https://tester.army\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "机器人",
-        "具身智能",
-        "Claude",
-        "Grok",
-        "AI模型",
-        "OpenRouter",
-        "模型评测",
-        "AI安全",
-        "应用落地",
-        "决策"
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "Noam Shazeer Joins O",
+      "cover_line1": "Noam Shaze",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Noam Shazeer Joins OpenAI**\n\n📌 来源：HackerNews\n🔗 https://twitter.com/NoamShazeer/status/2067400851438932297\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-18/cover1.png",
-    "assets/2026-06-18/cover2.png",
-    "assets/2026-06-18/cover3.png",
-    "assets/2026-06-18/cover4.png"
+    "assets/2026-06-19/cover1.png",
+    "assets/2026-06-19/cover2.png",
+    "assets/2026-06-19/cover3.png",
+    "assets/2026-06-19/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-06-18/cover1_feishu.png",
-    "assets/2026-06-18/cover2_feishu.png",
-    "assets/2026-06-18/cover3_feishu.png",
-    "assets/2026-06-18/cover4_feishu.png"
+    "assets/2026-06-19/cover1_feishu.png",
+    "assets/2026-06-19/cover2_feishu.png",
+    "assets/2026-06-19/cover3_feishu.png",
+    "assets/2026-06-19/cover4_feishu.png"
   ]
 }
