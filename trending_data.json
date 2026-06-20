@@ -8,7 +8,7 @@
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
       "stars_today": "1,055 stars today",
-      "stars_total": "7,816"
+      "stars_total": "8,201"
     },
     {
       "name": "google-research/timesfm",
@@ -16,7 +16,7 @@
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "stars_today": "1,516 stars today",
-      "stars_total": "23,943"
+      "stars_total": "24,074"
     },
     {
       "name": "palmier-io/palmier-pro",
@@ -24,31 +24,31 @@
       "description": "macOS video editor built for AI",
       "language": "Swift",
       "stars_today": "749 stars today",
-      "stars_total": "1,575"
+      "stars_total": "1,880"
     },
     {
       "name": "koala73/worldmonitor",
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars_today": "133 stars today",
-      "stars_total": "56,989"
+      "stars_today": "300 stars today",
+      "stars_total": "57,221"
     },
     {
       "name": "aishwaryanr/awesome-generative-ai-guide",
       "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
       "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
       "language": "HTML",
-      "stars_today": "203 stars today",
-      "stars_total": "27,499"
+      "stars_today": "155 stars today",
+      "stars_total": "27,608"
     },
     {
       "name": "BuilderIO/agent-native",
       "url": "https://github.com/BuilderIO/agent-native",
       "description": "A framework for building agent-native applications.",
       "language": "TypeScript",
-      "stars_today": "172 stars today",
-      "stars_total": "904"
+      "stars_today": "210 stars today",
+      "stars_total": "1,031"
     },
     {
       "name": "chopratejas/headroom",
@@ -56,15 +56,15 @@
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
       "stars_today": "3,938 stars today",
-      "stars_total": "37,437"
+      "stars_total": "38,622"
     },
     {
       "name": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_today": "738 stars today",
-      "stars_total": "6,040"
+      "stars_today": "236 stars today",
+      "stars_total": "6,270"
     },
     {
       "name": "zai-org/GLM-5",
@@ -72,7 +72,7 @@
       "description": "GLM-5: From Vibe Coding to Agentic Engineering",
       "language": "",
       "stars_today": "478 stars today",
-      "stars_total": "4,421"
+      "stars_total": "4,574"
     },
     {
       "name": "withastro/flue",
@@ -80,7 +80,7 @@
       "description": "The sandbox agent framework.",
       "language": "TypeScript",
       "stars_today": "305 stars today",
-      "stars_total": "5,728"
+      "stars_total": "5,828"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
       "stars_today": "1,055 stars today",
-      "stars_total": "7,816"
+      "stars_total": "8,201"
     },
     {
       "name": "google-research/timesfm",
@@ -98,7 +98,7 @@
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "stars_today": "1,516 stars today",
-      "stars_total": "23,943"
+      "stars_total": "24,074"
     },
     {
       "name": "palmier-io/palmier-pro",
@@ -106,31 +106,31 @@
       "description": "macOS video editor built for AI",
       "language": "Swift",
       "stars_today": "749 stars today",
-      "stars_total": "1,575"
+      "stars_total": "1,880"
     },
     {
       "name": "koala73/worldmonitor",
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars_today": "133 stars today",
-      "stars_total": "56,989"
+      "stars_today": "300 stars today",
+      "stars_total": "57,221"
     },
     {
       "name": "aishwaryanr/awesome-generative-ai-guide",
       "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
       "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
       "language": "HTML",
-      "stars_today": "203 stars today",
-      "stars_total": "27,499"
+      "stars_today": "155 stars today",
+      "stars_total": "27,608"
     },
     {
       "name": "BuilderIO/agent-native",
       "url": "https://github.com/BuilderIO/agent-native",
       "description": "A framework for building agent-native applications.",
       "language": "TypeScript",
-      "stars_today": "172 stars today",
-      "stars_total": "904"
+      "stars_today": "210 stars today",
+      "stars_total": "1,031"
     },
     {
       "name": "chopratejas/headroom",
@@ -138,15 +138,15 @@
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
       "stars_today": "3,938 stars today",
-      "stars_total": "37,437"
+      "stars_total": "38,622"
     },
     {
       "name": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_today": "738 stars today",
-      "stars_total": "6,040"
+      "stars_today": "236 stars today",
+      "stars_total": "6,270"
     },
     {
       "name": "zai-org/GLM-5",
@@ -154,7 +154,7 @@
       "description": "GLM-5: From Vibe Coding to Agentic Engineering",
       "language": "",
       "stars_today": "478 stars today",
-      "stars_total": "4,421"
+      "stars_total": "4,574"
     },
     {
       "name": "withastro/flue",
@@ -162,84 +162,84 @@
       "description": "The sandbox agent framework.",
       "language": "TypeScript",
       "stars_today": "305 stars today",
-      "stars_total": "5,728"
+      "stars_total": "5,828"
     }
   ],
   "posts": [
     {
       "topic": "Token压缩工具",
       "repo": "chopratejas/headroom",
-      "cover_line1": "给LLM的工具输出压缩",
-      "cover_line2": "省60-95%的token",
-      "body": "有个新工具叫Headroom，专门干一件事：在日志、文件、工具输出这些乱七八糟的东西扔给大模型之前，先把它压扁。它不是一个模糊的概念，它有具体数字：能省60%到95%的token。想想看，你给AI一个几百行的日志文件，它可能直接压缩到二三十行，但关键信息还在，答案不变。它实现的方式很多，可以作为库嵌入你的代码，可以当代理，甚至可以作为一个MCP服务器运行。这意味着，不管你的工作流是怎样的，几乎都能接进去。这解决了一个真实痛点：大模型处理长文本又慢又贵，而且很多信息本身就是重复或无用的。它的思路不是让模型更聪明，而是先给模型减负。今天它涨了将近四千个星，说明大家苦token久矣。但压缩比例这么大，你怎么判断哪些信息是真正‘无用’的？会不会有时压缩过度，反而把模型需要的关键上下文弄丢了？",
+      "cover_line1": "压缩工具输出给LLM看",
+      "cover_line2": "工具日志RAG省60-95% token",
+      "body": "喂给AI的工具日志、文件内容、RAG片段，大部分是它早就知道或重复的废话。headroom干的事，就是在把这些东西送进大模型前，用一套专门的压缩器过一遍，砍掉那些不影响意思的冗余。它说能减少60-95%的token，答案质量不变。一个API调用里，工具返回的日志可能压掉85%，RAG检索来的文本压掉65%，代码文档压掉70%。开发者最直接的感受就是账单变少了，响应也可能更快。它提供三种用法：一个Python库，一个代理服务器，还能作为MCP服务器集成。当然，压缩不是无脑的，你得确保压完之后AI还能看懂关键指令。这玩意儿本质上是在做「给AI看的文字质检」，把水分挤干。如果你的应用重度依赖工具调用或长上下文，省下的真金白银会很明显。但反过来想，有没有一些文本，其实是你为了凑格式或习惯塞进去的、根本没必要让AI看的？",
       "tags": [
-        "LLM",
-        "Token优化",
-        "AI工具",
-        "开发者工具",
-        "效率",
-        "成本控制",
+        "LLM优化",
+        "Token经济",
         "MCP",
+        "RAG",
+        "开发者工具",
+        "成本节约",
         "Python",
-        "库",
-        "代理"
+        "API代理",
+        "上下文压缩",
+        "代码工具"
       ]
     },
     {
-      "topic": "谷歌时序预测模型",
-      "repo": "google-research/timesfm",
-      "cover_line1": "谷歌的时间序列预测模型",
-      "cover_line2": "能预测明天、下周、明年",
-      "body": "谷歌研究院发布了一个叫TimesFM的时间序列基础模型。‘基础模型’意味着它不是为某个特定任务（比如预测股票或气温）单独训练的，而是像GPT一样，在海量不同的时间序列数据上预先训练好，然后再用到具体的预测任务上。它的价值在于通用性。你可能有销售数据、服务器负载数据、传感器数据，格式和规律都不同，以前可能需要为每个数据集单独训练或调整模型。TimesFM的思路是，用一个‘见过世面’的通用模型来做这个事。它今天涨了一千五百多星，说明大家对这种‘一个模型解决多种时序问题’的期待很高。它由谷歌官方维护，数据和研究都比较扎实。但问题也来了：时序数据领域很多，有些高度专业（比如金融高频数据、医疗监测波形），一个通用模型真的能在所有领域都比得上那些精心调教过的专用模型吗？",
-      "tags": [
-        "时间序列",
-        "预测模型",
-        "谷歌研究",
-        "基础模型",
-        "AI研究",
-        "机器学习",
-        "Python",
-        "开源",
-        "通用模型",
-        "数据预测"
-      ]
-    },
-    {
-      "topic": "代码智能服务器",
+      "topic": "代码索引知识图谱",
       "repo": "DeusData/codebase-memory-mcp",
-      "cover_line1": "快速索引代码库的MCP服务器",
-      "cover_line2": "毫秒查询省99% token",
-      "body": "这个叫codebase-memory-mcp的项目，做了一件很实在的事：把你的整个代码仓库，快速地变成一张知识图谱，然后存下来。它快到什么程度？索引一个普通仓库以毫秒计，查询也是亚毫秒级。这意味着AI助手（比如你的Copilot）在回答问题前，不用每次重新‘阅读’整个代码库，而是直接查这个预存好的、结构化的‘地图’。支持158种语言，基本覆盖了主流和非主流。它把自己打包成一个单独的静态文件，没有乱七八糟的依赖，部署起来应该很简单。它的核心价值是让AI理解你的代码上下文变得极其便宜和快速。开发者和AI工具的交互中，token消耗大头常常就是‘喂’上下文，这个工具直接砍掉99%。它是一个MCP服务器，意思是它遵循一个通用协议，理论上能接入各种支持这个协议的AI工具。但构建这张‘知识图谱’的过程，对不同编程语言的语法和逻辑理解深度够不够？会不会丢失一些只有开发者才懂的隐性关系？",
+      "cover_line1": "高性能代码索引服务器",
+      "cover_line2": "158种语言，毫秒级索引",
+      "body": "让AI助手理解一个庞大代码库很难，因为代码不是线性文本，里面满是函数调用、依赖关系和类型。这个用C写的服务叫codebase-memory-mcp，它把整个代码仓库索引成一张「知识图谱」。索引过程很快，中等大小的仓库毫秒级搞定。查询也是亚毫秒级，比如问「哪个函数用了这个类？」，它能立刻从图谱里把相关节点捞出来。它支持158种编程语言，以一个单独的静态二进制文件分发，不用装一堆依赖。核心价值在于，它能理解代码间的深层关系，而不仅仅是文本匹配。这比让大模型自己去读代码、再推理要快得多，也准得多。它作为MCP（Model Context Protocol）服务器运行，意味着它可以无缝接入支持MCP的AI开发工具链。不过，图谱的构建和更新策略会影响它对实时代码变化的敏感度，对于超大型仓库，图谱的存储和查询优化也是需要考虑的。除了跳转定义，代码导航工具最该做对的到底是什么？",
       "tags": [
         "代码智能",
-        "MCP",
         "知识图谱",
-        "AI助手",
+        "MCP",
         "开发者工具",
-        "性能优化",
         "C语言",
-        "开源",
-        "代码理解",
-        "上下文"
+        "高性能",
+        "代码分析",
+        "IDE",
+        "多语言支持",
+        "静态二进制"
+      ]
+    },
+    {
+      "topic": "时间序列预测模型",
+      "repo": "google-research/timesfm",
+      "cover_line1": "Google时间序列预测模型",
+      "cover_line2": "2.4万星，专做预测",
+      "body": "预测销量、服务器负载、股价走势这类随时间变化的数据，传统方法很麻烦，换种数据就得调参甚至换模型。Google Research搞的TimesFM，是一个「预训练」的时间序列基础模型。意思就是，它先用海量的、各种类型的时间序列数据（比如经济指标、传感器读数）学会了怎么预测，然后你拿去用，不用从头训练。它本身就是为预测这个单一任务设计的。这个项目在GitHub上有两万四千多星，说明需求很大。它的价值在于提供了一个通用的起点，你可能只需要微调一下，就能让它适合你的具体数据。但「基础模型」也意味着它可能不如一个专门为你的数据训练的模型那么精准。它更像一个聪明的通才，快速给你一个相当不错的基准。时间序列数据五花八门，一个用公开数据训练出来的通用模型，在你那个充满噪声的特定业务数据上，真的能扛得住吗？",
+      "tags": [
+        "时间序列",
+        "预测",
+        "基础模型",
+        "Google",
+        "机器学习",
+        "Python",
+        "预训练",
+        "数据科学",
+        "通用模型",
+        "开源AI"
       ]
     },
     {
       "topic": "开源视频制作系统",
       "repo": "calesthio/OpenMontage",
       "cover_line1": "开源AI视频制作系统",
-      "cover_line2": "52个工具，500+技能",
-      "body": "OpenMontage的目标很明确：让你手里的AI编码助手（比如Cursor、Copilot）变成一个视频剪辑师。它不是又一个AI生成视频的工具，而是一个把视频生产过程‘工程化’的系统。它提供了12条流水线，52个独立工具，以及超过500个具体的‘技能’（agent skills）。这意味着，你可以用自然语言告诉你的AI助手‘把这段采访视频里所有笑声剪出来，加上字幕，背景音乐调低’，它就能调用对应的工具链去完成。它声称是第一个开源的、代理式的视频生产系统。今天涨了七百多星，说明大家对‘用写代码的方式做视频’这个想法感兴趣。它的架构看起来很像一个给AI用的视频制作工具箱。但问题是，视频处理对计算资源和编码格式的要求非常专业，这套由代码构建的流水线，在稳定性和输出质量上，真的能媲美传统的非编软件吗？那些‘技能’是定义好的动作，还是AI可以自行组合来完成更复杂的、未预设的创意剪辑？",
+      "cover_line2": "500+技能，AI助手变工作室",
+      "body": "想用AI做视频，不是只会生成图片就行的，得有剪辑、配音、加字幕、调色这些流水线。OpenMontage就是想把这套复杂的视频制作流程，变成一套开源的、AI能操作的工作流。它定义了12个阶段，从脚本到发布，提供了52个工具和500多个「代理技能」。你可以把它理解成一个给AI代理用的「视频制作车间」的蓝图和工具箱。理论上，你可以指挥一个AI编码助手，调用这些技能，来完成从创意到成片的部分工作。236颗星的上升速度，说明大家想看看这个「全栈AI视频」怎么落地。它目前更偏重于流程和能力的定义与集成，实际生成的视频质量，还高度依赖你用的底层AI模型（比如生成片段、配音的大模型）。版权和素材来源也是个现实问题。如果AI真的能半自动地完成剪辑、包装这些苦力活，那创作者真正需要捍卫和投入创造力的核心是什么？",
       "tags": [
-        "视频制作",
-        "AI创作",
-        "开源工具",
-        "代理系统",
-        "内容生产",
-        "多媒体",
+        "视频生成",
+        "AI代理",
+        "开源",
         "Python",
-        "AI助手",
-        "自动化",
-        "生产力"
+        "创意工具",
+        "工作流自动化",
+        "多模态AI",
+        "内容创作",
+        "框架",
+        "视频编辑"
       ]
     }
   ],
