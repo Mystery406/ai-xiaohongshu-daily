@@ -1,89 +1,89 @@
 {
-  "date": "2026-06-21",
+  "date": "2026-06-22",
   "posts": [
     {
-      "topic": "Slow breathing modul",
-      "cover_line1": "Slow breat",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Slow breathing modulates brain function and risk behavior**\n\n📌 来源：HackerNews\n🔗 https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9\n\n关注我，每天第一时间 AI 动态 👇",
+      "topic": "Claude身份验证",
+      "cover_line1": "Claude开始验证用户身份",
+      "cover_line2": "平台更新后强制执行",
+      "body": "Anthropic现在要求Claude用户进行身份验证。这不是一个建议，而是平台更新后的一个强制步骤。你需要提供姓名和出生日期，用于平台安全与合规。这个消息在HackerNews上引起了很大反响，得分超过500，评论区里很多用户在讨论其必要性和对隐私的影响。对于习惯了即开即用的用户来说，这是一个需要适应的变化。Anthropic官方解释这是为了遵守相关法规并保护社区安全。但这也引发了一个问题：当AI助手越来越深入我们的日常生活，为了安全和合规，我们愿意交换多少个人信息？",
       "tags": [
-        "AI",
-        "人工智能",
-        "大模型",
-        "科技",
-        "每日热点",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "Claude",
+        "身份验证",
+        "Anthropic",
+        "AI安全",
+        "用户隐私",
+        "平台政策",
+        "合规",
+        "HackerNews",
+        "热门话题",
+        "2026"
       ]
     },
     {
-      "topic": "Semiconductor Lifeli",
-      "cover_line1": "Semiconduc",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Semiconductor Lifeline Keeps Fighter Jets in the Air**\n\n📌 来源：HackerNews\n🔗 https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems\n\n关注我，每天第一时间 AI 动态 👇",
+      "topic": "Recall本地记忆工具",
+      "cover_line1": "给Claude Code加本地记忆",
+      "cover_line2": "项目上下文不再丢失",
+      "body": "有个开发者在GitHub上发了Recall这个工具，专门为Claude Code设计。它解决一个很实际的问题：你和Claude Code聊了大半天，关了对话，下次再开，它又忘光了。Recall的做法很直接，它把你们之前的对话和关键信息，全部存在你本地电脑的一个文件里。下次你打开同一个项目，Recall自动把这些记忆喂给Claude，让它能接着上次的进度干活。这就像给AI助手装了一个不怕清空的笔记本。对于靠AI编程的人来说，这能省下大量重复解释上下文的时间。工具刚发布，代码开源在GitHub，你可以自己试试看。你觉得，这种为特定AI工具补足记忆的“外挂”，会成为未来开发者的标配吗？",
       "tags": [
-        "AI",
-        "人工智能",
-        "大模型",
-        "科技",
-        "每日热点",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "Claude Code",
+        "Recall",
+        "本地记忆",
+        "开发工具",
+        "开源",
+        "GitHub",
+        "效率",
+        "AI编程",
+        "上下文",
+        "外挂工具"
       ]
     },
     {
-      "topic": "Loupe – A iOS app th",
-      "cover_line1": "Loupe – A ",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Loupe – A iOS app that raises awareness about what native apps can see**\n\n📌 来源：HackerNews\n🔗 https://github.com/mysk-research/loupe\n\n关注我，每天第一时间 AI 动态 👇",
+      "topic": "Apertus开源主权模型",
+      "cover_line1": "开源新模型Apertus发布",
+      "cover_line2": "主打“主权AI”概念",
+      "body": "Apertus是一个新发布的开源基础模型。它不只是又一个开源模型，官方特别强调了“Sovereign AI”（主权AI）这个概念。简单说，就是希望各个国家或地区，能基于Apertus这样一个开放的底座，去训练和拥有完全受自己控制的AI系统，而不必依赖国外的闭源服务。模型的具体参数和性能细节还需要看后续文档，但这个定位很清晰，瞄准了当前全球对AI技术控制权的关切。在开源模型遍地开花的今天，如何让技术真正服务于地区的自主需求，而不仅仅是降低使用成本，Apertus想走一条不同的路。当开源模型越来越强，你认为一个地区发展“主权AI”的最大挑战会是数据、算力，还是人才？",
       "tags": [
-        "AI",
-        "人工智能",
-        "大模型",
-        "科技",
-        "每日热点",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "Apertus",
+        "开源模型",
+        "主权AI",
+        "基础模型",
+        "发布",
+        "AI治理",
+        "技术自主",
+        "开源",
+        "主权",
+        "模型发布"
       ]
     },
     {
-      "topic": "Temporary Cloudflare",
-      "cover_line1": "Temporary ",
-      "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Temporary Cloudflare accounts for AI agents**\n\n📌 来源：HackerNews\n🔗 https://blog.cloudflare.com/temporary-accounts/\n\n关注我，每天第一时间 AI 动态 👇",
+      "topic": "转向开源模型",
+      "cover_line1": "博客讨论转向开源模型",
+      "cover_line2": "称“几乎没有坏处”",
+      "body": "一篇题为《转向开源模型几乎没有坏处》的博客文章，在HackerNews上引发了讨论。作者的观点很明确：对于大多数用例，尤其是企业应用，现在从闭源商业模型切换到成熟的开源模型，风险很小，好处却很多。好处包括成本可控、数据隐私有保障、可定制性强。文章的论据可能来自对当前开源模型能力的观察。虽然文章得分不高，只有14分，但它代表了一种值得关注的动向——越来越多的实践者开始重新评估闭源服务的必要性。这不仅仅是技术选择，更关系到商业策略和长期的技术栈把控。如果开源模型真的足够好，你所在的团队或公司，会考虑因为“数据不出服务器”这个理由而全面切换吗？",
       "tags": [
-        "AI",
-        "人工智能",
-        "大模型",
-        "科技",
-        "每日热点",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "开源模型",
+        "闭源模型",
+        "技术选型",
+        "成本",
+        "数据隐私",
+        "企业应用",
+        "博客",
+        "观点",
+        "迁移",
+        "2026"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-21/cover1.png",
-    "assets/2026-06-21/cover2.png",
-    "assets/2026-06-21/cover3.png",
-    "assets/2026-06-21/cover4.png"
+    "assets/2026-06-22/cover1.png",
+    "assets/2026-06-22/cover2.png",
+    "assets/2026-06-22/cover3.png",
+    "assets/2026-06-22/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-06-21/cover1_feishu.png",
-    "assets/2026-06-21/cover2_feishu.png",
-    "assets/2026-06-21/cover3_feishu.png",
-    "assets/2026-06-21/cover4_feishu.png"
+    "assets/2026-06-22/cover1_feishu.png",
+    "assets/2026-06-22/cover2_feishu.png",
+    "assets/2026-06-22/cover3_feishu.png",
+    "assets/2026-06-22/cover4_feishu.png"
   ]
 }
