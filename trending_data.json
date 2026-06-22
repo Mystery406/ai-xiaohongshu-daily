@@ -1,86 +1,86 @@
 {
-  "date": "2026-06-21",
-  "slot": "晚报",
+  "date": "2026-06-22",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "palmier-io/palmier-pro",
       "url": "https://github.com/palmier-io/palmier-pro",
       "description": "macOS video editor built for AI",
       "language": "Swift",
-      "stars_today": "1,829 stars today",
-      "stars_total": "4,409"
+      "stars_today": "1,834 stars today",
+      "stars_total": "5,050"
     },
     {
       "name": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_today": "993 stars today",
-      "stars_total": "7,900"
+      "stars_today": "987 stars today",
+      "stars_total": "8,644"
     },
     {
       "name": "chopratejas/headroom",
       "url": "https://github.com/chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_today": "2,617 stars today",
-      "stars_total": "43,316"
+      "stars_today": "2,624 stars today",
+      "stars_total": "44,276"
     },
     {
       "name": "tursodatabase/turso",
       "url": "https://github.com/tursodatabase/turso",
       "description": "Turso is an in-process SQL database, compatible with SQLite.",
       "language": "Rust",
-      "stars_today": "543 stars today",
-      "stars_total": "20,622"
+      "stars_today": "548 stars today",
+      "stars_total": "20,788"
     },
     {
       "name": "penpot/penpot",
       "url": "https://github.com/penpot/penpot",
       "description": "Penpot: The open-source design tool for design and code collaboration",
       "language": "Clojure",
-      "stars_today": "1,131 stars today",
-      "stars_total": "51,989"
+      "stars_today": "1,135 stars today",
+      "stars_total": "52,205"
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
-      "stars_today": "519 stars today",
-      "stars_total": "44,100"
+      "stars_today": "568 stars today",
+      "stars_total": "44,392"
     },
     {
       "name": "koala73/worldmonitor",
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars_today": "633 stars today",
-      "stars_total": "57,830"
+      "stars_today": "163 stars today",
+      "stars_total": "58,048"
     },
     {
       "name": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
-      "stars_today": "415 stars today",
-      "stars_total": "72,318"
+      "stars_today": "442 stars today",
+      "stars_total": "72,551"
     },
     {
       "name": "DeusData/codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_today": "1,029 stars today",
-      "stars_total": "9,934"
+      "stars_today": "1,032 stars today",
+      "stars_total": "10,228"
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
       "language": "Python",
-      "stars_today": "343 stars today",
-      "stars_total": "17,359"
+      "stars_today": "361 stars today",
+      "stars_total": "17,664"
     }
   ],
   "ai_repos": [
@@ -89,149 +89,149 @@
       "url": "https://github.com/palmier-io/palmier-pro",
       "description": "macOS video editor built for AI",
       "language": "Swift",
-      "stars_today": "1,829 stars today",
-      "stars_total": "4,409"
+      "stars_today": "1,834 stars today",
+      "stars_total": "5,050"
     },
     {
       "name": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_today": "993 stars today",
-      "stars_total": "7,900"
+      "stars_today": "987 stars today",
+      "stars_total": "8,644"
     },
     {
       "name": "chopratejas/headroom",
       "url": "https://github.com/chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_today": "2,617 stars today",
-      "stars_total": "43,316"
+      "stars_today": "2,624 stars today",
+      "stars_total": "44,276"
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
-      "stars_today": "519 stars today",
-      "stars_total": "44,100"
+      "stars_today": "568 stars today",
+      "stars_total": "44,392"
     },
     {
       "name": "koala73/worldmonitor",
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars_today": "633 stars today",
-      "stars_total": "57,830"
+      "stars_today": "163 stars today",
+      "stars_total": "58,048"
     },
     {
       "name": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
-      "stars_today": "415 stars today",
-      "stars_total": "72,318"
+      "stars_today": "442 stars today",
+      "stars_total": "72,551"
     },
     {
       "name": "DeusData/codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_today": "1,029 stars today",
-      "stars_total": "9,934"
+      "stars_today": "1,032 stars today",
+      "stars_total": "10,228"
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
       "language": "Python",
-      "stars_today": "343 stars today",
-      "stars_total": "17,359"
+      "stars_today": "361 stars today",
+      "stars_total": "17,664"
     }
   ],
   "posts": [
     {
-      "topic": "LLM输出压缩",
+      "topic": "Headroom",
       "repo": "chopratejas/headroom",
-      "cover_line1": "LLM输入内容压缩工具",
-      "cover_line2": "省60%-95% token 答案不变",
-      "body": "你给大模型塞的东西太多了。日志、文件、RAG检索出来的段落、工具返回的结果——这些都在吃你的token预算。headroom干的事很简单：在这些内容到达大模型之前先压一遍，把重复的、啰嗦的、不影响理解的部分砍掉，token用量能砍掉六成到九成半，模型的回答质量基本不变。它提供了三种用法：直接当Python库调，当代理服务器拦截请求，或者作为MCP服务接入。不需要改你现有的代码逻辑，插进去就行。昨天一天涨了2600多星，说明这个痛点确实卡着很多人。用大模型处理长文档或者做RAG的人应该最有感触——token烧得心疼，但又不敢随便删内容怕丢信息。headroom的意思是：你不敢删的，我帮你判断哪些该删。问题是你现在的项目里，哪些内容是喂给模型的废话，你知道吗？",
+      "cover_line1": "压缩AI输入省token",
+      "cover_line2": "最多减95% token",
+      "body": "今天GitHub上一个项目一天涨了2600多星，它解决的问题很实在：AI太贵了。这个叫Headroom的工具，在你把工具输出、日志、文件或者RAG检索块扔给大模型之前，先压缩一下。压缩后，token用量能少60%到95%，但AI给出的答案质量不变。它用Python写的，可以当库直接用，也能做成代理或者MCP服务器，塞进你现有的工作流里不费劲。AI应用最头疼的就是账单，特别是token按量收费，这个工具直接砍成本，还不用你改算法或换模型。想想看，如果你每天跑上万次AI调用，一年能省多少钱？它不是什么黑科技，就是把冗余信息去掉，保留关键内容。开源在GitHub上，你可以自己调压缩比例。现在AI开发都在拼功能，但成本控制才是长久之道。你的AI项目里，输入数据占了多少成本？",
       "tags": [
-        "token优化",
-        "LLM效率",
-        "Python工具",
-        "RAG",
-        "MCP",
-        "成本控制",
-        "AI开发",
-        "开源",
-        "代理服务",
-        "上下文压缩"
+        "ai",
+        "llm",
+        "optimization",
+        "token",
+        "compression",
+        "developer-tools",
+        "open-source",
+        "python",
+        "performance",
+        "cost-saving"
       ]
     },
     {
-      "topic": "代码知识图谱",
-      "repo": "DeusData/codebase-memory-mcp",
-      "cover_line1": "代码库索引成知识图谱的MCP服务",
-      "cover_line2": "158种语言 毫秒级查询 省99%token",
-      "body": "AI编程助手最头疼的事之一就是理解你的代码库。每次问它问题，它都得重新读一遍代码，token哗哗地烧，回答还不一定准。codebase-memory-mcp换了个思路：先把整个代码库解析一遍，存成一张知识图谱，之后AI问什么，直接查图谱，不用再读源码。索引一个普通仓库是毫秒级的事，查询也是毫秒级，token用量直接砍掉99%。支持158种编程语言。它本身是一个MCP服务器，Claude、Cursor这些支持MCP的工具都能直接接。整个东西打包成一个静态二进制文件，零依赖，下载就能跑。用C写的，性能就是它卖点。你想想你平时用AI助手问一个函数在哪里被调用、某个模块的依赖关系是什么，它得花多少token去翻代码。现在这些知识都预先整理好了，查一下就行。你的AI助手到现在还在每次重新读你的代码库吗？",
-      "tags": [
-        "代码智能",
-        "MCP",
-        "知识图谱",
-        "AI编程",
-        "性能优化",
-        "token节省",
-        "C语言",
-        "静态二进制",
-        "代码分析",
-        "开发工具"
-      ]
-    },
-    {
-      "topic": "视频制作Agent系统",
+      "topic": "OpenMontage",
       "repo": "calesthio/OpenMontage",
-      "cover_line1": "开源AI视频制作Agent系统",
-      "cover_line2": "12条流水线 52个工具 500多项技能",
-      "body": "OpenMontage想做的事是把你手边的AI编程助手变成一个完整的视频制作工作室。它不是一个简单的视频剪辑工具，而是一整套Agent系统：12条制作流水线覆盖从脚本到成片的各个环节，52个工具负责具体操作，500多项预置技能让Agent知道怎么干。你可以理解为，它在你的AI助手和视频制作之间搭了一层翻译——你说「帮我做个产品演示视频」，Agent会拆解成镜头规划、素材准备、剪辑、配音、字幕这些步骤，然后调用对应的工具一个个执行。整个系统是开源的，Python写的，昨天涨了将近一千星。视频制作一直是内容创作者的重活，现在AI能写稿、能画画、能配音乐，但把这些串成一个完整的视频生产流程，OpenMontage算是走得最前面的一个开源方案。你有没有想过，如果AI能直接帮你出成片，你还会自己一帧一帧剪吗？",
+      "cover_line1": "开源AI视频制作系统",
+      "cover_line2": "12管道52工具",
+      "body": "一个项目叫OpenMontage，号称是世界第一个开源的、代理式的视频制作系统。它把AI编码助手变成了一个完整的视频工作室，里面有12个制作管道、52个工具，还有超过500项代理技能。用Python写的，今天一天就拿了快1000星。传统视频制作工具要么封闭，要么难用，这个项目直接开源，让你用代码控制整个流程。你可以让AI代理自动剪辑、加特效、配音乐，甚至批量生产视频。它不是玩具，有具体架构：管道负责流水线作业，工具处理细节，技能让代理学会新招。对内容创作者来说，这意味着不用再学复杂软件，用自然语言或脚本就能出片。但问题是，AI生成的视频质量能到什么水平？开源后大家都能改，会不会出现一堆低质内容？它把视频制作门槛拉低了，但创意还是得人来。你有想过用AI批量生产视频吗？",
       "tags": [
-        "视频制作",
-        "AI Agent",
-        "开源系统",
-        "自动化",
-        "内容创作",
-        "Python",
-        "多工具编排",
-        "流水线",
-        "生产效率",
-        "创意工具"
+        "video",
+        "ai",
+        "content-creation",
+        "open-source",
+        "python",
+        "automation",
+        "agent",
+        "tools",
+        "production",
+        "developer"
       ]
     },
     {
-      "topic": "字节SuperAgent",
-      "repo": "bytedance/deer-flow",
-      "cover_line1": "字节开源的长时间任务SuperAgent",
-      "cover_line2": "从研究到编码到创作 跑几分钟到几小时",
-      "body": "字节做的deer-flow解决的是一个AI Agent的老问题：大部分Agent只能处理几秒钟就搞定的小事，遇到要花几小时的大活儿就歇菜了。deer-flow是一个长时任务框架，它能自己研究资料、写代码、做内容，而且能持续工作几分钟到几小时不中断。它靠几样东西撑着：沙盒环境让代码安全运行，记忆系统让Agent不会干着干着忘了前面做了什么，工具集和技能库提供具体能力，子Agent可以分担任务，还有一个消息网关协调各方。整个架构的设计思路是，一个复杂任务会被拆成多个层级，不同层级交给不同的Agent处理。目前已经有72000多星，说明这种能处理长时间复杂任务的Agent框架确实是行业需要的方向。你的AI助手现在能独立完成一个需要两小时的工作吗？",
+      "topic": "Codebase Memory MCP",
+      "repo": "DeusData/codebase-memory-mcp",
+      "cover_line1": "代码库索引成知识图",
+      "cover_line2": "毫秒索引省99% token",
+      "body": "代码智能工具不少，但今天这个项目有点猛：它把整个代码库索引成一个持久的知识图，查询在毫秒内完成。项目叫codebase-memory-mcp，支持158种编程语言，查询速度比眨眼还快，还能省99%的token。它是个MCP服务器，用C写的，单一静态二进制，零依赖，部署简单。开发者经常让AI读代码，但大模型处理长代码费时费钱，这个工具先建好索引，AI需要什么就瞬间拿什么，token用得少，响应还快。想想看，你有个百万行代码的项目，AI助手每次都要扫描一遍，现在有了这个，就像给AI配了个代码图书馆，一问就答。它不是缓存，是真正的知识图谱，能理解代码关系。开源了，你可以自己跑起来，但维护成本会不会高？毕竟知识图要随代码更新。你的AI助手在读代码时，卡顿过吗？",
       "tags": [
-        "字节跳动",
-        "SuperAgent",
-        "长时任务",
-        "Python",
-        "Agent框架",
-        "沙盒",
-        "记忆系统",
-        "子Agent",
-        "自动化",
-        "开源"
+        "code",
+        "ai",
+        "indexing",
+        "knowledge-graph",
+        "developer-tools",
+        "performance",
+        "open-source",
+        "c",
+        "mcp",
+        "efficiency"
+      ]
+    },
+    {
+      "topic": "Palmier Pro",
+      "repo": "palmier-io/palmier-pro",
+      "cover_line1": "macOS视频编辑为AI生",
+      "cover_line2": "今日1834星开源热",
+      "body": "macOS上有个视频编辑器火了，叫Palmier Pro，专门为AI设计。用Swift写的，开源在GitHub上，今天一天就拿了1800多星，总星标过5000。视频编辑软件很多，但这个直接集成AI功能，比如智能剪辑、自动字幕、内容识别，让编辑更省力。它瞄准的是苹果用户，界面原生，性能应该不差。开源意味着你可以自己加AI模型，或者改编辑逻辑。但问题是，视频编辑本来就复杂，加上AI会不会更乱？用户需要学多少新东西？它没透露具体AI技术细节，只是说为AI构建，可能依赖第三方模型。对开发者来说，这是个机会：可以贡献代码，把AI视频编辑变成现实。你用Final Cut Pro或Premiere时，有想让AI帮你自动处理重复操作吗？",
+      "tags": [
+        "video-editor",
+        "ai",
+        "macos",
+        "swift",
+        "open-source",
+        "apple",
+        "content-creation",
+        "tools",
+        "software",
+        "developer"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-21/trending/summary.png",
-    "assets/2026-06-21/trending/post1.png",
-    "assets/2026-06-21/trending/post2.png",
-    "assets/2026-06-21/trending/post3.png",
-    "assets/2026-06-21/trending/post4.png"
+    "assets/2026-06-22/trending/summary.png",
+    "assets/2026-06-22/trending/post1.png",
+    "assets/2026-06-22/trending/post2.png",
+    "assets/2026-06-22/trending/post3.png",
+    "assets/2026-06-22/trending/post4.png"
   ]
 }
