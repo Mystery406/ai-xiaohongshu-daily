@@ -8,7 +8,7 @@
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "stars_today": "2,935 stars today",
-      "stars_total": "11,302"
+      "stars_total": "11,952"
     },
     {
       "name": "palmier-io/palmier-pro",
@@ -16,7 +16,7 @@
       "description": "macOS video editor built for AI",
       "language": "Swift",
       "stars_today": "2,462 stars today",
-      "stars_total": "6,988"
+      "stars_total": "7,311"
     },
     {
       "name": "jamiepine/voicebox",
@@ -24,7 +24,7 @@
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
       "stars_today": "508 stars today",
-      "stars_total": "32,019"
+      "stars_total": "32,202"
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
@@ -32,7 +32,7 @@
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
       "stars_today": "957 stars today",
-      "stars_total": "18,425"
+      "stars_total": "18,659"
     },
     {
       "name": "penpot/penpot",
@@ -40,7 +40,7 @@
       "description": "Penpot: The open-source design tool for design and code collaboration",
       "language": "Clojure",
       "stars_today": "730 stars today",
-      "stars_total": "52,730"
+      "stars_total": "52,852"
     },
     {
       "name": "Stirling-Tools/Stirling-PDF",
@@ -48,7 +48,7 @@
       "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
       "language": "TypeScript",
       "stars_today": "691 stars today",
-      "stars_total": "82,672"
+      "stars_total": "82,874"
     },
     {
       "name": "garrytan/gstack",
@@ -56,7 +56,7 @@
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
       "stars_today": "649 stars today",
-      "stars_total": "112,918"
+      "stars_total": "113,123"
     },
     {
       "name": "heygen-com/hyperframes",
@@ -64,7 +64,7 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "stars_today": "369 stars today",
-      "stars_total": "29,821"
+      "stars_total": "29,964"
     },
     {
       "name": "tursodatabase/turso",
@@ -72,7 +72,7 @@
       "description": "Turso is an in-process SQL database, compatible with SQLite.",
       "language": "Rust",
       "stars_today": "538 stars today",
-      "stars_total": "21,236"
+      "stars_total": "21,459"
     },
     {
       "name": "bytedance/deer-flow",
@@ -80,7 +80,7 @@
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
       "stars_today": "736 stars today",
-      "stars_total": "73,096"
+      "stars_total": "73,223"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "stars_today": "2,935 stars today",
-      "stars_total": "11,302"
+      "stars_total": "11,952"
     },
     {
       "name": "palmier-io/palmier-pro",
@@ -98,7 +98,7 @@
       "description": "macOS video editor built for AI",
       "language": "Swift",
       "stars_today": "2,462 stars today",
-      "stars_total": "6,988"
+      "stars_total": "7,311"
     },
     {
       "name": "jamiepine/voicebox",
@@ -106,7 +106,7 @@
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
       "stars_today": "508 stars today",
-      "stars_total": "32,019"
+      "stars_total": "32,202"
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
@@ -114,7 +114,7 @@
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
       "stars_today": "957 stars today",
-      "stars_total": "18,425"
+      "stars_total": "18,659"
     },
     {
       "name": "garrytan/gstack",
@@ -122,7 +122,7 @@
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
       "stars_today": "649 stars today",
-      "stars_total": "112,918"
+      "stars_total": "113,123"
     },
     {
       "name": "heygen-com/hyperframes",
@@ -130,7 +130,7 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "stars_today": "369 stars today",
-      "stars_total": "29,821"
+      "stars_total": "29,964"
     },
     {
       "name": "bytedance/deer-flow",
@@ -138,84 +138,84 @@
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
       "stars_today": "736 stars today",
-      "stars_total": "73,096"
+      "stars_total": "73,223"
     }
   ],
   "posts": [
     {
-      "topic": "开源视频生产系统",
+      "topic": "AI视频生产开源工具",
       "repo": "calesthio/OpenMontage",
-      "cover_line1": "开源AI视频生产系统",
-      "cover_line2": "12流水线52工具500技能",
-      "body": "如果你手头有个AI编码助手，比如Copilot或Claude，OpenMontage能让它直接变成一个完整的视频制作工作室。这是第一个开源的代理视频生产系统，意思是它不只做剪辑，而是靠AI代理自动跑整个流程。它有12条流水线，从素材整理到后期合成，52个具体工具，比如调色、配音、加字幕，还有超过500个技能库，让AI知道怎么处理不同类型视频。今天在GitHub上一天就拿了2935个星标，总星标超过1.1万，说明开发者们真的在用它搞自动化内容创作。它用Python写的，装起来不复杂，适合想批量出视频的团队，比如做短视频营销或者教育内容。但说实话，我现在不确定的是：靠这套系统做出来的视频，质量能跟专业剪辑师比吗？",
+      "cover_line1": "开源AI视频制作系统",
+      "cover_line2": "12条管线，500+技能",
+      "body": "OpenMontage 是一个开源的视频制作系统，它把AI编程助手变成了完整的视频工作室。这不是个概念项目，它真的有12条处理管线、52个工具和500多个agent技能。你可以把它想象成一个聪明的视频工厂，你告诉它想要什么，它自己安排哪些工具、按什么顺序干活。过去做视频，要么自己学剪辑，要么花大价钱请人。现在这个项目把视频制作的流程拆解成了一个个具体任务，AI agent负责调度和执行。今天涨了2935颗星，说明很多人在关注这种「让AI自己干活」的方向。项目用Python写的，对开发者来说代码结构比较清晰，想改或者扩展都有空间。有意思的是，它的定位不是替代某个剪辑软件，而是一整套生产系统——从素材到成片的全链条。这意味着它可以跟你已有的AI工具配合，不一定要推倒重来。问题是，当AI能自己拍片子了，人的创意价值到底该怎么衡量？",
       "tags": [
-        "AI",
+        "AI视频",
+        "开源工具",
+        "Agent",
         "视频制作",
-        "开源",
-        "代理系统",
-        "自动化",
         "Python",
-        "GitHub",
-        "开发工具",
-        "内容创作",
-        "创意科技"
+        "自动化",
+        "GitHub Trending",
+        "创意工具",
+        "开发框架",
+        "内容生产"
       ]
     },
     {
-      "topic": "网络安全AI技能库",
+      "topic": "网络安全技能库",
       "repo": "mukul975/Anthropic-Cybersecurity-Skills",
-      "cover_line1": "817个网络安全技能给AI",
-      "cover_line2": "映射到MITRE ATT&CK等6框架",
-      "body": "在搞网络安全的AI代理时，最难的是让AI真正懂攻击和防御的细节。这个项目直接给你817个现成的结构化技能，覆盖从漏洞扫描到事件响应的方方面面。每个技能都对齐了主流安全框架，比如MITRE ATT&CK、NIST CSF 2.0，一共6套，这意味着你可以直接把这些技能塞进Claude Code、GitHub Copilot或者Cursor这些工具里，让AI代理马上有实战知识。今天它拿到957个星标，总星标1.8万，覆盖29个安全领域，用Apache 2.0许可，随便用。它用Python写，适合安全团队快速搭建自动化防线。但我一直想问：这些技能在真实网络攻击里验证过多少次？",
+      "cover_line1": "817条网络安全AI技能",
+      "cover_line2": "兼容20+平台，6大框架",
+      "body": "这个项目整理了817条结构化的网络安全技能，专门给AI agent用。它把每条技能都映射到了6个主流安全框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF和MITRE F3。简单说，就是给AI准备了一本「网络安全操作手册」，遇到什么攻击类型该怎么做，每一步都有标准参照。覆盖29个安全领域，从漏洞扫描到事件响应都有。更实际的是，这些技能能在Claude Code、GitHub Copilot、Cursor、Gemini CLI等20多个平台上直接用。不需要你自己一个个教AI怎么做安全，直接导入这个技能库就行。用的是Apache 2.0开源协议，商用也没问题。今天涨了957颗星，总星数18659，说明安全团队确实在找这种现成的解决方案。开发语言是Python，导入和集成都不复杂。对安全工程师来说，这相当于省掉了从零构建AI安全助手的大量工作。问题是，当AI掌握了这么多安全知识，攻击者会不会也用同样的方式训练自己的AI？",
       "tags": [
         "网络安全",
-        "AI代理",
-        "技能库",
-        "MITRE ATT&CK",
-        "NIST",
+        "AI Agent",
         "开源",
+        "MITRE ATT&CK",
+        "安全框架",
         "Python",
-        "安全工具",
-        "自动化安全",
-        "威胁防护"
+        "技能库",
+        "Claude",
+        "开发工具",
+        "合规"
       ]
     },
     {
-      "topic": "Garry Tan的AI工具包",
+      "topic": "Garry Tan的Claude配置",
       "repo": "garrytan/gstack",
-      "cover_line1": "Garry Tan的Claude Code设置",
-      "cover_line2": "23工具覆盖CEO到QA角色",
-      "body": "Garry Tan是Y Combinator的CEO，他把自己每天用Claude Code的 exact 配置开源了，叫gstack。这不是随便一堆工具，而是23个有主见的工具，每个都模拟一个真实角色，比如CEO做决策、设计师管界面、工程经理盯进度、QA找bug。今天它星标649，总星标超过11万，这数字很大，说明很多人想抄他的作业。它用TypeScript写，目的是让AI助手像个多面手团队，帮你从规划到发布全覆盖。对个人开发者或小团队来说，这可能省下大量沟通成本。但我的问题是：这套固定角色分工，会不会限制AI的灵活发挥？",
+      "cover_line1": "YC老板的Claude Code配置",
+      "cover_line2": "23个工具，11.3万星",
+      "body": "Garry Tan是Y Combinator的CEO，他把自己用Claude Code的方式开源了，项目叫gstack。里面装了23个工具，每个工具对应一个角色：有的当CEO做决策，有的当设计师，有的当工程经理，有的当QA测bug。不是花架子，是他自己每天真的在用的东西。总星数113123，今天又涨了649。这个数字说明大家不只是「围观」，而是真的在模仿他的工作流。项目用TypeScript写的，结构比较直接。核心思路是把复杂的AI编程助手拆成多个角色，每个角色专注一件事。比如你要发版，就让「Release Manager」这个工具接管；要写文档，交给「Doc Engineer」。这比让一个AI啥都干但啥都干得一般要靠谱。对独立开发者或者小团队来说，这种「大佬的配置直接拿来用」的模式很省时间。你不用自己摸索最佳实践，跟着有结果的人走就行。问题是，别人的最优配置真的是你的最优解吗？",
       "tags": [
         "Claude Code",
-        "AI工具",
-        "Garry Tan",
-        "开发设置",
+        "Y Combinator",
+        "开发工具",
         "TypeScript",
+        "AI编程",
+        "工作流",
         "开源",
-        "工作效率",
-        "AI助手",
-        "编程",
-        "角色模拟"
+        "GitHub Trending",
+        "生产力",
+        "配置分享"
       ]
     },
     {
-      "topic": "字节跳动超代理框架",
+      "topic": "字节跳动超级Agent",
       "repo": "bytedance/deer-flow",
-      "cover_line1": "字节跳动开源长时超代理",
-      "cover_line2": "能处理分钟到小时的任务",
-      "body": "字节跳动悄悄放出了一个开源项目，叫deer-flow，它是一个长时超代理套件。所谓超代理，就是AI不只做单步任务，而是能连续工作几小时，从研究资料、写代码到生成内容，全链路搞定。它靠沙箱隔离环境、记忆系统存经验、工具箱调用外部服务，加上子代理和消息网关，适合处理那些需要深度思考的复杂项目。今天它拿到736个星标，总星标7.3万，用Python写，对AI代理开发者来说是个硬货。它理论上能让你的AI像个人类助理一样持续跟进大任务。但我好奇的是：这种长时间运行，怎么防止AI中途跑偏或者忘记初衷？",
+      "cover_line1": "字节开源的超级Agent框架",
+      "cover_line2": "能研究代码，能创作，7.3万星",
+      "body": "deer-flow是字节跳动开源的一个长周期任务Agent框架。什么叫长周期？就是那种从几分钟到几小时的复杂任务，不是问一句答一句那种。它能自己查资料、写代码、做创作，背后有沙盒环境、记忆系统、工具集、技能库、子agent和消息网关这些组件配合。总星数73223，今天涨了736。这个项目有意思的地方是它把「研究、编码、创作」三个能力串在一起了。很多AI工具只做其中一件事，但真实工作场景里你经常需要先调研、再动手、最后产出结果，是一个连续过程。deer-flow就是为这种场景设计的。用Python写的，字节自己在内部应该也跑过不少场景，开源出来的代码质量比较靠谱。沙盒和记忆这两个设计特别实用——沙盒保证代码跑得安全，记忆让agent不用每次都从头开始。对想搭自己AI工作流的团队来说，这个框架提供了不少可复用的模块。问题是，当agent能自己跑几小时的任务，你真的放心让它自己干吗？",
       "tags": [
-        "AI代理",
-        "超代理",
         "字节跳动",
+        "Agent框架",
         "开源",
         "Python",
-        "研究工具",
-        "编码助手",
-        "创意AI",
-        "长时任务",
-        "代理框架"
+        "长任务",
+        "AI开发",
+        "代码生成",
+        "内容创作",
+        "沙盒",
+        "GitHub Trending"
       ]
     }
   ],
