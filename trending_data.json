@@ -1,86 +1,86 @@
 {
   "date": "2026-06-23",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
       "name": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_today": "2,935 stars today",
-      "stars_total": "11,952"
+      "stars_today": "3,590 stars today",
+      "stars_total": "14,704"
     },
     {
-      "name": "palmier-io/palmier-pro",
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "description": "macOS video editor built for AI",
-      "language": "Swift",
-      "stars_today": "2,462 stars today",
-      "stars_total": "7,311"
-    },
-    {
-      "name": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "language": "TypeScript",
-      "stars_today": "508 stars today",
-      "stars_total": "32,202"
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars_today": "1,121 stars today",
+      "stars_total": "46,772"
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars_today": "957 stars today",
-      "stars_total": "18,659"
-    },
-    {
-      "name": "penpot/penpot",
-      "url": "https://github.com/penpot/penpot",
-      "description": "Penpot: The open-source design tool for design and code collaboration",
-      "language": "Clojure",
-      "stars_today": "730 stars today",
-      "stars_total": "52,852"
-    },
-    {
-      "name": "Stirling-Tools/Stirling-PDF",
-      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
-      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
-      "language": "TypeScript",
-      "stars_today": "691 stars today",
-      "stars_total": "82,874"
+      "stars_today": "1,040 stars today",
+      "stars_total": "19,376"
     },
     {
       "name": "garrytan/gstack",
       "url": "https://github.com/garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
-      "stars_today": "649 stars today",
-      "stars_total": "113,123"
-    },
-    {
-      "name": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "stars_today": "369 stars today",
-      "stars_total": "29,964"
-    },
-    {
-      "name": "tursodatabase/turso",
-      "url": "https://github.com/tursodatabase/turso",
-      "description": "Turso is an in-process SQL database, compatible with SQLite.",
-      "language": "Rust",
-      "stars_today": "538 stars today",
-      "stars_total": "21,459"
+      "stars_today": "1,012 stars today",
+      "stars_total": "113,831"
     },
     {
       "name": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
-      "stars_today": "736 stars today",
-      "stars_total": "73,223"
+      "stars_today": "741 stars today",
+      "stars_total": "73,763"
+    },
+    {
+      "name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars_today": "279 stars today",
+      "stars_total": "58,880"
+    },
+    {
+      "name": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "language": "Swift",
+      "stars_today": "1,631 stars today",
+      "stars_total": "8,263"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars_today": "66 stars today",
+      "stars_total": "30,736"
+    },
+    {
+      "name": "shanraisshan/claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+      "language": "HTML",
+      "stars_today": "329 stars today",
+      "stars_total": "59,193"
+    },
+    {
+      "name": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "language": "HTML",
+      "stars_today": "123 stars today",
+      "stars_total": "7,354"
     }
   ],
   "ai_repos": [
@@ -89,133 +89,138 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_today": "2,935 stars today",
-      "stars_total": "11,952"
+      "stars_today": "3,590 stars today",
+      "stars_total": "14,704"
     },
     {
-      "name": "palmier-io/palmier-pro",
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "description": "macOS video editor built for AI",
-      "language": "Swift",
-      "stars_today": "2,462 stars today",
-      "stars_total": "7,311"
-    },
-    {
-      "name": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "language": "TypeScript",
-      "stars_today": "508 stars today",
-      "stars_total": "32,202"
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars_today": "1,121 stars today",
+      "stars_total": "46,772"
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars_today": "957 stars today",
-      "stars_total": "18,659"
+      "stars_today": "1,040 stars today",
+      "stars_total": "19,376"
     },
     {
       "name": "garrytan/gstack",
       "url": "https://github.com/garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
-      "stars_today": "649 stars today",
-      "stars_total": "113,123"
-    },
-    {
-      "name": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "stars_today": "369 stars today",
-      "stars_total": "29,964"
+      "stars_today": "1,012 stars today",
+      "stars_total": "113,831"
     },
     {
       "name": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
-      "stars_today": "736 stars today",
-      "stars_total": "73,223"
+      "stars_today": "741 stars today",
+      "stars_total": "73,763"
+    },
+    {
+      "name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars_today": "279 stars today",
+      "stars_total": "58,880"
+    },
+    {
+      "name": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "language": "Swift",
+      "stars_today": "1,631 stars today",
+      "stars_total": "8,263"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars_today": "66 stars today",
+      "stars_total": "30,736"
+    },
+    {
+      "name": "shanraisshan/claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+      "language": "HTML",
+      "stars_today": "329 stars today",
+      "stars_total": "59,193"
+    },
+    {
+      "name": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "language": "HTML",
+      "stars_today": "123 stars today",
+      "stars_total": "7,354"
     }
   ],
   "posts": [
     {
-      "topic": "AI视频生产开源工具",
+      "topic": "开源视频制作系统",
       "repo": "calesthio/OpenMontage",
       "cover_line1": "开源AI视频制作系统",
-      "cover_line2": "12条管线，500+技能",
-      "body": "OpenMontage 是一个开源的视频制作系统，它把AI编程助手变成了完整的视频工作室。这不是个概念项目，它真的有12条处理管线、52个工具和500多个agent技能。你可以把它想象成一个聪明的视频工厂，你告诉它想要什么，它自己安排哪些工具、按什么顺序干活。过去做视频，要么自己学剪辑，要么花大价钱请人。现在这个项目把视频制作的流程拆解成了一个个具体任务，AI agent负责调度和执行。今天涨了2935颗星，说明很多人在关注这种「让AI自己干活」的方向。项目用Python写的，对开发者来说代码结构比较清晰，想改或者扩展都有空间。有意思的是，它的定位不是替代某个剪辑软件，而是一整套生产系统——从素材到成片的全链条。这意味着它可以跟你已有的AI工具配合，不一定要推倒重来。问题是，当AI能自己拍片子了，人的创意价值到底该怎么衡量？",
+      "cover_line2": "12流程52工具500+技能",
+      "body": "有个叫OpenMontage的项目火了，它想干一件事：把你的AI编程助手变成视频工作室。这意思是，你不用学剪辑软件，用写代码的方式就能做视频。它提供了12套现成的工作流程，比如怎么从脚本生成分镜，怎么自动配乐，还打包了52个具体工具，像抠图、转场这些活都能用代码调用。更厉害的是，它内置了500多个AI技能，相当于有个经验丰富的剪辑师在你背后。今天它一下子多了3590个星，总星数快1.5万了，说明很多人都在找这种不用开Adobe就能做视频的路子。它用Python写的，这意味着和现在主流的AI开发生态接上了轨。但我在想，一个完全用代码驱动的视频系统，最终做出来的片子，会有人味儿吗？",
       "tags": [
-        "AI视频",
-        "开源工具",
-        "Agent",
         "视频制作",
+        "开源",
+        "AI工具",
+        "Python",
+        "GitHub Trending",
+        "内容创作",
+        "自动化",
+        "Agent",
+        "开发者工具",
+        "创意软件"
+      ]
+    },
+    {
+      "topic": "LLM股票分析系统",
+      "repo": "ZhuLinsen/daily_stock_analysis",
+      "cover_line1": "LLM驱动的股票分析系统",
+      "cover_line2": "总星4.6万，免费自动推送",
+      "body": "这个叫daily_stock_analysis的项目总星数已经超过4.6万了，今天又涨了1100多。它做的事情很直接：用大模型帮你盯股票。它不是只看一个市场，A股、美股、港股都能分析。数据从哪来呢？它自己会去抓多个源头的实时行情和新闻。然后，大模型会把这些信息消化，生成一个你看得懂的决策看板。最实用的是，它可以设定成每天自动跑，跑完把分析结果直接推到你手机或邮箱，而且声称是零成本运行，意思是不靠付费的API也能用。这对需要每天快速扫一眼市场的散户或者分析师来说，省了自己拼凑信息的时间。不过，当AI开始替你做决策参考，你会完全相信它给出的趋势判断吗？",
+      "tags": [
+        "股票分析",
+        "LLM",
+        "金融科技",
         "Python",
         "自动化",
+        "数据仪表盘",
         "GitHub Trending",
-        "创意工具",
-        "开发框架",
-        "内容生产"
+        "AI应用",
+        "投资",
+        "实时数据"
       ]
     },
     {
-      "topic": "网络安全技能库",
+      "topic": "AI安全技能库",
       "repo": "mukul975/Anthropic-Cybersecurity-Skills",
-      "cover_line1": "817条网络安全AI技能",
-      "cover_line2": "兼容20+平台，6大框架",
-      "body": "这个项目整理了817条结构化的网络安全技能，专门给AI agent用。它把每条技能都映射到了6个主流安全框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF和MITRE F3。简单说，就是给AI准备了一本「网络安全操作手册」，遇到什么攻击类型该怎么做，每一步都有标准参照。覆盖29个安全领域，从漏洞扫描到事件响应都有。更实际的是，这些技能能在Claude Code、GitHub Copilot、Cursor、Gemini CLI等20多个平台上直接用。不需要你自己一个个教AI怎么做安全，直接导入这个技能库就行。用的是Apache 2.0开源协议，商用也没问题。今天涨了957颗星，总星数18659，说明安全团队确实在找这种现成的解决方案。开发语言是Python，导入和集成都不复杂。对安全工程师来说，这相当于省掉了从零构建AI安全助手的大量工作。问题是，当AI掌握了这么多安全知识，攻击者会不会也用同样的方式训练自己的AI？",
+      "cover_line1": "817个结构化网络安全技能",
+      "cover_line2": "对应MITRE ATT&CK等6框架",
+      "body": "现在让AI写代码越来越普遍，但怎么保证它写出来的代码是安全的？这个项目给了一个结构化答案。它整理了817个具体的网络安全技能，比如怎么进行漏洞扫描、怎么防御特定攻击。这些技能不是散装的，而是直接映射到了业界公认的6大安全框架上，包括MITRE ATT&CK、NIST网络安全框架这些。这意味着，开发AI安全工具时，可以像查字典一样，快速找到对应某个威胁该用哪些技能去防御。它今天涨了1040个星，支持Claude Code、GitHub Copilot等超过20个主流AI编程平台。这是一个把安全知识标准化，塞给AI的过程。但问题是，标准化后的安全技能，会不会让AI的防御思路变得刻板，反而被攻击者找到套路？",
       "tags": [
+        "AI安全",
         "网络安全",
-        "AI Agent",
-        "开源",
-        "MITRE ATT&CK",
-        "安全框架",
         "Python",
+        "MITRE",
+        "NIST",
         "技能库",
-        "Claude",
-        "开发工具",
-        "合规"
-      ]
-    },
-    {
-      "topic": "Garry Tan的Claude配置",
-      "repo": "garrytan/gstack",
-      "cover_line1": "YC老板的Claude Code配置",
-      "cover_line2": "23个工具，11.3万星",
-      "body": "Garry Tan是Y Combinator的CEO，他把自己用Claude Code的方式开源了，项目叫gstack。里面装了23个工具，每个工具对应一个角色：有的当CEO做决策，有的当设计师，有的当工程经理，有的当QA测bug。不是花架子，是他自己每天真的在用的东西。总星数113123，今天又涨了649。这个数字说明大家不只是「围观」，而是真的在模仿他的工作流。项目用TypeScript写的，结构比较直接。核心思路是把复杂的AI编程助手拆成多个角色，每个角色专注一件事。比如你要发版，就让「Release Manager」这个工具接管；要写文档，交给「Doc Engineer」。这比让一个AI啥都干但啥都干得一般要靠谱。对独立开发者或者小团队来说，这种「大佬的配置直接拿来用」的模式很省时间。你不用自己摸索最佳实践，跟着有结果的人走就行。问题是，别人的最优配置真的是你的最优解吗？",
-      "tags": [
-        "Claude Code",
-        "Y Combinator",
-        "开发工具",
-        "TypeScript",
         "AI编程",
-        "工作流",
-        "开源",
         "GitHub Trending",
-        "生产力",
-        "配置分享"
-      ]
-    },
-    {
-      "topic": "字节跳动超级Agent",
-      "repo": "bytedance/deer-flow",
-      "cover_line1": "字节开源的超级Agent框架",
-      "cover_line2": "能研究代码，能创作，7.3万星",
-      "body": "deer-flow是字节跳动开源的一个长周期任务Agent框架。什么叫长周期？就是那种从几分钟到几小时的复杂任务，不是问一句答一句那种。它能自己查资料、写代码、做创作，背后有沙盒环境、记忆系统、工具集、技能库、子agent和消息网关这些组件配合。总星数73223，今天涨了736。这个项目有意思的地方是它把「研究、编码、创作」三个能力串在一起了。很多AI工具只做其中一件事，但真实工作场景里你经常需要先调研、再动手、最后产出结果，是一个连续过程。deer-flow就是为这种场景设计的。用Python写的，字节自己在内部应该也跑过不少场景，开源出来的代码质量比较靠谱。沙盒和记忆这两个设计特别实用——沙盒保证代码跑得安全，记忆让agent不用每次都从头开始。对想搭自己AI工作流的团队来说，这个框架提供了不少可复用的模块。问题是，当agent能自己跑几小时的任务，你真的放心让它自己干吗？",
-      "tags": [
-        "字节跳动",
-        "Agent框架",
-        "开源",
-        "Python",
-        "长任务",
-        "AI开发",
-        "代码生成",
-        "内容创作",
-        "沙盒",
-        "GitHub Trending"
+        "标准化",
+        "防御"
       ]
     }
   ],
@@ -223,7 +228,6 @@
     "assets/2026-06-23/trending/summary.png",
     "assets/2026-06-23/trending/post1.png",
     "assets/2026-06-23/trending/post2.png",
-    "assets/2026-06-23/trending/post3.png",
-    "assets/2026-06-23/trending/post4.png"
+    "assets/2026-06-23/trending/post3.png"
   ]
 }
