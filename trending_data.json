@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-24",
-  "slot": "晚报",
+  "date": "2026-06-25",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "calesthio/OpenMontage",
@@ -8,7 +8,7 @@
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "stars_today": "3,703 stars today",
-      "stars_total": "18,324"
+      "stars_total": "19,280"
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
@@ -16,7 +16,7 @@
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
       "stars_today": "1,461 stars today",
-      "stars_total": "48,190"
+      "stars_total": "48,452"
     },
     {
       "name": "apple/container",
@@ -24,7 +24,7 @@
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
       "stars_today": "1,746 stars today",
-      "stars_total": "41,671"
+      "stars_total": "42,184"
     },
     {
       "name": "interviewstreet/hiring-agent",
@@ -32,7 +32,7 @@
       "description": "AI agent to evaluate and score resumes.",
       "language": "Python",
       "stars_today": "152 stars today",
-      "stars_total": "1,963"
+      "stars_total": "2,133"
     },
     {
       "name": "JCodesMore/ai-website-cloner-template",
@@ -40,7 +40,7 @@
       "description": "Clone any website with one command using AI coding agents",
       "language": "TypeScript",
       "stars_today": "693 stars today",
-      "stars_total": "19,068"
+      "stars_total": "19,275"
     },
     {
       "name": "revfactory/harness",
@@ -48,31 +48,31 @@
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
       "language": "HTML",
       "stars_today": "274 stars today",
-      "stars_total": "7,629"
+      "stars_total": "7,716"
     },
     {
       "name": "flutter/flutter",
       "url": "https://github.com/flutter/flutter",
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "language": "Dart",
-      "stars_today": "44 stars today",
-      "stars_total": "177,180"
+      "stars_today": "200 stars today",
+      "stars_total": "177,302"
     },
     {
       "name": "andreknieriem/headunit-revived",
       "url": "https://github.com/andreknieriem/headunit-revived",
       "description": "Headunit App for displaying Android Auto",
       "language": "Kotlin",
-      "stars_today": "79 stars today",
-      "stars_total": "1,372"
+      "stars_today": "62 stars today",
+      "stars_total": "1,409"
     },
     {
       "name": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "language": "TypeScript",
-      "stars_today": "265 stars today",
-      "stars_total": "6,573"
+      "stars_today": "387 stars today",
+      "stars_total": "6,752"
     },
     {
       "name": "google-labs-code/design.md",
@@ -80,7 +80,7 @@
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
       "language": "TypeScript",
       "stars_today": "504 stars today",
-      "stars_total": "16,944"
+      "stars_total": "17,297"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "stars_today": "3,703 stars today",
-      "stars_total": "18,324"
+      "stars_total": "19,280"
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
@@ -98,7 +98,7 @@
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
       "stars_today": "1,461 stars today",
-      "stars_total": "48,190"
+      "stars_total": "48,452"
     },
     {
       "name": "apple/container",
@@ -106,7 +106,7 @@
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
       "stars_today": "1,746 stars today",
-      "stars_total": "41,671"
+      "stars_total": "42,184"
     },
     {
       "name": "interviewstreet/hiring-agent",
@@ -114,7 +114,7 @@
       "description": "AI agent to evaluate and score resumes.",
       "language": "Python",
       "stars_today": "152 stars today",
-      "stars_total": "1,963"
+      "stars_total": "2,133"
     },
     {
       "name": "JCodesMore/ai-website-cloner-template",
@@ -122,7 +122,7 @@
       "description": "Clone any website with one command using AI coding agents",
       "language": "TypeScript",
       "stars_today": "693 stars today",
-      "stars_total": "19,068"
+      "stars_total": "19,275"
     },
     {
       "name": "revfactory/harness",
@@ -130,15 +130,15 @@
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
       "language": "HTML",
       "stars_today": "274 stars today",
-      "stars_total": "7,629"
+      "stars_total": "7,716"
     },
     {
       "name": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "language": "TypeScript",
-      "stars_today": "265 stars today",
-      "stars_total": "6,573"
+      "stars_today": "387 stars today",
+      "stars_total": "6,752"
     },
     {
       "name": "google-labs-code/design.md",
@@ -146,92 +146,89 @@
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
       "language": "TypeScript",
       "stars_today": "504 stars today",
-      "stars_total": "16,944"
+      "stars_total": "17,297"
     }
   ],
   "posts": [
     {
-      "topic": "开源视频制作",
+      "topic": "开源视频制作系统",
       "repo": "calesthio/OpenMontage",
       "cover_line1": "开源视频制作系统",
-      "cover_line2": "500+代理技能今日增星3703",
-      "body": "今天 GitHub 上冒出个叫 OpenMontage 的项目，它把你的 AI 编码助手变成了一个完整的视频制作工作室。这个系统是开源的，提供了 12 个不同的管线，52 个工具，还有超过 500 个代理技能。意思很直白，你可以用 AI 来自动处理视频的剪辑、配音、特效这些活儿，不用自己手动折腾。今天它一口气涨了 3,703 个星星，总星星数到了 18,324，说明很多人觉得它有用。它用 Python 写的，所以对开发者来说上手不难。想象一下，你丢个想法进去，AI 代理就帮你搞定视频，这能省下多少时间和精力？但这里有个真问题：AI 制作出来的视频，真的能达到专业水平，还是只能做点简单的玩意儿？",
+      "cover_line2": "52个工具把助手变工作室",
+      "body": "OpenMontage 今天在 GitHub 上涨了三千多星，它做了一件挺妙的事：把一整套专业视频生产的工具链，打包成了一个开源的‘大脑’。这个系统里有 12 条不同的流水线，从写脚本、生成画面、配音到剪辑，总共封装了 52 个具体工具。它设计成一个‘智能体’，能理解和执行复杂的指令，比如‘生成一个三分钟的产品介绍视频’。你的 AI 编程助手（比如 Cursor 或 GitHub Copilot）接上它，就从一个只懂代码的伙伴，变成了一个能操作专业工具的虚拟视频工作室。它的野心不小，目前声称拥有超过 500 种预设的技能。这意味着，以前需要一个团队配合多种软件才能完成的视频制作，现在你通过对话，就有可能指挥一个‘超级助手’来完成。它降低了视频创作的硬技术门槛，让想法比操作技巧更重要。但一个 AI 真的能理解‘有节奏感’、‘情绪到位’这些创作要求吗？这可能是它接下来要面对的真正考验。",
       "tags": [
-        "AI",
-        "视频制作",
-        "开源",
-        "Python",
-        "代理",
-        "自动化",
-        "GitHub",
-        "Trending",
-        "开发工具",
-        "创意"
+        "AI Agent",
+        "视频生成",
+        "开源工具",
+        "生产力",
+        "创意工具",
+        "多模态",
+        "AI编程助手",
+        "工作流自动化",
+        "3000星"
       ]
     },
     {
-      "topic": "LLM股票分析",
+      "topic": "AI股票分析系统",
       "repo": "ZhuLinsen/daily_stock_analysis",
-      "cover_line1": "LLM驱动股票分析系统",
-      "cover_line2": "零成本定时运行总星48k",
-      "body": "这个项目是一个用大语言模型驱动的股票分析系统，它能覆盖多个市场，抓取实时新闻，提供决策看板，还能自动推送提醒。最实在的一点是，它支持零成本定时运行，意味着你可以设置它每天自动跑，不花一分钱。今天它涨了 1,461 个星星，总星星数已经到了 48,190，看来用的人真不少。对于想搞量化投资或者监控股市的开发者来说，这工具挺实在的，它用 Python 写，集成多种数据源，让股票分析变得自动化。但一个真问题是：AI 分析股票真的靠谱吗？它预测的准确率到底有多高，你敢拿它当投资依据吗？",
+      "cover_line1": "AI股票分析系统",
+      "cover_line2": "免费定时跑多市场行情",
+      "body": "如果你关心股票，又不想整天盯盘和翻新闻，这个项目可能正对你胃口。它是一个用大语言模型驱动的股票分析系统，核心卖点是‘全自动’和‘零成本’。它能同时抓取多个市场的实时行情数据和新闻，然后让大模型去分析这些杂乱的信息，最后生成一个结构化的决策看板，告诉你市场情绪怎么样、有哪些关键事件。它支持定时运行，你可以设置每天早上八点它自动跑一遍分析，然后把结果推送到你的邮箱或者某个聊天软件里，完全不需要人工触发。整个过程不依赖付费的 API，做到了‘零成本’持续运行。对于个人投资者来说，这相当于拥有了一个 24 小时不休息的初级研究助理，帮你把海量信息整理成要点。当然，它分析出的结论是否靠谱，完全取决于背后大模型的能力和你对信息的信任度。AI 给的投资建议，你敢直接拿来用吗？",
       "tags": [
-        "AI",
+        "AI金融",
         "股票分析",
-        "LLM",
-        "Python",
+        "大语言模型",
         "自动化",
-        "金融",
-        "GitHub",
-        "Trending",
-        "数据科学",
-        "开源"
+        "数据分析",
+        "零成本",
+        "实时新闻",
+        "个人投资者",
+        "定时任务",
+        "决策支持"
       ]
     },
     {
-      "topic": "Mac Linux容器",
+      "topic": "苹果Linux容器工具",
       "repo": "apple/container",
-      "cover_line1": "Apple官方Mac容器工具",
-      "cover_line2": "Swift编写优化Apple硅",
-      "body": "Apple 官方出了个工具，叫 container，让你在 Mac 上用轻量级虚拟机运行 Linux 容器。它用 Swift 写的，专门为 Apple silicon 优化，所以在 M1、M2 芯片的 Mac 上跑起来特别快。今天它涨了 1,746 个星星，总共有 41,671 星，说明开发者对这个功能需求很大。以前在 Mac 上跑 Linux 环境可能得用 Docker 或者其他工具，现在有了这个官方选项，更贴合 Apple 生态，对做开发或者测试的 Mac 用户来说能省不少麻烦。但一个真问题是：它和现有的容器工具比，性能到底提升多少，值不值得专门换过来用？",
+      "cover_line1": "苹果开源自研Linux容器工具",
+      "cover_line2": "Swift写的针对M芯片优化",
+      "body": "苹果悄悄在 GitHub 上扔了个开源项目，是一个用来在 Mac 上运行 Linux 容器的工具。对，就是 Docker 那类东西，但这是苹果自己用 Swift 语言写的，并且专门为苹果自家的 M 系列芯片做了深度优化。这意味着，在 M1、M2、M3 芯片的 Mac 上，用这个工具创建和管理 Linux 容器，理论上性能会更好，也更省电。它通过轻量级虚拟机来实现，保证了隔离性和安全性。对于开发者，特别是那些用 Mac 工作、又要处理后端或跨平台项目的人来说，这提供了原生 Docker 之外的一个新选择。苹果选择用自己主推的 Swift 语言来实现，而不是沿用 Go 或 Rust，也表明了它想在这个基础开发者工具领域建立自家生态的意图。不过，一个好工具不仅要性能好，还要生态好。开发者现有的 Docker Compose 配置、镜像仓库，能无缝迁移过来吗？这才是决定它能否被广泛接受的关键。",
       "tags": [
-        "Apple",
+        "苹果开源",
         "容器",
-        "Linux",
         "Swift",
-        "Mac",
-        "虚拟化",
-        "开发工具",
-        "GitHub",
-        "Trending",
-        "优化"
+        "Apple Silicon",
+        "开发者工具",
+        "Linux虚拟化",
+        "性能优化",
+        "基础设施工具",
+        "Mac开发"
       ]
     },
     {
-      "topic": "AI网站克隆",
-      "repo": "JCodesMore/ai-website-cloner-template",
-      "cover_line1": "AI一键克隆网站工具",
-      "cover_line2": "命令克隆今日增星693",
-      "body": "这个项目让你用一条命令就能克隆任何网站，靠的是 AI 编程代理。你给它一个网址，AI 就自动分析网站结构，生成代码，把网站复制下来。今天它涨了 693 个星星，总星星数 19,068。对于需要快速搭建类似网站或者学习网站开发的开发者来说，这工具挺方便的，它用 TypeScript 写，集成 AI 代理能力。但一个真问题是：AI 克隆的网站真的能完全一样吗？法律和版权方面有没有问题，你敢直接拿来用吗？",
+      "topic": "AI助手设计规范",
+      "repo": "google-labs-code/design.md",
+      "cover_line1": "给AI助手的设计规范格式",
+      "cover_line2": "让助手看懂并遵守设计系统",
+      "body": "谷歌实验室做了一个小但重要的规范，叫 design.md。它定义了一种结构化的文件格式，专门用来向 AI 编程助手（比如 Cursor、Copilot）描述一个项目的视觉设计系统。你可能会问，这有什么用？因为现在的 AI 助手在帮你写前端代码或改界面时，它并不‘认识’你们团队的设计语言。它不知道按钮该用哪种蓝色、圆角该多大、间距该用哪个变量。结果就是，它生成的代码虽然能跑，但样式总是和你们的其他页面格格不入。design.md 就是要解决这个问题。你把字体、颜色、组件库这些设计规范，按照它的格式写成一个 design.md 文件放在项目里。AI 助手在工作时读取这个文件，就能获得一个持久的、结构化的‘设计记忆’，从而生成符合品牌规范的代码。这相当于给 AI 助手配了一本官方设计指南。它很务实，没有发明新轮子，而是给现有工具链补上了缺失的一环。当所有团队都开始用这类规范后，AI 生成的界面会不会看起来都一样，失去了多样性？",
       "tags": [
-        "AI",
-        "网站克隆",
-        "TypeScript",
-        "代理",
-        "自动化",
-        "开发工具",
-        "GitHub",
-        "Trending",
-        "Web开发",
-        "开源"
+        "设计系统",
+        "AI编程助手",
+        "前端开发",
+        "谷歌",
+        "开发规范",
+        "协作工具",
+        "代码生成",
+        "人机协作",
+        "标准化"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-24/trending/summary.png",
-    "assets/2026-06-24/trending/post1.png",
-    "assets/2026-06-24/trending/post2.png",
-    "assets/2026-06-24/trending/post3.png",
-    "assets/2026-06-24/trending/post4.png"
+    "assets/2026-06-25/trending/summary.png",
+    "assets/2026-06-25/trending/post1.png",
+    "assets/2026-06-25/trending/post2.png",
+    "assets/2026-06-25/trending/post3.png",
+    "assets/2026-06-25/trending/post4.png"
   ]
 }
