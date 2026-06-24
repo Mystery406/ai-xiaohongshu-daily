@@ -1,86 +1,86 @@
 {
   "date": "2026-06-24",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
       "name": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_today": "3,590 stars today",
-      "stars_total": "15,545"
+      "stars_today": "3,703 stars today",
+      "stars_total": "18,324"
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
-      "stars_today": "1,121 stars today",
-      "stars_total": "46,997"
+      "stars_today": "1,461 stars today",
+      "stars_total": "48,190"
     },
     {
-      "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
-      "language": "Python",
-      "stars_today": "1,040 stars today",
-      "stars_total": "19,649"
-    },
-    {
-      "name": "garrytan/gstack",
-      "url": "https://github.com/garrytan/gstack",
-      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "language": "TypeScript",
-      "stars_today": "1,012 stars today",
-      "stars_total": "114,036"
-    },
-    {
-      "name": "bytedance/deer-flow",
-      "url": "https://github.com/bytedance/deer-flow",
-      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-      "language": "Python",
-      "stars_today": "741 stars today",
-      "stars_total": "73,880"
-    },
-    {
-      "name": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "language": "TypeScript",
-      "stars_today": "279 stars today",
-      "stars_total": "59,061"
-    },
-    {
-      "name": "palmier-io/palmier-pro",
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "description": "macOS video editor built for AI",
+      "name": "apple/container",
+      "url": "https://github.com/apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars_today": "1,631 stars today",
-      "stars_total": "8,397"
+      "stars_today": "1,746 stars today",
+      "stars_total": "41,671"
     },
     {
-      "name": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "name": "interviewstreet/hiring-agent",
+      "url": "https://github.com/interviewstreet/hiring-agent",
+      "description": "AI agent to evaluate and score resumes.",
       "language": "Python",
-      "stars_today": "66 stars today",
-      "stars_total": "30,826"
+      "stars_today": "152 stars today",
+      "stars_total": "1,963"
     },
     {
-      "name": "shanraisshan/claude-code-best-practice",
-      "url": "https://github.com/shanraisshan/claude-code-best-practice",
-      "description": "from vibe coding to agentic engineering - practice makes claude perfect",
-      "language": "HTML",
-      "stars_today": "329 stars today",
-      "stars_total": "59,411"
+      "name": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
+      "language": "TypeScript",
+      "stars_today": "693 stars today",
+      "stars_total": "19,068"
     },
     {
       "name": "revfactory/harness",
       "url": "https://github.com/revfactory/harness",
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
       "language": "HTML",
-      "stars_today": "123 stars today",
-      "stars_total": "7,432"
+      "stars_today": "274 stars today",
+      "stars_total": "7,629"
+    },
+    {
+      "name": "flutter/flutter",
+      "url": "https://github.com/flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "language": "Dart",
+      "stars_today": "44 stars today",
+      "stars_total": "177,180"
+    },
+    {
+      "name": "andreknieriem/headunit-revived",
+      "url": "https://github.com/andreknieriem/headunit-revived",
+      "description": "Headunit App for displaying Android Auto",
+      "language": "Kotlin",
+      "stars_today": "79 stars today",
+      "stars_total": "1,372"
+    },
+    {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "language": "TypeScript",
+      "stars_today": "265 stars today",
+      "stars_total": "6,573"
+    },
+    {
+      "name": "google-labs-code/design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "language": "TypeScript",
+      "stars_today": "504 stars today",
+      "stars_total": "16,944"
     }
   ],
   "ai_repos": [
@@ -89,157 +89,141 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_today": "3,590 stars today",
-      "stars_total": "15,545"
+      "stars_today": "3,703 stars today",
+      "stars_total": "18,324"
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
-      "stars_today": "1,121 stars today",
-      "stars_total": "46,997"
+      "stars_today": "1,461 stars today",
+      "stars_total": "48,190"
     },
     {
-      "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
-      "language": "Python",
-      "stars_today": "1,040 stars today",
-      "stars_total": "19,649"
-    },
-    {
-      "name": "garrytan/gstack",
-      "url": "https://github.com/garrytan/gstack",
-      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "language": "TypeScript",
-      "stars_today": "1,012 stars today",
-      "stars_total": "114,036"
-    },
-    {
-      "name": "bytedance/deer-flow",
-      "url": "https://github.com/bytedance/deer-flow",
-      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-      "language": "Python",
-      "stars_today": "741 stars today",
-      "stars_total": "73,880"
-    },
-    {
-      "name": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "language": "TypeScript",
-      "stars_today": "279 stars today",
-      "stars_total": "59,061"
-    },
-    {
-      "name": "palmier-io/palmier-pro",
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "description": "macOS video editor built for AI",
+      "name": "apple/container",
+      "url": "https://github.com/apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars_today": "1,631 stars today",
-      "stars_total": "8,397"
+      "stars_today": "1,746 stars today",
+      "stars_total": "41,671"
     },
     {
-      "name": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "name": "interviewstreet/hiring-agent",
+      "url": "https://github.com/interviewstreet/hiring-agent",
+      "description": "AI agent to evaluate and score resumes.",
       "language": "Python",
-      "stars_today": "66 stars today",
-      "stars_total": "30,826"
+      "stars_today": "152 stars today",
+      "stars_total": "1,963"
     },
     {
-      "name": "shanraisshan/claude-code-best-practice",
-      "url": "https://github.com/shanraisshan/claude-code-best-practice",
-      "description": "from vibe coding to agentic engineering - practice makes claude perfect",
-      "language": "HTML",
-      "stars_today": "329 stars today",
-      "stars_total": "59,411"
+      "name": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
+      "language": "TypeScript",
+      "stars_today": "693 stars today",
+      "stars_total": "19,068"
     },
     {
       "name": "revfactory/harness",
       "url": "https://github.com/revfactory/harness",
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
       "language": "HTML",
-      "stars_today": "123 stars today",
-      "stars_total": "7,432"
+      "stars_today": "274 stars today",
+      "stars_total": "7,629"
+    },
+    {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "language": "TypeScript",
+      "stars_today": "265 stars today",
+      "stars_total": "6,573"
+    },
+    {
+      "name": "google-labs-code/design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "language": "TypeScript",
+      "stars_today": "504 stars today",
+      "stars_total": "16,944"
     }
   ],
   "posts": [
     {
-      "topic": "OpenMontage",
+      "topic": "开源视频制作",
       "repo": "calesthio/OpenMontage",
-      "cover_line1": "OpenMontag",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**calesthio/OpenMontage**\n\n📌 World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.\n\n🔗 https://github.com/calesthio/OpenMontage\n\n关注我，每天第一时间 AI 动态 👇",
+      "cover_line1": "开源视频制作系统",
+      "cover_line2": "500+代理技能今日增星3703",
+      "body": "今天 GitHub 上冒出个叫 OpenMontage 的项目，它把你的 AI 编码助手变成了一个完整的视频制作工作室。这个系统是开源的，提供了 12 个不同的管线，52 个工具，还有超过 500 个代理技能。意思很直白，你可以用 AI 来自动处理视频的剪辑、配音、特效这些活儿，不用自己手动折腾。今天它一口气涨了 3,703 个星星，总星星数到了 18,324，说明很多人觉得它有用。它用 Python 写的，所以对开发者来说上手不难。想象一下，你丢个想法进去，AI 代理就帮你搞定视频，这能省下多少时间和精力？但这里有个真问题：AI 制作出来的视频，真的能达到专业水平，还是只能做点简单的玩意儿？",
       "tags": [
         "AI",
-        "GitHub",
+        "视频制作",
         "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "Python",
+        "代理",
+        "自动化",
+        "GitHub",
+        "Trending",
+        "开发工具",
+        "创意"
       ]
     },
     {
-      "topic": "daily_stock_analysis",
+      "topic": "LLM股票分析",
       "repo": "ZhuLinsen/daily_stock_analysis",
-      "cover_line1": "daily_stoc",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**ZhuLinsen/daily_stock_analysis**\n\n📌 LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.\n\n🔗 https://github.com/ZhuLinsen/daily_stock_analysis\n\n关注我，每天第一时间 AI 动态 👇",
+      "cover_line1": "LLM驱动股票分析系统",
+      "cover_line2": "零成本定时运行总星48k",
+      "body": "这个项目是一个用大语言模型驱动的股票分析系统，它能覆盖多个市场，抓取实时新闻，提供决策看板，还能自动推送提醒。最实在的一点是，它支持零成本定时运行，意味着你可以设置它每天自动跑，不花一分钱。今天它涨了 1,461 个星星，总星星数已经到了 48,190，看来用的人真不少。对于想搞量化投资或者监控股市的开发者来说，这工具挺实在的，它用 Python 写，集成多种数据源，让股票分析变得自动化。但一个真问题是：AI 分析股票真的靠谱吗？它预测的准确率到底有多高，你敢拿它当投资依据吗？",
       "tags": [
         "AI",
+        "股票分析",
+        "LLM",
+        "Python",
+        "自动化",
+        "金融",
         "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "Trending",
+        "数据科学",
+        "开源"
       ]
     },
     {
-      "topic": "Anthropic-Cybersecur",
-      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
-      "cover_line1": "Anthropic-",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**mukul975/Anthropic-Cybersecurity-Skills**\n\n📌 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0\n\n🔗 https://github.com/mukul975/Anthropic-Cybersecurity-Skills\n\n关注我，每天第一时间 AI 动态 👇",
+      "topic": "Mac Linux容器",
+      "repo": "apple/container",
+      "cover_line1": "Apple官方Mac容器工具",
+      "cover_line2": "Swift编写优化Apple硅",
+      "body": "Apple 官方出了个工具，叫 container，让你在 Mac 上用轻量级虚拟机运行 Linux 容器。它用 Swift 写的，专门为 Apple silicon 优化，所以在 M1、M2 芯片的 Mac 上跑起来特别快。今天它涨了 1,746 个星星，总共有 41,671 星，说明开发者对这个功能需求很大。以前在 Mac 上跑 Linux 环境可能得用 Docker 或者其他工具，现在有了这个官方选项，更贴合 Apple 生态，对做开发或者测试的 Mac 用户来说能省不少麻烦。但一个真问题是：它和现有的容器工具比，性能到底提升多少，值不值得专门换过来用？",
       "tags": [
-        "AI",
+        "Apple",
+        "容器",
+        "Linux",
+        "Swift",
+        "Mac",
+        "虚拟化",
+        "开发工具",
         "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "Trending",
+        "优化"
       ]
     },
     {
-      "topic": "gstack",
-      "repo": "garrytan/gstack",
-      "cover_line1": "gstack",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**garrytan/gstack**\n\n📌 Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA\n\n🔗 https://github.com/garrytan/gstack\n\n关注我，每天第一时间 AI 动态 👇",
+      "topic": "AI网站克隆",
+      "repo": "JCodesMore/ai-website-cloner-template",
+      "cover_line1": "AI一键克隆网站工具",
+      "cover_line2": "命令克隆今日增星693",
+      "body": "这个项目让你用一条命令就能克隆任何网站，靠的是 AI 编程代理。你给它一个网址，AI 就自动分析网站结构，生成代码，把网站复制下来。今天它涨了 693 个星星，总星星数 19,068。对于需要快速搭建类似网站或者学习网站开发的开发者来说，这工具挺方便的，它用 TypeScript 写，集成 AI 代理能力。但一个真问题是：AI 克隆的网站真的能完全一样吗？法律和版权方面有没有问题，你敢直接拿来用吗？",
       "tags": [
         "AI",
+        "网站克隆",
+        "TypeScript",
+        "代理",
+        "自动化",
+        "开发工具",
         "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "Trending",
+        "Web开发",
+        "开源"
       ]
     }
   ],
