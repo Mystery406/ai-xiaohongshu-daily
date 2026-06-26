@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-26",
-  "slot": "晚报",
+  "date": "2026-06-27",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "simplex-chat/simplex-chat",
@@ -8,7 +8,7 @@
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
       "stars_today": "191 stars today",
-      "stars_total": "12,061"
+      "stars_total": "12,521"
     },
     {
       "name": "google-labs-code/design.md",
@@ -16,7 +16,7 @@
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
       "language": "TypeScript",
       "stars_today": "2,319 stars today",
-      "stars_total": "20,699"
+      "stars_total": "21,210"
     },
     {
       "name": "commaai/openpilot",
@@ -24,7 +24,7 @@
       "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
       "language": "Python",
       "stars_today": "67 stars today",
-      "stars_total": "61,682"
+      "stars_total": "61,772"
     },
     {
       "name": "kunchenguid/no-mistakes",
@@ -32,7 +32,7 @@
       "description": "git push no-mistakes",
       "language": "Go",
       "stars_today": "412 stars today",
-      "stars_total": "3,226"
+      "stars_total": "3,410"
     },
     {
       "name": "grafana/grafana",
@@ -40,7 +40,7 @@
       "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
       "language": "TypeScript",
       "stars_today": "17 stars today",
-      "stars_total": "74,776"
+      "stars_total": "74,886"
     },
     {
       "name": "ripienaar/free-for-dev",
@@ -48,7 +48,7 @@
       "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
       "language": "HTML",
       "stars_today": "137 stars today",
-      "stars_total": "123,583"
+      "stars_total": "123,719"
     },
     {
       "name": "opendatalab/MinerU",
@@ -56,15 +56,15 @@
       "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
       "language": "Python",
       "stars_today": "944 stars today",
-      "stars_total": "70,189"
+      "stars_total": "70,401"
     },
     {
       "name": "alchaincyf/zhangxuefeng-skill",
       "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
       "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
       "language": "",
-      "stars_today": "220 stars today",
-      "stars_total": "9,194"
+      "stars_today": "185 stars today",
+      "stars_total": "9,243"
     },
     {
       "name": "mauriceboe/TREK",
@@ -72,7 +72,7 @@
       "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
       "language": "TypeScript",
       "stars_today": "1,063 stars today",
-      "stars_total": "7,374"
+      "stars_total": "7,644"
     },
     {
       "name": "xbtlin/ai-berkshire",
@@ -80,7 +80,7 @@
       "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
       "stars_today": "1,270 stars today",
-      "stars_total": "2,934"
+      "stars_total": "3,097"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
       "language": "TypeScript",
       "stars_today": "2,319 stars today",
-      "stars_total": "20,699"
+      "stars_total": "21,210"
     },
     {
       "name": "commaai/openpilot",
@@ -98,7 +98,7 @@
       "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
       "language": "Python",
       "stars_today": "67 stars today",
-      "stars_total": "61,682"
+      "stars_total": "61,772"
     },
     {
       "name": "opendatalab/MinerU",
@@ -106,15 +106,15 @@
       "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
       "language": "Python",
       "stars_today": "944 stars today",
-      "stars_total": "70,189"
+      "stars_total": "70,401"
     },
     {
       "name": "alchaincyf/zhangxuefeng-skill",
       "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
       "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
       "language": "",
-      "stars_today": "220 stars today",
-      "stars_total": "9,194"
+      "stars_today": "185 stars today",
+      "stars_total": "9,243"
     },
     {
       "name": "xbtlin/ai-berkshire",
@@ -122,92 +122,72 @@
       "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
       "stars_today": "1,270 stars today",
-      "stars_total": "2,934"
+      "stars_total": "3,097"
     }
   ],
   "posts": [
     {
-      "topic": "设计规范喂给AI",
+      "topic": "AI设计规范文件",
       "repo": "google-labs-code/design.md",
-      "cover_line1": "谷歌出的AI设计规范",
-      "cover_line2": "让编码代理记住你的UI",
-      "body": "谷歌实验室昨天出了一个叫DESIGN.md的东西，简单说就是一份给AI编码代理看的设计菜谱。这个想法是，你把公司的设计系统，比如用什么颜色、什么字体、按钮长什么样，用一种结构化的格式写下来，然后喂给AI。这样AI在帮你写代码生成界面的时候，就不会乱来了，它知道要遵循你定下的规矩。这解决了AI编程里一个挺烦人的问题：之前AI生成的界面可能功能对了，但风格和你的产品格格不入，还得人去手动调，浪费时间。现在有了这个格式，设计规范成了AI能直接读懂的指令，相当于给它配了一本永不丢失的品牌手册。开发者可以自己定义这个规范，AI代理在多次交互中都能保持对设计系统的理解，生成的代码更符合预期。它今天一天就涨了两千多星，说明大家确实有这个需求。你在用AI写前端的时候，是不是也经常为它不守设计规范头疼？",
+      "cover_line1": "给AI看的设计规范文件",
+      "cover_line2": "今天涨了2319颗星",
+      "body": "你用AI写代码时，想让它帮你做个按钮，它可能会用错颜色、用错圆角、用错间距，因为AI脑子里没有你家的设计系统。google-labs-code 今天开源的这个 DESIGN.md 格式，就是为了解决这个问题。它本质上是一个规范文件，用一种AI能懂的结构化语言，把你的品牌色、字体、间距规则、组件样式全部写进去。这个文件不是给人看的，是给编码智能体看的。智能体读了它，就像拿到了一份设计指南，写代码时会自觉遵守这些规则。今天一天就涨了2300多颗星，说明大家在用AI做开发时，对“保持设计一致”的需求真的很强烈。这个文件可以放在项目根目录，AI智能体一进来就能读到，它不用每次都去猜你的设计意图。这样AI生成的前端代码，才真正能用到产品里去，而不是还需要人来改半天样式。但这里有个问题：当一个设计系统复杂到一定程度，光靠一个文本文件描述，真的够用吗？",
       "tags": [
+        "AI开发工具",
         "设计系统",
-        "编码代理",
-        "AI辅助开发",
-        "前端工具",
-        "规范文档",
+        "编码智能体",
+        "前端开发",
+        "Google",
         "TypeScript",
-        "Google Labs",
-        "开发者工具",
-        "AI编程",
-        "UI规范"
+        "开发规范",
+        "代码生成",
+        "设计对齐",
+        "开源项目"
       ]
     },
     {
-      "topic": "文档喂给LLM",
+      "topic": "文档转LLM文本",
       "repo": "opendatalab/MinerU",
-      "cover_line1": "把PDF转成LLM能吃的格式",
-      "cover_line2": "今天涨星近千，总星七万",
-      "body": "你把一个复杂的PDF或者Word文档丢给大语言模型，它经常读不懂里面的图表、公式和复杂排版，只能抓瞎。MinerU干的就是翻译的活儿，它把这些文档转换成Markdown或者JSON格式，这两种格式是LLM的“母语”，模型处理起来又快又准。这个工具对做AI应用的人来说特别实用，因为现实中大量的知识都锁在那些格式不友好的文档里。有了MinerU，你可以把公司的产品手册、研究报告、法律条文快速变成LLM能直接理解和引用的数据，再塞进你的智能体工作流里，让AI基于这些真实文档来回答问题或执行任务。它已经积累了超过七万颗星，说明市场验证过了。你是不是也受够了手动复制粘贴PDF里的内容，就为了让AI能看明白？",
+      "cover_line1": "把PDF转成LLM能读的文本",
+      "cover_line2": "总星超7万热门工具",
+      "body": "喂给大语言模型（LLM）的数据，大多是整齐的纯文本。但现实世界的数据藏在PDF、PPT、Word这些复杂文档里，里面混着表格、图片、公式、多栏排版，LLM读不懂。MinerU这个项目就是干这个活的：它把那些难啃的文档，转换成LLM可以轻松处理的Markdown或JSON格式。它不只是把文字提出来，还能理解文档的结构，比如哪个是标题，哪个是列表，表格里的数字怎么对应。这样一来，你就能把公司的内部报告、技术手册、论文这些文档，批量变成AI智能体可以直接调用和分析的知识库，省去了大量人工整理和标注的功夫。项目总星已经超过7万，是个被广泛验证的工具。开发者接上它，就能让AI应用快速消化本地文档，实现更精准的问答和总结。不过我在想，对于排版极其混乱、没有规律的历史扫描件，它的识别准确率到底能到多少？",
       "tags": [
+        "数据处理",
         "文档解析",
-        "PDF处理",
         "LLM数据准备",
-        "Agentic工作流",
-        "数据提取",
+        "PDF转换",
         "Python",
-        "开源工具",
-        "文本转换",
-        "AI数据处理",
-        "非结构化数据"
+        "AI工具链",
+        "智能体工作流",
+        "数据提取",
+        "开源",
+        "知识库构建"
       ]
     },
     {
-      "topic": "AI研究价值投资",
+      "topic": "AI投资分析框架",
       "repo": "xbtlin/ai-berkshire",
-      "cover_line1": "用Claude Code做投资研究",
-      "cover_line2": "融合巴菲特芒格方法论",
-      "body": "这个项目叫AI时代的伯克希尔，它把巴菲特、芒格、段永平、李录这些价值投资大师的思维方法，变成了一个能跑在Claude Code上的AI研究框架。它的核心玩法是让多个AI智能体并行工作，像一群分析师一样，从不同角度去深入研究一家公司，然后互相“辩论”，得出更全面的结论。这改变了看财报、读研报的方式，AI能帮你快速处理海量公开信息，按照大师们的核心原则去筛查和评估，比如护城河到底宽不宽，管理层靠不靠谱。它今天涨了一千两百多星，虽然总星数还不算特别高，但增长势头很猛，说明很多人想试试用AI来辅助做这种深度、理性的投资分析。你想不想看看，让AI来给你的持仓做个芒格式的“灵魂拷问”，会得出什么结论？",
+      "cover_line1": "用Claude做价值投资分析",
+      "cover_line2": "1天涨了1270颗星",
+      "body": "价值投资需要读财报、看行业、算估值，过程繁琐且依赖经验。这个叫ai-berkshire的项目，试图用AI来帮忙。它基于Claude Code构建了一个研究框架，核心思路是把巴菲特、芒格、段永平、李录这四位大师的投资哲学和方法论，写成了可以运行的代码逻辑。它不是让AI简单地总结文章，而是让多个AI智能体扮演不同角色，有的负责找数据，有的负责用护城河理论分析，有的负责用安全边际计算，它们会互相讨论甚至辩论，最后形成一份多角度的研究报告。框架刚开源一天，就获得了1270颗星，冲到了总星3097。这反映出很多人想用AI工具辅助投资决策。它整合了不同投资流派的精髓，并试图用多智能体并行工作来降低单一模型的偏见。但用AI做投资研究，它给出的结论，我们真的能放心地当作决策依据吗？",
       "tags": [
         "价值投资",
-        "AI研究",
-        "多Agent",
+        "AI分析",
         "Claude Code",
-        "投资分析",
+        "多智能体",
         "Python",
-        "金融AI",
-        "巴菲特",
         "投资框架",
-        "开源研究"
-      ]
-    },
-    {
-      "topic": "开车自动辅助",
-      "repo": "commaai/openpilot",
-      "cover_line1": "给300多款车的驾驶系统",
-      "cover_line2": "今天涨星67，总星超六万",
-      "body": "openpilot已经是一个非常成熟的开源项目了，它本质上是一个用于机器人的操作系统，目前最大的应用就是升级普通汽车的驾驶辅助系统，让它变得更像自动驾驶。它支持超过300款车型，用户可以在兼容的车上安装这套系统，获得更平顺的跟车、车道保持等功能。这个项目总星数超过六万，代表了社区对它的长期认可。它今天虽然只涨了67颗星，但作为已经进入稳定期的项目，持续的关注本身就是价值的体现。它代表了开源社区在挑战传统汽车工业封闭系统方面做出的努力，让更多司机能用上持续改进的软件。你知道你家的车是否在openpilot支持的300多款车型名单里吗？",
-      "tags": [
-        "自动驾驶",
-        "ADAS",
-        "机器人操作系统",
-        "开源驾驶",
-        "comma.ai",
-        "Python",
-        "车载系统",
-        "驾驶辅助",
-        "技术开源",
-        "汽车科技"
+        "伯克希尔",
+        "财报分析",
+        "开源项目",
+        "金融科技"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-26/trending/summary.png",
-    "assets/2026-06-26/trending/post1.png",
-    "assets/2026-06-26/trending/post2.png",
-    "assets/2026-06-26/trending/post3.png",
-    "assets/2026-06-26/trending/post4.png"
+    "assets/2026-06-27/trending/summary.png",
+    "assets/2026-06-27/trending/post1.png",
+    "assets/2026-06-27/trending/post2.png",
+    "assets/2026-06-27/trending/post3.png"
   ]
 }
