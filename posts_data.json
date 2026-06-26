@@ -1,89 +1,89 @@
 {
-  "date": "2026-06-25",
+  "date": "2026-06-26",
   "posts": [
     {
-      "topic": "OpenAI自研芯片",
-      "cover_line1": "OpenAI发布首个自研AI芯片",
-      "cover_line2": "由Broadcom代工，用于下一代模型",
-      "body": "OpenAI今天公布了自己的第一颗芯片，不是软件，是实实在在的硬件。这颗芯片不是从零造的，而是OpenAI设计好后，让芯片大厂Broadcom帮忙生产。以前训练大模型，基本得靠英伟达的显卡，贵还难抢。现在OpenAI自己下场造芯片，就像做手机的公司开始自己设计处理器一样，核心目的就一个：把训练和运行自家模型的成本打下来，速度提上去。它具体能做到多快多省，还没公布数字，但这步棋意味着，顶级AI公司开始把‘算力命脉’往自己手里攥了。当你的算力成本比对手低一截，你的模型迭代速度就能更快，这是个滚雪球的优势。所以，这到底是技术优化，还是行业垄断的开始？",
+      "topic": "Show HN: OpenKnowled",
+      "cover_line1": "Show HN: O",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion**\n\n📌 来源：HackerNews\n🔗 https://github.com/inkeep/open-knowledge\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "自研芯片",
-        "OpenAI",
-        "Broadcom",
-        "算力",
-        "AI硬件",
-        "芯片设计",
-        "模型训练",
-        "科技公司",
-        "硬件突破",
-        "半导体"
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "Gemini学会用电脑",
-      "cover_line1": "Gemini 3.5 Flash学会用电脑",
-      "cover_line2": "能看屏幕点鼠标敲键盘了",
-      "body": "谷歌给Gemini 3.5 Flash模型加了个新本事：它能‘用电脑’了。意思就是，你给它一个电脑桌面截图，它能看懂屏幕上有什么，然后像人一样移动鼠标、点击按钮、敲键盘输入文字。以前的AI助手只能聊天，现在这个版本能直接操作软件了。比如，它可以在你的电脑上打开一个表格文件，找到某个数据，然后改掉它。这个功能叫做‘计算机使用’，目前在测试阶段。它让AI从一个‘只说不做’的参谋，变成了能上手干活的‘执行者’。不过，让它在你电脑上随便点来点去，安全吗？",
+      "topic": "Apple raises prices ",
+      "cover_line1": "Apple rais",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Apple raises prices of MacBooks, iPads**\n\n📌 来源：HackerNews\n🔗 https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "计算机使用",
-        "Gemini",
-        "Google",
-        "AI智能体",
-        "自动化",
-        "交互方式",
-        "模型能力",
-        "开发者",
-        "软件控制",
-        "人机交互"
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "开源图像模型Krea 2",
-      "cover_line1": "开源图像模型Krea 2发布",
-      "cover_line2": "参数12B，权重全部开放",
-      "body": "一家叫Krea的公司今天放出了一个叫Krea 2的图像生成模型，参数规模是120亿。关键点是，它的权重完全开放，谁都可以下载、使用甚至修改。目前开源的图像模型里，像Stable Diffusion系列，参数通常在几十亿级别。这个120亿参数的模型，理论上理解更复杂的提示词、生成更精细的图片。开源意味着所有开发者和公司都能免费用它，不用再看大厂的脸色，还能在它的基础上训练出更适合自己业务的定制模型。一个强大的开源模型，就像给整个行业发了一把更锋利的公共菜刀。但问题是，开源模型怎么赚钱，公司靠什么活下去？",
+      "topic": "Besimple AI (YC P25)",
+      "cover_line1": "Besimple A",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Besimple AI (YC P25) Is Hiring**\n\n📌 来源：HackerNews\n🔗 https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "开源模型",
-        "图像生成",
-        "Krea AI",
-        "12B参数",
-        "权重开放",
-        "Stable Diffusion",
-        "创意工具",
-        "AI艺术",
-        "社区贡献",
-        "模型性能"
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "GLM-5.2开源智能体",
-      "cover_line1": "开源模型GLM-5.2发布",
-      "cover_line2": "在智能体基准测试上表现好",
-      "body": "智谱AI今天发布了开源模型GLM-5.2。这模型不只想聊天，更想当‘智能体’。智能体就是能自主规划、使用工具（比如搜索网页、写代码）、完成一整套复杂任务的AI。报道说它在专门测试智能体能力的基准测试上，成绩跳了一大步。开源是它的另一大特点，所有代码和模型权重都公开，这降低了开发者构建智能体应用的门槛。从聊天助手到能干活的智能体，是AI能力的质变。如果开源模型在这件事上能做到足够好，可能会催生大量企业级的AI员工。那么，通用智能体的落地，会不会因为开源而突然加速？",
+      "topic": "The annotated PyTorc",
+      "cover_line1": "The annota",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**The annotated PyTorch training loop**\n\n📌 来源：HackerNews\n🔗 https://idlemachines.co.uk/essays/pytorch-training-loop\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "开源智能体",
-        "GLM",
-        "智谱",
-        "智能体框架",
-        "开源社区",
-        "模型评测",
-        "工具使用",
-        "决策能力",
-        "AI代理",
-        "技术突破"
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-25/cover1.png",
-    "assets/2026-06-25/cover2.png",
-    "assets/2026-06-25/cover3.png",
-    "assets/2026-06-25/cover4.png"
+    "assets/2026-06-26/cover1.png",
+    "assets/2026-06-26/cover2.png",
+    "assets/2026-06-26/cover3.png",
+    "assets/2026-06-26/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-06-25/cover1_feishu.png",
-    "assets/2026-06-25/cover2_feishu.png",
-    "assets/2026-06-25/cover3_feishu.png",
-    "assets/2026-06-25/cover4_feishu.png"
+    "assets/2026-06-26/cover1_feishu.png",
+    "assets/2026-06-26/cover2_feishu.png",
+    "assets/2026-06-26/cover3_feishu.png",
+    "assets/2026-06-26/cover4_feishu.png"
   ]
 }
