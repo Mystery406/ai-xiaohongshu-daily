@@ -1,11 +1,11 @@
 {
-  "date": "2026-06-26",
+  "date": "2026-06-27",
   "posts": [
     {
-      "topic": "Show HN: OpenKnowled",
-      "cover_line1": "Show HN: O",
+      "topic": "Previewing GPT‑5.6 S",
+      "cover_line1": "Previewing",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion**\n\n📌 来源：HackerNews\n🔗 https://github.com/inkeep/open-knowledge\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Previewing GPT‑5.6 Sol: a next-generation model**\n\n📌 来源：HackerNews\n🔗 https://openai.com/index/previewing-gpt-5-6-sol/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Apple raises prices ",
-      "cover_line1": "Apple rais",
+      "topic": "US allows Anthropic ",
+      "cover_line1": "US allows ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Apple raises prices of MacBooks, iPads**\n\n📌 来源：HackerNews\n🔗 https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**US allows Anthropic to release Mythos to 'trusted partners'**\n\n📌 来源：HackerNews\n🔗 https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Besimple AI (YC P25)",
-      "cover_line1": "Besimple A",
+      "topic": "U.S. government will",
+      "cover_line1": "U.S. gover",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Besimple AI (YC P25) Is Hiring**\n\n📌 来源：HackerNews\n🔗 https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**U.S. government will decide who gets to use GPT-5.6**\n\n📌 来源：HackerNews\n🔗 https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "The annotated PyTorc",
-      "cover_line1": "The annota",
+      "topic": "The gap between open",
+      "cover_line1": "The gap be",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**The annotated PyTorch training loop**\n\n📌 来源：HackerNews\n🔗 https://idlemachines.co.uk/essays/pytorch-training-loop\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**The gap between open weights LLMs and closed source LLMs**\n\n📌 来源：HackerNews\n🔗 https://blog.doubleword.ai/frontier-os-llm\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-06-26/cover1.png",
-    "assets/2026-06-26/cover2.png",
-    "assets/2026-06-26/cover3.png",
-    "assets/2026-06-26/cover4.png"
+    "assets/2026-06-27/cover1.png",
+    "assets/2026-06-27/cover2.png",
+    "assets/2026-06-27/cover3.png",
+    "assets/2026-06-27/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-06-26/cover1_feishu.png",
-    "assets/2026-06-26/cover2_feishu.png",
-    "assets/2026-06-26/cover3_feishu.png",
-    "assets/2026-06-26/cover4_feishu.png"
+    "assets/2026-06-27/cover1_feishu.png",
+    "assets/2026-06-27/cover2_feishu.png",
+    "assets/2026-06-27/cover3_feishu.png",
+    "assets/2026-06-27/cover4_feishu.png"
   ]
 }
