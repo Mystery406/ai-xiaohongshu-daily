@@ -1,186 +1,213 @@
 {
   "date": "2026-06-27",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
       "name": "simplex-chat/simplex-chat",
       "url": "https://github.com/simplex-chat/simplex-chat",
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
-      "stars_today": "191 stars today",
-      "stars_total": "12,521"
+      "stars_today": "1,470 stars today",
+      "stars_total": "13,373"
     },
     {
-      "name": "google-labs-code/design.md",
-      "url": "https://github.com/google-labs-code/design.md",
-      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
-      "language": "TypeScript",
-      "stars_today": "2,319 stars today",
-      "stars_total": "21,210"
+      "name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "language": "Python",
+      "stars_today": "686 stars today",
+      "stars_total": "3,707"
     },
     {
       "name": "commaai/openpilot",
       "url": "https://github.com/commaai/openpilot",
       "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
       "language": "Python",
-      "stars_today": "67 stars today",
-      "stars_total": "61,772"
+      "stars_today": "322 stars today",
+      "stars_total": "61,965"
     },
     {
-      "name": "kunchenguid/no-mistakes",
-      "url": "https://github.com/kunchenguid/no-mistakes",
-      "description": "git push no-mistakes",
+      "name": "IceWhaleTech/CasaOS",
+      "url": "https://github.com/IceWhaleTech/CasaOS",
+      "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
       "language": "Go",
-      "stars_today": "412 stars today",
-      "stars_total": "3,410"
-    },
-    {
-      "name": "grafana/grafana",
-      "url": "https://github.com/grafana/grafana",
-      "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
-      "language": "TypeScript",
-      "stars_today": "17 stars today",
-      "stars_total": "74,886"
+      "stars_today": "502 stars today",
+      "stars_total": "35,635"
     },
     {
       "name": "ripienaar/free-for-dev",
       "url": "https://github.com/ripienaar/free-for-dev",
       "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
       "language": "HTML",
-      "stars_today": "137 stars today",
-      "stars_total": "123,719"
+      "stars_today": "459 stars today",
+      "stars_total": "124,000"
     },
-    {
-      "name": "opendatalab/MinerU",
-      "url": "https://github.com/opendatalab/MinerU",
-      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
-      "language": "Python",
-      "stars_today": "944 stars today",
-      "stars_total": "70,401"
-    },
-    {
-      "name": "alchaincyf/zhangxuefeng-skill",
-      "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
-      "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
-      "language": "",
-      "stars_today": "185 stars today",
-      "stars_total": "9,243"
-    },
-    {
-      "name": "mauriceboe/TREK",
-      "url": "https://github.com/mauriceboe/TREK",
-      "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
-      "language": "TypeScript",
-      "stars_today": "1,063 stars today",
-      "stars_total": "7,644"
-    },
-    {
-      "name": "xbtlin/ai-berkshire",
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "language": "Python",
-      "stars_today": "1,270 stars today",
-      "stars_total": "3,097"
-    }
-  ],
-  "ai_repos": [
     {
       "name": "google-labs-code/design.md",
       "url": "https://github.com/google-labs-code/design.md",
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
       "language": "TypeScript",
-      "stars_today": "2,319 stars today",
-      "stars_total": "21,210"
+      "stars_today": "1,542 stars today",
+      "stars_total": "22,040"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C",
+      "stars_today": "67 stars today",
+      "stars_total": "135,615"
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
+      "language": "Python",
+      "stars_today": "589 stars today",
+      "stars_total": "32,776"
+    },
+    {
+      "name": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
+      "language": "TypeScript",
+      "stars_today": "750 stars today",
+      "stars_total": "21,833"
+    },
+    {
+      "name": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "language": "TypeScript",
+      "stars_today": "674 stars today",
+      "stars_total": "116,981"
+    }
+  ],
+  "ai_repos": [
+    {
+      "name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "language": "Python",
+      "stars_today": "686 stars today",
+      "stars_total": "3,707"
     },
     {
       "name": "commaai/openpilot",
       "url": "https://github.com/commaai/openpilot",
       "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
       "language": "Python",
-      "stars_today": "67 stars today",
-      "stars_total": "61,772"
+      "stars_today": "322 stars today",
+      "stars_total": "61,965"
     },
     {
-      "name": "opendatalab/MinerU",
-      "url": "https://github.com/opendatalab/MinerU",
-      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "name": "google-labs-code/design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "language": "TypeScript",
+      "stars_today": "1,542 stars today",
+      "stars_total": "22,040"
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
       "language": "Python",
-      "stars_today": "944 stars today",
-      "stars_total": "70,401"
+      "stars_today": "589 stars today",
+      "stars_total": "32,776"
     },
     {
-      "name": "alchaincyf/zhangxuefeng-skill",
-      "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
-      "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
-      "language": "",
-      "stars_today": "185 stars today",
-      "stars_total": "9,243"
+      "name": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
+      "language": "TypeScript",
+      "stars_today": "750 stars today",
+      "stars_total": "21,833"
     },
     {
-      "name": "xbtlin/ai-berkshire",
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "language": "Python",
-      "stars_today": "1,270 stars today",
-      "stars_total": "3,097"
+      "name": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "language": "TypeScript",
+      "stars_today": "674 stars today",
+      "stars_total": "116,981"
     }
   ],
   "posts": [
     {
-      "topic": "AI设计规范文件",
-      "repo": "google-labs-code/design.md",
-      "cover_line1": "给AI看的设计规范文件",
-      "cover_line2": "今天涨了2319颗星",
-      "body": "你用AI写代码时，想让它帮你做个按钮，它可能会用错颜色、用错圆角、用错间距，因为AI脑子里没有你家的设计系统。google-labs-code 今天开源的这个 DESIGN.md 格式，就是为了解决这个问题。它本质上是一个规范文件，用一种AI能懂的结构化语言，把你的品牌色、字体、间距规则、组件样式全部写进去。这个文件不是给人看的，是给编码智能体看的。智能体读了它，就像拿到了一份设计指南，写代码时会自觉遵守这些规则。今天一天就涨了2300多颗星，说明大家在用AI做开发时，对“保持设计一致”的需求真的很强烈。这个文件可以放在项目根目录，AI智能体一进来就能读到，它不用每次都去猜你的设计意图。这样AI生成的前端代码，才真正能用到产品里去，而不是还需要人来改半天样式。但这里有个问题：当一个设计系统复杂到一定程度，光靠一个文本文件描述，真的够用吗？",
-      "tags": [
-        "AI开发工具",
-        "设计系统",
-        "编码智能体",
-        "前端开发",
-        "Google",
-        "TypeScript",
-        "开发规范",
-        "代码生成",
-        "设计对齐",
-        "开源项目"
-      ]
-    },
-    {
-      "topic": "文档转LLM文本",
-      "repo": "opendatalab/MinerU",
-      "cover_line1": "把PDF转成LLM能读的文本",
-      "cover_line2": "总星超7万热门工具",
-      "body": "喂给大语言模型（LLM）的数据，大多是整齐的纯文本。但现实世界的数据藏在PDF、PPT、Word这些复杂文档里，里面混着表格、图片、公式、多栏排版，LLM读不懂。MinerU这个项目就是干这个活的：它把那些难啃的文档，转换成LLM可以轻松处理的Markdown或JSON格式。它不只是把文字提出来，还能理解文档的结构，比如哪个是标题，哪个是列表，表格里的数字怎么对应。这样一来，你就能把公司的内部报告、技术手册、论文这些文档，批量变成AI智能体可以直接调用和分析的知识库，省去了大量人工整理和标注的功夫。项目总星已经超过7万，是个被广泛验证的工具。开发者接上它，就能让AI应用快速消化本地文档，实现更精准的问答和总结。不过我在想，对于排版极其混乱、没有规律的历史扫描件，它的识别准确率到底能到多少？",
-      "tags": [
-        "数据处理",
-        "文档解析",
-        "LLM数据准备",
-        "PDF转换",
-        "Python",
-        "AI工具链",
-        "智能体工作流",
-        "数据提取",
-        "开源",
-        "知识库构建"
-      ]
-    },
-    {
-      "topic": "AI投资分析框架",
+      "topic": "AI投资分析",
       "repo": "xbtlin/ai-berkshire",
-      "cover_line1": "用Claude做价值投资分析",
-      "cover_line2": "1天涨了1270颗星",
-      "body": "价值投资需要读财报、看行业、算估值，过程繁琐且依赖经验。这个叫ai-berkshire的项目，试图用AI来帮忙。它基于Claude Code构建了一个研究框架，核心思路是把巴菲特、芒格、段永平、李录这四位大师的投资哲学和方法论，写成了可以运行的代码逻辑。它不是让AI简单地总结文章，而是让多个AI智能体扮演不同角色，有的负责找数据，有的负责用护城河理论分析，有的负责用安全边际计算，它们会互相讨论甚至辩论，最后形成一份多角度的研究报告。框架刚开源一天，就获得了1270颗星，冲到了总星3097。这反映出很多人想用AI工具辅助投资决策。它整合了不同投资流派的精髓，并试图用多智能体并行工作来降低单一模型的偏见。但用AI做投资研究，它给出的结论，我们真的能放心地当作决策依据吗？",
+      "cover_line1": "用Claude Code做价值投资研究",
+      "cover_line2": "内置巴菲特芒格等四套方法论",
+      "body": "想用 AI 帮你研究公司值不值得投，这个项目提供了现成的框架。它基于 Claude Code 构建，核心是把巴菲特、芒格、段永平、李录这四位大师的投资心法，变成了 AI 可以执行的具体指令。项目让多个 AI 角色同时工作，一个扮演保守的价值投资者，另一个扮演挑剔的质疑者，互相挑刺，最后汇总出更全面的分析报告。这解决了用 AI 做严肃研究时，容易陷入单一套路或过于乐观的问题。它不是一个选股神器，而是一个帮你按照一套成熟逻辑去梳理信息、挑战假设的工具。你有自己深信不疑的投资原则吗？",
       "tags": [
         "价值投资",
-        "AI分析",
         "Claude Code",
         "多智能体",
-        "Python",
         "投资框架",
-        "伯克希尔",
-        "财报分析",
+        "巴菲特",
+        "AI研究",
+        "Python",
+        "开源",
+        "金融分析",
+        "决策辅助"
+      ]
+    },
+    {
+      "topic": "AI设计规范",
+      "repo": "google-labs-code/design.md",
+      "cover_line1": "给AI编码助手看的设计规范",
+      "cover_line2": "谷歌出品，已获2.2万星",
+      "body": "你让 AI 帮你写前端代码，它生成的按钮颜色、间距总是对不上设计稿。谷歌这个团队想解决的就是这个问题。他们搞了一个叫 DESIGN.md 的文件格式，就像一份给 AI 看的“设计系统说明书”。你把品牌用的颜色、字体、圆角大小、阴影效果这些规则，用这个格式写清楚，AI 在写代码时就能读懂并遵守。它不是一个具体的设计工具，而是让 AI 理解你视觉标准的“语言”。目前已有超过 2.2 万个星标，说明开发者苦“AI 不懂设计”久矣。你的项目里，设计规范和代码实现之间的鸿沟有多大？",
+      "tags": [
+        "设计系统",
+        "编码规范",
+        "谷歌",
+        "AI编程",
+        "前端开发",
+        "UI一致性",
+        "TypeScript",
+        "开源工具",
+        "开发流程",
+        "规范文档"
+      ]
+    },
+    {
+      "topic": "AI生成PPT",
+      "repo": "hugohe3/ppt-master",
+      "cover_line1": "AI直接生成可编辑的PPT文件",
+      "cover_line2": "能带原生动画和模板",
+      "body": "很多 AI 做 PPT 的工具，最后给你的是一堆图片或者一个无法修改的幻灯片。这个项目的不同之处在于，它用 AI 生成的真的是一个地道的、用 PowerPoint 软件能直接打开编辑的 .pptx 文件。里面的图表是原生形状，动画是软件自带的动画，你拿到手就可以随意拖动修改文字和图片。更实用的是，你可以指定一个自己公司的模板，让 AI 严格遵循你的版式。它甚至能把备注栏里的演讲词自动转成音频旁白。它把 AI 的生成能力和 PPT 的可编辑性真正结合起来了。生成的文件再好看，如果不能改，价值会打多少折扣？",
+      "tags": [
+        "PPT生成",
+        "AI自动化",
+        "办公效率",
+        "文件格式",
+        "Python",
         "开源项目",
-        "金融科技"
+        "内容创作",
+        "可编辑",
+        "模板",
+        "演示文稿"
+      ]
+    },
+    {
+      "topic": "AI全能工作流",
+      "repo": "garrytan/gstack",
+      "cover_line1": "Y Combinator总裁的Claude Code配置",
+      "cover_line2": "包含23个角色扮演工具",
+      "body": "Garry Tan 是 Y Combinator 的总裁，他把自用的 Claude Code 配置开源了。这不是一个单一工具，而是一整套“团队”：AI 会扮演产品经理、设计师、工程经理、测试员、文档工程师等共 23 个不同角色，从不同角度审视你的代码和产品想法。比如你有个新功能点子，它会先以产品经理的身份评估需求，再以设计师的角度考虑交互，最后让工程师评估实现难度。这套配置的核心价值，是把一个全能的 AI 助手，拆解成了一个能自我讨论、互相制衡的虚拟团队，帮你查漏补缺。当 AI 能模拟不同岗位的视角时，你作为核心决策者，需要把更多精力放在哪里？",
+      "tags": [
+        "Claude Code",
+        "工作流",
+        "Y Combinator",
+        "AI配置",
+        "角色扮演",
+        "软件开发",
+        "TypeScript",
+        "开源",
+        "效率工具",
+        "虚拟团队"
       ]
     }
   ],
@@ -188,6 +215,7 @@
     "assets/2026-06-27/trending/summary.png",
     "assets/2026-06-27/trending/post1.png",
     "assets/2026-06-27/trending/post2.png",
-    "assets/2026-06-27/trending/post3.png"
+    "assets/2026-06-27/trending/post3.png",
+    "assets/2026-06-27/trending/post4.png"
   ]
 }
