@@ -1,38 +1,38 @@
 {
-  "date": "2026-06-28",
-  "slot": "晚报",
+  "date": "2026-06-29",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "simplex-chat/simplex-chat",
       "url": "https://github.com/simplex-chat/simplex-chat",
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
-      "stars_today": "1,183 stars today",
-      "stars_total": "14,550"
+      "stars_today": "1,180 stars today",
+      "stars_total": "14,962"
     },
     {
       "name": "ripienaar/free-for-dev",
       "url": "https://github.com/ripienaar/free-for-dev",
       "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
       "language": "HTML",
-      "stars_today": "472 stars today",
-      "stars_total": "124,623"
+      "stars_today": "495 stars today",
+      "stars_total": "125,179"
     },
     {
       "name": "commaai/openpilot",
       "url": "https://github.com/commaai/openpilot",
       "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
       "language": "Python",
-      "stars_today": "265 stars today",
-      "stars_total": "62,238"
+      "stars_today": "266 stars today",
+      "stars_total": "62,369"
     },
     {
       "name": "xbtlin/ai-berkshire",
       "url": "https://github.com/xbtlin/ai-berkshire",
       "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
-      "stars_today": "1,456 stars today",
-      "stars_total": "5,056"
+      "stars_today": "1,445 stars today",
+      "stars_total": "5,256"
     },
     {
       "name": "Robbyant/lingbot-map",
@@ -40,47 +40,47 @@
       "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
       "language": "Python",
       "stars_today": "372 stars today",
-      "stars_total": "8,037"
+      "stars_total": "8,208"
     },
     {
       "name": "DeusData/codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_today": "2,162 stars today",
-      "stars_total": "18,850"
+      "stars_today": "2,190 stars today",
+      "stars_total": "19,582"
     },
     {
       "name": "cupy/cupy",
       "url": "https://github.com/cupy/cupy",
       "description": "NumPy & SciPy for GPU",
       "language": "Python",
-      "stars_today": "172 stars today",
-      "stars_total": "11,384"
+      "stars_today": "174 stars today",
+      "stars_total": "11,504"
     },
     {
       "name": "altic-dev/FluidVoice",
       "url": "https://github.com/altic-dev/FluidVoice",
       "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
       "language": "Swift",
-      "stars_today": "264 stars today",
-      "stars_total": "3,384"
+      "stars_today": "365 stars today",
+      "stars_total": "3,704"
     },
     {
       "name": "opendatalab/MinerU",
       "url": "https://github.com/opendatalab/MinerU",
       "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
       "language": "Python",
-      "stars_today": "749 stars today",
-      "stars_total": "71,310"
+      "stars_today": "380 stars today",
+      "stars_total": "71,556"
     },
     {
       "name": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars_today": "490 stars today",
-      "stars_total": "14,059"
+      "stars_today": "492 stars today",
+      "stars_total": "14,285"
     }
   ],
   "ai_repos": [
@@ -89,125 +89,125 @@
       "url": "https://github.com/commaai/openpilot",
       "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
       "language": "Python",
-      "stars_today": "265 stars today",
-      "stars_total": "62,238"
+      "stars_today": "266 stars today",
+      "stars_total": "62,369"
     },
     {
       "name": "xbtlin/ai-berkshire",
       "url": "https://github.com/xbtlin/ai-berkshire",
       "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
-      "stars_today": "1,456 stars today",
-      "stars_total": "5,056"
+      "stars_today": "1,445 stars today",
+      "stars_total": "5,256"
     },
     {
       "name": "DeusData/codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_today": "2,162 stars today",
-      "stars_total": "18,850"
+      "stars_today": "2,190 stars today",
+      "stars_total": "19,582"
     },
     {
       "name": "opendatalab/MinerU",
       "url": "https://github.com/opendatalab/MinerU",
       "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
       "language": "Python",
-      "stars_today": "749 stars today",
-      "stars_total": "71,310"
+      "stars_today": "380 stars today",
+      "stars_total": "71,556"
     },
     {
       "name": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars_today": "490 stars today",
-      "stars_total": "14,059"
+      "stars_today": "492 stars today",
+      "stars_total": "14,285"
     }
   ],
   "posts": [
     {
-      "topic": "openpilot",
+      "topic": "汽车自动驾驶OS",
       "repo": "commaai/openpilot",
-      "cover_line1": "openpilot",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**commaai/openpilot**\n\n📌 openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.\n\n🔗 https://github.com/commaai/openpilot\n\n关注我，每天第一时间 AI 动态 👇",
+      "cover_line1": "给汽车装的开源自动驾驶系统",
+      "cover_line2": "已支持300多款车型",
+      "body": "openpilot 是一套开源的机器人操作系统，目前主要用在汽车上。它相当于给你的车升级了高级驾驶辅助，能帮你跟车、保持在车道里。这套系统能直接装到300多款市售车上，不需要是特定品牌。这意味着开发者或爱好者可以在自己的车上实验和改进自动驾驶功能，而不是只能碰那些不让人动手的商业系统。它的代码是公开的，Python写的，社区已经攒了六万多颗星，每天还在持续更新。今天又多了266颗星，说明大家对在真车上跑开源AI兴趣一直很浓。不过想在自己车上试试的话，你得先确认自己的车在支持列表里，并且要清楚这毕竟还是辅助驾驶，人得随时准备接管。你觉得，一个普通人会愿意为了更好的驾驶体验，去折腾装一个开源系统到自己每天开的车上吗？",
       "tags": [
-        "AI",
-        "GitHub",
+        "自动驾驶",
         "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "机器人操作系统",
+        "汽车科技",
+        "Python",
+        "驾驶辅助",
+        "嵌入式",
+        "计算机视觉",
+        "实时系统",
+        "社区项目"
       ]
     },
     {
-      "topic": "ai-berkshire",
+      "topic": "AI投资研究框架",
       "repo": "xbtlin/ai-berkshire",
-      "cover_line1": "ai-berkshi",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**xbtlin/ai-berkshire**\n\n📌 AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.\n\n🔗 https://github.com/xbtlin/ai-berkshire\n\n关注我，每天第一时间 AI 动态 👇",
+      "cover_line1": "用AI模拟巴菲特研究公司",
+      "cover_line2": "集成四位投资大师方法论",
+      "body": "这个项目叫“AI时代的伯克希尔”，它想用AI来模仿顶级投资人的思考方式。具体来说，它把巴菲特、芒格、段永平、李录这四位大师的投资理念和框架，变成了代码里的规则。然后它用多个AI智能体并行工作，有的在读财报，有的在分析商业模式，有的在评估管理层，就像组建了一个虚拟的投资研究团队。它的核心思路是让AI严格按照价值投资的逻辑去‘看’公司，而不是去追热点或炒短线。这个框架是给Claude Code或者Codex这些AI编程助手用的，你得先有这些工具。项目今天一下涨了1445颗星，说明很多人想看看AI能不能真的学明白投资这门手艺。它目前主要帮你做分析和研究，不提供买卖信号。你会放心让AI按照巴菲特的方法去帮你分析一家公司吗？",
       "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "价值投资",
+        "AI智能体",
+        "研究框架",
+        "巴菲特",
+        "金融分析",
+        "Claude",
+        "Python",
+        "多Agent",
+        "决策支持",
+        "量化"
       ]
     },
     {
-      "topic": "codebase-memory-mcp",
+      "topic": "代码库秒级索引工具",
       "repo": "DeusData/codebase-memory-mcp",
-      "cover_line1": "codebase-m",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**DeusData/codebase-memory-mcp**\n\n📌 High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.\n\n🔗 https://github.com/DeusData/codebase-memory-mcp\n\n关注我，每天第一时间 AI 动态 👇",
+      "cover_line1": "把整个代码库建成知识图谱",
+      "cover_line2": "毫秒级查询，省99%的Token",
+      "body": "这个工具叫codebase-memory-mcp，它解决的是AI理解大型代码库时速度慢、花销大的问题。你给它一个代码仓库，它能在毫秒级时间里，把仓库里的代码关系（比如谁调用了谁）整理成一张知识图谱存起来。之后AI再问代码相关的问题，它就直接查这张图，而不是让AI把成吨的代码重读一遍。这样响应飞快，而且能省下99%的Token费用。它用C语言写的，是个单个文件，不需要装别的东西，号称支持158种编程语言。对于经常要处理大项目的开发者或者想给AI接上代码理解能力的团队，这能省下不少时间和钱。今天它拿了2190颗星，热度很高。你的开发流程里，AI帮你读代码的环节是不是常常又慢又贵？",
       "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "代码分析",
+        "知识图谱",
+        "性能优化",
+        "MCP",
+        "开发者工具",
+        "AI编程",
+        "C语言",
+        "Token节省",
+        "静态分析",
+        "大型代码库"
       ]
     },
     {
-      "topic": "MinerU",
+      "topic": "文档转AI可读格式",
       "repo": "opendatalab/MinerU",
-      "cover_line1": "MinerU",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**opendatalab/MinerU**\n\n📌 Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.\n\n🔗 https://github.com/opendatalab/MinerU\n\n关注我，每天第一时间 AI 动态 👇",
+      "cover_line1": "把PDF和Office文档喂给AI",
+      "cover_line2": "总星数超7万，日增380星",
+      "body": "MinerU 干一件事：把那些复杂的、AI不爱吃的文档，比如PDF、Word、PPT，变成AI能轻松理解和处理的Markdown或者JSON格式。在AI需要你提供资料的时候，你直接扔一个几十页的PDF进去，AI可能就懵了。但用MinerU先处理一下，提取出文字、表格、标题结构，再给AI，它就能高效地从中学习或回答问题了。这对于构建AI助手、自动化文档处理流程特别有用，是Agentic工作流（就是AI自己拆解任务、调用工具去干活）里一个基础但关键的环节。项目总星数已经达到7.1万，非常成熟了，今天新增380颗星。它主要用Python写的。当你要让AI帮你总结一份很长的研究报告时，你是直接扔文件，还是会先想想怎么‘喂’给它效果更好？",
       "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
+        "文档处理",
+        "PDF解析",
+        "数据提取",
+        "Markdown",
+        "AI工作流",
+        "Agentic",
+        "Python",
+        "办公自动化",
+        "非结构化数据",
+        "知识库"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-28/trending/summary.png",
-    "assets/2026-06-28/trending/post1.png",
-    "assets/2026-06-28/trending/post2.png",
-    "assets/2026-06-28/trending/post3.png",
-    "assets/2026-06-28/trending/post4.png"
+    "assets/2026-06-29/trending/summary.png",
+    "assets/2026-06-29/trending/post1.png",
+    "assets/2026-06-29/trending/post2.png",
+    "assets/2026-06-29/trending/post3.png",
+    "assets/2026-06-29/trending/post4.png"
   ]
 }
