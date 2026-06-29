@@ -8,15 +8,15 @@
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
       "stars_today": "1,611 stars today",
-      "stars_total": "16,252"
+      "stars_total": "16,540"
     },
     {
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_today": "1,221 stars today",
-      "stars_total": "118,602"
+      "stars_today": "1,369 stars today",
+      "stars_total": "118,839"
     },
     {
       "name": "cupy/cupy",
@@ -24,7 +24,7 @@
       "description": "NumPy & SciPy for GPU",
       "language": "Python",
       "stars_today": "352 stars today",
-      "stars_total": "11,754"
+      "stars_total": "11,812"
     },
     {
       "name": "altic-dev/FluidVoice",
@@ -32,7 +32,7 @@
       "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
       "language": "Swift",
       "stars_today": "836 stars today",
-      "stars_total": "4,221"
+      "stars_total": "4,366"
     },
     {
       "name": "soxoj/maigret",
@@ -40,7 +40,7 @@
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
       "stars_today": "191 stars today",
-      "stars_total": "34,218"
+      "stars_total": "34,351"
     },
     {
       "name": "commaai/openpilot",
@@ -48,7 +48,7 @@
       "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
       "language": "Python",
       "stars_today": "465 stars today",
-      "stars_total": "62,699"
+      "stars_total": "62,759"
     },
     {
       "name": "ripienaar/free-for-dev",
@@ -56,7 +56,7 @@
       "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
       "language": "HTML",
       "stars_today": "1,971 stars today",
-      "stars_total": "126,544"
+      "stars_total": "126,698"
     },
     {
       "name": "logto-io/logto",
@@ -64,7 +64,7 @@
       "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
       "language": "TypeScript",
       "stars_today": "77 stars today",
-      "stars_total": "12,471"
+      "stars_total": "12,638"
     },
     {
       "name": "xbtlin/ai-berkshire",
@@ -72,7 +72,7 @@
       "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
       "stars_today": "1,397 stars today",
-      "stars_total": "6,481"
+      "stars_total": "6,586"
     },
     {
       "name": "browser-use/video-use",
@@ -80,7 +80,7 @@
       "description": "Edit videos with coding agents",
       "language": "Python",
       "stars_today": "976 stars today",
-      "stars_total": "11,736"
+      "stars_total": "11,919"
     }
   ],
   "ai_repos": [
@@ -89,8 +89,8 @@
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_today": "1,221 stars today",
-      "stars_total": "118,602"
+      "stars_today": "1,369 stars today",
+      "stars_total": "118,839"
     },
     {
       "name": "soxoj/maigret",
@@ -98,7 +98,7 @@
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
       "stars_today": "191 stars today",
-      "stars_total": "34,218"
+      "stars_total": "34,351"
     },
     {
       "name": "commaai/openpilot",
@@ -106,7 +106,7 @@
       "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
       "language": "Python",
       "stars_today": "465 stars today",
-      "stars_total": "62,699"
+      "stars_total": "62,759"
     },
     {
       "name": "logto-io/logto",
@@ -114,7 +114,7 @@
       "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
       "language": "TypeScript",
       "stars_today": "77 stars today",
-      "stars_total": "12,471"
+      "stars_total": "12,638"
     },
     {
       "name": "xbtlin/ai-berkshire",
@@ -122,7 +122,7 @@
       "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
       "stars_today": "1,397 stars today",
-      "stars_total": "6,481"
+      "stars_total": "6,586"
     },
     {
       "name": "browser-use/video-use",
@@ -130,84 +130,84 @@
       "description": "Edit videos with coding agents",
       "language": "Python",
       "stars_today": "976 stars today",
-      "stars_total": "11,736"
+      "stars_total": "11,919"
     }
   ],
   "posts": [
     {
-      "topic": "AI代理公司",
+      "topic": "AI代理团队",
       "repo": "msitarzewski/agency-agents",
-      "cover_line1": "搭个 AI 代理公司",
-      "cover_line2": "今天涨 1221 星",
-      "body": "这个叫 agency-agents 的项目今天在 GitHub 上火了，一天就收了 1200 多颗星。它不是给你一堆零散的 AI 工具，而是直接给你一整个“虚拟公司”的架构。这个公司里有专门做前端的“工程师”，有专门去 Reddit 搞社区运营的“营销”，还有负责检查产品靠不靠谱的“质检”。每个代理都像一个有性格、有专业流程的真实员工，你把任务分配下去，它们就能协同工作并交付结果。最实用的一点是，它帮你把从零搭建一个 AI 团队最难的“如何让多个 AI 有效合作并保持各自专业性”这个问题，用现成的代码框架解决了。你不需要自己去设计它们怎么沟通、怎么分工，框架都搭好了。如果你一直在想怎么用 AI 自动化一整条业务线，而不是解决单个问题，这个项目值得看看。你想让 AI 帮你做哪些你一直想做但没时间的事？",
+      "cover_line1": "AI代理系统合集",
+      "cover_line2": "今日新增1369星",
+      "body": "你有没有想过，AI也能组成一个团队，专门帮你干活？这个项目就是干这个的。它把一堆AI代理打包到一起，每个代理都是专家，有的专做前端设计，有的管理Reddit社区，甚至有的负责给项目加点创意，还有的专门检查现实可行性。每个代理都有自己的个性、工作流程，能输出实际成果，比如代码、营销方案这些。今天它在GitHub上一天就多了1369个星，总星数超过11万，说明很多开发者觉得这东西有用。它不是在画大饼，而是把复杂的AI任务拆开，让机器像人一样分工协作。你启动一个项目，这些代理自动分配工作，前端、后端、社区运营全包了，省得你到处找人。这种效率提升是实实在在的，尤其适合小团队或独立开发者。但这里有个真问题：当AI代理越来越像人类员工，我们该怎么管理这种虚拟团队？它们会不会也出现扯皮或者意见不合的情况？",
       "tags": [
-        "AI代理",
-        "开源",
-        "多代理系统",
-        "自动化",
-        "业务流程",
+        "AI",
+        "代理",
         "开发工具",
-        "AI公司",
-        "协作",
-        "代码框架",
-        "热门项目"
+        "自动化",
+        "GitHub",
+        "开源",
+        "团队协作",
+        "效率",
+        "创新",
+        "技术"
       ]
     },
     {
-      "topic": "开源自动驾驶",
+      "topic": "用户情报工具",
+      "repo": "soxoj/maigret",
+      "cover_line1": "用户情报收集工具",
+      "cover_line2": "覆盖3000多个网站",
+      "body": "如果你想知道某个用户名在互联网上的踪迹，这个工具能帮上忙。它叫maigret，你只要输入一个用户名，它就能从3000多个网站上搜集这个人的公开信息，整理成一份档案。这些网站包括社交平台、论坛、各种在线服务，覆盖面很广。它用Python写的，开源免费，今天在GitHub上涨了191个星，总星数超过3.4万，说明很多人在用。做安全研究、做背景调查，或者单纯好奇某个网友的活动，都可能用到它。操作简单，跑一下命令就行，结果按网站分类，一目了然。但这里有个真问题：在隐私越来越受重视的今天，这种能快速拼凑出个人资料的工具，到底是该用来防身，还是可能被滥用？",
+      "tags": [
+        "情报收集",
+        "隐私",
+        "安全",
+        "工具",
+        "Python",
+        "开源",
+        "网络安全",
+        "数据",
+        "研究",
+        "实用"
+      ]
+    },
+    {
+      "topic": "汽车辅助系统",
       "repo": "commaai/openpilot",
-      "cover_line1": "开源自动驾驶系统",
-      "cover_line2": "支持 300 多款车",
-      "body": "comma.ai 公司搞的 openpilot 又上了热榜。它本质上是一个开源的“机器人操作系统”，现在最成熟的应用就是给你的车升级辅助驾驶能力。它已经能支持超过 300 款市面上常见的车型了。这意味着你只要车的硬件允许，理论上就能刷这个系统，让车的自动驾驶（或辅助驾驶）能力变得更强、更丝滑。这个项目今天能持续获得关注，核心在于它把一个通常被车厂锁死的、黑箱的驾驶系统，变成了一个开发者可以查看、修改甚至贡献代码的开源项目。它吸引的不只是想体验更好辅助驾驶的用户，还有一大批对自动驾驶技术本身感兴趣、想研究甚至改进算法的工程师。对于开发者来说，这里藏着一个巨大的、真实世界的机器人数据集和实践平台。当自动驾驶从一个黑盒变成一个可以自己摆弄的开源系统，这会对整个行业的人才培养和技术迭代产生什么影响？",
+      "cover_line1": "汽车驾驶辅助系统",
+      "cover_line2": "支持300多款车型",
+      "body": "openpilot不是普通软件，它是个给汽车用的操作系统，专门升级驾驶辅助功能。目前它能支持300多款车型，让老车也能装上更智能的辅助驾驶，比如自动保持车道、调节车速这些。它用Python开发，开源免费，今天在GitHub上新增465个星，总星数超过6.2万，热度一直不低。你只需要一个兼容的硬件设备，装上去就能用，操作不复杂。它背后的公司comma.ai还在不断更新，让更多车能适配。但这里有个真问题：当开源系统越来越普及，汽车厂商的自家系统还有多少竞争力？会不会有一天，大多数车都跑同一个开源操作系统？",
       "tags": [
         "自动驾驶",
-        "开源",
+        "汽车",
         "机器人",
-        "AI驾驶",
-        "汽车科技",
         "操作系统",
-        "开发平台",
-        "comma.ai",
-        "ADAS",
-        "数据集"
+        "开源",
+        "安全",
+        "技术",
+        "创新",
+        "辅助系统",
+        "硬件"
       ]
     },
     {
       "topic": "AI投资框架",
       "repo": "xbtlin/ai-berkshire",
-      "cover_line1": "AI 版伯克希尔投资框架",
-      "cover_line2": "巴菲特芒格方法论",
-      "body": "ai-berkshire 今天涨势很猛，一天接近 1400 星。这个项目的野心写在名字里了：它想在 AI 时代复刻伯克希尔·哈撒韦的投资分析体系。它不是简单地用 AI 看财报，而是把巴菲特、芒格、段永平、李录这四位价值投资大师的核心方法论和思考框架，编码成了一个能运行的系统。更具体地说，它设计了一套多代理并行研究的流程。一个代理可能负责用巴菲特的视角看企业护城河，另一个用芒格的思维模型做逆向分析，它们会相互“对抗”和讨论，最后给出一个综合的研究报告。对于研究价值投资的开发者或投资者来说，它把那些抽象的投资哲学，变成了可以亲手运行和调试的代码。它让你能更结构化、更系统化地去应用这些大师的智慧，而不是停留在读语录的阶段。如果 AI 能帮我们系统化地运用大师的经验，那人类投资者的独特价值——比如直觉和胆识——还剩下多少？",
+      "cover_line1": "AI价值投资框架",
+      "cover_line2": "今日涨1397星",
+      "body": "想用AI学巴菲特投资？这个项目就是个框架，专门做价值投资研究。它基于Claude Code或Codex这些AI工具，把巴菲特、芒格、段永平、李录四位大师的投资方法论融合进去，用多个AI代理并行分析，互相挑刺，提高研究质量。今天它在GitHub上一天就多了1397个星，总星数快6600，涨势很猛。它用Python写的，开源免费，你可以用它来跑数据、做公司分析，模拟大师们的决策过程。不是简单的回测，而是让AI像团队一样讨论，得出更靠谱的结论。但这里有个真问题：AI能真正学会价值投资的精髓吗？那些需要长期耐心和人性洞察的部分，机器能替代多少？",
       "tags": [
+        "投资",
+        "AI",
         "价值投资",
-        "AI研究",
-        "多代理系统",
-        "巴菲特",
-        "投资框架",
-        "金融分析",
+        "研究",
+        "框架",
         "开源",
-        "Claude",
-        "数据驱动",
-        "方法论"
-      ]
-    },
-    {
-      "topic": "代码剪视频",
-      "repo": "browser-use/video-use",
-      "cover_line1": "用代码代理剪视频",
-      "cover_line2": "今天涨 976 星",
-      "body": "browser-use 团队搞的新项目 video-use 今天也冲上了热榜。它的想法很直接：既然 AI 代理已经能通过写代码和操作浏览器来干活，那能不能让它们学着剪视频？这个项目提供了一套工具，让你可以用编程的方式（也就是通过 AI 代理写代码）去控制和编辑视频。想象一下，你不需要打开 Premiere 或 Final Cut，而是用自然语言或者脚本告诉 AI 你想怎么剪：从哪里切、加什么转场、调整哪个片段的速度。AI 代理会把这些指令翻译成对视频处理库的操作，自动执行。这对于需要批量处理视频、生成大量短视频模板，或者想把视频剪辑融入自动化工作流的开发者来说，是个很实用的方向。它把视频编辑这个通常依赖图形界面和手动操作的任务，拉进了“可编程”的领域。当连视频剪辑都能用代码控制时，内容创作的自动化边界还能推到哪里？",
-      "tags": [
-        "视频编辑",
-        "AI代理",
-        "自动化",
-        "编程",
-        "浏览器自动化",
-        "开发者工具",
-        "内容创作",
         "Python",
-        "开源",
-        "新工具"
+        "金融",
+        "创新",
+        "工具"
       ]
     }
   ],
