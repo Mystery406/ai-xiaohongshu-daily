@@ -1,89 +1,89 @@
 {
-  "date": "2026-06-28",
+  "date": "2026-06-29",
   "posts": [
     {
-      "topic": "DeepSeek推理加速",
-      "cover_line1": "DeepSeek发布推理加速论文",
-      "cover_line2": "HN得分714，行业关注",
-      "body": "大模型回答问题，生成第一个词之后的每个词都要等，这个速度瓶颈一直是大家想解决的事。今天 HackerNews 上最火的一篇论文，来自 DeepSeek 的 DSpark，就是在解决这个问题。它用的法子叫推测解码，说白了就像考试时先快速打个草稿，再仔细检查。具体操作是，先用一个很小、很快的模型猜出接下来的一串词，然后让真正的大模型来快速验证和修正。大模型只做验证这个轻松活，所以整体生成速度就上去了。论文里应该给出了具体的加速倍数，这直接关系到我们用AI聊天、写代码时的等待时间能不能缩短。这已经不是概念，是实打实的工程进展了。HackerNews 上七百多分的热度，说明工程师们都在盯着看。你会在自己的项目里尝试用这种技术来提速吗？",
+      "topic": "GLM 5.2 beats Claude",
+      "cover_line1": "GLM 5.2 be",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**GLM 5.2 beats Claude in our benchmarks**\n\n📌 来源：HackerNews\n🔗 https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "AI推理",
+        "AI",
+        "人工智能",
         "大模型",
-        "DeepSeek",
-        "推测解码",
-        "论文",
-        "开源",
-        "技术进展",
-        "HackerNews",
-        "AI效率",
-        "深度学习"
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "亚洲AI创业新动向",
-      "cover_line1": "亚洲公司推类Mythos模型",
-      "cover_line2": "因Anthropic出口禁令拖沓",
-      "body": "Anthropic 的模型出口禁令拖了挺久，这反而给了亚洲 AI 创业公司一个机会。TechCrunch 报道，好几家亚洲公司趁这个时候推出了自己的模型，性能声称接近 Anthropic 的 Mythos。这件事的意义在于，当一扇门被关上，另一扇窗可能会被自己人推开。出口限制本意是控制技术扩散，但客观上刺激了替代方案的研发。这些公司具体叫什么名字，技术细节如何，报道里应该有提及。这不再是简单的模仿，而是特定环境下催生出的本土化竞争。当外部供应不稳定时，内部的自主创新就会被按下快进键。你觉得，这种由外部压力催生出来的技术突破，最终会走向独立，还是会形成新的依赖格局？",
+      "topic": "Knowledge Distillati",
+      "cover_line1": "Knowledge ",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Knowledge Distillation of Black-Box Large Language Models**\n\n📌 来源：HackerNews\n🔗 https://arxiv.org/abs/2401.07013\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "AI创业",
-        "亚洲",
-        "Anthropic",
-        "出口禁令",
-        "AI模型",
-        "TechCrunch",
-        "市场竞争",
-        "技术创新",
-        "产业政策",
-        "AI自主化"
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "AI学会芯片设计",
-      "cover_line1": "AI掌握射频芯片设计",
-      "cover_line2": "被称掌握‘黑暗艺术’",
-      "body": "设计射频芯片（RFIC）一直被工程师们称为“黑暗艺术”，因为它极度复杂，需要大量经验和直觉。但 IEEE Spectrum 最新报道，AI 现在学会了这门手艺。AI 不是死记硬背，而是通过学习海量数据，摸清了设计中那些微妙的规则和折衷。这意味着，过去需要顶尖专家花几周甚至几个月反复调试的设计，现在 AI 可能在短时间内给出一个相当不错的初稿。这能大幅降低芯片设计的门槛和成本，尤其对中小型团队是利好。当然，AI 设计出来的东西还得经过严格的物理验证，但它已经扮演了一个不知疲倦的初级工程师角色。当AI开始涉足这种高度依赖人类“手感”的领域，你觉得它最终能取代多少老师傅的经验？",
+      "topic": "Professor denounces ",
+      "cover_line1": "Professor ",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Professor denounces mass AI fraud on an exam at Brown**\n\n📌 来源：HackerNews\n🔗 https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "AI应用",
-        "芯片设计",
-        "RFIC",
-        "EDA",
-        "硬件",
-        "IEEE",
-        "自动化",
-        "工程设计",
-        "工业AI",
-        "黑暗艺术"
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     },
     {
-      "topic": "Mac合盖AI工具",
-      "cover_line1": "Adrafinil：Mac合盖AI不停工",
-      "cover_line2": "仅在AI工作时保持唤醒",
-      "body": "很多用 Mac 跑 AI 任务的人都有一个烦恼：合上盖子电脑就睡着了，任务中断；不合盖，又耗电。GitHub 上有个新工具 Adrafinil 解决了这个问题。它很简单，就是一个监控器，专门盯着你运行的那些 AI 代理或计算任务。只要 AI 还在干活，它就告诉电脑“别睡”；任务一结束，它就让电脑正常进入睡眠。这样你就不用一直开着盖子盯着它了，既省心也省电。这是一个很典型的“程序员给自己挠痒痒”做出来的小工具，但直击痛点。工具是开源的，你可以去 GitHub 看看它怎么实现的。你有没有遇到过类似的小麻烦，但一直没找到现成工具解决？",
+      "topic": "I used Claude Code t",
+      "cover_line1": "I used Cla",
+      "cover_line2": "今日 AI 热点速报",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**I used Claude Code to get a second opinion on my MRI**\n\n📌 来源：HackerNews\n🔗 https://antoine.fi/mri-analysis-using-claude-code-opus\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "Mac工具",
-        "开源",
-        "效率工具",
-        "AI开发",
-        "电脑设置",
-        "GitHub",
-        "节能",
-        "程序员",
-        "软件",
-        "监控工具"
+        "AI",
+        "人工智能",
+        "大模型",
+        "科技",
+        "每日热点",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     }
   ],
   "image_paths": [
-    "assets/2026-06-28/cover1.png",
-    "assets/2026-06-28/cover2.png",
-    "assets/2026-06-28/cover3.png",
-    "assets/2026-06-28/cover4.png"
+    "assets/2026-06-29/cover1.png",
+    "assets/2026-06-29/cover2.png",
+    "assets/2026-06-29/cover3.png",
+    "assets/2026-06-29/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-06-28/cover1_feishu.png",
-    "assets/2026-06-28/cover2_feishu.png",
-    "assets/2026-06-28/cover3_feishu.png",
-    "assets/2026-06-28/cover4_feishu.png"
+    "assets/2026-06-29/cover1_feishu.png",
+    "assets/2026-06-29/cover2_feishu.png",
+    "assets/2026-06-29/cover3_feishu.png",
+    "assets/2026-06-29/cover4_feishu.png"
   ]
 }
