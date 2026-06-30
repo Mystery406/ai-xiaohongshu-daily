@@ -1,213 +1,221 @@
 {
   "date": "2026-06-30",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
-      "name": "simplex-chat/simplex-chat",
-      "url": "https://github.com/simplex-chat/simplex-chat",
-      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
-      "language": "Haskell",
-      "stars_today": "1,611 stars today",
-      "stars_total": "16,540"
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars_today": "395 stars today",
+      "stars_total": "27,796"
     },
     {
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_today": "1,369 stars today",
-      "stars_total": "118,839"
-    },
-    {
-      "name": "cupy/cupy",
-      "url": "https://github.com/cupy/cupy",
-      "description": "NumPy & SciPy for GPU",
-      "language": "Python",
-      "stars_today": "352 stars today",
-      "stars_total": "11,812"
+      "stars_today": "1,793 stars today",
+      "stars_total": "120,334"
     },
     {
       "name": "altic-dev/FluidVoice",
       "url": "https://github.com/altic-dev/FluidVoice",
       "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
       "language": "Swift",
-      "stars_today": "836 stars today",
-      "stars_total": "4,366"
+      "stars_today": "586 stars today",
+      "stars_total": "4,771"
     },
     {
-      "name": "soxoj/maigret",
-      "url": "https://github.com/soxoj/maigret",
-      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-      "language": "Python",
-      "stars_today": "191 stars today",
-      "stars_total": "34,351"
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "language": "TypeScript",
+      "stars_today": "617 stars today",
+      "stars_total": "8,246"
     },
     {
-      "name": "commaai/openpilot",
-      "url": "https://github.com/commaai/openpilot",
-      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
       "language": "Python",
-      "stars_today": "465 stars today",
-      "stars_total": "62,759"
+      "stars_today": "722 stars today",
+      "stars_total": "12,397"
+    },
+    {
+      "name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "language": "Python",
+      "stars_today": "966 stars today",
+      "stars_total": "7,366"
+    },
+    {
+      "name": "Mebus/cupp",
+      "url": "https://github.com/Mebus/cupp",
+      "description": "Common User Passwords Profiler (CUPP)",
+      "language": "Python",
+      "stars_today": "18 stars today",
+      "stars_total": "6,045"
     },
     {
       "name": "ripienaar/free-for-dev",
       "url": "https://github.com/ripienaar/free-for-dev",
       "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
       "language": "HTML",
-      "stars_today": "1,971 stars today",
-      "stars_total": "126,698"
+      "stars_today": "740 stars today",
+      "stars_total": "127,196"
     },
     {
-      "name": "logto-io/logto",
-      "url": "https://github.com/logto-io/logto",
-      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
-      "language": "TypeScript",
-      "stars_today": "77 stars today",
-      "stars_total": "12,638"
-    },
-    {
-      "name": "xbtlin/ai-berkshire",
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "name": "google/agents-cli",
+      "url": "https://github.com/google/agents-cli",
+      "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
       "language": "Python",
-      "stars_today": "1,397 stars today",
-      "stars_total": "6,586"
+      "stars_today": "433 stars today",
+      "stars_total": "3,925"
     },
     {
-      "name": "browser-use/video-use",
-      "url": "https://github.com/browser-use/video-use",
-      "description": "Edit videos with coding agents",
+      "name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
       "language": "Python",
-      "stars_today": "976 stars today",
-      "stars_total": "11,919"
+      "stars_today": "336 stars today",
+      "stars_total": "45,782"
     }
   ],
   "ai_repos": [
+    {
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars_today": "395 stars today",
+      "stars_total": "27,796"
+    },
     {
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_today": "1,369 stars today",
-      "stars_total": "118,839"
+      "stars_today": "1,793 stars today",
+      "stars_total": "120,334"
     },
     {
-      "name": "soxoj/maigret",
-      "url": "https://github.com/soxoj/maigret",
-      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-      "language": "Python",
-      "stars_today": "191 stars today",
-      "stars_total": "34,351"
-    },
-    {
-      "name": "commaai/openpilot",
-      "url": "https://github.com/commaai/openpilot",
-      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-      "language": "Python",
-      "stars_today": "465 stars today",
-      "stars_total": "62,759"
-    },
-    {
-      "name": "logto-io/logto",
-      "url": "https://github.com/logto-io/logto",
-      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "language": "TypeScript",
-      "stars_today": "77 stars today",
-      "stars_total": "12,638"
-    },
-    {
-      "name": "xbtlin/ai-berkshire",
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "language": "Python",
-      "stars_today": "1,397 stars today",
-      "stars_total": "6,586"
+      "stars_today": "617 stars today",
+      "stars_total": "8,246"
     },
     {
       "name": "browser-use/video-use",
       "url": "https://github.com/browser-use/video-use",
       "description": "Edit videos with coding agents",
       "language": "Python",
-      "stars_today": "976 stars today",
-      "stars_total": "11,919"
+      "stars_today": "722 stars today",
+      "stars_total": "12,397"
+    },
+    {
+      "name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "language": "Python",
+      "stars_today": "966 stars today",
+      "stars_total": "7,366"
+    },
+    {
+      "name": "google/agents-cli",
+      "url": "https://github.com/google/agents-cli",
+      "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
+      "language": "Python",
+      "stars_today": "433 stars today",
+      "stars_total": "3,925"
+    },
+    {
+      "name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "stars_today": "336 stars today",
+      "stars_total": "45,782"
     }
   ],
   "posts": [
     {
-      "topic": "AI代理团队",
-      "repo": "msitarzewski/agency-agents",
-      "cover_line1": "AI代理系统合集",
-      "cover_line2": "今日新增1369星",
-      "body": "你有没有想过，AI也能组成一个团队，专门帮你干活？这个项目就是干这个的。它把一堆AI代理打包到一起，每个代理都是专家，有的专做前端设计，有的管理Reddit社区，甚至有的负责给项目加点创意，还有的专门检查现实可行性。每个代理都有自己的个性、工作流程，能输出实际成果，比如代码、营销方案这些。今天它在GitHub上一天就多了1369个星，总星数超过11万，说明很多开发者觉得这东西有用。它不是在画大饼，而是把复杂的AI任务拆开，让机器像人一样分工协作。你启动一个项目，这些代理自动分配工作，前端、后端、社区运营全包了，省得你到处找人。这种效率提升是实实在在的，尤其适合小团队或独立开发者。但这里有个真问题：当AI代理越来越像人类员工，我们该怎么管理这种虚拟团队？它们会不会也出现扯皮或者意见不合的情况？",
+      "topic": "strix",
+      "repo": "usestrix/strix",
+      "cover_line1": "strix",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**usestrix/strix**\n\n📌 Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.\n\n🔗 https://github.com/usestrix/strix\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
-        "代理",
-        "开发工具",
-        "自动化",
         "GitHub",
         "开源",
-        "团队协作",
-        "效率",
-        "创新",
-        "技术"
-      ]
-    },
-    {
-      "topic": "用户情报工具",
-      "repo": "soxoj/maigret",
-      "cover_line1": "用户情报收集工具",
-      "cover_line2": "覆盖3000多个网站",
-      "body": "如果你想知道某个用户名在互联网上的踪迹，这个工具能帮上忙。它叫maigret，你只要输入一个用户名，它就能从3000多个网站上搜集这个人的公开信息，整理成一份档案。这些网站包括社交平台、论坛、各种在线服务，覆盖面很广。它用Python写的，开源免费，今天在GitHub上涨了191个星，总星数超过3.4万，说明很多人在用。做安全研究、做背景调查，或者单纯好奇某个网友的活动，都可能用到它。操作简单，跑一下命令就行，结果按网站分类，一目了然。但这里有个真问题：在隐私越来越受重视的今天，这种能快速拼凑出个人资料的工具，到底是该用来防身，还是可能被滥用？",
-      "tags": [
-        "情报收集",
-        "隐私",
-        "安全",
-        "工具",
-        "Python",
-        "开源",
-        "网络安全",
-        "数据",
-        "研究",
-        "实用"
-      ]
-    },
-    {
-      "topic": "汽车辅助系统",
-      "repo": "commaai/openpilot",
-      "cover_line1": "汽车驾驶辅助系统",
-      "cover_line2": "支持300多款车型",
-      "body": "openpilot不是普通软件，它是个给汽车用的操作系统，专门升级驾驶辅助功能。目前它能支持300多款车型，让老车也能装上更智能的辅助驾驶，比如自动保持车道、调节车速这些。它用Python开发，开源免费，今天在GitHub上新增465个星，总星数超过6.2万，热度一直不低。你只需要一个兼容的硬件设备，装上去就能用，操作不复杂。它背后的公司comma.ai还在不断更新，让更多车能适配。但这里有个真问题：当开源系统越来越普及，汽车厂商的自家系统还有多少竞争力？会不会有一天，大多数车都跑同一个开源操作系统？",
-      "tags": [
-        "自动驾驶",
-        "汽车",
-        "机器人",
-        "操作系统",
-        "开源",
-        "安全",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
         "技术",
-        "创新",
-        "辅助系统",
-        "硬件"
+        "炼丹"
       ]
     },
     {
-      "topic": "AI投资框架",
-      "repo": "xbtlin/ai-berkshire",
-      "cover_line1": "AI价值投资框架",
-      "cover_line2": "今日涨1397星",
-      "body": "想用AI学巴菲特投资？这个项目就是个框架，专门做价值投资研究。它基于Claude Code或Codex这些AI工具，把巴菲特、芒格、段永平、李录四位大师的投资方法论融合进去，用多个AI代理并行分析，互相挑刺，提高研究质量。今天它在GitHub上一天就多了1397个星，总星数快6600，涨势很猛。它用Python写的，开源免费，你可以用它来跑数据、做公司分析，模拟大师们的决策过程。不是简单的回测，而是让AI像团队一样讨论，得出更靠谱的结论。但这里有个真问题：AI能真正学会价值投资的精髓吗？那些需要长期耐心和人性洞察的部分，机器能替代多少？",
+      "topic": "agency-agents",
+      "repo": "msitarzewski/agency-agents",
+      "cover_line1": "agency-age",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**msitarzewski/agency-agents**\n\n📌 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.\n\n🔗 https://github.com/msitarzewski/agency-agents\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
-        "投资",
         "AI",
-        "价值投资",
-        "研究",
-        "框架",
+        "GitHub",
         "开源",
-        "Python",
-        "金融",
-        "创新",
-        "工具"
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "OmniRoute",
+      "repo": "diegosouzapw/OmniRoute",
+      "cover_line1": "OmniRoute",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**diegosouzapw/OmniRoute**\n\n📌 Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.\n\n🔗 https://github.com/diegosouzapw/OmniRoute\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "video-use",
+      "repo": "browser-use/video-use",
+      "cover_line1": "video-use",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**browser-use/video-use**\n\n📌 Edit videos with coding agents\n\n🔗 https://github.com/browser-use/video-use\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
       ]
     }
   ],
