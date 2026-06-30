@@ -1,14 +1,22 @@
 {
-  "date": "2026-06-30",
-  "slot": "晚报",
+  "date": "2026-07-01",
+  "slot": "早报",
   "all_repos": [
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+      "language": "HTML",
+      "stars_today": "1,413 stars today",
+      "stars_total": "6,537"
+    },
     {
       "name": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
       "stars_today": "395 stars today",
-      "stars_total": "27,796"
+      "stars_total": "28,088"
     },
     {
       "name": "msitarzewski/agency-agents",
@@ -16,23 +24,23 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "stars_today": "1,793 stars today",
-      "stars_total": "120,334"
+      "stars_total": "120,822"
     },
     {
       "name": "altic-dev/FluidVoice",
       "url": "https://github.com/altic-dev/FluidVoice",
-      "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
       "language": "Swift",
       "stars_today": "586 stars today",
-      "stars_total": "4,771"
+      "stars_total": "4,905"
     },
     {
       "name": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "language": "TypeScript",
-      "stars_today": "617 stars today",
-      "stars_total": "8,246"
+      "stars_today": "459 stars today",
+      "stars_total": "8,469"
     },
     {
       "name": "browser-use/video-use",
@@ -40,7 +48,7 @@
       "description": "Edit videos with coding agents",
       "language": "Python",
       "stars_today": "722 stars today",
-      "stars_total": "12,397"
+      "stars_total": "12,565"
     },
     {
       "name": "xbtlin/ai-berkshire",
@@ -48,15 +56,15 @@
       "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
       "stars_today": "966 stars today",
-      "stars_total": "7,366"
+      "stars_total": "7,467"
     },
     {
       "name": "Mebus/cupp",
       "url": "https://github.com/Mebus/cupp",
       "description": "Common User Passwords Profiler (CUPP)",
       "language": "Python",
-      "stars_today": "18 stars today",
-      "stars_total": "6,045"
+      "stars_today": "61 stars today",
+      "stars_total": "6,093"
     },
     {
       "name": "ripienaar/free-for-dev",
@@ -64,7 +72,7 @@
       "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
       "language": "HTML",
       "stars_today": "740 stars today",
-      "stars_total": "127,196"
+      "stars_total": "127,301"
     },
     {
       "name": "google/agents-cli",
@@ -72,25 +80,25 @@
       "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
       "language": "Python",
       "stars_today": "433 stars today",
-      "stars_total": "3,925"
-    },
-    {
-      "name": "roboflow/supervision",
-      "url": "https://github.com/roboflow/supervision",
-      "description": "We write your reusable computer vision tools. 💜",
-      "language": "Python",
-      "stars_today": "336 stars today",
-      "stars_total": "45,782"
+      "stars_total": "4,164"
     }
   ],
   "ai_repos": [
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+      "language": "HTML",
+      "stars_today": "1,413 stars today",
+      "stars_total": "6,537"
+    },
     {
       "name": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
       "stars_today": "395 stars today",
-      "stars_total": "27,796"
+      "stars_total": "28,088"
     },
     {
       "name": "msitarzewski/agency-agents",
@@ -98,15 +106,23 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "stars_today": "1,793 stars today",
-      "stars_total": "120,334"
+      "stars_total": "120,822"
+    },
+    {
+      "name": "altic-dev/FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
+      "language": "Swift",
+      "stars_today": "586 stars today",
+      "stars_total": "4,905"
     },
     {
       "name": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "language": "TypeScript",
-      "stars_today": "617 stars today",
-      "stars_total": "8,246"
+      "stars_today": "459 stars today",
+      "stars_total": "8,469"
     },
     {
       "name": "browser-use/video-use",
@@ -114,7 +130,7 @@
       "description": "Edit videos with coding agents",
       "language": "Python",
       "stars_today": "722 stars today",
-      "stars_total": "12,397"
+      "stars_total": "12,565"
     },
     {
       "name": "xbtlin/ai-berkshire",
@@ -122,7 +138,7 @@
       "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
       "stars_today": "966 stars today",
-      "stars_total": "7,366"
+      "stars_total": "7,467"
     },
     {
       "name": "google/agents-cli",
@@ -130,18 +146,29 @@
       "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
       "language": "Python",
       "stars_today": "433 stars today",
-      "stars_total": "3,925"
-    },
-    {
-      "name": "roboflow/supervision",
-      "url": "https://github.com/roboflow/supervision",
-      "description": "We write your reusable computer vision tools. 💜",
-      "language": "Python",
-      "stars_today": "336 stars today",
-      "stars_total": "45,782"
+      "stars_total": "4,164"
     }
   ],
   "posts": [
+    {
+      "topic": "exercises-dataset",
+      "repo": "hasaneyldrm/exercises-dataset",
+      "cover_line1": "exercises-",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**hasaneyldrm/exercises-dataset**\n\n📌 A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.\n\n🔗 https://github.com/hasaneyldrm/exercises-dataset\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
     {
       "topic": "strix",
       "repo": "usestrix/strix",
@@ -181,30 +208,11 @@
       ]
     },
     {
-      "topic": "OmniRoute",
-      "repo": "diegosouzapw/OmniRoute",
-      "cover_line1": "OmniRoute",
+      "topic": "FluidVoice",
+      "repo": "altic-dev/FluidVoice",
+      "cover_line1": "FluidVoice",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**diegosouzapw/OmniRoute**\n\n📌 Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.\n\n🔗 https://github.com/diegosouzapw/OmniRoute\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "video-use",
-      "repo": "browser-use/video-use",
-      "cover_line1": "video-use",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**browser-use/video-use**\n\n📌 Edit videos with coding agents\n\n🔗 https://github.com/browser-use/video-use\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**altic-dev/FluidVoice**\n\n📌 Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.\n\n🔗 https://github.com/altic-dev/FluidVoice\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -220,10 +228,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-06-30/trending/summary.png",
-    "assets/2026-06-30/trending/post1.png",
-    "assets/2026-06-30/trending/post2.png",
-    "assets/2026-06-30/trending/post3.png",
-    "assets/2026-06-30/trending/post4.png"
+    "assets/2026-07-01/trending/summary.png",
+    "assets/2026-07-01/trending/post1.png",
+    "assets/2026-07-01/trending/post2.png",
+    "assets/2026-07-01/trending/post3.png",
+    "assets/2026-07-01/trending/post4.png"
   ]
 }
