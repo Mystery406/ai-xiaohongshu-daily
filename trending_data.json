@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-02",
-  "slot": "晚报",
+  "date": "2026-07-03",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "usestrix/strix",
@@ -8,7 +8,7 @@
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
       "stars_today": "2,167 stars today",
-      "stars_total": "31,263"
+      "stars_total": "32,123"
     },
     {
       "name": "JuliusBrussee/caveman",
@@ -16,7 +16,7 @@
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "language": "JavaScript",
       "stars_today": "866 stars today",
-      "stars_total": "80,014"
+      "stars_total": "80,836"
     },
     {
       "name": "msitarzewski/agency-agents",
@@ -24,7 +24,7 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "stars_today": "2,925 stars today",
-      "stars_total": "125,157"
+      "stars_total": "125,454"
     },
     {
       "name": "hasaneyldrm/exercises-dataset",
@@ -32,7 +32,7 @@
       "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
       "language": "HTML",
       "stars_today": "942 stars today",
-      "stars_total": "9,023"
+      "stars_total": "9,241"
     },
     {
       "name": "santifer/career-ops",
@@ -40,23 +40,23 @@
       "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
       "language": "JavaScript",
       "stars_today": "322 stars today",
-      "stars_total": "57,482"
+      "stars_total": "57,783"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,047 stars today",
-      "stars_total": "244,120"
+      "stars_today": "962 stars today",
+      "stars_total": "244,386"
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars_today": "92 stars today",
-      "stars_total": "44,987"
+      "stars_today": "141 stars today",
+      "stars_total": "45,073"
     },
     {
       "name": "browser-use/video-use",
@@ -64,7 +64,7 @@
       "description": "Edit videos with coding agents",
       "language": "Python",
       "stars_today": "550 stars today",
-      "stars_total": "13,614"
+      "stars_total": "13,763"
     },
     {
       "name": "actions/checkout",
@@ -72,15 +72,15 @@
       "description": "Action for checking out a repo",
       "language": "TypeScript",
       "stars_today": "5 stars today",
-      "stars_total": "8,112"
+      "stars_total": "8,158"
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "721 stars today",
-      "stars_total": "224,966"
+      "stars_today": "508 stars today",
+      "stars_total": "225,166"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
       "stars_today": "2,167 stars today",
-      "stars_total": "31,263"
+      "stars_total": "32,123"
     },
     {
       "name": "JuliusBrussee/caveman",
@@ -98,7 +98,7 @@
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "language": "JavaScript",
       "stars_today": "866 stars today",
-      "stars_total": "80,014"
+      "stars_total": "80,836"
     },
     {
       "name": "msitarzewski/agency-agents",
@@ -106,7 +106,7 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "stars_today": "2,925 stars today",
-      "stars_total": "125,157"
+      "stars_total": "125,454"
     },
     {
       "name": "hasaneyldrm/exercises-dataset",
@@ -114,7 +114,7 @@
       "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
       "language": "HTML",
       "stars_today": "942 stars today",
-      "stars_total": "9,023"
+      "stars_total": "9,241"
     },
     {
       "name": "santifer/career-ops",
@@ -122,23 +122,23 @@
       "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
       "language": "JavaScript",
       "stars_today": "322 stars today",
-      "stars_total": "57,482"
+      "stars_total": "57,783"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,047 stars today",
-      "stars_total": "244,120"
+      "stars_today": "962 stars today",
+      "stars_total": "244,386"
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars_today": "92 stars today",
-      "stars_total": "44,987"
+      "stars_today": "141 stars today",
+      "stars_total": "45,073"
     },
     {
       "name": "browser-use/video-use",
@@ -146,15 +146,15 @@
       "description": "Edit videos with coding agents",
       "language": "Python",
       "stars_today": "550 stars today",
-      "stars_total": "13,614"
+      "stars_total": "13,763"
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "721 stars today",
-      "stars_total": "224,966"
+      "stars_today": "508 stars today",
+      "stars_total": "225,166"
     }
   ],
   "posts": [
@@ -236,10 +236,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-02/trending/summary.png",
-    "assets/2026-07-02/trending/post1.png",
-    "assets/2026-07-02/trending/post2.png",
-    "assets/2026-07-02/trending/post3.png",
-    "assets/2026-07-02/trending/post4.png"
+    "assets/2026-07-03/trending/summary.png",
+    "assets/2026-07-03/trending/post1.png",
+    "assets/2026-07-03/trending/post2.png",
+    "assets/2026-07-03/trending/post3.png",
+    "assets/2026-07-03/trending/post4.png"
   ]
 }
