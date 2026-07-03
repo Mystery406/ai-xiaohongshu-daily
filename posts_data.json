@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "posts": [
     {
-      "topic": "OpenWiki: CLI that w",
-      "cover_line1": "OpenWiki: ",
+      "topic": "Reality has a surpri",
+      "cover_line1": "Reality ha",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**OpenWiki: CLI that writes and maintains agent documentation for your codebase**\n\n📌 来源：HackerNews\n🔗 https://github.com/langchain-ai/openwiki\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Reality has a surprising amount of detail (2017)**\n\n📌 来源：HackerNews\n🔗 https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Sony Deletes 551 Mov",
-      "cover_line1": "Sony Delet",
+      "topic": "The short leash AI c",
+      "cover_line1": "The short ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Sony Deletes 551 Movies PlayStation Owners Paid For**\n\n📌 来源：HackerNews\n🔗 https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**The short leash AI coding method for beating Fable**\n\n📌 来源：HackerNews\n🔗 https://blog.okturtles.org/2026/07/short-leash-ai-method/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Department of Commer",
-      "cover_line1": "Department",
+      "topic": "Claude-real-video － ",
+      "cover_line1": "Claude-rea",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5**\n\n📌 来源：HackerNews\n🔗 https://twitter.com/AnthropicAI/status/2072106151890809341\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude-real-video － any LLM can watch a video**\n\n📌 来源：HackerNews\n🔗 https://github.com/HUANGCHIHHUNGLeo/claude-real-video\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "'It's like having a ",
-      "cover_line1": "'It's like",
+      "topic": "Show HN: ctx – Searc",
+      "cover_line1": "Show HN: c",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**'It's like having a dumb friend': Young San Franciscans hate AI**\n\n📌 来源：HackerNews\n🔗 https://www.sfgate.com/tech/article/san-francisco-ai-backlash-22325141.php\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: ctx – Search the coding agent history already on your machine**\n\n📌 来源：HackerNews\n🔗 https://github.com/ctxrs/ctx\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-02/cover1.png",
-    "assets/2026-07-02/cover2.png",
-    "assets/2026-07-02/cover3.png",
-    "assets/2026-07-02/cover4.png"
+    "assets/2026-07-03/cover1.png",
+    "assets/2026-07-03/cover2.png",
+    "assets/2026-07-03/cover3.png",
+    "assets/2026-07-03/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-07-02/cover1_feishu.png",
-    "assets/2026-07-02/cover2_feishu.png",
-    "assets/2026-07-02/cover3_feishu.png",
-    "assets/2026-07-02/cover4_feishu.png"
+    "assets/2026-07-03/cover1_feishu.png",
+    "assets/2026-07-03/cover2_feishu.png",
+    "assets/2026-07-03/cover3_feishu.png",
+    "assets/2026-07-03/cover4_feishu.png"
   ]
 }
