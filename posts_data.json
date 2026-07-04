@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "posts": [
     {
-      "topic": "Reality has a surpri",
-      "cover_line1": "Reality ha",
+      "topic": "The circuit that let",
+      "cover_line1": "The circui",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Reality has a surprising amount of detail (2017)**\n\n📌 来源：HackerNews\n🔗 https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**The circuit that lets your brain think and see**\n\n📌 来源：HackerNews\n🔗 https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "The short leash AI c",
-      "cover_line1": "The short ",
+      "topic": "Dispersion loss coun",
+      "cover_line1": "Dispersion",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**The short leash AI coding method for beating Fable**\n\n📌 来源：HackerNews\n🔗 https://blog.okturtles.org/2026/07/short-leash-ai-method/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Dispersion loss counteracts embedding condensation in small language models**\n\n📌 来源：HackerNews\n🔗 https://chenliu-1996.github.io/projects/LM-Dispersion/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Claude-real-video － ",
-      "cover_line1": "Claude-rea",
+      "topic": "Jamesob's guide to r",
+      "cover_line1": "Jamesob's ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude-real-video － any LLM can watch a video**\n\n📌 来源：HackerNews\n🔗 https://github.com/HUANGCHIHHUNGLeo/claude-real-video\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Jamesob's guide to running SOTA LLMs locally**\n\n📌 来源：HackerNews\n🔗 https://github.com/jamesob/local-llm\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Show HN: ctx – Searc",
-      "cover_line1": "Show HN: c",
+      "topic": "Espionage Against th",
+      "cover_line1": "Espionage ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: ctx – Search the coding agent history already on your machine**\n\n📌 来源：HackerNews\n🔗 https://github.com/ctxrs/ctx\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Espionage Against the European Parliament**\n\n📌 来源：HackerNews\n🔗 https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-03/cover1.png",
-    "assets/2026-07-03/cover2.png",
-    "assets/2026-07-03/cover3.png",
-    "assets/2026-07-03/cover4.png"
+    "assets/2026-07-04/cover1.png",
+    "assets/2026-07-04/cover2.png",
+    "assets/2026-07-04/cover3.png",
+    "assets/2026-07-04/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-07-03/cover1_feishu.png",
-    "assets/2026-07-03/cover2_feishu.png",
-    "assets/2026-07-03/cover3_feishu.png",
-    "assets/2026-07-03/cover4_feishu.png"
+    "assets/2026-07-04/cover1_feishu.png",
+    "assets/2026-07-04/cover2_feishu.png",
+    "assets/2026-07-04/cover3_feishu.png",
+    "assets/2026-07-04/cover4_feishu.png"
   ]
 }
