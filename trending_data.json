@@ -1,155 +1,174 @@
 {
   "date": "2026-07-05",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
-    {
-      "name": "openai/codex-plugin-cc",
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "language": "JavaScript",
-      "stars_today": "716 stars today",
-      "stars_total": "24,376"
-    },
-    {
-      "name": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "language": "JavaScript",
-      "stars_today": "1,089 stars today",
-      "stars_total": "83,940"
-    },
-    {
-      "name": "alibaba/page-agent",
-      "url": "https://github.com/alibaba/page-agent",
-      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "language": "TypeScript",
-      "stars_today": "726 stars today",
-      "stars_total": "23,087"
-    },
-    {
-      "name": "usestrix/strix",
-      "url": "https://github.com/usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "language": "Python",
-      "stars_today": "1,910 stars today",
-      "stars_total": "36,008"
-    },
-    {
-      "name": "ChromeDevTools/chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "language": "TypeScript",
-      "stars_today": "303 stars today",
-      "stars_total": "45,765"
-    },
     {
       "name": "Zackriya-Solutions/meetily",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
-      "stars_today": "865 stars today",
-      "stars_total": "15,232"
+      "stars_today": "1,409 stars today",
+      "stars_total": "16,120"
+    },
+    {
+      "name": "openai/codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "language": "JavaScript",
+      "stars_today": "1,519 stars today",
+      "stars_total": "25,182"
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars_today": "432 stars today",
-      "stars_total": "48,897"
+      "stars_today": "981 stars today",
+      "stars_total": "49,524"
     },
     {
-      "name": "harvard-edge/cs249r_book",
-      "url": "https://github.com/harvard-edge/cs249r_book",
-      "description": "Machine Learning Systems",
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "JavaScript",
+      "stars_today": "850 stars today",
+      "stars_total": "57,050"
+    },
+    {
+      "name": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
       "language": "Python",
-      "stars_today": "446 stars today",
-      "stars_total": "26,554"
+      "stars_today": "394 stars today",
+      "stars_total": "20,365"
     },
     {
       "name": "rommapp/romm",
       "url": "https://github.com/rommapp/romm",
       "description": "A beautiful, powerful, self-hosted rom manager and player.",
       "language": "Python",
-      "stars_today": "400 stars today",
-      "stars_total": "10,190"
+      "stars_today": "411 stars today",
+      "stars_total": "10,402"
     },
     {
       "name": "ogulcancelik/herdr",
       "url": "https://github.com/ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars_today": "706 stars today",
-      "stars_total": "11,421"
-    }
-  ],
-  "ai_repos": [
-    {
-      "name": "openai/codex-plugin-cc",
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "language": "JavaScript",
-      "stars_today": "716 stars today",
-      "stars_total": "24,376"
-    },
-    {
-      "name": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "language": "JavaScript",
-      "stars_today": "1,089 stars today",
-      "stars_total": "83,940"
+      "stars_today": "650 stars today",
+      "stars_total": "11,814"
     },
     {
       "name": "alibaba/page-agent",
       "url": "https://github.com/alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "language": "TypeScript",
-      "stars_today": "726 stars today",
-      "stars_total": "23,087"
+      "stars_today": "801 stars today",
+      "stars_total": "23,574"
+    },
+    {
+      "name": "harvard-edge/cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "description": "Machine Learning Systems",
+      "language": "Python",
+      "stars_today": "333 stars today",
+      "stars_total": "26,747"
     },
     {
       "name": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars_today": "1,910 stars today",
-      "stars_total": "36,008"
-    },
-    {
-      "name": "ChromeDevTools/chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "language": "TypeScript",
-      "stars_today": "303 stars today",
-      "stars_total": "45,765"
-    },
+      "stars_today": "1,121 stars today",
+      "stars_total": "36,729"
+    }
+  ],
+  "ai_repos": [
     {
       "name": "Zackriya-Solutions/meetily",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
-      "stars_today": "865 stars today",
-      "stars_total": "15,232"
+      "stars_today": "1,409 stars today",
+      "stars_total": "16,120"
+    },
+    {
+      "name": "openai/codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "language": "JavaScript",
+      "stars_today": "1,519 stars today",
+      "stars_total": "25,182"
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars_today": "432 stars today",
-      "stars_total": "48,897"
+      "stars_today": "981 stars today",
+      "stars_total": "49,524"
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "JavaScript",
+      "stars_today": "850 stars today",
+      "stars_total": "57,050"
+    },
+    {
+      "name": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "language": "Python",
+      "stars_today": "394 stars today",
+      "stars_total": "20,365"
     },
     {
       "name": "ogulcancelik/herdr",
       "url": "https://github.com/ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars_today": "706 stars today",
-      "stars_total": "11,421"
+      "stars_today": "650 stars today",
+      "stars_total": "11,814"
+    },
+    {
+      "name": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "language": "TypeScript",
+      "stars_today": "801 stars today",
+      "stars_total": "23,574"
+    },
+    {
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars_today": "1,121 stars today",
+      "stars_total": "36,729"
     }
   ],
   "posts": [
+    {
+      "topic": "meetily",
+      "repo": "Zackriya-Solutions/meetily",
+      "cover_line1": "meetily",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**Zackriya-Solutions/meetily**\n\n📌 Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.\n\n🔗 https://github.com/Zackriya-Solutions/meetily\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
     {
       "topic": "codex-plugin-cc",
       "repo": "openai/codex-plugin-cc",
@@ -170,11 +189,11 @@
       ]
     },
     {
-      "topic": "caveman",
-      "repo": "JuliusBrussee/caveman",
-      "cover_line1": "caveman",
+      "topic": "system_prompts_leaks",
+      "repo": "asgeirtj/system_prompts_leaks",
+      "cover_line1": "system_pro",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**JuliusBrussee/caveman**\n\n📌 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman\n\n🔗 https://github.com/JuliusBrussee/caveman\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**asgeirtj/system_prompts_leaks**\n\n📌 Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.\n\n🔗 https://github.com/asgeirtj/system_prompts_leaks\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -189,30 +208,11 @@
       ]
     },
     {
-      "topic": "page-agent",
-      "repo": "alibaba/page-agent",
-      "cover_line1": "page-agent",
+      "topic": "taste-skill",
+      "repo": "Leonxlnx/taste-skill",
+      "cover_line1": "taste-skil",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**alibaba/page-agent**\n\n📌 JavaScript in-page GUI agent. Control web interfaces with natural language.\n\n🔗 https://github.com/alibaba/page-agent\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "strix",
-      "repo": "usestrix/strix",
-      "cover_line1": "strix",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**usestrix/strix**\n\n📌 Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.\n\n🔗 https://github.com/usestrix/strix\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**Leonxlnx/taste-skill**\n\n📌 Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop\n\n🔗 https://github.com/Leonxlnx/taste-skill\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
