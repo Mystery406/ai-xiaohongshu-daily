@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-05",
   "posts": [
     {
-      "topic": "The circuit that let",
-      "cover_line1": "The circui",
+      "topic": "GPT-5.5 Codex reason",
+      "cover_line1": "GPT-5.5 Co",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**The circuit that lets your brain think and see**\n\n📌 来源：HackerNews\n🔗 https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance**\n\n📌 来源：HackerNews\n🔗 https://github.com/openai/codex/issues/30364\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Dispersion loss coun",
-      "cover_line1": "Dispersion",
+      "topic": "Scientists reverse b",
+      "cover_line1": "Scientists",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Dispersion loss counteracts embedding condensation in small language models**\n\n📌 来源：HackerNews\n🔗 https://chenliu-1996.github.io/projects/LM-Dispersion/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Scientists reverse brain aging, with a nasal spray**\n\n📌 来源：HackerNews\n🔗 https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Jamesob's guide to r",
-      "cover_line1": "Jamesob's ",
+      "topic": "Better Models: Worse",
+      "cover_line1": "Better Mod",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Jamesob's guide to running SOTA LLMs locally**\n\n📌 来源：HackerNews\n🔗 https://github.com/jamesob/local-llm\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Better Models: Worse Tools**\n\n📌 来源：HackerNews\n🔗 https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Espionage Against th",
-      "cover_line1": "Espionage ",
+      "topic": "My AI-built PHP engi",
+      "cover_line1": "My AI-buil",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Espionage Against the European Parliament**\n\n📌 来源：HackerNews\n🔗 https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress**\n\n📌 来源：HackerNews\n🔗 https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-04/cover1.png",
-    "assets/2026-07-04/cover2.png",
-    "assets/2026-07-04/cover3.png",
-    "assets/2026-07-04/cover4.png"
+    "assets/2026-07-05/cover1.png",
+    "assets/2026-07-05/cover2.png",
+    "assets/2026-07-05/cover3.png",
+    "assets/2026-07-05/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-07-04/cover1_feishu.png",
-    "assets/2026-07-04/cover2_feishu.png",
-    "assets/2026-07-04/cover3_feishu.png",
-    "assets/2026-07-04/cover4_feishu.png"
+    "assets/2026-07-05/cover1_feishu.png",
+    "assets/2026-07-05/cover2_feishu.png",
+    "assets/2026-07-05/cover3_feishu.png",
+    "assets/2026-07-05/cover4_feishu.png"
   ]
 }
