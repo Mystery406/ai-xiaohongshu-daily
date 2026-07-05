@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-05",
-  "slot": "晚报",
+  "date": "2026-07-06",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "Zackriya-Solutions/meetily",
@@ -8,7 +8,7 @@
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
       "stars_today": "1,409 stars today",
-      "stars_total": "16,120"
+      "stars_total": "16,905"
     },
     {
       "name": "openai/codex-plugin-cc",
@@ -16,7 +16,7 @@
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
       "stars_today": "1,519 stars today",
-      "stars_total": "25,182"
+      "stars_total": "25,433"
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
@@ -24,7 +24,7 @@
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
       "stars_today": "981 stars today",
-      "stars_total": "49,524"
+      "stars_total": "49,913"
     },
     {
       "name": "Leonxlnx/taste-skill",
@@ -32,7 +32,7 @@
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "JavaScript",
       "stars_today": "850 stars today",
-      "stars_total": "57,050"
+      "stars_total": "57,439"
     },
     {
       "name": "alirezarezvani/claude-skills",
@@ -40,7 +40,7 @@
       "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
       "language": "Python",
       "stars_today": "394 stars today",
-      "stars_total": "20,365"
+      "stars_total": "20,539"
     },
     {
       "name": "rommapp/romm",
@@ -48,7 +48,7 @@
       "description": "A beautiful, powerful, self-hosted rom manager and player.",
       "language": "Python",
       "stars_today": "411 stars today",
-      "stars_total": "10,402"
+      "stars_total": "10,518"
     },
     {
       "name": "ogulcancelik/herdr",
@@ -56,7 +56,7 @@
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
       "stars_today": "650 stars today",
-      "stars_total": "11,814"
+      "stars_total": "12,038"
     },
     {
       "name": "alibaba/page-agent",
@@ -64,7 +64,7 @@
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "language": "TypeScript",
       "stars_today": "801 stars today",
-      "stars_total": "23,574"
+      "stars_total": "23,840"
     },
     {
       "name": "harvard-edge/cs249r_book",
@@ -72,7 +72,7 @@
       "description": "Machine Learning Systems",
       "language": "Python",
       "stars_today": "333 stars today",
-      "stars_total": "26,747"
+      "stars_total": "26,828"
     },
     {
       "name": "usestrix/strix",
@@ -80,7 +80,7 @@
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
       "stars_today": "1,121 stars today",
-      "stars_total": "36,729"
+      "stars_total": "37,070"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
       "stars_today": "1,409 stars today",
-      "stars_total": "16,120"
+      "stars_total": "16,905"
     },
     {
       "name": "openai/codex-plugin-cc",
@@ -98,7 +98,7 @@
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
       "stars_today": "1,519 stars today",
-      "stars_total": "25,182"
+      "stars_total": "25,433"
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
@@ -106,7 +106,7 @@
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
       "stars_today": "981 stars today",
-      "stars_total": "49,524"
+      "stars_total": "49,913"
     },
     {
       "name": "Leonxlnx/taste-skill",
@@ -114,7 +114,7 @@
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "JavaScript",
       "stars_today": "850 stars today",
-      "stars_total": "57,050"
+      "stars_total": "57,439"
     },
     {
       "name": "alirezarezvani/claude-skills",
@@ -122,7 +122,7 @@
       "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
       "language": "Python",
       "stars_today": "394 stars today",
-      "stars_total": "20,365"
+      "stars_total": "20,539"
     },
     {
       "name": "ogulcancelik/herdr",
@@ -130,7 +130,7 @@
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
       "stars_today": "650 stars today",
-      "stars_total": "11,814"
+      "stars_total": "12,038"
     },
     {
       "name": "alibaba/page-agent",
@@ -138,7 +138,7 @@
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "language": "TypeScript",
       "stars_today": "801 stars today",
-      "stars_total": "23,574"
+      "stars_total": "23,840"
     },
     {
       "name": "usestrix/strix",
@@ -146,7 +146,7 @@
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
       "stars_today": "1,121 stars today",
-      "stars_total": "36,729"
+      "stars_total": "37,070"
     }
   ],
   "posts": [
@@ -228,10 +228,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-05/trending/summary.png",
-    "assets/2026-07-05/trending/post1.png",
-    "assets/2026-07-05/trending/post2.png",
-    "assets/2026-07-05/trending/post3.png",
-    "assets/2026-07-05/trending/post4.png"
+    "assets/2026-07-06/trending/summary.png",
+    "assets/2026-07-06/trending/post1.png",
+    "assets/2026-07-06/trending/post2.png",
+    "assets/2026-07-06/trending/post3.png",
+    "assets/2026-07-06/trending/post4.png"
   ]
 }
