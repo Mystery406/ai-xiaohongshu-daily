@@ -8,7 +8,7 @@
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
       "stars_today": "1,386 stars today",
-      "stars_total": "51,034"
+      "stars_total": "51,475"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -16,7 +16,7 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
       "stars_today": "1,114 stars today",
-      "stars_total": "70,495"
+      "stars_total": "70,765"
     },
     {
       "name": "Zackriya-Solutions/meetily",
@@ -24,7 +24,7 @@
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
       "stars_today": "2,493 stars today",
-      "stars_total": "18,817"
+      "stars_total": "19,317"
     },
     {
       "name": "ruvnet/RuView",
@@ -32,7 +32,7 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "stars_today": "471 stars today",
-      "stars_total": "77,199"
+      "stars_total": "77,493"
     },
     {
       "name": "Leonxlnx/taste-skill",
@@ -40,15 +40,15 @@
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "JavaScript",
       "stars_today": "1,453 stars today",
-      "stars_total": "58,596"
+      "stars_total": "58,888"
     },
     {
       "name": "alirezarezvani/claude-skills",
       "url": "https://github.com/alirezarezvani/claude-skills",
-      "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
       "language": "Python",
       "stars_today": "611 stars today",
-      "stars_total": "21,016"
+      "stars_total": "21,133"
     },
     {
       "name": "openai/codex-plugin-cc",
@@ -56,7 +56,7 @@
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
       "stars_today": "910 stars today",
-      "stars_total": "26,143"
+      "stars_total": "26,263"
     },
     {
       "name": "mvanhorn/last30days-skill",
@@ -64,7 +64,7 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "stars_today": "511 stars today",
-      "stars_total": "49,593"
+      "stars_total": "49,717"
     },
     {
       "name": "ogulcancelik/herdr",
@@ -72,7 +72,7 @@
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
       "stars_today": "783 stars today",
-      "stars_total": "12,667"
+      "stars_total": "12,845"
     },
     {
       "name": "bradautomates/claude-video",
@@ -80,7 +80,7 @@
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "language": "Python",
       "stars_today": "539 stars today",
-      "stars_total": "3,996"
+      "stars_total": "4,200"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
       "stars_today": "1,386 stars today",
-      "stars_total": "51,034"
+      "stars_total": "51,475"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -98,7 +98,7 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
       "stars_today": "1,114 stars today",
-      "stars_total": "70,495"
+      "stars_total": "70,765"
     },
     {
       "name": "Zackriya-Solutions/meetily",
@@ -106,7 +106,7 @@
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
       "stars_today": "2,493 stars today",
-      "stars_total": "18,817"
+      "stars_total": "19,317"
     },
     {
       "name": "Leonxlnx/taste-skill",
@@ -114,15 +114,15 @@
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "JavaScript",
       "stars_today": "1,453 stars today",
-      "stars_total": "58,596"
+      "stars_total": "58,888"
     },
     {
       "name": "alirezarezvani/claude-skills",
       "url": "https://github.com/alirezarezvani/claude-skills",
-      "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
       "language": "Python",
       "stars_today": "611 stars today",
-      "stars_total": "21,016"
+      "stars_total": "21,133"
     },
     {
       "name": "openai/codex-plugin-cc",
@@ -130,7 +130,7 @@
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
       "stars_today": "910 stars today",
-      "stars_total": "26,143"
+      "stars_total": "26,263"
     },
     {
       "name": "mvanhorn/last30days-skill",
@@ -138,7 +138,7 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "stars_today": "511 stars today",
-      "stars_total": "49,593"
+      "stars_total": "49,717"
     },
     {
       "name": "ogulcancelik/herdr",
@@ -146,7 +146,7 @@
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
       "stars_today": "783 stars today",
-      "stars_total": "12,667"
+      "stars_total": "12,845"
     },
     {
       "name": "bradautomates/claude-video",
@@ -154,7 +154,7 @@
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "language": "Python",
       "stars_today": "539 stars today",
-      "stars_total": "3,996"
+      "stars_total": "4,200"
     }
   ],
   "posts": [
