@@ -1,188 +1,161 @@
 {
   "date": "2026-07-07",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
-      "name": "asgeirtj/system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "language": "JavaScript",
-      "stars_today": "1,386 stars today",
-      "stars_total": "51,475"
-    },
-    {
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "Shell",
-      "stars_today": "1,114 stars today",
-      "stars_total": "70,765"
+      "name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "language": "TypeScript",
+      "stars_today": "2,402 stars today",
+      "stars_total": "9,381"
     },
     {
       "name": "Zackriya-Solutions/meetily",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
-      "stars_today": "2,493 stars today",
-      "stars_total": "19,317"
+      "stars_today": "1,781 stars today",
+      "stars_total": "20,301"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_today": "1,311 stars today",
+      "stars_total": "71,779"
     },
     {
       "name": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars_today": "471 stars today",
-      "stars_total": "77,493"
+      "stars_today": "1,122 stars today",
+      "stars_total": "78,236"
     },
-    {
-      "name": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "language": "JavaScript",
-      "stars_today": "1,453 stars today",
-      "stars_total": "58,888"
-    },
-    {
-      "name": "alirezarezvani/claude-skills",
-      "url": "https://github.com/alirezarezvani/claude-skills",
-      "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
-      "language": "Python",
-      "stars_today": "611 stars today",
-      "stars_total": "21,133"
-    },
-    {
-      "name": "openai/codex-plugin-cc",
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "language": "JavaScript",
-      "stars_today": "910 stars today",
-      "stars_total": "26,263"
-    },
-    {
-      "name": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "language": "Python",
-      "stars_today": "511 stars today",
-      "stars_total": "49,717"
-    },
-    {
-      "name": "ogulcancelik/herdr",
-      "url": "https://github.com/ogulcancelik/herdr",
-      "description": "agent multiplexer that lives in your terminal.",
-      "language": "Rust",
-      "stars_today": "783 stars today",
-      "stars_total": "12,845"
-    },
-    {
-      "name": "bradautomates/claude-video",
-      "url": "https://github.com/bradautomates/claude-video",
-      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "language": "Python",
-      "stars_today": "539 stars today",
-      "stars_total": "4,200"
-    }
-  ],
-  "ai_repos": [
     {
       "name": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars_today": "1,386 stars today",
-      "stars_total": "51,475"
+      "stars_today": "1,704 stars today",
+      "stars_total": "52,591"
     },
     {
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "Shell",
-      "stars_today": "1,114 stars today",
-      "stars_total": "70,765"
+      "name": "TencentCloud/CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "language": "Rust",
+      "stars_today": "665 stars today",
+      "stars_total": "8,282"
+    },
+    {
+      "name": "AhmadIbrahiim/Website-downloader",
+      "url": "https://github.com/AhmadIbrahiim/Website-downloader",
+      "description": "💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js",
+      "language": "HTML",
+      "stars_today": "173 stars today",
+      "stars_total": "3,761"
+    },
+    {
+      "name": "steipete/CodexBar",
+      "url": "https://github.com/steipete/CodexBar",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "language": "Swift",
+      "stars_today": "377 stars today",
+      "stars_total": "16,962"
+    },
+    {
+      "name": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "language": "C#",
+      "stars_today": "200 stars today",
+      "stars_total": "4,242"
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "stars_today": "802 stars today",
+      "stars_total": "9,541"
+    }
+  ],
+  "ai_repos": [
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "language": "TypeScript",
+      "stars_today": "2,402 stars today",
+      "stars_total": "9,381"
     },
     {
       "name": "Zackriya-Solutions/meetily",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
-      "stars_today": "2,493 stars today",
-      "stars_total": "19,317"
+      "stars_today": "1,781 stars today",
+      "stars_total": "20,301"
     },
     {
-      "name": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_today": "1,453 stars today",
-      "stars_total": "58,888"
+      "stars_today": "1,311 stars today",
+      "stars_total": "71,779"
     },
     {
-      "name": "alirezarezvani/claude-skills",
-      "url": "https://github.com/alirezarezvani/claude-skills",
-      "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
-      "language": "Python",
-      "stars_today": "611 stars today",
-      "stars_total": "21,133"
-    },
-    {
-      "name": "openai/codex-plugin-cc",
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars_today": "910 stars today",
-      "stars_total": "26,263"
+      "stars_today": "1,704 stars today",
+      "stars_total": "52,591"
     },
     {
-      "name": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "language": "Python",
-      "stars_today": "511 stars today",
-      "stars_total": "49,717"
-    },
-    {
-      "name": "ogulcancelik/herdr",
-      "url": "https://github.com/ogulcancelik/herdr",
-      "description": "agent multiplexer that lives in your terminal.",
+      "name": "TencentCloud/CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
       "language": "Rust",
-      "stars_today": "783 stars today",
-      "stars_total": "12,845"
+      "stars_today": "665 stars today",
+      "stars_total": "8,282"
     },
     {
-      "name": "bradautomates/claude-video",
-      "url": "https://github.com/bradautomates/claude-video",
-      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "language": "Python",
-      "stars_today": "539 stars today",
-      "stars_total": "4,200"
+      "name": "steipete/CodexBar",
+      "url": "https://github.com/steipete/CodexBar",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "language": "Swift",
+      "stars_today": "377 stars today",
+      "stars_total": "16,962"
+    },
+    {
+      "name": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "language": "C#",
+      "stars_today": "200 stars today",
+      "stars_total": "4,242"
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "stars_today": "802 stars today",
+      "stars_total": "9,541"
     }
   ],
   "posts": [
     {
-      "topic": "system_prompts_leaks",
-      "repo": "asgeirtj/system_prompts_leaks",
-      "cover_line1": "system_pro",
+      "topic": "ai-job-search",
+      "repo": "MadsLorentzen/ai-job-search",
+      "cover_line1": "ai-job-sea",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**asgeirtj/system_prompts_leaks**\n\n📌 Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.\n\n🔗 https://github.com/asgeirtj/system_prompts_leaks\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
-    {
-      "topic": "agent-skills",
-      "repo": "addyosmani/agent-skills",
-      "cover_line1": "agent-skil",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**addyosmani/agent-skills**\n\n📌 Production-grade engineering skills for AI coding agents.\n\n🔗 https://github.com/addyosmani/agent-skills\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**MadsLorentzen/ai-job-search**\n\n📌 AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.\n\n🔗 https://github.com/MadsLorentzen/ai-job-search\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -216,11 +189,30 @@
       ]
     },
     {
-      "topic": "taste-skill",
-      "repo": "Leonxlnx/taste-skill",
-      "cover_line1": "taste-skil",
+      "topic": "agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "cover_line1": "agent-skil",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**Leonxlnx/taste-skill**\n\n📌 Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop\n\n🔗 https://github.com/Leonxlnx/taste-skill\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**addyosmani/agent-skills**\n\n📌 Production-grade engineering skills for AI coding agents.\n\n🔗 https://github.com/addyosmani/agent-skills\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
+    },
+    {
+      "topic": "system_prompts_leaks",
+      "repo": "asgeirtj/system_prompts_leaks",
+      "cover_line1": "system_pro",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**asgeirtj/system_prompts_leaks**\n\n📌 Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.\n\n🔗 https://github.com/asgeirtj/system_prompts_leaks\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
