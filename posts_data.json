@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-07",
   "posts": [
     {
-      "topic": "New AI tutor achieve",
-      "cover_line1": "New AI tut",
+      "topic": "Ternlight – 7 MB emb",
+      "cover_line1": "Ternlight ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]**\n\n📌 来源：HackerNews\n🔗 https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Ternlight – 7 MB embedding model that runs in browser (WASM)**\n\n📌 来源：HackerNews\n🔗 https://ternlight-demo.vercel.app/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Mr. Baby Paint and a",
-      "cover_line1": "Mr. Baby P",
+      "topic": "GLM 5.2 and the comi",
+      "cover_line1": "GLM 5.2 an",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Mr. Baby Paint and accidentally discovering a new cellular automata**\n\n📌 来源：HackerNews\n🔗 https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**GLM 5.2 and the coming AI margin collapse**\n\n📌 来源：HackerNews\n🔗 https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Al Vigier: Canada's ",
-      "cover_line1": "Al Vigier:",
+      "topic": "A global workspace i",
+      "cover_line1": "A global w",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills**\n\n📌 来源：HackerNews\n🔗 https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**A global workspace in language models**\n\n📌 来源：HackerNews\n🔗 https://www.anthropic.com/research/global-workspace\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Delta flight hit by ",
-      "cover_line1": "Delta flig",
+      "topic": "Pruning RAG context ",
+      "cover_line1": "Pruning RA",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Delta flight hit by firework while landing at Midway Airport on Fourth of July**\n\n📌 来源：HackerNews\n🔗 https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Pruning RAG context down to what the answer actually needs**\n\n📌 来源：HackerNews\n🔗 https://www.kapa.ai/blog/how-we-prune-rag-context\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-06/cover1.png",
-    "assets/2026-07-06/cover2.png",
-    "assets/2026-07-06/cover3.png",
-    "assets/2026-07-06/cover4.png"
+    "assets/2026-07-07/cover1.png",
+    "assets/2026-07-07/cover2.png",
+    "assets/2026-07-07/cover3.png",
+    "assets/2026-07-07/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-07-06/cover1_feishu.png",
-    "assets/2026-07-06/cover2_feishu.png",
-    "assets/2026-07-06/cover3_feishu.png",
-    "assets/2026-07-06/cover4_feishu.png"
+    "assets/2026-07-07/cover1_feishu.png",
+    "assets/2026-07-07/cover2_feishu.png",
+    "assets/2026-07-07/cover3_feishu.png",
+    "assets/2026-07-07/cover4_feishu.png"
   ]
 }
