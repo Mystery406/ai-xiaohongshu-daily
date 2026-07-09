@@ -1,22 +1,14 @@
 {
-  "date": "2026-07-08",
-  "slot": "晚报",
+  "date": "2026-07-09",
+  "slot": "早报",
   "all_repos": [
-    {
-      "name": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
-      "language": "TypeScript",
-      "stars_today": "5,071 stars today",
-      "stars_total": "14,182"
-    },
     {
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "stars_today": "1,322 stars today",
-      "stars_total": "73,235"
+      "stars_total": "73,984"
     },
     {
       "name": "ruvnet/RuView",
@@ -24,7 +16,7 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "stars_today": "793 stars today",
-      "stars_total": "78,916"
+      "stars_total": "79,122"
     },
     {
       "name": "TencentCloud/TencentDB-Agent-Memory",
@@ -32,7 +24,7 @@
       "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
       "language": "TypeScript",
       "stars_today": "351 stars today",
-      "stars_total": "7,436"
+      "stars_total": "7,615"
     },
     {
       "name": "prisma/prisma",
@@ -40,15 +32,15 @@
       "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
       "language": "TypeScript",
       "stars_today": "30 stars today",
-      "stars_total": "46,434"
+      "stars_total": "46,540"
     },
     {
       "name": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_today": "659 stars today",
-      "stars_total": "50,564"
+      "stars_today": "373 stars today",
+      "stars_total": "50,726"
     },
     {
       "name": "argoproj/argo-cd",
@@ -56,7 +48,7 @@
       "description": "Declarative Continuous Deployment for Kubernetes",
       "language": "Go",
       "stars_today": "20 stars today",
-      "stars_total": "23,381"
+      "stars_total": "23,423"
     },
     {
       "name": "iOfficeAI/OfficeCLI",
@@ -64,7 +56,7 @@
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
       "stars_today": "1,712 stars today",
-      "stars_total": "11,271"
+      "stars_total": "11,740"
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
@@ -72,33 +64,33 @@
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
       "stars_today": "1,226 stars today",
-      "stars_total": "53,784"
+      "stars_total": "54,150"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "999 stars today",
-      "stars_total": "249,551"
+      "stars_today": "1,170 stars today",
+      "stars_total": "249,795"
+    },
+    {
+      "name": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "stars_today": "370 stars today",
+      "stars_total": "14,383"
     }
   ],
   "ai_repos": [
-    {
-      "name": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
-      "language": "TypeScript",
-      "stars_today": "5,071 stars today",
-      "stars_total": "14,182"
-    },
     {
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "stars_today": "1,322 stars today",
-      "stars_total": "73,235"
+      "stars_total": "73,984"
     },
     {
       "name": "TencentCloud/TencentDB-Agent-Memory",
@@ -106,15 +98,15 @@
       "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
       "language": "TypeScript",
       "stars_today": "351 stars today",
-      "stars_total": "7,436"
+      "stars_total": "7,615"
     },
     {
       "name": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_today": "659 stars today",
-      "stars_total": "50,564"
+      "stars_today": "373 stars today",
+      "stars_total": "50,726"
     },
     {
       "name": "iOfficeAI/OfficeCLI",
@@ -122,7 +114,7 @@
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
       "stars_today": "1,712 stars today",
-      "stars_total": "11,271"
+      "stars_total": "11,740"
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
@@ -130,37 +122,26 @@
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
       "stars_today": "1,226 stars today",
-      "stars_total": "53,784"
+      "stars_total": "54,150"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "999 stars today",
-      "stars_total": "249,551"
+      "stars_today": "1,170 stars today",
+      "stars_total": "249,795"
+    },
+    {
+      "name": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "stars_today": "370 stars today",
+      "stars_total": "14,383"
     }
   ],
   "posts": [
-    {
-      "topic": "ai-job-search",
-      "repo": "MadsLorentzen/ai-job-search",
-      "cover_line1": "ai-job-sea",
-      "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**MadsLorentzen/ai-job-search**\n\n📌 AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.\n\n🔗 https://github.com/MadsLorentzen/ai-job-search\n\n关注我，每天第一时间 AI 动态 👇",
-      "tags": [
-        "AI",
-        "GitHub",
-        "开源",
-        "热门项目",
-        "大模型",
-        "机器学习",
-        "深度学习",
-        "AI工具",
-        "技术",
-        "炼丹"
-      ]
-    },
     {
       "topic": "agent-skills",
       "repo": "addyosmani/agent-skills",
@@ -217,13 +198,32 @@
         "技术",
         "炼丹"
       ]
+    },
+    {
+      "topic": "OfficeCLI",
+      "repo": "iOfficeAI/OfficeCLI",
+      "cover_line1": "OfficeCLI",
+      "cover_line2": "今日 GitHub 热榜！",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**iOfficeAI/OfficeCLI**\n\n📌 OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.\n\n🔗 https://github.com/iOfficeAI/OfficeCLI\n\n关注我，每天第一时间 AI 动态 👇",
+      "tags": [
+        "AI",
+        "GitHub",
+        "开源",
+        "热门项目",
+        "大模型",
+        "机器学习",
+        "深度学习",
+        "AI工具",
+        "技术",
+        "炼丹"
+      ]
     }
   ],
   "image_paths": [
-    "assets/2026-07-08/trending/summary.png",
-    "assets/2026-07-08/trending/post1.png",
-    "assets/2026-07-08/trending/post2.png",
-    "assets/2026-07-08/trending/post3.png",
-    "assets/2026-07-08/trending/post4.png"
+    "assets/2026-07-09/trending/summary.png",
+    "assets/2026-07-09/trending/post1.png",
+    "assets/2026-07-09/trending/post2.png",
+    "assets/2026-07-09/trending/post3.png",
+    "assets/2026-07-09/trending/post4.png"
   ]
 }
