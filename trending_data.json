@@ -8,7 +8,7 @@
       "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
       "language": "TypeScript",
       "stars_today": "3,728 stars today",
-      "stars_total": "17,835"
+      "stars_total": "18,910"
     },
     {
       "name": "SmartlyDressedGames/U3-SDK",
@@ -16,7 +16,7 @@
       "description": "Source code for Unturned, a free open-world zombie survival sandbox game.",
       "language": "C#",
       "stars_today": "541 stars today",
-      "stars_total": "1,867"
+      "stars_total": "1,998"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -24,15 +24,15 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "stars_today": "2,582 stars today",
-      "stars_total": "75,584"
+      "stars_total": "75,840"
     },
     {
       "name": "VoltAgent/awesome-design-md",
       "url": "https://github.com/VoltAgent/awesome-design-md",
       "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
       "language": "",
-      "stars_today": "1,569 stars today",
-      "stars_total": "99,281"
+      "stars_today": "1,233 stars today",
+      "stars_total": "99,632"
     },
     {
       "name": "iOfficeAI/OfficeCLI",
@@ -40,7 +40,7 @@
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
       "stars_today": "1,923 stars today",
-      "stars_total": "13,095"
+      "stars_total": "13,391"
     },
     {
       "name": "wonderwhy-er/DesktopCommanderMCP",
@@ -48,23 +48,23 @@
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
       "stars_today": "185 stars today",
-      "stars_total": "6,501"
+      "stars_total": "6,567"
     },
     {
       "name": "anthropics/claude-cookbooks",
       "url": "https://github.com/anthropics/claude-cookbooks",
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
-      "stars_today": "194 stars today",
-      "stars_total": "46,980"
+      "stars_today": "347 stars today",
+      "stars_total": "47,138"
     },
     {
       "name": "vxcontrol/pentagi",
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
-      "stars_today": "454 stars today",
-      "stars_total": "19,194"
+      "stars_today": "543 stars today",
+      "stars_total": "19,373"
     },
     {
       "name": "unclecode/crawl4ai",
@@ -72,15 +72,15 @@
       "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
       "language": "Python",
       "stars_today": "195 stars today",
-      "stars_total": "71,698"
+      "stars_total": "71,805"
     },
     {
       "name": "imthenachoman/How-To-Secure-A-Linux-Server",
       "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
       "description": "An evolving how-to guide for securing a Linux server.",
       "language": "",
-      "stars_today": "399 stars today",
-      "stars_total": "28,929"
+      "stars_today": "306 stars today",
+      "stars_total": "29,066"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
       "language": "TypeScript",
       "stars_today": "3,728 stars today",
-      "stars_total": "17,835"
+      "stars_total": "18,910"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -98,15 +98,15 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "stars_today": "2,582 stars today",
-      "stars_total": "75,584"
+      "stars_total": "75,840"
     },
     {
       "name": "VoltAgent/awesome-design-md",
       "url": "https://github.com/VoltAgent/awesome-design-md",
       "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
       "language": "",
-      "stars_today": "1,569 stars today",
-      "stars_total": "99,281"
+      "stars_today": "1,233 stars today",
+      "stars_total": "99,632"
     },
     {
       "name": "iOfficeAI/OfficeCLI",
@@ -114,7 +114,7 @@
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
       "stars_today": "1,923 stars today",
-      "stars_total": "13,095"
+      "stars_total": "13,391"
     },
     {
       "name": "wonderwhy-er/DesktopCommanderMCP",
@@ -122,23 +122,23 @@
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
       "stars_today": "185 stars today",
-      "stars_total": "6,501"
+      "stars_total": "6,567"
     },
     {
       "name": "anthropics/claude-cookbooks",
       "url": "https://github.com/anthropics/claude-cookbooks",
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
-      "stars_today": "194 stars today",
-      "stars_total": "46,980"
+      "stars_today": "347 stars today",
+      "stars_total": "47,138"
     },
     {
       "name": "vxcontrol/pentagi",
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
-      "stars_today": "454 stars today",
-      "stars_total": "19,194"
+      "stars_today": "543 stars today",
+      "stars_total": "19,373"
     },
     {
       "name": "unclecode/crawl4ai",
@@ -146,7 +146,7 @@
       "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
       "language": "Python",
       "stars_today": "195 stars today",
-      "stars_total": "71,698"
+      "stars_total": "71,805"
     }
   ],
   "posts": [
