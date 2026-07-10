@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "posts": [
     {
-      "topic": "John Deere owners wi",
-      "cover_line1": "John Deere",
+      "topic": "GPT-5.6",
+      "cover_line1": "GPT-5.6",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**John Deere owners will get the right to repair equipment under FTC settlement**\n\n📌 来源：HackerNews\n🔗 https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**GPT-5.6**\n\n📌 来源：HackerNews\n🔗 https://openai.com/index/gpt-5-6/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Mistral's Robostral ",
-      "cover_line1": "Mistral's ",
+      "topic": "Train sim created by",
+      "cover_line1": "Train sim ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Mistral's Robostral Navigate: a state of the art robotics navigation model**\n\n📌 来源：HackerNews\n🔗 https://mistral.ai/news/robostral-navigate/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Train sim created by just one person is being called the best ever made**\n\n📌 来源：HackerNews\n🔗 https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Show HN: Microsoft r",
-      "cover_line1": "Show HN: M",
+      "topic": "Girls just wanna hav",
+      "cover_line1": "Girls just",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Microsoft releases Flint, a visualization language for AI agents**\n\n📌 来源：HackerNews\n🔗 https://microsoft.github.io/flint-chart/#/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Girls just wanna have fast MPMC queues with bounded waiting**\n\n📌 来源：HackerNews\n🔗 https://nahla.dev/blog/waitfree_queue/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "GPT‑Live",
-      "cover_line1": "GPT‑Live",
+      "topic": "ChatGPT Work",
+      "cover_line1": "ChatGPT Wo",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**GPT‑Live**\n\n📌 来源：HackerNews\n🔗 https://openai.com/index/introducing-gpt-live/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**ChatGPT Work**\n\n📌 来源：HackerNews\n🔗 https://openai.com/index/chatgpt-for-your-most-ambitious-work/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-09/cover1.png",
-    "assets/2026-07-09/cover2.png",
-    "assets/2026-07-09/cover3.png",
-    "assets/2026-07-09/cover4.png"
+    "assets/2026-07-10/cover1.png",
+    "assets/2026-07-10/cover2.png",
+    "assets/2026-07-10/cover3.png",
+    "assets/2026-07-10/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-07-09/cover1_feishu.png",
-    "assets/2026-07-09/cover2_feishu.png",
-    "assets/2026-07-09/cover3_feishu.png",
-    "assets/2026-07-09/cover4_feishu.png"
+    "assets/2026-07-10/cover1_feishu.png",
+    "assets/2026-07-10/cover2_feishu.png",
+    "assets/2026-07-10/cover3_feishu.png",
+    "assets/2026-07-10/cover4_feishu.png"
   ]
 }
