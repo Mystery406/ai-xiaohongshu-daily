@@ -1,161 +1,129 @@
 {
   "date": "2026-07-10",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
-      "name": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
-      "stars_today": "3,728 stars today",
-      "stars_total": "18,910"
+      "stars_today": "349 stars today",
+      "stars_total": "6,977"
     },
     {
-      "name": "SmartlyDressedGames/U3-SDK",
-      "url": "https://github.com/SmartlyDressedGames/U3-SDK",
-      "description": "Source code for Unturned, a free open-world zombie survival sandbox game.",
-      "language": "C#",
-      "stars_today": "541 stars today",
-      "stars_total": "1,998"
+      "name": "oven-sh/bun",
+      "url": "https://github.com/oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Rust",
+      "stars_today": "307 stars today",
+      "stars_total": "94,006"
+    },
+    {
+      "name": "abseil/abseil-cpp",
+      "url": "https://github.com/abseil/abseil-cpp",
+      "description": "Abseil Common Libraries (C++)",
+      "language": "C++",
+      "stars_today": "3 stars today",
+      "stars_total": "17,483"
     },
     {
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_today": "2,582 stars today",
-      "stars_total": "75,840"
+      "stars_today": "1,114 stars today",
+      "stars_total": "76,568"
     },
     {
-      "name": "VoltAgent/awesome-design-md",
-      "url": "https://github.com/VoltAgent/awesome-design-md",
-      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
-      "language": "",
-      "stars_today": "1,233 stars today",
-      "stars_total": "99,632"
+      "name": "jbeder/yaml-cpp",
+      "url": "https://github.com/jbeder/yaml-cpp",
+      "description": "A YAML parser and emitter in C++",
+      "language": "C++",
+      "stars_today": "65 stars today",
+      "stars_total": "6,059"
     },
     {
-      "name": "iOfficeAI/OfficeCLI",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "language": "C#",
-      "stars_today": "1,923 stars today",
-      "stars_total": "13,391"
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars_today": "1,728 stars today",
+      "stars_total": "164,214"
     },
     {
-      "name": "wonderwhy-er/DesktopCommanderMCP",
-      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "1,096 stars today",
+      "stars_total": "251,573"
+    },
+    {
+      "name": "microsoft/TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
       "language": "TypeScript",
-      "stars_today": "185 stars today",
-      "stars_total": "6,567"
+      "stars_today": "166 stars today",
+      "stars_total": "109,706"
     },
     {
-      "name": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "language": "Jupyter Notebook",
-      "stars_today": "347 stars today",
-      "stars_total": "47,138"
+      "name": "catchorg/Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars_today": "69 stars today",
+      "stars_total": "20,576"
     },
     {
-      "name": "vxcontrol/pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "language": "Go",
-      "stars_today": "543 stars today",
-      "stars_total": "19,373"
-    },
-    {
-      "name": "unclecode/crawl4ai",
-      "url": "https://github.com/unclecode/crawl4ai",
-      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
-      "language": "Python",
-      "stars_today": "195 stars today",
-      "stars_total": "71,805"
-    },
-    {
-      "name": "imthenachoman/How-To-Secure-A-Linux-Server",
-      "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
-      "description": "An evolving how-to guide for securing a Linux server.",
-      "language": "",
-      "stars_today": "306 stars today",
-      "stars_total": "29,066"
+      "name": "chriskohlhoff/asio",
+      "url": "https://github.com/chriskohlhoff/asio",
+      "description": "Asio C++ Library",
+      "language": "C++",
+      "stars_today": "87 stars today",
+      "stars_total": "6,042"
     }
   ],
   "ai_repos": [
     {
-      "name": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
-      "stars_today": "3,728 stars today",
-      "stars_total": "18,910"
+      "stars_today": "349 stars today",
+      "stars_total": "6,977"
     },
     {
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_today": "2,582 stars today",
-      "stars_total": "75,840"
+      "stars_today": "1,114 stars today",
+      "stars_total": "76,568"
     },
     {
-      "name": "VoltAgent/awesome-design-md",
-      "url": "https://github.com/VoltAgent/awesome-design-md",
-      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
-      "language": "",
-      "stars_today": "1,233 stars today",
-      "stars_total": "99,632"
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars_today": "1,728 stars today",
+      "stars_total": "164,214"
     },
     {
-      "name": "iOfficeAI/OfficeCLI",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "language": "C#",
-      "stars_today": "1,923 stars today",
-      "stars_total": "13,391"
-    },
-    {
-      "name": "wonderwhy-er/DesktopCommanderMCP",
-      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-      "language": "TypeScript",
-      "stars_today": "185 stars today",
-      "stars_total": "6,567"
-    },
-    {
-      "name": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "language": "Jupyter Notebook",
-      "stars_today": "347 stars today",
-      "stars_total": "47,138"
-    },
-    {
-      "name": "vxcontrol/pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "language": "Go",
-      "stars_today": "543 stars today",
-      "stars_total": "19,373"
-    },
-    {
-      "name": "unclecode/crawl4ai",
-      "url": "https://github.com/unclecode/crawl4ai",
-      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
-      "language": "Python",
-      "stars_today": "195 stars today",
-      "stars_total": "71,805"
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "1,096 stars today",
+      "stars_total": "251,573"
     }
   ],
   "posts": [
     {
-      "topic": "ai-job-search",
-      "repo": "MadsLorentzen/ai-job-search",
-      "cover_line1": "ai-job-sea",
+      "topic": "DesktopCommanderMCP",
+      "repo": "wonderwhy-er/DesktopCommanderMCP",
+      "cover_line1": "DesktopCom",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**MadsLorentzen/ai-job-search**\n\n📌 AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.\n\n🔗 https://github.com/MadsLorentzen/ai-job-search\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**wonderwhy-er/DesktopCommanderMCP**\n\n📌 This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities\n\n🔗 https://github.com/wonderwhy-er/DesktopCommanderMCP\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -189,11 +157,11 @@
       ]
     },
     {
-      "topic": "awesome-design-md",
-      "repo": "VoltAgent/awesome-design-md",
-      "cover_line1": "awesome-de",
+      "topic": "skills",
+      "repo": "mattpocock/skills",
+      "cover_line1": "skills",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**VoltAgent/awesome-design-md**\n\n📌 A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.\n\n🔗 https://github.com/VoltAgent/awesome-design-md\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**mattpocock/skills**\n\n📌 Skills for Real Engineers. Straight from my .claude directory.\n\n🔗 https://github.com/mattpocock/skills\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -208,11 +176,11 @@
       ]
     },
     {
-      "topic": "OfficeCLI",
-      "repo": "iOfficeAI/OfficeCLI",
-      "cover_line1": "OfficeCLI",
+      "topic": "superpowers",
+      "repo": "obra/superpowers",
+      "cover_line1": "superpower",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**iOfficeAI/OfficeCLI**\n\n📌 OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.\n\n🔗 https://github.com/iOfficeAI/OfficeCLI\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**obra/superpowers**\n\n📌 An agentic skills framework & software development methodology that works.\n\n🔗 https://github.com/obra/superpowers\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
