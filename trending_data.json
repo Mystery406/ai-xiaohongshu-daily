@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-10",
-  "slot": "晚报",
+  "date": "2026-07-11",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "wonderwhy-er/DesktopCommanderMCP",
@@ -8,7 +8,7 @@
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
       "stars_today": "349 stars today",
-      "stars_total": "6,977"
+      "stars_total": "7,262"
     },
     {
       "name": "oven-sh/bun",
@@ -16,15 +16,15 @@
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Rust",
       "stars_today": "307 stars today",
-      "stars_total": "94,006"
+      "stars_total": "94,203"
     },
     {
       "name": "abseil/abseil-cpp",
       "url": "https://github.com/abseil/abseil-cpp",
       "description": "Abseil Common Libraries (C++)",
       "language": "C++",
-      "stars_today": "3 stars today",
-      "stars_total": "17,483"
+      "stars_today": "106 stars today",
+      "stars_total": "17,512"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -32,7 +32,7 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "stars_today": "1,114 stars today",
-      "stars_total": "76,568"
+      "stars_total": "76,803"
     },
     {
       "name": "jbeder/yaml-cpp",
@@ -40,23 +40,23 @@
       "description": "A YAML parser and emitter in C++",
       "language": "C++",
       "stars_today": "65 stars today",
-      "stars_total": "6,059"
+      "stars_total": "6,078"
     },
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars_today": "1,728 stars today",
-      "stars_total": "164,214"
+      "stars_today": "1,663 stars today",
+      "stars_total": "164,577"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,096 stars today",
-      "stars_total": "251,573"
+      "stars_today": "969 stars today",
+      "stars_total": "251,759"
     },
     {
       "name": "microsoft/TypeScript",
@@ -64,7 +64,7 @@
       "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
       "language": "TypeScript",
       "stars_today": "166 stars today",
-      "stars_total": "109,706"
+      "stars_total": "109,765"
     },
     {
       "name": "catchorg/Catch2",
@@ -72,7 +72,7 @@
       "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
       "language": "C++",
       "stars_today": "69 stars today",
-      "stars_total": "20,576"
+      "stars_total": "20,609"
     },
     {
       "name": "chriskohlhoff/asio",
@@ -80,7 +80,7 @@
       "description": "Asio C++ Library",
       "language": "C++",
       "stars_today": "87 stars today",
-      "stars_total": "6,042"
+      "stars_total": "6,068"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
       "stars_today": "349 stars today",
-      "stars_total": "6,977"
+      "stars_total": "7,262"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -98,23 +98,23 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "stars_today": "1,114 stars today",
-      "stars_total": "76,568"
+      "stars_total": "76,803"
     },
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars_today": "1,728 stars today",
-      "stars_total": "164,214"
+      "stars_today": "1,663 stars today",
+      "stars_total": "164,577"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,096 stars today",
-      "stars_total": "251,573"
+      "stars_today": "969 stars today",
+      "stars_total": "251,759"
     }
   ],
   "posts": [
@@ -196,10 +196,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-10/trending/summary.png",
-    "assets/2026-07-10/trending/post1.png",
-    "assets/2026-07-10/trending/post2.png",
-    "assets/2026-07-10/trending/post3.png",
-    "assets/2026-07-10/trending/post4.png"
+    "assets/2026-07-11/trending/summary.png",
+    "assets/2026-07-11/trending/post1.png",
+    "assets/2026-07-11/trending/post2.png",
+    "assets/2026-07-11/trending/post3.png",
+    "assets/2026-07-11/trending/post4.png"
   ]
 }
