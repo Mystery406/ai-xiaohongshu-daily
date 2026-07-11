@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "posts": [
     {
-      "topic": "GPT-5.6",
-      "cover_line1": "GPT-5.6",
+      "topic": "Apple sues OpenAI, a",
+      "cover_line1": "Apple sues",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**GPT-5.6**\n\n📌 来源：HackerNews\n🔗 https://openai.com/index/gpt-5-6/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Apple sues OpenAI, accuses ex-employees of stealing trade secrets**\n\n📌 来源：HackerNews\n🔗 https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "Train sim created by",
-      "cover_line1": "Train sim ",
+      "topic": "GPT-5.6 Sol Ultra pr",
+      "cover_line1": "GPT-5.6 So",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Train sim created by just one person is being called the best ever made**\n\n📌 来源：HackerNews\n🔗 https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]**\n\n📌 来源：HackerNews\n🔗 https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Girls just wanna hav",
-      "cover_line1": "Girls just",
+      "topic": "Snails' teeth beats ",
+      "cover_line1": "Snails' te",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Girls just wanna have fast MPMC queues with bounded waiting**\n\n📌 来源：HackerNews\n🔗 https://nahla.dev/blog/waitfree_queue/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Snails' teeth beats spider silk as nature's strongest material (2015)**\n\n📌 来源：HackerNews\n🔗 https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "ChatGPT Work",
-      "cover_line1": "ChatGPT Wo",
+      "topic": "AI 2040: Plan A",
+      "cover_line1": "AI 2040: P",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**ChatGPT Work**\n\n📌 来源：HackerNews\n🔗 https://openai.com/index/chatgpt-for-your-most-ambitious-work/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**AI 2040: Plan A**\n\n📌 来源：HackerNews\n🔗 https://ai-2040.com/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-10/cover1.png",
-    "assets/2026-07-10/cover2.png",
-    "assets/2026-07-10/cover3.png",
-    "assets/2026-07-10/cover4.png"
+    "assets/2026-07-11/cover1.png",
+    "assets/2026-07-11/cover2.png",
+    "assets/2026-07-11/cover3.png",
+    "assets/2026-07-11/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-07-10/cover1_feishu.png",
-    "assets/2026-07-10/cover2_feishu.png",
-    "assets/2026-07-10/cover3_feishu.png",
-    "assets/2026-07-10/cover4_feishu.png"
+    "assets/2026-07-11/cover1_feishu.png",
+    "assets/2026-07-11/cover2_feishu.png",
+    "assets/2026-07-11/cover3_feishu.png",
+    "assets/2026-07-11/cover4_feishu.png"
   ]
 }
