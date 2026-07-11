@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-11",
-  "slot": "晚报",
+  "date": "2026-07-12",
+  "slot": "早报",
   "all_repos": [
     {
       "name": "catchorg/Catch2",
@@ -8,7 +8,7 @@
       "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
       "language": "C++",
       "stars_today": "117 stars today",
-      "stars_total": "20,765"
+      "stars_total": "21,020"
     },
     {
       "name": "abseil/abseil-cpp",
@@ -16,7 +16,7 @@
       "description": "Abseil Common Libraries (C++)",
       "language": "C++",
       "stars_today": "120 stars today",
-      "stars_total": "17,637"
+      "stars_total": "17,792"
     },
     {
       "name": "davila7/claude-code-templates",
@@ -24,7 +24,7 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
       "stars_today": "230 stars today",
-      "stars_total": "28,893"
+      "stars_total": "29,008"
     },
     {
       "name": "google-labs-code/stitch-skills",
@@ -32,7 +32,7 @@
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
       "stars_today": "338 stars today",
-      "stars_total": "6,927"
+      "stars_total": "7,046"
     },
     {
       "name": "hashicorp/terraform",
@@ -40,7 +40,7 @@
       "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
       "language": "Go",
       "stars_today": "229 stars today",
-      "stars_total": "49,278"
+      "stars_total": "49,357"
     },
     {
       "name": "zeux/meshoptimizer",
@@ -48,15 +48,15 @@
       "description": "Mesh optimization library that makes meshes smaller and faster to render",
       "language": "C++",
       "stars_today": "111 stars today",
-      "stars_total": "8,089"
+      "stars_total": "8,134"
     },
     {
       "name": "openai/plugins",
       "url": "https://github.com/openai/plugins",
       "description": "OpenAI Plugins",
       "language": "JavaScript",
-      "stars_today": "112 stars today",
-      "stars_total": "4,324"
+      "stars_today": "75 stars today",
+      "stars_total": "4,397"
     },
     {
       "name": "wonderwhy-er/DesktopCommanderMCP",
@@ -64,7 +64,7 @@
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
       "stars_today": "900 stars today",
-      "stars_total": "7,683"
+      "stars_total": "7,762"
     },
     {
       "name": "chriskohlhoff/asio",
@@ -72,7 +72,7 @@
       "description": "Asio C++ Library",
       "language": "C++",
       "stars_today": "75 stars today",
-      "stars_total": "6,112"
+      "stars_total": "6,137"
     },
     {
       "name": "oven-sh/bun",
@@ -80,7 +80,7 @@
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Rust",
       "stars_today": "654 stars today",
-      "stars_total": "94,491"
+      "stars_total": "94,550"
     }
   ],
   "ai_repos": [
@@ -90,7 +90,7 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
       "stars_today": "230 stars today",
-      "stars_total": "28,893"
+      "stars_total": "29,008"
     },
     {
       "name": "google-labs-code/stitch-skills",
@@ -98,7 +98,7 @@
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
       "stars_today": "338 stars today",
-      "stars_total": "6,927"
+      "stars_total": "7,046"
     },
     {
       "name": "hashicorp/terraform",
@@ -106,15 +106,15 @@
       "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
       "language": "Go",
       "stars_today": "229 stars today",
-      "stars_total": "49,278"
+      "stars_total": "49,357"
     },
     {
       "name": "openai/plugins",
       "url": "https://github.com/openai/plugins",
       "description": "OpenAI Plugins",
       "language": "JavaScript",
-      "stars_today": "112 stars today",
-      "stars_total": "4,324"
+      "stars_today": "75 stars today",
+      "stars_total": "4,397"
     },
     {
       "name": "wonderwhy-er/DesktopCommanderMCP",
@@ -122,7 +122,7 @@
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
       "stars_today": "900 stars today",
-      "stars_total": "7,683"
+      "stars_total": "7,762"
     }
   ],
   "posts": [
@@ -204,10 +204,10 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-11/trending/summary.png",
-    "assets/2026-07-11/trending/post1.png",
-    "assets/2026-07-11/trending/post2.png",
-    "assets/2026-07-11/trending/post3.png",
-    "assets/2026-07-11/trending/post4.png"
+    "assets/2026-07-12/trending/summary.png",
+    "assets/2026-07-12/trending/post1.png",
+    "assets/2026-07-12/trending/post2.png",
+    "assets/2026-07-12/trending/post3.png",
+    "assets/2026-07-12/trending/post4.png"
   ]
 }
