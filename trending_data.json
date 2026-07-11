@@ -1,129 +1,137 @@
 {
   "date": "2026-07-11",
-  "slot": "早报",
+  "slot": "晚报",
   "all_repos": [
     {
-      "name": "wonderwhy-er/DesktopCommanderMCP",
-      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-      "language": "TypeScript",
-      "stars_today": "349 stars today",
-      "stars_total": "7,262"
-    },
-    {
-      "name": "oven-sh/bun",
-      "url": "https://github.com/oven-sh/bun",
-      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "language": "Rust",
-      "stars_today": "307 stars today",
-      "stars_total": "94,203"
+      "name": "catchorg/Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars_today": "117 stars today",
+      "stars_total": "20,765"
     },
     {
       "name": "abseil/abseil-cpp",
       "url": "https://github.com/abseil/abseil-cpp",
       "description": "Abseil Common Libraries (C++)",
       "language": "C++",
-      "stars_today": "106 stars today",
-      "stars_total": "17,512"
+      "stars_today": "120 stars today",
+      "stars_total": "17,637"
     },
     {
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "stars_today": "1,114 stars today",
-      "stars_total": "76,803"
+      "name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars_today": "230 stars today",
+      "stars_total": "28,893"
     },
     {
-      "name": "jbeder/yaml-cpp",
-      "url": "https://github.com/jbeder/yaml-cpp",
-      "description": "A YAML parser and emitter in C++",
-      "language": "C++",
-      "stars_today": "65 stars today",
-      "stars_total": "6,078"
-    },
-    {
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "language": "Shell",
-      "stars_today": "1,663 stars today",
-      "stars_total": "164,577"
-    },
-    {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "969 stars today",
-      "stars_total": "251,759"
-    },
-    {
-      "name": "microsoft/TypeScript",
-      "url": "https://github.com/microsoft/TypeScript",
-      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "name": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
-      "stars_today": "166 stars today",
-      "stars_total": "109,765"
+      "stars_today": "338 stars today",
+      "stars_total": "6,927"
     },
     {
-      "name": "catchorg/Catch2",
-      "url": "https://github.com/catchorg/Catch2",
-      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "name": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars_today": "229 stars today",
+      "stars_total": "49,278"
+    },
+    {
+      "name": "zeux/meshoptimizer",
+      "url": "https://github.com/zeux/meshoptimizer",
+      "description": "Mesh optimization library that makes meshes smaller and faster to render",
       "language": "C++",
-      "stars_today": "69 stars today",
-      "stars_total": "20,609"
+      "stars_today": "111 stars today",
+      "stars_total": "8,089"
+    },
+    {
+      "name": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars_today": "112 stars today",
+      "stars_total": "4,324"
+    },
+    {
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "stars_today": "900 stars today",
+      "stars_total": "7,683"
     },
     {
       "name": "chriskohlhoff/asio",
       "url": "https://github.com/chriskohlhoff/asio",
       "description": "Asio C++ Library",
       "language": "C++",
-      "stars_today": "87 stars today",
-      "stars_total": "6,068"
+      "stars_today": "75 stars today",
+      "stars_total": "6,112"
+    },
+    {
+      "name": "oven-sh/bun",
+      "url": "https://github.com/oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Rust",
+      "stars_today": "654 stars today",
+      "stars_total": "94,491"
     }
   ],
   "ai_repos": [
+    {
+      "name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars_today": "230 stars today",
+      "stars_total": "28,893"
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "language": "TypeScript",
+      "stars_today": "338 stars today",
+      "stars_total": "6,927"
+    },
+    {
+      "name": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars_today": "229 stars today",
+      "stars_total": "49,278"
+    },
+    {
+      "name": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars_today": "112 stars today",
+      "stars_total": "4,324"
+    },
     {
       "name": "wonderwhy-er/DesktopCommanderMCP",
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
-      "stars_today": "349 stars today",
-      "stars_total": "7,262"
-    },
-    {
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "stars_today": "1,114 stars today",
-      "stars_total": "76,803"
-    },
-    {
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "language": "Shell",
-      "stars_today": "1,663 stars today",
-      "stars_total": "164,577"
-    },
-    {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "969 stars today",
-      "stars_total": "251,759"
+      "stars_today": "900 stars today",
+      "stars_total": "7,683"
     }
   ],
   "posts": [
     {
-      "topic": "DesktopCommanderMCP",
-      "repo": "wonderwhy-er/DesktopCommanderMCP",
-      "cover_line1": "DesktopCom",
+      "topic": "claude-code-template",
+      "repo": "davila7/claude-code-templates",
+      "cover_line1": "claude-cod",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**wonderwhy-er/DesktopCommanderMCP**\n\n📌 This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities\n\n🔗 https://github.com/wonderwhy-er/DesktopCommanderMCP\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**davila7/claude-code-templates**\n\n📌 CLI tool for configuring and monitoring Claude Code\n\n🔗 https://github.com/davila7/claude-code-templates\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -138,11 +146,11 @@
       ]
     },
     {
-      "topic": "agent-skills",
-      "repo": "addyosmani/agent-skills",
-      "cover_line1": "agent-skil",
+      "topic": "stitch-skills",
+      "repo": "google-labs-code/stitch-skills",
+      "cover_line1": "stitch-ski",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**addyosmani/agent-skills**\n\n📌 Production-grade engineering skills for AI coding agents.\n\n🔗 https://github.com/addyosmani/agent-skills\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**google-labs-code/stitch-skills**\n\n📌 A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.\n\n🔗 https://github.com/google-labs-code/stitch-skills\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -157,11 +165,11 @@
       ]
     },
     {
-      "topic": "skills",
-      "repo": "mattpocock/skills",
-      "cover_line1": "skills",
+      "topic": "terraform",
+      "repo": "hashicorp/terraform",
+      "cover_line1": "terraform",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**mattpocock/skills**\n\n📌 Skills for Real Engineers. Straight from my .claude directory.\n\n🔗 https://github.com/mattpocock/skills\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**hashicorp/terraform**\n\n📌 Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.\n\n🔗 https://github.com/hashicorp/terraform\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
@@ -176,11 +184,11 @@
       ]
     },
     {
-      "topic": "superpowers",
-      "repo": "obra/superpowers",
-      "cover_line1": "superpower",
+      "topic": "plugins",
+      "repo": "openai/plugins",
+      "cover_line1": "plugins",
       "cover_line2": "今日 GitHub 热榜！",
-      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**obra/superpowers**\n\n📌 An agentic skills framework & software development methodology that works.\n\n🔗 https://github.com/obra/superpowers\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 GitHub Trending 今日爆款来了！\n\n**openai/plugins**\n\n📌 OpenAI Plugins\n\n🔗 https://github.com/openai/plugins\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "GitHub",
