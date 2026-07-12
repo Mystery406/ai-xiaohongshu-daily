@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-12",
   "posts": [
     {
-      "topic": "Apple sues OpenAI, a",
-      "cover_line1": "Apple sues",
+      "topic": "Stop Telling Me to A",
+      "cover_line1": "Stop Telli",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Apple sues OpenAI, accuses ex-employees of stealing trade secrets**\n\n📌 来源：HackerNews\n🔗 https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Stop Telling Me to Ask an LLM**\n\n📌 来源：HackerNews\n🔗 https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "GPT-5.6 Sol Ultra pr",
-      "cover_line1": "GPT-5.6 So",
+      "topic": "Mesh LLM: distribute",
+      "cover_line1": "Mesh LLM: ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]**\n\n📌 来源：HackerNews\n🔗 https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Mesh LLM: distributed AI computing on iroh**\n\n📌 来源：HackerNews\n🔗 https://www.iroh.computer/blog/mesh-llm\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "Snails' teeth beats ",
-      "cover_line1": "Snails' te",
+      "topic": "Female US rower comp",
+      "cover_line1": "Female US ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Snails' teeth beats spider silk as nature's strongest material (2015)**\n\n📌 来源：HackerNews\n🔗 https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Female US rower completes historic solo journey from California to Hawaii**\n\n📌 来源：HackerNews\n🔗 https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "AI 2040: Plan A",
-      "cover_line1": "AI 2040: P",
+      "topic": "Reverse centaurs are",
+      "cover_line1": "Reverse ce",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**AI 2040: Plan A**\n\n📌 来源：HackerNews\n🔗 https://ai-2040.com/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Reverse centaurs are the answer to the AI paradox (2025)**\n\n📌 来源：HackerNews\n🔗 https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-07-11/cover1.png",
-    "assets/2026-07-11/cover2.png",
-    "assets/2026-07-11/cover3.png",
-    "assets/2026-07-11/cover4.png"
+    "assets/2026-07-12/cover1.png",
+    "assets/2026-07-12/cover2.png",
+    "assets/2026-07-12/cover3.png",
+    "assets/2026-07-12/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-07-11/cover1_feishu.png",
-    "assets/2026-07-11/cover2_feishu.png",
-    "assets/2026-07-11/cover3_feishu.png",
-    "assets/2026-07-11/cover4_feishu.png"
+    "assets/2026-07-12/cover1_feishu.png",
+    "assets/2026-07-12/cover2_feishu.png",
+    "assets/2026-07-12/cover3_feishu.png",
+    "assets/2026-07-12/cover4_feishu.png"
   ]
 }
