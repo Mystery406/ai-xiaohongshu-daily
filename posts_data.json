@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "posts": [
     {
-      "topic": "Claude Fable 5.1 and",
-      "cover_line1": "Claude Fab",
+      "topic": "Gemini 3.8 Flash and",
+      "cover_line1": "Gemini 3.8",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Claude Fable 5.1 and Claude Mythos 5.1**\n\n📌 来源：HackerNews\n🔗 https://www.anthropic.com/claude-fable-and-mythos-5-1\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Gemini 3.8 Flash and 3.8 Flash Cyber**\n\n📌 来源：HackerNews\n🔗 https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -20,10 +20,10 @@
       ]
     },
     {
-      "topic": "How accurate have Ed",
-      "cover_line1": "How accura",
+      "topic": "Fable 5.1 World Mode",
+      "cover_line1": "Fable 5.1 ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**How accurate have Ed Zitron's AI skeptic predictions been?**\n\n📌 来源：HackerNews\n🔗 https://danluu.com/zitron/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Fable 5.1 World Modeling**\n\n📌 来源：HackerNews\n🔗 https://github.com/PhiloLabs/fable51-worlds\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "topic": "The efficient fronti",
-      "cover_line1": "The effici",
+      "topic": "Three sites made 215",
+      "cover_line1": "Three site",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**The efficient frontier of LLM inference**\n\n📌 来源：HackerNews\n🔗 https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Three sites made 215,128 “best software” pages for AI. Perplexity cites them**\n\n📌 来源：HackerNews\n🔗 https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -56,10 +56,10 @@
       ]
     },
     {
-      "topic": "Show HN: Weedout – S",
-      "cover_line1": "Show HN: W",
+      "topic": "Can I opt out of my ",
+      "cover_line1": "Can I opt ",
       "cover_line2": "今日 AI 热点速报",
-      "body": "🔥 今日 AI 圈又炸了！\n\n**Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos**\n\n📌 来源：HackerNews\n🔗 https://masteranza.github.io/weedout/\n\n关注我，每天第一时间 AI 动态 👇",
+      "body": "🔥 今日 AI 圈又炸了！\n\n**Can I opt out of my input or output data being used for training?**\n\n📌 来源：HackerNews\n🔗 https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training\n\n关注我，每天第一时间 AI 动态 👇",
       "tags": [
         "AI",
         "人工智能",
@@ -75,15 +75,15 @@
     }
   ],
   "image_paths": [
-    "assets/2026-09-02/cover1.png",
-    "assets/2026-09-02/cover2.png",
-    "assets/2026-09-02/cover3.png",
-    "assets/2026-09-02/cover4.png"
+    "assets/2026-09-03/cover1.png",
+    "assets/2026-09-03/cover2.png",
+    "assets/2026-09-03/cover3.png",
+    "assets/2026-09-03/cover4.png"
   ],
   "feishu_image_paths": [
-    "assets/2026-09-02/cover1_feishu.png",
-    "assets/2026-09-02/cover2_feishu.png",
-    "assets/2026-09-02/cover3_feishu.png",
-    "assets/2026-09-02/cover4_feishu.png"
+    "assets/2026-09-03/cover1_feishu.png",
+    "assets/2026-09-03/cover2_feishu.png",
+    "assets/2026-09-03/cover3_feishu.png",
+    "assets/2026-09-03/cover4_feishu.png"
   ]
 }
